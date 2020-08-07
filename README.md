@@ -9,31 +9,31 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 8/7/2020 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+### Who was the first First Lady to run for political office?
 <details>
 <summary>
-Miss Jackie    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth Sanford  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Geraldine Jones   
+Hillary Clinton    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+Rosalynn Carter  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bess Truman   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Eleanor Roosevelt  
 </summary>
 
 :x: *Wrong...*
