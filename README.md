@@ -9,7 +9,7 @@
 
 ### :bar_chart: My Stats
 
-[![tytot's Github Stats](https://github-readme-stats.vercel.app/api?username=tytot&hide=stars&hide_title=true&show_icons=true&count_private=true&title_color=e31837&icon_color=e31837&text_color=c4ced4&bg_color=002b5c)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+![tytot's Github Stats](https://github-readme-stats.vercel.app/api?username=tytot&hide=stars&hide_title=true&show_icons=true&count_private=true&title_color=e31837&icon_color=e31837&text_color=c4ced4&bg_color=002b5c)
 
 ### :gem: My Favorite Repos
 
@@ -18,4 +18,4 @@
 
 ### :scroll: My Most Used Languages
 
-[![tytot's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytot&hide_title=true&layout=compact&text_color=ffffff&bg_color=241773)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+![tytot's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytot&hide_title=true&layout=compact&text_color=ffffff&bg_color=241773)
