@@ -1,0 +1,22 @@
+{
+  "name": "readme-daily-trivia",
+  "version": "1.0.0",
+  "description": "Updates my profile's README every day with a new trivia question.",
+  "main": "writer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tytot/readme-daily-trivia.git"
+  },
+  "author": "Tyler Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tytot/readme-daily-trivia/issues"
+  },
+  "homepage": "https://github.com/tytot/readme-daily-trivia#readme",
+  "dependencies": {
+    "simple-git": "^2.17.0"
+  }
+}

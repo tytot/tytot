@@ -1,4 +1,24 @@
-<div align="center">
+const fs = require('fs')
+const git = require('./git')
+const questions = require('./questions.json')
+
+const qIndex = (Math.random() * questions.length) | 0
+console.log('Using question ' + qIndex)
+const question = questions[qIndex]
+let meta = {
+    A: ':x: *Wrong...*',
+    B: ':x: *Wrong...*',
+    C: ':x: *Wrong...*',
+    D: ':x: *Wrong...*',
+}
+meta[question.answer] = ':heavy_check_mark: *Correct!*'
+
+const dateString = new Intl.DateTimeFormat(undefined, {
+    timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+    dateStyle: 'short',
+}).format(new Date())
+
+const newData = `<div align="center">
 <a href="https://tylerl.in"><img alt="Website" title="Website" src="https://raw.githubusercontent.com/tytot/tytot/master/me.png" alt="Tyler Lin" width="50%" height="50%" /></a>
 </div>
 <p align="center">
@@ -8,35 +28,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/20 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated ${dateString} at 12:00 AM*
+### ${question.question}
 <details>
 <summary>
-fuzz    
+${question.A}    
 </summary>
 
-:heavy_check_mark: *Correct!*
+${meta.A}
 </details>
 <details>
 <summary>
-shrinks  
+${question.B}  
 </summary>
 
-:x: *Wrong...*
+${meta.B}
 </details>
 <details>
 <summary>
-bean counters   
+${question.C}   
 </summary>
 
-:x: *Wrong...*
+${meta.C}
 </details>
 <details>
 <summary>
-aardvarks  
+${question.D}  
 </summary>
 
-:x: *Wrong...*
+${meta.D}
 </details>
 
 ## :bar_chart: My Stats
@@ -50,4 +70,11 @@ aardvarks
 
 ## :scroll: My Most Used Languages
 
-![tytot's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytot&hide_title=true&layout=compact&text_color=ffffff&bg_color=241773)
+![tytot's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytot&hide_title=true&layout=compact&text_color=ffffff&bg_color=241773)`
+
+fs.writeFile('README.md', newData, (err) => {
+    if (err) throw err
+
+    console.log('Success.')
+    git.push()
+})
