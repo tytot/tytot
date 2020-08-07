@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/20 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated 8/7/2020 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-fuzz    
+Miss Jackie    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Elizabeth Sanford  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-shrinks  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bean counters   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-aardvarks  
+Gladys Knight  
 </summary>
 
 :x: *Wrong...*
