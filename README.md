@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/20 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated 8/8/20 at 12:00 AM*
+### What is the name of Mario's brother in the 'Super Mario' video games?
 <details>
 <summary>
-fuzz    
+Louis    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Luigi  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-shrinks  
+Luciano   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bean counters   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-aardvarks  
+Zelda  
 </summary>
 
 :x: *Wrong...*
