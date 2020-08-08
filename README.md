@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/20 at 12:00 AM*
-### What is the name of Mario's brother in the 'Super Mario' video games?
+*Updated 8/8/2020 at 12:00 AM*
+### Which of these men has never been a head coach in the NFL?
 <details>
 <summary>
-Louis    
+Dick Vermeil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Luigi  
+Bill Parcells  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck Noll   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pat Riley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Luciano   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Zelda  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
