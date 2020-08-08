@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/2020 at 12:00 AM*
-### Who was the first First Lady to run for political office?
+*Updated 8/8/2020 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-Hillary Clinton    
+battery    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+engine  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Rosalynn Carter  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bess Truman   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eleanor Roosevelt  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
