@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2020 at 12:00 AM*
-### How many eyes does a Giraffe have?
+*Updated 8/8/20 at 12:00 AM*
+### What is the name of Mario's brother in the 'Super Mario' video games?
 <details>
 <summary>
-one    
+Louis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+Luigi  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-three   
+Luciano   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+Zelda  
 </summary>
 
 :x: *Wrong...*
