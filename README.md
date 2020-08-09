@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2020 at 12:00 AM*
-### Which of these men has never been a head coach in the NFL?
+*Updated 8/9/2020 at 12:00 AM*
+### What kind of item is a ginsu?
 <details>
 <summary>
-Dick Vermeil    
+radio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bill Parcells  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chuck Noll   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pat Riley  
+knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+toothbrush   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+martial arts weapon  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
