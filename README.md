@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/9/2020 at 12:00 AM*
-### What kind of item is a ginsu?
+*Updated 8/10/2020 at 12:00 AM*
+### According to folklore, the 'jackalope' is an antlered version of what animal?
 <details>
 <summary>
-radio    
+chicken    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-knife  
+rabbit  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-toothbrush   
+moose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-martial arts weapon  
+snake  
 </summary>
 
 :x: *Wrong...*
