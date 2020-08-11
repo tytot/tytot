@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/10/2020 at 12:00 AM*
-### According to folklore, the 'jackalope' is an antlered version of what animal?
+*Updated 8/11/2020 at 12:00 AM*
+### The term 'chili con carne' refers to chili with what?
 <details>
 <summary>
-chicken    
+beans     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rabbit  
+meat  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-moose   
+cheese   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-snake  
+chili peppers  
 </summary>
 
 :x: *Wrong...*
