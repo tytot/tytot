@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/11/2020 at 12:00 AM*
-### The term 'chili con carne' refers to chili with what?
+*Updated 8/12/2020 at 12:00 AM*
+### By what nickname is the Federal National Mortgage Association known?
 <details>
 <summary>
-beans     
+Morty    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meat  
+FEMA  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Freddie Mac   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Fannie Mae  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-cheese   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chili peppers  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
