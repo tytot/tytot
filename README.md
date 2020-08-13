@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/12/2020 at 12:00 AM*
-### By what nickname is the Federal National Mortgage Association known?
+*Updated 8/13/2020 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-Morty    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-FEMA  
+Philadelphia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Freddie Mac   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Fannie Mae  
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+New York City  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
