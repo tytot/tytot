@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/13/2020 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 8/14/2020 at 12:00 AM*
+### In an adult human, how long is the large intestine?
 <details>
 <summary>
-Boston    
+one foot    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chicago   
+five feet  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New York City  
+twelve feet   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+twenty feet  
 </summary>
 
 :x: *Wrong...*
