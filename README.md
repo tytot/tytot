@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/14/2020 at 12:00 AM*
-### In an adult human, how long is the large intestine?
+*Updated 8/15/2020 at 12:00 AM*
+### According to the Bible, Moses and Aaron had a sister named what?
 <details>
 <summary>
-one foot    
+Jochebed    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five feet  
+Ruth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Leah   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Miriam  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-twelve feet   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-twenty feet  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
