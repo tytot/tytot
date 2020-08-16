@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/15/2020 at 12:00 AM*
-### According to the Bible, Moses and Aaron had a sister named what?
+*Updated 8/16/2020 at 12:00 AM*
+### In the famous ballet 'The Nutcracker' who does the hero defeat?
 <details>
 <summary>
-Jochebed    
+Sugar Plum Fairy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ruth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leah   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Miriam  
+Rat King  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Snow Queen   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Marzipan  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
