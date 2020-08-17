@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/16/2020 at 12:00 AM*
-### In the famous ballet 'The Nutcracker' who does the hero defeat?
+*Updated 8/17/2020 at 12:00 AM*
+### Which of these horror films spawned the most sequels?
 <details>
 <summary>
-Sugar Plum Fairy    
+'Scream'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rat King  
+'Jaws'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Halloween'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Friday the 13th'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Snow Queen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Marzipan  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
