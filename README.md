@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/17/2020 at 12:00 AM*
-### Which of these horror films spawned the most sequels?
+*Updated 8/18/2020 at 12:00 AM*
+### What were the first names of the early American explorers Lewis and Clark?
 <details>
 <summary>
-'Scream'    
+Morgan and Mason    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Jaws'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Halloween'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Friday the 13th'  
+Meriwether and William  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Cabot and Joseph   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Meredith and George  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
