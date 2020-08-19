@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/18/2020 at 12:00 AM*
-### What were the first names of the early American explorers Lewis and Clark?
+*Updated 8/19/2020 at 12:00 AM*
+### What singer appeared in the 1992 baseball film 'A League of Their Own'?
 <details>
 <summary>
-Morgan and Mason    
+Brandy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meriwether and William  
+Madonna  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cabot and Joseph   
+Garth Brooks   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meredith and George  
+Whitney Houston  
 </summary>
 
 :x: *Wrong...*
