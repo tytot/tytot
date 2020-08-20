@@ -9,34 +9,34 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 8/20/2020 at 12:00 AM*
-### In what country are police officers referred to as 'bobbies'?
+### How many quarts are there in a gallon?
 <details>
 <summary>
-Israel    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece  
+two  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-England   
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-France  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
