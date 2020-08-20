@@ -45,7 +45,7 @@ four
 
 ## :gem: My Favorite Repos
 
-[![Needle Exchange by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=needle-exchange&title_color=ffb81c&text_color=ffffff&icon_color=ffb81c&bg_color=6f263d)](https://github.com/tytot/needle-exchange)
+[![Attendance for Google Meet by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=attendance-for-google-meet&title_color=ffb81c&text_color=ffffff&icon_color=ffb81c&bg_color=6f263d)](https://github.com/tytot/attendance-for-google-meet)
 [![tytot.github.io by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=tytot.github.io&title_color=ff3c00&text_color=ffffff&icon_color=ff3c00&bg_color=311d00)](https://github.com/tytot/tytot.github.io)
 
 ## :scroll: My Most Used Languages
