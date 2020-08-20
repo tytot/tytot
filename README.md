@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/19/2020 at 12:00 AM*
-### What singer appeared in the 1992 baseball film 'A League of Their Own'?
+*Updated 8/20/2020 at 12:00 AM*
+### In what country are police officers referred to as 'bobbies'?
 <details>
 <summary>
-Brandy    
+Israel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Madonna  
+Greece  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Garth Brooks   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Whitney Houston  
+France  
 </summary>
 
 :x: *Wrong...*
