@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/20/2020 at 12:00 AM*
-### How many quarts are there in a gallon?
+*Updated 8/21/2020 at 12:00 AM*
+### According to folklore, the 'jackalope' is an antlered version of what animal?
 <details>
 <summary>
-one    
+chicken    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+rabbit  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+moose   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+snake  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
