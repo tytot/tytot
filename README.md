@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/21/2020 at 12:00 AM*
-### According to folklore, the 'jackalope' is an antlered version of what animal?
+*Updated 8/22/2020 at 12:00 AM*
+### What country does Bordeaux wine come from?
 <details>
 <summary>
-chicken    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rabbit  
+France    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-moose   
+Spain  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-snake  
+Australia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+United States  
 </summary>
 
 :x: *Wrong...*
