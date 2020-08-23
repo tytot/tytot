@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/22/2020 at 12:00 AM*
-### What country does Bordeaux wine come from?
+*Updated 8/23/2020 at 12:00 AM*
+### What term describes a tribe that has no set homeland and wanders from place to place?
 <details>
 <summary>
-France    
+Nomadic    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Spain  
+Pedantic  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Australia   
+Schematic   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-United States  
+Cathartic  
 </summary>
 
 :x: *Wrong...*
