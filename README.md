@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/23/2020 at 12:00 AM*
-### What term describes a tribe that has no set homeland and wanders from place to place?
+*Updated 8/24/2020 at 12:00 AM*
+### To ward off bad luck, what do many people do to wood?
 <details>
 <summary>
-Nomadic    
+knock on it    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Pedantic  
+kiss it  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Schematic   
+thank it   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cathartic  
+scratch it  
 </summary>
 
 :x: *Wrong...*
