@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/24/2020 at 12:00 AM*
-### To ward off bad luck, what do many people do to wood?
+*Updated 8/25/2020 at 12:00 AM*
+### Which one of these World War II leaders was not at the Yalta Conference?
 <details>
 <summary>
-knock on it    
+Stalin    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mussolini  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kiss it  
+Churchill   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thank it   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scratch it  
+Roosevelt  
 </summary>
 
 :x: *Wrong...*
