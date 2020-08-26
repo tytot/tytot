@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/25/2020 at 12:00 AM*
-### Which one of these World War II leaders was not at the Yalta Conference?
+*Updated 8/26/2020 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-Stalin    
+platinum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mussolini  
+gold  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Churchill   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Roosevelt  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
