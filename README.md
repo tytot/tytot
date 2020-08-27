@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/26/2020 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 8/27/2020 at 12:00 AM*
+### What automobile company makes the Sonata?
 <details>
 <summary>
-platinum    
+Toyota    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gold  
+Honda  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-steel   
+Subaru   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-silver  
+Hyundai  
 </summary>
 
 :heavy_check_mark: *Correct!*
