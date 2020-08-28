@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/27/2020 at 12:00 AM*
-### What automobile company makes the Sonata?
+*Updated 8/28/2020 at 12:00 AM*
+### What country was once ruled by shoguns?
 <details>
 <summary>
-Toyota    
+China    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Honda  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Subaru   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hyundai  
+Japan  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+North Korea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Taiwan  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
