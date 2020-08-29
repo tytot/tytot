@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/28/2020 at 12:00 AM*
-### What country was once ruled by shoguns?
+*Updated 8/29/2020 at 12:00 AM*
+### What popular toy is featured in the film 'The Hudsucker Proxy'?
 <details>
 <summary>
-China    
+Beanie Babies    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan  
+Hula Hoop  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-North Korea   
+Lincoln Logs   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Taiwan  
+Lite Brite  
 </summary>
 
 :x: *Wrong...*
