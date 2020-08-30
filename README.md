@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/29/2020 at 12:00 AM*
-### What popular toy is featured in the film 'The Hudsucker Proxy'?
+*Updated 8/30/2020 at 12:00 AM*
+### Which of these rocks will float in water?
 <details>
 <summary>
-Beanie Babies    
+granite    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hula Hoop  
+limestone  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shale   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pumice  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Lincoln Logs   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lite Brite  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
