@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/30/2020 at 12:00 AM*
-### Which of these rocks will float in water?
+*Updated 8/31/2020 at 12:00 AM*
+### What is the official language of The Netherlands?
 <details>
 <summary>
-granite    
+Danish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-limestone  
+Swedish  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shale   
+German   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pumice  
+Dutch  
 </summary>
 
 :heavy_check_mark: *Correct!*
