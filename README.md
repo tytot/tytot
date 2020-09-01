@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/31/2020 at 12:00 AM*
-### What is the official language of The Netherlands?
+*Updated 9/1/2020 at 12:00 AM*
+### What newspaper do Lois Lane and Clark Kent work for?
 <details>
 <summary>
-Danish    
+The Bugle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Swedish  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dutch  
+The Daily Planet  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+The Metropolis Tribune   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The New York Times  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
