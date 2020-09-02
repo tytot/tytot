@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/1/2020 at 12:00 AM*
-### What newspaper do Lois Lane and Clark Kent work for?
+*Updated 9/2/2020 at 12:00 AM*
+### Which of these songs was a Top 10 hit for the rock band The Police?
 <details>
 <summary>
-The Bugle    
+'Radio Ga-Ga'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Daily Planet  
+'Ob-la-di, Ob-la-da'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'De Do Do Do, De Da Da Da'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-The Metropolis Tribune   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The New York Times  
+'In-a-Gadda-Da-Vida'  
 </summary>
 
 :x: *Wrong...*
