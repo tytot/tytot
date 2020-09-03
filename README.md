@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/2/2020 at 12:00 AM*
-### Which of these songs was a Top 10 hit for the rock band The Police?
+*Updated 9/3/2020 at 12:00 AM*
+### In what decade did Israel become an independent state?
 <details>
 <summary>
-'Radio Ga-Ga'    
+1920s    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Ob-la-di, Ob-la-da'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'De Do Do Do, De Da Da Da'   
+1940s  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'In-a-Gadda-Da-Vida'  
+1950s   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1960s  
 </summary>
 
 :x: *Wrong...*
