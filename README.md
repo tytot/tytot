@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/3/2020 at 12:00 AM*
-### In what decade did Israel become an independent state?
+*Updated 9/4/2020 at 12:00 AM*
+### Which of these Hemingway characters is a newspaperman?
 <details>
 <summary>
-1920s    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1940s  
+Jake Barnes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1950s   
+Rogelio Gomez  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1960s  
+Frederic Henry   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John MacWalsey  
 </summary>
 
 :x: *Wrong...*
