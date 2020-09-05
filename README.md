@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/4/2020 at 12:00 AM*
-### Which of these Hemingway characters is a newspaperman?
+*Updated 9/5/2020 at 12:00 AM*
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-Jake Barnes    
+American Revolution    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rogelio Gomez  
+Civil War   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frederic Henry   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John MacWalsey  
+World War I  
 </summary>
 
 :x: *Wrong...*
