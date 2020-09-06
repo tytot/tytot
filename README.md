@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/5/2020 at 12:00 AM*
-### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+*Updated 9/6/2020 at 12:00 AM*
+### What part of the human body does a gastroenterologist examine?
 <details>
 <summary>
-American Revolution    
+brain    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+skeleton  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stomach   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Civil War   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-World War I  
+nose  
 </summary>
 
 :x: *Wrong...*
