@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/6/2020 at 12:00 AM*
-### What part of the human body does a gastroenterologist examine?
+*Updated 9/7/2020 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-brain    
+America Over Lines    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-skeleton  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-stomach   
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-nose  
+Americans On Links   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
