@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/7/2020 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 9/8/2020 at 12:00 AM*
+### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
 <details>
 <summary>
-America Over Lines    
+Whoopi Goldberg    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+Jennifer Grey  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kirstie Alley   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Americans On LOR  
+Helen Hunt  
 </summary>
 
 :x: *Wrong...*
