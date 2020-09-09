@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/8/2020 at 12:00 AM*
-### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
+*Updated 9/9/2020 at 12:00 AM*
+### Who led the 1831 slave insurrection in Southampton, Virginia?
 <details>
 <summary>
-Whoopi Goldberg    
+John Brown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jennifer Grey  
+Dred Scott  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kirstie Alley   
+Nat Turner   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Helen Hunt  
+Harriet Tubman  
 </summary>
 
 :x: *Wrong...*
