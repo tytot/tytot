@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/9/2020 at 12:00 AM*
-### Who led the 1831 slave insurrection in Southampton, Virginia?
+*Updated 9/10/2020 at 12:00 AM*
+### When it's noon in New York during daylight-saving time, what time is it in Honolulu?
 <details>
 <summary>
-John Brown    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dred Scott  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nat Turner   
+6:00 a.m.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Harriet Tubman  
+6:30 a.m.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+7:00 a.m.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8:00 a.m.  
 </summary>
 
 :x: *Wrong...*
