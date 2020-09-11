@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/10/2020 at 12:00 AM*
-### When it's noon in New York during daylight-saving time, what time is it in Honolulu?
+*Updated 9/11/2020 at 12:00 AM*
+### What new token was recently added to the Monopoly board game?
 <details>
 <summary>
-6:00 a.m.    
+piggybank    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sack of money  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-6:30 a.m.  
+globe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-7:00 a.m.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-8:00 a.m.  
+telephone  
 </summary>
 
 :x: *Wrong...*
