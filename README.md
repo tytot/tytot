@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/11/2020 at 12:00 AM*
-### What new token was recently added to the Monopoly board game?
+*Updated 9/12/2020 at 12:00 AM*
+### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
 <details>
 <summary>
-piggybank    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sack of money  
+visa    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-globe   
+bill of landing  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-telephone  
+driver's license   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+carte blanche  
 </summary>
 
 :x: *Wrong...*
