@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/13/2020 at 12:00 AM*
-### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
+*Updated 9/14/2020 at 12:00 AM*
+### In computer terminology, what does the acronym 'FTP' stand for?
 <details>
 <summary>
-'Humpty Dumpty'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Mary Had a Little Lamb'  
+file transfer protocol    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Jack Be Nimble'   
+full time portal  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Home, Sweet Home'  
+full text processor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+free to print  
 </summary>
 
 :x: *Wrong...*
