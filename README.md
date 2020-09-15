@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/14/2020 at 12:00 AM*
-### In computer terminology, what does the acronym 'FTP' stand for?
+*Updated 9/15/2020 at 12:00 AM*
+### What singer appeared in the 1992 baseball film 'A League of Their Own'?
 <details>
 <summary>
-file transfer protocol    
+Brandy    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Madonna  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full time portal  
+Garth Brooks   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-full text processor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-free to print  
+Whitney Houston  
 </summary>
 
 :x: *Wrong...*
