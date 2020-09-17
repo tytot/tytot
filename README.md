@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/16/2020 at 12:00 AM*
-### In what country are police officers referred to as 'bobbies'?
+*Updated 9/17/2020 at 12:00 AM*
+### Excluding wisdom teeth, how many adult teeth do humans have?
 <details>
 <summary>
-Israel    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greece  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-England   
+28    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+32  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+35   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+40  
 </summary>
 
 :x: *Wrong...*
