@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/18/2020 at 12:00 AM*
-### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
+*Updated 9/19/2020 at 12:00 AM*
+### To ward off bad luck, what do many people do to wood?
 <details>
 <summary>
-Billy Graham    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Oral Roberts  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jerry Falwell   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jimmy Swaggart  
+knock on it    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+kiss it  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+thank it   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+scratch it  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
