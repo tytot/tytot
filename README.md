@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/19/2020 at 12:00 AM*
-### To ward off bad luck, what do many people do to wood?
+*Updated 9/20/2020 at 12:00 AM*
+### What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?
 <details>
 <summary>
-knock on it    
+Jane Pauley    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Willard Scott  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kiss it  
+Deborah Norville   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thank it   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scratch it  
+Joe Garagiola  
 </summary>
 
 :x: *Wrong...*
