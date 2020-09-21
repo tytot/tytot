@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/20/2020 at 12:00 AM*
-### What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?
+*Updated 9/21/2020 at 12:00 AM*
+### What is the final word of the Pledge of Allegiance?
 <details>
 <summary>
-Jane Pauley    
+America    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Willard Scott  
+stands  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+indivisible   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+all  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Deborah Norville   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Joe Garagiola  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
