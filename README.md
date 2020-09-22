@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/21/2020 at 12:00 AM*
-### What is the final word of the Pledge of Allegiance?
+*Updated 9/22/2020 at 12:00 AM*
+### How many digits are in a standard Visa credit card number?
 <details>
 <summary>
-America    
+12    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stands  
+15  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-indivisible   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-all  
+16   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+20  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
