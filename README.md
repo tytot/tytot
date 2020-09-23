@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/22/2020 at 12:00 AM*
-### How many digits are in a standard Visa credit card number?
+*Updated 9/23/2020 at 12:00 AM*
+### How many men has actress Elizabeth Taylor been divorced from?
 <details>
 <summary>
-12    
+five    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-15  
+six  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-16   
+seven   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-20  
+eight  
 </summary>
 
 :x: *Wrong...*
