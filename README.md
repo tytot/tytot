@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/23/2020 at 12:00 AM*
-### How many men has actress Elizabeth Taylor been divorced from?
+*Updated 9/24/2020 at 12:00 AM*
+### Which of these countries is not in Europe?
 <details>
 <summary>
-five    
+Italy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-six  
+Spain  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-seven   
+Greece   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Israel  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-eight  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
