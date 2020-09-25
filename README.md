@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/24/2020 at 12:00 AM*
-### Which of these countries is not in Europe?
+*Updated 9/25/2020 at 12:00 AM*
+### Girls of what religious community traditionally wear bonnets?
 <details>
 <summary>
-Italy    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Spain  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greece   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Israel  
+Amish    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Sikh  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Roman Catholic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Christian  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
