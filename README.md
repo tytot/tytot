@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/25/2020 at 12:00 AM*
-### Girls of what religious community traditionally wear bonnets?
+*Updated 9/26/2020 at 12:00 AM*
+### What corporation was founded by a candlemaker and a soapmaker?
 <details>
 <summary>
-Amish    
+Simon & Schuster    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Procter & Gamble  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sikh  
+Johnson & Johnson   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Roman Catholic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Christian  
+Smith & Wesson  
 </summary>
 
 :x: *Wrong...*
