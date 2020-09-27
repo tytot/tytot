@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/26/2020 at 12:00 AM*
-### What corporation was founded by a candlemaker and a soapmaker?
+*Updated 9/27/2020 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-Simon & Schuster    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Procter & Gamble  
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Johnson & Johnson   
+beef   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Smith & Wesson  
+pork  
 </summary>
 
 :x: *Wrong...*
