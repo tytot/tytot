@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/27/2020 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 9/28/2020 at 12:00 AM*
+### To make an international telephone call from within the US, what are the first numbers you should dial?
 <details>
 <summary>
-shrimp    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+011    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
+101  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pork  
+888   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+911  
 </summary>
 
 :x: *Wrong...*
