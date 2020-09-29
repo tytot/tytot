@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/28/2020 at 12:00 AM*
-### To make an international telephone call from within the US, what are the first numbers you should dial?
+*Updated 9/29/2020 at 12:00 AM*
+### Excluding wisdom teeth, how many adult teeth do humans have?
 <details>
 <summary>
-011    
+28    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-101  
+32  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-888   
+35   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-911  
+40  
 </summary>
 
 :x: *Wrong...*
