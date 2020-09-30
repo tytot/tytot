@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/29/2020 at 12:00 AM*
-### Excluding wisdom teeth, how many adult teeth do humans have?
+*Updated 9/30/2020 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-28    
+battery    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+engine  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-32  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-35   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-40  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
