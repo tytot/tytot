@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/30/2020 at 12:00 AM*
-### On which part of a car would you find the 'caliper'?
+*Updated 10/1/2020 at 12:00 AM*
+### Which of these songs was a Top 10 hit for the rock band The Police?
 <details>
 <summary>
-battery    
+'Radio Ga-Ga'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-engine  
+'Ob-la-di, Ob-la-da'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-radiator   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-brakes  
+'De Do Do Do, De Da Da Da'   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+'In-a-Gadda-Da-Vida'  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
