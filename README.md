@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/1/2020 at 12:00 AM*
-### Which of these songs was a Top 10 hit for the rock band The Police?
+*Updated 10/2/2020 at 12:00 AM*
+### Which of these animals shares its name with a luxury car?
 <details>
 <summary>
-'Radio Ga-Ga'    
+yak    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Ob-la-di, Ob-la-da'  
+gazelle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'De Do Do Do, De Da Da Da'   
+sloth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+jaguar  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-'In-a-Gadda-Da-Vida'  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
