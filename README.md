@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/2/2020 at 12:00 AM*
-### Which of these animals shares its name with a luxury car?
+*Updated 10/3/2020 at 12:00 AM*
+### What animal is considered sacred in India?
 <details>
 <summary>
-yak    
+sheep    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gazelle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sloth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-jaguar  
+cow  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dog  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
