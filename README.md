@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/3/2020 at 12:00 AM*
-### What animal is considered sacred in India?
+*Updated 10/4/2020 at 12:00 AM*
+### In what decade was the Hula-Hoop invented?
 <details>
 <summary>
-sheep    
+1890s    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cow  
+1920s  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1950s   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dog  
+1970s  
 </summary>
 
 :x: *Wrong...*
