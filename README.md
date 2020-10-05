@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/4/2020 at 12:00 AM*
-### In what decade was the Hula-Hoop invented?
+*Updated 10/5/2020 at 12:00 AM*
+### What is the last letter of the Greek alphabet?
 <details>
 <summary>
-1890s    
+omicron    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1920s  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1950s   
+omega  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1970s  
+upsilon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+zeta  
 </summary>
 
 :x: *Wrong...*
