@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/5/2020 at 12:00 AM*
-### What is the last letter of the Greek alphabet?
+*Updated 10/6/2020 at 12:00 AM*
+### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
 <details>
 <summary>
-omicron    
+talking car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-omega  
+winged horse  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+magic carpet   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-upsilon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-zeta  
+hot air balloon  
 </summary>
 
 :x: *Wrong...*
