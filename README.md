@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/6/2020 at 12:00 AM*
-### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
+*Updated 10/7/2020 at 12:00 AM*
+### Who were the Chicago Seven?
 <details>
 <summary>
-talking car    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-winged horse  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-magic carpet   
+war protesters    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-hot air balloon  
+bluegrass musicians  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bank robbers   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+mobsters  
 </summary>
 
 :x: *Wrong...*
