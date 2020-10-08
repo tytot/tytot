@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/7/2020 at 12:00 AM*
-### Who were the Chicago Seven?
+*Updated 10/8/2020 at 12:00 AM*
+### What was the name of Huey Lewis' band?
 <details>
 <summary>
-war protesters    
+The News    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bluegrass musicians  
+The Attractions  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bank robbers   
+The Silver Bullet Band   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mobsters  
+Louie and Dewey  
 </summary>
 
 :x: *Wrong...*
