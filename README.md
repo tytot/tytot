@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/8/2020 at 12:00 AM*
-### What was the name of Huey Lewis' band?
+*Updated 10/9/2020 at 12:00 AM*
+### What football player was known as 'The Galloping Ghost'?
 <details>
 <summary>
-The News    
+Jim Thorpe    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dick Butkus  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Red Grange   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-The Attractions  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Silver Bullet Band   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Louie and Dewey  
+George Halas  
 </summary>
 
 :x: *Wrong...*
