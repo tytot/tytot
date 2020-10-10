@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/9/2020 at 12:00 AM*
-### What football player was known as 'The Galloping Ghost'?
+*Updated 10/10/2020 at 12:00 AM*
+### What color is Pepto-Bismol liquid?
 <details>
 <summary>
-Jim Thorpe    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dick Butkus  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Red Grange   
+pink    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-George Halas  
+blue  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clear   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green  
 </summary>
 
 :x: *Wrong...*
