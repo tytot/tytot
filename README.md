@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/10/2020 at 12:00 AM*
-### What color is Pepto-Bismol liquid?
+*Updated 10/11/2020 at 12:00 AM*
+### Who is the shortest man to ever win an NBA slam dunk competition?
 <details>
 <summary>
-pink    
+Anthony 'Spud' Webb    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+Michael 'Air' Jordan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-clear   
+Tyrone 'Muggsy' Bogues   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green  
+Julius 'Dr. J' Erving  
 </summary>
 
 :x: *Wrong...*
