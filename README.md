@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/11/2020 at 12:00 AM*
-### Who is the shortest man to ever win an NBA slam dunk competition?
+*Updated 10/12/2020 at 12:00 AM*
+### What sport is featured in the 1996 movie 'Kingpin'?
 <details>
 <summary>
-Anthony 'Spud' Webb    
+wrestling    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+golf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chess   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Michael 'Air' Jordan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrone 'Muggsy' Bogues   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Julius 'Dr. J' Erving  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
