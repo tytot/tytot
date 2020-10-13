@@ -8,11 +8,25 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/12/2020 at 12:00 AM*
-### What sport is featured in the 1996 movie 'Kingpin'?
+*Updated 10/13/2020 at 12:00 AM*
+### In what sport do athletes compete for the Walker Cup?
 <details>
 <summary>
-wrestling    
+cricket    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+tennis  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+squash   
 </summary>
 
 :x: *Wrong...*
@@ -20,20 +34,6 @@ wrestling
 <details>
 <summary>
 golf  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chess   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
