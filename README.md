@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/13/2020 at 12:00 AM*
-### In what sport do athletes compete for the Walker Cup?
+*Updated 10/14/2020 at 12:00 AM*
+### What was the title of Beethoven's only completed opera?
 <details>
 <summary>
-cricket    
+'Faust'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tennis  
+'The Silence'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-squash   
+'Immortal Beloved'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-golf  
+'Fidelio'  
 </summary>
 
 :heavy_check_mark: *Correct!*
