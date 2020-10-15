@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/14/2020 at 12:00 AM*
-### What was the title of Beethoven's only completed opera?
+*Updated 10/15/2020 at 12:00 AM*
+### From what language does the term 'R.S.V.P.' originate?
 <details>
 <summary>
-'Faust'    
+Russian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'The Silence'  
+Italian  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Immortal Beloved'   
+Portuguese   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Fidelio'  
+French  
 </summary>
 
 :heavy_check_mark: *Correct!*
