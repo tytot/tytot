@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/15/2020 at 12:00 AM*
-### From what language does the term 'R.S.V.P.' originate?
+*Updated 10/16/2020 at 12:00 AM*
+### Which of these men has never been a head coach in the NFL?
 <details>
 <summary>
-Russian    
+Dick Vermeil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Italian  
+Bill Parcells  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Portuguese   
+Chuck Noll   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French  
+Pat Riley  
 </summary>
 
 :heavy_check_mark: *Correct!*
