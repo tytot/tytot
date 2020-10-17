@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/16/2020 at 12:00 AM*
-### Which of these men has never been a head coach in the NFL?
+*Updated 10/17/2020 at 12:00 AM*
+### What is the oldest continuously run sporting event in the United States?
 <details>
 <summary>
-Dick Vermeil    
+Westminster Dog Show    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bill Parcells  
+Boston Marathon  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chuck Noll   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pat Riley  
+Kentucky Derby   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Indianapolis 500  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
