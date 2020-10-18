@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/17/2020 at 12:00 AM*
-### What is the oldest continuously run sporting event in the United States?
+*Updated 10/18/2020 at 12:00 AM*
+### In ice hockey, which of the following is not a penalty?
 <details>
 <summary>
-Westminster Dog Show    
+hooking    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Marathon  
+charging  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kentucky Derby   
+carving   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Indianapolis 500  
+butt-ending  
 </summary>
 
 :x: *Wrong...*
