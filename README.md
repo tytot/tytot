@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/18/2020 at 12:00 AM*
-### In ice hockey, which of the following is not a penalty?
+*Updated 10/19/2020 at 12:00 AM*
+### What is the singular form of the word 'graffiti'?
 <details>
 <summary>
-hooking    
+graffita    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-charging  
+graffitem  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-carving   
+graffito   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-butt-ending  
+graffitus  
 </summary>
 
 :x: *Wrong...*
