@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/19/2020 at 12:00 AM*
-### What is the singular form of the word 'graffiti'?
+*Updated 10/20/2020 at 12:00 AM*
+### What color is cartoon character Marge Simpson's hair?
 <details>
 <summary>
-graffita    
+yellow    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-graffitem  
+purple  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-graffito   
+blue   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-graffitus  
+brown  
 </summary>
 
 :x: *Wrong...*
