@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/20/2020 at 12:00 AM*
-### What color is cartoon character Marge Simpson's hair?
+*Updated 10/21/2020 at 12:00 AM*
+### For what purpose would you use an awl?
 <details>
 <summary>
-yellow    
+to shoot ducks    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple  
+to polish floors  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue   
+to make holes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-brown  
+to weigh fruit  
 </summary>
 
 :x: *Wrong...*
