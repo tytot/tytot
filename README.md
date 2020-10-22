@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/21/2020 at 12:00 AM*
-### For what purpose would you use an awl?
+*Updated 10/22/2020 at 12:00 AM*
+### What singer appeared in the 1992 baseball film 'A League of Their Own'?
 <details>
 <summary>
-to shoot ducks    
+Brandy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to polish floors  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to make holes   
+Madonna  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to weigh fruit  
+Garth Brooks   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Whitney Houston  
 </summary>
 
 :x: *Wrong...*
