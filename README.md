@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/23/2020 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 10/24/2020 at 12:00 AM*
+### In a game with no wild cards, what is the highest possible poker hand?
 <details>
 <summary>
-Rush Limbaugh    
+straight flush    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Casey Kasem  
+royal flush  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+full house   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+four of a kind  
 </summary>
 
 :x: *Wrong...*
