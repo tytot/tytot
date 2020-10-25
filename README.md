@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/24/2020 at 12:00 AM*
-### In a game with no wild cards, what is the highest possible poker hand?
+*Updated 10/25/2020 at 12:00 AM*
+### Which of these toys answers questions?
 <details>
 <summary>
-straight flush    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-royal flush  
+Magic 8 Ball    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full house   
+Barbie  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four of a kind  
+Frisbee   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Slinky  
 </summary>
 
 :x: *Wrong...*
