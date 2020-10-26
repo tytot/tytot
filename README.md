@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/25/2020 at 12:00 AM*
-### Which of these toys answers questions?
+*Updated 10/26/2020 at 12:00 AM*
+### What company makes perfumes called 'Beautiful' and 'Pleasures'?
 <details>
 <summary>
-Magic 8 Ball    
+Estee Lauder    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Barbie  
+Ralph Lauren  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frisbee   
+Elizabeth Arden   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Slinky  
+Calvin Klein  
 </summary>
 
 :x: *Wrong...*
