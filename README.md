@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/26/2020 at 12:00 AM*
-### What company makes perfumes called 'Beautiful' and 'Pleasures'?
+*Updated 10/27/2020 at 12:00 AM*
+### By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
 <details>
 <summary>
-Estee Lauder    
+the Trio    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Troika  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Triumvirate   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Trinity  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ralph Lauren  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth Arden   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Calvin Klein  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
