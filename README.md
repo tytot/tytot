@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/27/2020 at 12:00 AM*
-### By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
+*Updated 10/28/2020 at 12:00 AM*
+### After Prince Charles, who is next in line to be the king of England?
 <details>
 <summary>
-the Trio    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Troika  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Triumvirate   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Trinity  
+Prince William    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Prince Andrew  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Prince Edward   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Fresh Prince  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
