@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/28/2020 at 12:00 AM*
-### After Prince Charles, who is next in line to be the king of England?
+*Updated 10/29/2020 at 12:00 AM*
+### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
 <details>
 <summary>
-Prince William    
+Martha Stewart    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dr Ruth Westheimer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ann Landers   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Prince Andrew  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Prince Edward   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Fresh Prince  
+Miss Manners  
 </summary>
 
 :x: *Wrong...*
