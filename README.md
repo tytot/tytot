@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/29/2020 at 12:00 AM*
-### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
+*Updated 10/30/2020 at 12:00 AM*
+### With what would you use a wah-wah pedal?
 <details>
 <summary>
-Martha Stewart    
+bicycle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr Ruth Westheimer  
+stock car  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ann Landers   
+electric guitar   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Miss Manners  
+baby  
 </summary>
 
 :x: *Wrong...*
