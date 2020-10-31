@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/30/2020 at 12:00 AM*
-### With what would you use a wah-wah pedal?
+*Updated 10/31/2020 at 12:00 AM*
+### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
 <details>
 <summary>
-bicycle    
+Stormfield    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stock car  
+Fog City  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-electric guitar   
+Mudville   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-baby  
+Waterlog  
 </summary>
 
 :x: *Wrong...*
