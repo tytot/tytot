@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/31/2020 at 12:00 AM*
-### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
+*Updated 11/1/2020 at 12:00 AM*
+### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
 <details>
 <summary>
-Stormfield    
+ophthalmologist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fog City  
+cardiologist  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mudville   
+neurologist   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+proctologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Waterlog  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
