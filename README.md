@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/1/2020 at 12:00 AM*
-### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
+*Updated 11/2/2020 at 12:00 AM*
+### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
 <details>
 <summary>
-ophthalmologist    
+Franky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cardiologist  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-neurologist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-proctologist  
+Ponch  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Chipper   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hot Dog  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
