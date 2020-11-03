@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/2/2020 at 12:00 AM*
-### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
+*Updated 11/3/2020 at 12:00 AM*
+### Which of these is not a Hindu deity?
 <details>
 <summary>
-Franky    
+Shiva    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ponch  
+Vishnu  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sanskrit   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chipper   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hot Dog  
+Brahma  
 </summary>
 
 :x: *Wrong...*
