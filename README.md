@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/3/2020 at 12:00 AM*
-### Which of these is not a Hindu deity?
+*Updated 11/4/2020 at 12:00 AM*
+### What type of substance is 'terra-cotta'?
 <details>
 <summary>
-Shiva    
+metal    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vishnu  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sanskrit   
+ceramic  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Brahma  
+wood   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+glass  
 </summary>
 
 :x: *Wrong...*
