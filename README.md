@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/5/2020 at 12:00 AM*
-### What sport is featured in the 1996 movie 'Kingpin'?
+*Updated 11/6/2020 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-wrestling    
+Michael Brown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-golf  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chess   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bowling  
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Malcolm Lincoln   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michael Lloyd  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
