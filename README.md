@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/6/2020 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 11/7/2020 at 12:00 AM*
+### Which of these animals lays eggs?
 <details>
 <summary>
-Michael Brown    
+cow    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+gerbil  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+frog   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Malcolm Lincoln   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michael Lloyd  
+elephant  
 </summary>
 
 :x: *Wrong...*
