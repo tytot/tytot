@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/7/2020 at 12:00 AM*
-### Which of these animals lays eggs?
+*Updated 11/8/2020 at 12:00 AM*
+### If you dial '411' on a telephone, who are you calling?
 <details>
 <summary>
-cow    
+the police    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gerbil  
+the White House  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-frog   
+directory assistance   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-elephant  
+Moviefone  
 </summary>
 
 :x: *Wrong...*
