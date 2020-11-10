@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/9/2020 at 12:00 AM*
-### Which of these horror films spawned the most sequels?
+*Updated 11/10/2020 at 12:00 AM*
+### Where did the Exxon Valdez run aground in March of 1989?
 <details>
 <summary>
-'Scream'    
+Monterey Bay    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Jaws'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Halloween'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Friday the 13th'  
+Prince William Sound  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Cape Cod   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Gulf of Mexico  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
