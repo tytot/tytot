@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/10/2020 at 12:00 AM*
-### Where did the Exxon Valdez run aground in March of 1989?
+*Updated 11/11/2020 at 12:00 AM*
+### What term is used to describe a group of geese?
 <details>
 <summary>
-Monterey Bay    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Prince William Sound  
+gaggle    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cape Cod   
+gang  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gulf of Mexico  
+gander   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+grist  
 </summary>
 
 :x: *Wrong...*
