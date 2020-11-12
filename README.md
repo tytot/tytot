@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/11/2020 at 12:00 AM*
-### What term is used to describe a group of geese?
+*Updated 11/12/2020 at 12:00 AM*
+### In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?
 <details>
 <summary>
-gaggle    
+Sancho Panza    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Passepartout  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-gang  
+Renfield   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gander   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-grist  
+Savoir Faire  
 </summary>
 
 :x: *Wrong...*
