@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/12/2020 at 12:00 AM*
-### In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?
+*Updated 11/13/2020 at 12:00 AM*
+### In mobster lingo, if you 'sing like a canary' what are you doing?
 <details>
 <summary>
-Sancho Panza    
+impersonating Sinatra    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Passepartout  
+talking to the cops  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Renfield   
+killing an enemy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Savoir Faire  
+betting on horses  
 </summary>
 
 :x: *Wrong...*
