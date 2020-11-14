@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/13/2020 at 12:00 AM*
-### In mobster lingo, if you 'sing like a canary' what are you doing?
+*Updated 11/14/2020 at 12:00 AM*
+### According to folklore, the 'jackalope' is an antlered version of what animal?
 <details>
 <summary>
-impersonating Sinatra    
+chicken    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-talking to the cops  
+rabbit  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-killing an enemy   
+moose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-betting on horses  
+snake  
 </summary>
 
 :x: *Wrong...*
