@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/14/2020 at 12:00 AM*
-### According to folklore, the 'jackalope' is an antlered version of what animal?
+*Updated 11/15/2020 at 12:00 AM*
+### Which of these performers made her film debut in Spike Lee's 'Do the Right Thing'?
 <details>
 <summary>
-chicken    
+Jennifer Lopez    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rabbit  
+Rosie Perez  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-moose   
+Paula Abdul   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-snake  
+Tisha Campbell  
 </summary>
 
 :x: *Wrong...*
