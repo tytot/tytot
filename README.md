@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/15/2020 at 12:00 AM*
-### Which of these performers made her film debut in Spike Lee's 'Do the Right Thing'?
+*Updated 11/16/2020 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-Jennifer Lopez    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rosie Perez  
+Philadelphia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paula Abdul   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tisha Campbell  
+New York City  
 </summary>
 
 :x: *Wrong...*
