@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/16/2020 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 11/17/2020 at 12:00 AM*
+### When it first appeared on the Internet, amazon.com sold only what?
 <details>
 <summary>
-Boston    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chicago   
+books    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New York City  
+compact discs  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cars   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clothes  
 </summary>
 
 :x: *Wrong...*
