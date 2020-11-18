@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/17/2020 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 11/18/2020 at 12:00 AM*
+### Which of these college football programs has produced the most Heisman Trophy winners?
 <details>
 <summary>
-books    
+Notre Dame    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-compact discs  
+USC  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cars   
+Oklahoma   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-clothes  
+Michigan  
 </summary>
 
 :x: *Wrong...*
