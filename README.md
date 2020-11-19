@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/18/2020 at 12:00 AM*
-### Which of these college football programs has produced the most Heisman Trophy winners?
+*Updated 11/19/2020 at 12:00 AM*
+### 'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?
 <details>
 <summary>
-Notre Dame    
+'Citizen Kane'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'The African Queen'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-USC  
+'The Deer Hunter'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Oklahoma   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michigan  
+'Adam's Rib'  
 </summary>
 
 :x: *Wrong...*
