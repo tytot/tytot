@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/20/2020 at 12:00 AM*
-### What is the name of the POW camp where 'Hogan's Heroes' are held?
+*Updated 11/21/2020 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-Stalag 13    
+Michael Brown    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Alcatraz 17  
+Malcolm Lincoln   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Devil's Island   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leavenworth  
+Michael Lloyd  
 </summary>
 
 :x: *Wrong...*
