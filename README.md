@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/21/2020 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 11/22/2020 at 12:00 AM*
+### What sport is known as 'The Sport of Kings'?
 <details>
 <summary>
-Michael Brown    
+polo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+archery  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+yachting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+horse racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Malcolm Lincoln   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michael Lloyd  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
