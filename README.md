@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/22/2020 at 12:00 AM*
-### What sport is known as 'The Sport of Kings'?
+*Updated 11/23/2020 at 12:00 AM*
+### What animal is considered sacred in India?
 <details>
 <summary>
-polo    
+sheep    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-archery  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-yachting   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-horse racing  
+cow  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dog  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
