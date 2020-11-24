@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/23/2020 at 12:00 AM*
-### What animal is considered sacred in India?
+*Updated 11/24/2020 at 12:00 AM*
+### Which of these is a slang term for 'police'?
 <details>
 <summary>
-sheep    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cow  
+fuzz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken   
+shrinks  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dog  
+bean counters   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+aardvarks  
 </summary>
 
 :x: *Wrong...*
