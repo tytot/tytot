@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/24/2020 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated 11/25/2020 at 12:00 AM*
+### What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?
 <details>
 <summary>
-fuzz    
+Calvin Coolidge    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harry Truman  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Herbert Hoover   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-shrinks  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bean counters   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-aardvarks  
+Richard Nixon  
 </summary>
 
 :x: *Wrong...*
