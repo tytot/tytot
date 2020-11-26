@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/25/2020 at 12:00 AM*
-### What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?
+*Updated 11/26/2020 at 12:00 AM*
+### To create a tapestry, one must traditionally engage in what activity?
 <details>
 <summary>
-Calvin Coolidge    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harry Truman  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Herbert Hoover   
+weaving    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Richard Nixon  
+sculpting  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+baking   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+singing  
 </summary>
 
 :x: *Wrong...*
