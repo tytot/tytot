@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/26/2020 at 12:00 AM*
-### To create a tapestry, one must traditionally engage in what activity?
+*Updated 11/27/2020 at 12:00 AM*
+### What is the approximate speed of light?
 <details>
 <summary>
-weaving    
+165 miles per hour    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+122,000 miles per hour  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+186,000 miles per second   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sculpting  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-baking   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-singing  
+293,000 miles per second  
 </summary>
 
 :x: *Wrong...*
