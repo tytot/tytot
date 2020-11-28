@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/27/2020 at 12:00 AM*
-### What is the approximate speed of light?
+*Updated 11/28/2020 at 12:00 AM*
+### Which of these people was not alive in the 20th century?
 <details>
 <summary>
-165 miles per hour    
+Mark Twain    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-122,000 miles per hour  
+Thomas Edison  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-186,000 miles per second   
+Sigmund Freud   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ulysses S. Grant  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-293,000 miles per second  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
