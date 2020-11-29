@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/28/2020 at 12:00 AM*
-### Which of these people was not alive in the 20th century?
+*Updated 11/29/2020 at 12:00 AM*
+### What is the name of the South African political party that was headed by Nelson Mandela?
 <details>
 <summary>
-Mark Twain    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Thomas Edison  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sigmund Freud   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ulysses S. Grant  
+African National Congress    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+South African Democrats  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inkatha Freedom Party   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aryan National Assembly  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
