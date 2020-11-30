@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/29/2020 at 12:00 AM*
-### What is the name of the South African political party that was headed by Nelson Mandela?
+*Updated 11/30/2020 at 12:00 AM*
+### What condition is caused by malfunctioning sebaceous glands?
 <details>
 <summary>
-African National Congress    
+bad breath    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shingles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+acne   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-South African Democrats  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Inkatha Freedom Party   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aryan National Assembly  
+carpal tunnel syndrome  
 </summary>
 
 :x: *Wrong...*
