@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/30/2020 at 12:00 AM*
-### What condition is caused by malfunctioning sebaceous glands?
+*Updated 12/1/2020 at 12:00 AM*
+### What term describes the passing of genetic traits from one generation to the next?
 <details>
 <summary>
-bad breath    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shingles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-acne   
+heredity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carpal tunnel syndrome  
+heresy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+homogeneity   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hemoglobin  
 </summary>
 
 :x: *Wrong...*
