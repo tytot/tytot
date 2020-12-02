@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/1/2020 at 12:00 AM*
-### What term describes the passing of genetic traits from one generation to the next?
+*Updated 12/2/2020 at 12:00 AM*
+### According to the title of a popular children's TV show, what color is Bear's big house?
 <details>
 <summary>
-heredity    
+red    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+purple   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-heresy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-homogeneity   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hemoglobin  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
