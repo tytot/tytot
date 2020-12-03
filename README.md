@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/2/2020 at 12:00 AM*
-### According to the title of a popular children's TV show, what color is Bear's big house?
+*Updated 12/3/2020 at 12:00 AM*
+### In the children's game, what color is 'Rover'?
 <details>
 <summary>
-red    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green  
+black  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple   
+red   
 </summary>
 
-:x: *Wrong...*
+:heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
 blue  
 </summary>
 
-:heavy_check_mark: *Correct!*
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
