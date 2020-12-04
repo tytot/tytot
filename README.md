@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/3/2020 at 12:00 AM*
-### In the children's game, what color is 'Rover'?
+*Updated 12/4/2020 at 12:00 AM*
+### What substance was used for blood in the famous shower scene from the movie 'Psycho'?
 <details>
 <summary>
-green    
+tomato juice    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-black  
+red wine  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-red   
+chocolate syrup   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+ketchup  
 </summary>
 
 :x: *Wrong...*
