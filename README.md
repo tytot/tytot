@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/4/2020 at 12:00 AM*
-### What substance was used for blood in the famous shower scene from the movie 'Psycho'?
+*Updated 12/5/2020 at 12:00 AM*
+### Including the bottom, how many sides are on a square-based pyramid?
 <details>
 <summary>
-tomato juice    
+three    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-red wine  
+four  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chocolate syrup   
+five   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ketchup  
+six  
 </summary>
 
 :x: *Wrong...*
