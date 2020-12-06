@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/5/2020 at 12:00 AM*
-### Including the bottom, how many sides are on a square-based pyramid?
+*Updated 12/6/2020 at 12:00 AM*
+### What is the largest city in Pennsylvania?
 <details>
 <summary>
-three    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-five   
+Philadelphia    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-six  
+Stewartsville  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harrisburg   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pittsburgh  
 </summary>
 
 :x: *Wrong...*
