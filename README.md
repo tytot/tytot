@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/6/2020 at 12:00 AM*
-### What is the largest city in Pennsylvania?
+*Updated 12/7/2020 at 12:00 AM*
+### What was the name of the first nuclear-powered submarine?
 <details>
 <summary>
-Philadelphia    
+Nautilus    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Stewartsville  
+Neptune  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Harrisburg   
+Nordenfelt III   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pittsburgh  
+Nicholas  
 </summary>
 
 :x: *Wrong...*
