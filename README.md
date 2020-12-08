@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/7/2020 at 12:00 AM*
-### What was the name of the first nuclear-powered submarine?
+*Updated 12/8/2020 at 12:00 AM*
+### Which of these measurements is equal to one square foot?
 <details>
 <summary>
-Nautilus    
+50 square inches    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+77 square inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+100 square inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+144 square inches  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Neptune  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nordenfelt III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nicholas  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
