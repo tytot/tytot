@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/8/2020 at 12:00 AM*
-### Which of these measurements is equal to one square foot?
+*Updated 12/9/2020 at 12:00 AM*
+### Which of these is not an ingredient in Yorkshire pudding?
 <details>
 <summary>
-50 square inches    
+eggs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-77 square inches  
+milk  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-100 square inches   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-144 square inches  
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+meat drippings  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
