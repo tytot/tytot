@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/9/2020 at 12:00 AM*
-### Which of these is not an ingredient in Yorkshire pudding?
+*Updated 12/10/2020 at 12:00 AM*
+### How many innings are there in a regular Major League Baseball game?
 <details>
 <summary>
-eggs    
+seven    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-milk  
+eight  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chocolate   
+nine   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-meat drippings  
+ten  
 </summary>
 
 :x: *Wrong...*
