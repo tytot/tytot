@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/10/2020 at 12:00 AM*
-### How many innings are there in a regular Major League Baseball game?
+*Updated 12/11/2020 at 12:00 AM*
+### What does an animal produce when it lactates?
 <details>
 <summary>
-seven    
+sweat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight  
+wool  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nine   
+milk   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ten  
+methane  
 </summary>
 
 :x: *Wrong...*
