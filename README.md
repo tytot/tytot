@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/11/2020 at 12:00 AM*
-### What does an animal produce when it lactates?
+*Updated 12/12/2020 at 12:00 AM*
+### Which of these sentences is written in the subjunctive?
 <details>
 <summary>
-sweat    
+I am not your man    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wool  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-milk   
+I wish I were your man  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-methane  
+Wherefore art your man?   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Your man is where?  
 </summary>
 
 :x: *Wrong...*
