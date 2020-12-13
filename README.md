@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/12/2020 at 12:00 AM*
-### Which of these sentences is written in the subjunctive?
+*Updated 12/13/2020 at 12:00 AM*
+### The British dish 'bangers and mash' is made up of sausage and what?
 <details>
 <summary>
-I am not your man    
+eggs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-I wish I were your man  
+bacon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+liver   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+potatoes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Wherefore art your man?   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Your man is where?  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
