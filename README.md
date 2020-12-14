@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/13/2020 at 12:00 AM*
-### The British dish 'bangers and mash' is made up of sausage and what?
+*Updated 12/14/2020 at 12:00 AM*
+### Who kills Tony at the end of the film 'West Side Story'?
 <details>
 <summary>
-eggs    
+Riff    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bacon  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-liver   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-potatoes  
+Chino  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Bernardo   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+He kills himself.  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
