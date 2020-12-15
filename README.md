@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/14/2020 at 12:00 AM*
-### Who kills Tony at the end of the film 'West Side Story'?
+*Updated 12/15/2020 at 12:00 AM*
+### When driving, which of the following gestures means 'left turn'?
 <details>
 <summary>
-Riff    
+arm bent upwards    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chino  
+thumbs up  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+closed fist   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+arm straight out  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Bernardo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-He kills himself.  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
