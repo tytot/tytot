@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/15/2020 at 12:00 AM*
-### When driving, which of the following gestures means 'left turn'?
+*Updated 12/16/2020 at 12:00 AM*
+### In computer terminology, what does the acronym 'FTP' stand for?
 <details>
 <summary>
-arm bent upwards    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-thumbs up  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-closed fist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-arm straight out  
+file transfer protocol    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+full time portal  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+full text processor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+free to print  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
