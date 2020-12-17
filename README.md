@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/16/2020 at 12:00 AM*
-### In computer terminology, what does the acronym 'FTP' stand for?
+*Updated 12/17/2020 at 12:00 AM*
+### Which of these people was not alive in the 20th century?
 <details>
 <summary>
-file transfer protocol    
+Mark Twain    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Thomas Edison  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sigmund Freud   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ulysses S. Grant  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-full time portal  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-full text processor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-free to print  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
