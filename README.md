@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/17/2020 at 12:00 AM*
-### Which of these people was not alive in the 20th century?
+*Updated 12/18/2020 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-Mark Twain    
+platinum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thomas Edison  
+gold  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sigmund Freud   
+steel   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ulysses S. Grant  
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
