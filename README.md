@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/18/2020 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 12/19/2020 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-platinum    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gold  
+barley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-steel   
+chicken   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-silver  
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
