@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/19/2020 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 12/20/2020 at 12:00 AM*
+### In Greek mythology, what is the name of Zeus' father?
 <details>
 <summary>
-citrus fruits    
+Apollo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barley  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shellfish  
+Cronus  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Prometheus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hercules  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
