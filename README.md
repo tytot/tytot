@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/20/2020 at 12:00 AM*
-### In Greek mythology, what is the name of Zeus' father?
+*Updated 12/21/2020 at 12:00 AM*
+### The TV show 'House of Style' airs on what network?
 <details>
 <summary>
-Apollo    
+E    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cronus  
+WB  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+MTV   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Prometheus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hercules  
+Home Shopping Network  
 </summary>
 
 :x: *Wrong...*
