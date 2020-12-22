@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/21/2020 at 12:00 AM*
-### The TV show 'House of Style' airs on what network?
+*Updated 12/22/2020 at 12:00 AM*
+### On what body part should you wear a babushka?
 <details>
 <summary>
-E    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-WB  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-MTV   
+head    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Home Shopping Network  
+hands  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+foot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+legs  
 </summary>
 
 :x: *Wrong...*
