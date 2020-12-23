@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/22/2020 at 12:00 AM*
-### On what body part should you wear a babushka?
+*Updated 12/23/2020 at 12:00 AM*
+### Which of these stores is not owned by Gap Inc?
 <details>
 <summary>
-head    
+Gap    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Banana Republic  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Navy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+J Crew  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-hands  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-foot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-legs  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
