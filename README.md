@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/23/2020 at 12:00 AM*
-### Which of these stores is not owned by Gap Inc?
+*Updated 12/24/2020 at 12:00 AM*
+### Which of these vitamins was the first to be named?
 <details>
 <summary>
-Gap    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Banana Republic  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Navy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-J Crew  
+Vitamin A    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Vitamin-12  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vitamin E   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vitameatavegimen  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
