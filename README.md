@@ -8,7 +8,7 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/24/2020 at 12:00 AM*
+*Updated 12/25/2020 at 12:00 AM*
 ### Which of these vitamins was the first to be named?
 <details>
 <summary>
