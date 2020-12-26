@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/25/2020 at 12:00 AM*
-### Which of these vitamins was the first to be named?
+*Updated 12/26/2020 at 12:00 AM*
+### Elephant tusks are made of what material?
 <details>
 <summary>
-Vitamin A    
+coral    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ivory  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vitamin-12  
+bone   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vitamin E   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vitameatavegimen  
+calcium  
 </summary>
 
 :x: *Wrong...*
