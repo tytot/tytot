@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/26/2020 at 12:00 AM*
-### Elephant tusks are made of what material?
+*Updated 12/27/2020 at 12:00 AM*
+### What is the proper nautical use of an anchor?
 <details>
 <summary>
-coral    
+to catch large fish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ivory  
+to calculate water depth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to hold a ship in place   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bone   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-calcium  
+to damage other boats  
 </summary>
 
 :x: *Wrong...*
