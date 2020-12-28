@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/27/2020 at 12:00 AM*
-### What is the proper nautical use of an anchor?
+*Updated 12/28/2020 at 12:00 AM*
+### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
 <details>
 <summary>
-to catch large fish    
+a lime    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to calculate water depth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to hold a ship in place   
+a shaker of salt  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to damage other boats  
+his car keys   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the bartender  
 </summary>
 
 :x: *Wrong...*
