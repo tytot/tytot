@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/28/2020 at 12:00 AM*
-### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
+*Updated 12/29/2020 at 12:00 AM*
+### When it first appeared on the Internet, amazon.com sold only what?
 <details>
 <summary>
-a lime    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a shaker of salt  
+books    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-his car keys   
+compact discs  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the bartender  
+cars   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clothes  
 </summary>
 
 :x: *Wrong...*
