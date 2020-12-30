@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/29/2020 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 12/30/2020 at 12:00 AM*
+### How are actors Charlie Sheen and Emilio Estevez related?
 <details>
 <summary>
-books    
+they're cousins    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+they're brothers  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-compact discs  
+they're father and son   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cars   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clothes  
+they're uncle and nephew  
 </summary>
 
 :x: *Wrong...*
