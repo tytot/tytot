@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/30/2020 at 12:00 AM*
-### How are actors Charlie Sheen and Emilio Estevez related?
+*Updated 12/31/2020 at 12:00 AM*
+### Who was Charlie McCarthy?
 <details>
 <summary>
-they're cousins    
+a U.S. senator    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-they're brothers  
+a Chicago gangster  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a famous baseball pitcher   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a wooden dummy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-they're father and son   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-they're uncle and nephew  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
