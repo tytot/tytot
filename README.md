@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/31/2020 at 12:00 AM*
-### Who was Charlie McCarthy?
+*Updated 1/1/2021 at 12:00 AM*
+### What was the original name of the Apple Macintosh XL computer?
 <details>
 <summary>
-a U.S. senator    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a Chicago gangster  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a famous baseball pitcher   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a wooden dummy  
+Lisa 2    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Mac Daddy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Granny Smith   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Orange XL  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
