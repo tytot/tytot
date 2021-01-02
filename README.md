@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/1/2021 at 12:00 AM*
-### What was the original name of the Apple Macintosh XL computer?
+*Updated 1/2/2021 at 12:00 AM*
+### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
 <details>
 <summary>
-Lisa 2    
+'Sticks & Stones'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Pulsation'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Black & White'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Sensation'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Mac Daddy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Granny Smith   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Orange XL  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
