@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/2/2021 at 12:00 AM*
-### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
+*Updated 1/3/2021 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-'Sticks & Stones'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Pulsation'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Black & White'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Sensation'  
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+It's made of bone.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
