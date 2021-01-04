@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/3/2021 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 1/4/2021 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-It opens many locks.    
+Michael Brown    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-It's made of bone.  
+Malcolm Lincoln   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
+Michael Lloyd  
 </summary>
 
 :x: *Wrong...*
