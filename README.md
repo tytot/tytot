@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/4/2021 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 1/5/2021 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-Michael Brown    
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Malcolm Lincoln   
+Larry King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Michael Lloyd  
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
