@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/5/2021 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 1/6/2021 at 12:00 AM*
+### What is a balalaika?
 <details>
 <summary>
-Rush Limbaugh    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Casey Kasem  
+musical instrument    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+Russian peasant  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+type of hat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breed of shark  
 </summary>
 
 :x: *Wrong...*
