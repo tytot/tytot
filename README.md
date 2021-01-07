@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/6/2021 at 12:00 AM*
-### What is a balalaika?
+*Updated 1/7/2021 at 12:00 AM*
+### Which of these is not one of the four basic forces in nature?
 <details>
 <summary>
-musical instrument    
+electromagnetic    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gravitational  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nuclear   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+centrifugal  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Russian peasant  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-type of hat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-breed of shark  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
