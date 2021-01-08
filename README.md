@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/7/2021 at 12:00 AM*
-### Which of these is not one of the four basic forces in nature?
+*Updated 1/8/2021 at 12:00 AM*
+### What is your astrological sign if you were born on Halloween?
 <details>
 <summary>
-electromagnetic    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravitational  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nuclear   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-centrifugal  
+Scorpio    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Capricorn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Libra   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cancer  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
