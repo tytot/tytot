@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/8/2021 at 12:00 AM*
-### What is your astrological sign if you were born on Halloween?
+*Updated 1/9/2021 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-Scorpio    
+3 1/2 x 5 inches    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+5 x 10 inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Capricorn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Libra   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cancer  
+11 x 17 inches  
 </summary>
 
 :x: *Wrong...*
