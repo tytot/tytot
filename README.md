@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/9/2021 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 1/10/2021 at 12:00 AM*
+### The British dish 'bangers and mash' is made up of sausage and what?
 <details>
 <summary>
-3 1/2 x 5 inches    
+eggs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
+bacon  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8 1/2 x 11 inches   
+liver   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+potatoes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-11 x 17 inches  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
