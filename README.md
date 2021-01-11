@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/10/2021 at 12:00 AM*
-### The British dish 'bangers and mash' is made up of sausage and what?
+*Updated 1/11/2021 at 12:00 AM*
+### Which of the following is most commonly kept in a terrarium?
 <details>
 <summary>
-eggs    
+money    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bacon  
+books  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-liver   
+ice   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-potatoes  
+plants  
 </summary>
 
 :heavy_check_mark: *Correct!*
