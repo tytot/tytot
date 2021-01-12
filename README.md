@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/11/2021 at 12:00 AM*
-### Which of the following is most commonly kept in a terrarium?
+*Updated 1/12/2021 at 12:00 AM*
+### According to the Mother Goose nursery rhyme, which child is full of woe?
 <details>
 <summary>
-money    
+Monday's child    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-books  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ice   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-plants  
+Wednesday's child  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Thursday's child   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturday's child  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
