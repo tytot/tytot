@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/13/2021 at 12:00 AM*
-### What Native American tribe did chief Crazy Horse lead?
+*Updated 1/14/2021 at 12:00 AM*
+### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
 <details>
 <summary>
-Apache    
+one hour forward    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Comanche  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sioux   
+one hour backward  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Iroquois  
+two hours forward   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two hours backward  
 </summary>
 
 :x: *Wrong...*
