@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/14/2021 at 12:00 AM*
-### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
+*Updated 1/15/2021 at 12:00 AM*
+### In the children's game, what color is 'Rover'?
 <details>
 <summary>
-one hour forward    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-one hour backward  
+black  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+red   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two hours forward   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two hours backward  
+blue  
 </summary>
 
 :x: *Wrong...*
