@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/15/2021 at 12:00 AM*
-### In the children's game, what color is 'Rover'?
+*Updated 1/16/2021 at 12:00 AM*
+### Cheddar cheese got its name from a village in what country?
 <details>
 <summary>
-green    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-black  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-red   
+England    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+France  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Switzerland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Denmark  
 </summary>
 
 :x: *Wrong...*
