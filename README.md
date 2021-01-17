@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/16/2021 at 12:00 AM*
-### Cheddar cheese got its name from a village in what country?
+*Updated 1/17/2021 at 12:00 AM*
+### What is the art of elegant handwriting called?
 <details>
 <summary>
-England    
+calligraphy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+engraving  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Switzerland   
+decoupage   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Denmark  
+lithography  
 </summary>
 
 :x: *Wrong...*
