@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/17/2021 at 12:00 AM*
-### What is the art of elegant handwriting called?
+*Updated 1/18/2021 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-calligraphy    
+in French    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-engraving  
+in braille   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-decoupage   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-lithography  
+in gibberish  
 </summary>
 
 :x: *Wrong...*
