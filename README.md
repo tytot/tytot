@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/18/2021 at 12:00 AM*
-### How is the word 'ambulance' normally written on the front of American ambulances?
+*Updated 1/19/2021 at 12:00 AM*
+### What kind of angle is formed where two perpendicular lines meet?
 <details>
 <summary>
-in French    
+obtuse    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in reverse  
+acute  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+right   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in braille   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-in gibberish  
+invisible  
 </summary>
 
 :x: *Wrong...*
