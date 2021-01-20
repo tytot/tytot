@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/19/2021 at 12:00 AM*
-### What kind of angle is formed where two perpendicular lines meet?
+*Updated 1/20/2021 at 12:00 AM*
+### What is the national animal of Australia?
 <details>
 <summary>
-obtuse    
+koala    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-acute  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-right   
+kangaroo  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-invisible  
+platypus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+alligator  
 </summary>
 
 :x: *Wrong...*
