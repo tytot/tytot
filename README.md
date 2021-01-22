@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/21/2021 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 1/22/2021 at 12:00 AM*
+### From 1971 to 1997, the Democratic Republic of Congo was known as what?
 <details>
 <summary>
-Mount Everest    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bermuda Triangle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+Zaire    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Angola  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rhodesia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Belgian Congo  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
