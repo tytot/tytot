@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/22/2021 at 12:00 AM*
-### From 1971 to 1997, the Democratic Republic of Congo was known as what?
+*Updated 1/23/2021 at 12:00 AM*
+### Astronaut John Glenn served as a pilot in what branch of the military?
 <details>
 <summary>
-Zaire    
+Army    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Air Force  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Marines   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Angola  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rhodesia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Belgian Congo  
+Navy  
 </summary>
 
 :x: *Wrong...*
