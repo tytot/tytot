@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/23/2021 at 12:00 AM*
-### Astronaut John Glenn served as a pilot in what branch of the military?
+*Updated 1/24/2021 at 12:00 AM*
+### Which of these measurements is equal to one square foot?
 <details>
 <summary>
-Army    
+50 square inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Air Force  
+77 square inches  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Marines   
+100 square inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+144 square inches  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Navy  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
