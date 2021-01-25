@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/24/2021 at 12:00 AM*
-### Which of these measurements is equal to one square foot?
+*Updated 1/25/2021 at 12:00 AM*
+### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
 <details>
 <summary>
-50 square inches    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-77 square inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-100 square inches   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-144 square inches  
+visa    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+bill of landing  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+driver's license   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+carte blanche  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
