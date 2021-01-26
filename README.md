@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/25/2021 at 12:00 AM*
-### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
+*Updated 1/26/2021 at 12:00 AM*
+### What is produced during photosynthesis?
 <details>
 <summary>
-visa    
+hydrogen    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nylon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oxygen   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bill of landing  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-driver's license   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-carte blanche  
+light  
 </summary>
 
 :x: *Wrong...*
