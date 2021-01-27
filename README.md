@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/26/2021 at 12:00 AM*
-### What is produced during photosynthesis?
+*Updated 1/27/2021 at 12:00 AM*
+### From what language does the term 'R.S.V.P.' originate?
 <details>
 <summary>
-hydrogen    
+Russian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nylon  
+Italian  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oxygen   
+Portuguese   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-light  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
