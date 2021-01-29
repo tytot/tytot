@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/28/2021 at 12:00 AM*
-### In what forest did Robin Hood live?
+*Updated 1/29/2021 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-Black Forest    
+America Over Lines    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Petrified Forest  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nottingham Forest   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sherwood Forest  
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Americans On Links   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Americans On LOR  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
