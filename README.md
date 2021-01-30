@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/29/2021 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 1/30/2021 at 12:00 AM*
+### According to the Bible, Moses and Aaron had a sister named what?
 <details>
 <summary>
-America Over Lines    
+Jochebed    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+Ruth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Leah   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Miriam  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Americans On Links   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Americans On LOR  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
