@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/30/2021 at 12:00 AM*
-### According to the Bible, Moses and Aaron had a sister named what?
+*Updated 1/31/2021 at 12:00 AM*
+### Which of these names has never belonged to a Pope?
 <details>
 <summary>
-Jochebed    
+Leo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ruth  
+Lando  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Leah   
+Linus   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Miriam  
+Lawrence  
 </summary>
 
 :heavy_check_mark: *Correct!*
