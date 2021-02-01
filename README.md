@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/31/2021 at 12:00 AM*
-### Which of these names has never belonged to a Pope?
+*Updated 2/1/2021 at 12:00 AM*
+### What is the approximate speed of light?
 <details>
 <summary>
-Leo    
+165 miles per hour    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lando  
+122,000 miles per hour  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Linus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lawrence  
+186,000 miles per second   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+293,000 miles per second  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
