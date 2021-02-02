@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/1/2021 at 12:00 AM*
-### In what decade did Israel become an independent state?
+*Updated 2/2/2021 at 12:00 AM*
+### Which of these men has never been a head coach in the NFL?
 <details>
 <summary>
-1920s    
+Dick Vermeil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1940s  
+Bill Parcells  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck Noll   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pat Riley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-1950s   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1960s  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
@@ -47,8 +47,6 @@
 
 [![Attendance for Google Meet by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=attendance-for-google-meet&title_color=ffb81c&text_color=ffffff&icon_color=ffb81c&bg_color=6f263d)](https://github.com/tytot/attendance-for-google-meet)
 [![tytot.github.io by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=tytot.github.io&title_color=ff3c00&text_color=ffffff&icon_color=ff3c00&bg_color=311d00)](https://github.com/tytot/tytot.github.io)
-[![Minecraft Proximity Discord Chat by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=minecraft-proximity-discord-chat&title_color=7289da&text_color=ffffff&icon_color=7289da&bg_color=2c2f33)](https://github.com/tytot/minecraft-proximity-discord-chat)
-[![Medical Record Blockchain by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=medical-record-blockchain&title_color=96bb7c&text_color=ffffff&icon_color=96bb7c&bg_color=184d47)](https://github.com/tytot/medical-record-blockchain)
 
 ## :scroll: My Most Used Languages
 
