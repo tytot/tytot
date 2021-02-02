@@ -9,31 +9,31 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 2/1/2021 at 12:00 AM*
-### What is the approximate speed of light?
+### In what decade did Israel become an independent state?
 <details>
 <summary>
-165 miles per hour    
+1920s    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-122,000 miles per hour  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-186,000 miles per second   
+1940s  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-293,000 miles per second  
+1950s   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1960s  
 </summary>
 
 :x: *Wrong...*
