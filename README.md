@@ -47,6 +47,8 @@
 
 [![Attendance for Google Meet by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=attendance-for-google-meet&title_color=ffb81c&text_color=ffffff&icon_color=ffb81c&bg_color=6f263d)](https://github.com/tytot/attendance-for-google-meet)
 [![tytot.github.io by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=tytot.github.io&title_color=ff3c00&text_color=ffffff&icon_color=ff3c00&bg_color=311d00)](https://github.com/tytot/tytot.github.io)
+[![Minecraft Proximity Discord Chat by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=minecraft-proximity-discord-chat&title_color=7289da&text_color=ffffff&icon_color=7289da&bg_color=2c2f33)](https://github.com/tytot/minecraft-proximity-discord-chat)
+[![Medical Record Blockchain by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=medical-record-blockchain&title_color=96bb7c&text_color=ffffff&icon_color=96bb7c&bg_color=184d47)](https://github.com/tytot/medical-record-blockchain)
 
 ## :scroll: My Most Used Languages
 
