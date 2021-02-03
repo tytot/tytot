@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/2/2021 at 12:00 AM*
-### Which of these men has never been a head coach in the NFL?
+*Updated 2/3/2021 at 12:00 AM*
+### Whose profile can you see on the front of dimes that are currently in circulation?
 <details>
 <summary>
-Dick Vermeil    
+George Washington    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bill Parcells  
+Thomas Jefferson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chuck Noll   
+Benjamin Franklin   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pat Riley  
+Franklin Roosevelt  
 </summary>
 
 :heavy_check_mark: *Correct!*
