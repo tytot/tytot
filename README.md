@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/3/2021 at 12:00 AM*
-### Whose profile can you see on the front of dimes that are currently in circulation?
+*Updated 2/4/2021 at 12:00 AM*
+### To create a tapestry, one must traditionally engage in what activity?
 <details>
 <summary>
-George Washington    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Thomas Jefferson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Benjamin Franklin   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Franklin Roosevelt  
+weaving    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+sculpting  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+baking   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+singing  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
