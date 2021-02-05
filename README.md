@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/4/2021 at 12:00 AM*
-### To create a tapestry, one must traditionally engage in what activity?
+*Updated 2/5/2021 at 12:00 AM*
+### What metal device is used by police to immobilize the wheels of repeat parking offenders?
 <details>
 <summary>
-weaving    
+Brooklyn clamp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Denver boot  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sculpting  
+LoJack   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-baking   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-singing  
+The Club  
 </summary>
 
 :x: *Wrong...*
