@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/5/2021 at 12:00 AM*
-### What metal device is used by police to immobilize the wheels of repeat parking offenders?
+*Updated 2/6/2021 at 12:00 AM*
+### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
 <details>
 <summary>
-Brooklyn clamp    
+ophthalmologist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Denver boot  
+cardiologist  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+neurologist   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+proctologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-LoJack   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Club  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
