@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/6/2021 at 12:00 AM*
-### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
+*Updated 2/7/2021 at 12:00 AM*
+### With what would you use a wah-wah pedal?
 <details>
 <summary>
-ophthalmologist    
+bicycle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cardiologist  
+stock car  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-neurologist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-proctologist  
+electric guitar   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+baby  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
