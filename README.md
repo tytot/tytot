@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/7/2021 at 12:00 AM*
-### With what would you use a wah-wah pedal?
+*Updated 2/8/2021 at 12:00 AM*
+### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
 <details>
 <summary>
-bicycle    
+Mount Everest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stock car  
+Bermuda Triangle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-electric guitar   
+Atlantis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Pole  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-baby  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
