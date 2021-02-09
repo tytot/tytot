@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/8/2021 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 2/9/2021 at 12:00 AM*
+### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
 <details>
 <summary>
-Mount Everest    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bermuda Triangle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+visa    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+bill of landing  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+driver's license   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+carte blanche  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
