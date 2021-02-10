@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/9/2021 at 12:00 AM*
-### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
+*Updated 2/10/2021 at 12:00 AM*
+### The Strauss family of composers popularized what dance?
 <details>
 <summary>
-visa    
+waltz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bill of landing  
+tango  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-driver's license   
+fox-trot   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-carte blanche  
+square dance  
 </summary>
 
 :x: *Wrong...*
