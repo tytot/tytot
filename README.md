@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/10/2021 at 12:00 AM*
-### The Strauss family of composers popularized what dance?
+*Updated 2/11/2021 at 12:00 AM*
+### Who wrote 'A Tale of Two Cities'?
 <details>
 <summary>
-waltz    
+Charles Dickens    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tango  
+Nathaniel Hawthorne  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fox-trot   
+Washington Irving   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-square dance  
+Mark Twain  
 </summary>
 
 :x: *Wrong...*
