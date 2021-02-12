@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/11/2021 at 12:00 AM*
-### Who wrote 'A Tale of Two Cities'?
+*Updated 2/12/2021 at 12:00 AM*
+### Modern computer microchips are primarily composed of what element?
 <details>
 <summary>
-Charles Dickens    
+Sodium    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Silicon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Nathaniel Hawthorne  
+Aluminum   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Washington Irving   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mark Twain  
+Silver  
 </summary>
 
 :x: *Wrong...*
