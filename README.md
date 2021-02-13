@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/12/2021 at 12:00 AM*
-### Modern computer microchips are primarily composed of what element?
+*Updated 2/13/2021 at 12:00 AM*
+### Which of these plants is the national emblem of Scotland?
 <details>
 <summary>
-Sodium    
+ivy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Silicon  
+thistle  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aluminum   
+rose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Silver  
+linden  
 </summary>
 
 :x: *Wrong...*
