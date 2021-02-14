@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/13/2021 at 12:00 AM*
-### Which of these plants is the national emblem of Scotland?
+*Updated 2/14/2021 at 12:00 AM*
+### Who was the first American in space?
 <details>
 <summary>
-ivy    
+John Glenn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thistle  
+Buzz Aldrin  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Alan Shepard   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rose   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-linden  
+Neil Armstrong  
 </summary>
 
 :x: *Wrong...*
