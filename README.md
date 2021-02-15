@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/14/2021 at 12:00 AM*
-### Who was the first American in space?
+*Updated 2/15/2021 at 12:00 AM*
+### Which of these is a member of the cucumber family?
 <details>
 <summary>
-John Glenn    
+green pepper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Buzz Aldrin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Alan Shepard   
+watermelon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neil Armstrong  
+potato   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green bean  
 </summary>
 
 :x: *Wrong...*
