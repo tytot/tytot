@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/15/2021 at 12:00 AM*
-### Which of these is a member of the cucumber family?
+*Updated 2/16/2021 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-green pepper    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-watermelon  
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-potato   
+It's made of bone.  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green bean  
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
