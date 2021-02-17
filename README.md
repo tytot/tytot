@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/16/2021 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 2/17/2021 at 12:00 AM*
+### How long is the time on an NBA shot clock?
 <details>
 <summary>
-It opens many locks.    
+18 seconds    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+24 seconds  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-It's made of bone.  
+30 seconds   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
+35 seconds  
 </summary>
 
 :x: *Wrong...*
