@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/17/2021 at 12:00 AM*
-### How long is the time on an NBA shot clock?
+*Updated 2/18/2021 at 12:00 AM*
+### If you have a 'sawbuck' how much money do you have?
 <details>
 <summary>
-18 seconds    
+$1    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-24 seconds  
+$5  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-30 seconds   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-35 seconds  
+$20  
 </summary>
 
 :x: *Wrong...*
