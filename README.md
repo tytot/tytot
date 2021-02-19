@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/18/2021 at 12:00 AM*
-### If you have a 'sawbuck' how much money do you have?
+*Updated 2/19/2021 at 12:00 AM*
+### What is the name of the fruit that is half tangerine and half grapefruit?
 <details>
 <summary>
-$1    
+graperine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$5  
+tangefruit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$10   
+tangelo   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-$20  
+kumquat  
 </summary>
 
 :x: *Wrong...*
