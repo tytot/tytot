@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/20/2021 at 12:00 AM*
-### John D. Rockefeller made his fortune in what industry?
+*Updated 2/21/2021 at 12:00 AM*
+### Which of these states is not the birthplace of a US president?
 <details>
 <summary>
-automobile     
+New Jersey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oil  
+Nebraska  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kansas   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-steel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-railroad  
+California  
 </summary>
 
 :x: *Wrong...*
