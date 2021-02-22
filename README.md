@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/21/2021 at 12:00 AM*
-### Which of these states is not the birthplace of a US president?
+*Updated 2/22/2021 at 12:00 AM*
+### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
 <details>
 <summary>
-New Jersey    
+Dolph Lundgren    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nebraska  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kansas   
+Hulk Hogan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-California  
+Andre the Giant   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Iron Sheik  
 </summary>
 
 :x: *Wrong...*
