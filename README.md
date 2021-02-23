@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/22/2021 at 12:00 AM*
-### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
+*Updated 2/23/2021 at 12:00 AM*
+### Who was the first First Lady to run for political office?
 <details>
 <summary>
-Dolph Lundgren    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hulk Hogan  
+Hillary Clinton    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Andre the Giant   
+Rosalynn Carter  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Iron Sheik  
+Bess Truman   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Eleanor Roosevelt  
 </summary>
 
 :x: *Wrong...*
