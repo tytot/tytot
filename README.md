@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/23/2021 at 12:00 AM*
-### Who was the first First Lady to run for political office?
+*Updated 2/24/2021 at 12:00 AM*
+### In what city is TV's 'The Mary Tyler Moore Show' set?
 <details>
 <summary>
-Hillary Clinton    
+Dallas    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chicago  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Minneapolis  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Rosalynn Carter  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bess Truman   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eleanor Roosevelt  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
