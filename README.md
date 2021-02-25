@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/24/2021 at 12:00 AM*
-### In what city is TV's 'The Mary Tyler Moore Show' set?
+*Updated 2/25/2021 at 12:00 AM*
+### According to a popular slogan, what state should people not 'mess with'?
 <details>
 <summary>
-Dallas    
+New York    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chicago  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Minneapolis  
+Texas  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Montana   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rhode Island  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
