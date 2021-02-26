@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/25/2021 at 12:00 AM*
-### According to a popular slogan, what state should people not 'mess with'?
+*Updated 2/26/2021 at 12:00 AM*
+### What type of meat is on a traditional Reuben sandwich?
 <details>
 <summary>
-New York    
+turkey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Texas  
+bologna  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corned beef   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Montana   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rhode Island  
+pepperoni  
 </summary>
 
 :x: *Wrong...*
