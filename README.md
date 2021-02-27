@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/26/2021 at 12:00 AM*
-### What type of meat is on a traditional Reuben sandwich?
+*Updated 2/27/2021 at 12:00 AM*
+### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
 <details>
 <summary>
-turkey    
+a lime    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bologna  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corned beef   
+a shaker of salt  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-pepperoni  
+his car keys   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the bartender  
 </summary>
 
 :x: *Wrong...*
