@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/27/2021 at 12:00 AM*
-### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
+*Updated 2/28/2021 at 12:00 AM*
+### In bowling, how many pins must you knock down to get a strike?
 <details>
 <summary>
-a lime    
+zero    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a shaker of salt  
+8  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-his car keys   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the bartender  
+12  
 </summary>
 
 :x: *Wrong...*
