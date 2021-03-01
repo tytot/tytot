@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/28/2021 at 12:00 AM*
-### In bowling, how many pins must you knock down to get a strike?
+*Updated 3/1/2021 at 12:00 AM*
+### In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?
 <details>
 <summary>
-zero    
+peace symbol    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-10   
+American flag  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-12  
+two white doves   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harley-Davidson logo  
 </summary>
 
 :x: *Wrong...*
