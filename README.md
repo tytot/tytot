@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/1/2021 at 12:00 AM*
-### In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?
+*Updated 3/2/2021 at 12:00 AM*
+### What term describes a tribe that has no set homeland and wanders from place to place?
 <details>
 <summary>
-peace symbol    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-American flag  
+Nomadic    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two white doves   
+Pedantic  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Harley-Davidson logo  
+Schematic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cathartic  
 </summary>
 
 :x: *Wrong...*
