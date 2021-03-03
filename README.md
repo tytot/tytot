@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/2/2021 at 12:00 AM*
-### What term describes a tribe that has no set homeland and wanders from place to place?
+*Updated 3/3/2021 at 12:00 AM*
+### Who kills Tony at the end of the film 'West Side Story'?
 <details>
 <summary>
-Nomadic    
+Riff    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chino  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Pedantic  
+Bernardo   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Schematic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cathartic  
+He kills himself.  
 </summary>
 
 :x: *Wrong...*
