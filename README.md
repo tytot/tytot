@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/3/2021 at 12:00 AM*
-### Who kills Tony at the end of the film 'West Side Story'?
+*Updated 3/4/2021 at 12:00 AM*
+### Which of these is not one of the three branches of the US government?
 <details>
 <summary>
-Riff    
+Judicial    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chino  
+Executive  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Parliamentary   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Bernardo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-He kills himself.  
+Legislative  
 </summary>
 
 :x: *Wrong...*
