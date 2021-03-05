@@ -8,7 +8,7 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/4/2021 at 12:00 AM*
+*Updated 3/5/2021 at 12:00 AM*
 ### Which of these is not one of the three branches of the US government?
 <details>
 <summary>
