@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/5/2021 at 12:00 AM*
-### Which of these is not one of the three branches of the US government?
+*Updated 3/6/2021 at 12:00 AM*
+### What is the last book of the New Testament?
 <details>
 <summary>
-Judicial    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Executive  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Parliamentary   
+Revelation    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Legislative  
+Judges  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ruth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John  
 </summary>
 
 :x: *Wrong...*
