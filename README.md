@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/6/2021 at 12:00 AM*
-### What is the last book of the New Testament?
+*Updated 3/7/2021 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-Revelation    
+'All the King's Men'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the Pretty Horses'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Judges  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ruth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
