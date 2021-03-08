@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/7/2021 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 3/8/2021 at 12:00 AM*
+### What is the last letter of the Greek alphabet?
 <details>
 <summary>
-'All the King's Men'    
+omicron    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the Pretty Horses'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'All the President's Men'   
+omega  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'All the Right Moves'  
+upsilon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+zeta  
 </summary>
 
 :x: *Wrong...*
