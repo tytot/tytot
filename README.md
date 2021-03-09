@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/8/2021 at 12:00 AM*
-### What is the last letter of the Greek alphabet?
+*Updated 3/9/2021 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-omicron    
+3 1/2 x 5 inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-omega  
+5 x 10 inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-upsilon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-zeta  
+11 x 17 inches  
 </summary>
 
 :x: *Wrong...*
