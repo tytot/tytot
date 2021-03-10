@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/9/2021 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 3/10/2021 at 12:00 AM*
+### What team has won the most World Series?
 <details>
 <summary>
-3 1/2 x 5 inches    
+Chicago Cubs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
+Los Angeles Dodgers  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8 1/2 x 11 inches   
+New York Yankees   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-11 x 17 inches  
+San Francisco Giants  
 </summary>
 
 :x: *Wrong...*
