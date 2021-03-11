@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/10/2021 at 12:00 AM*
-### What team has won the most World Series?
+*Updated 3/11/2021 at 12:00 AM*
+### What football player was known as 'The Galloping Ghost'?
 <details>
 <summary>
-Chicago Cubs    
+Jim Thorpe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Los Angeles Dodgers  
+Dick Butkus  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York Yankees   
+Red Grange   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-San Francisco Giants  
+George Halas  
 </summary>
 
 :x: *Wrong...*
