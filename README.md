@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/11/2021 at 12:00 AM*
-### What football player was known as 'The Galloping Ghost'?
+*Updated 3/12/2021 at 12:00 AM*
+### What is the name of the StarKist tuna mascot?
 <details>
 <summary>
-Jim Thorpe    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dick Butkus  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Red Grange   
+Charlie    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-George Halas  
+Sam  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Al   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Morris  
 </summary>
 
 :x: *Wrong...*
