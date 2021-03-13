@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/12/2021 at 12:00 AM*
-### What is the name of the StarKist tuna mascot?
+*Updated 3/13/2021 at 12:00 AM*
+### In Mister Rogers' theme song, what does he ask you to be?
 <details>
 <summary>
-Charlie    
+his cook    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+his student  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+his neighbor   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sam  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Al   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Morris  
+all you can be  
 </summary>
 
 :x: *Wrong...*
