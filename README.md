@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/13/2021 at 12:00 AM*
-### In Mister Rogers' theme song, what does he ask you to be?
+*Updated 3/14/2021 at 12:00 AM*
+### According to legend, if you give someone the 'evil eye' what are you doing?
 <details>
 <summary>
-his cook    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-his student  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-his neighbor   
+cursing them    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-all you can be  
+blessing a child  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+counting money   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+passing time  
 </summary>
 
 :x: *Wrong...*
