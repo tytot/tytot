@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/14/2021 at 12:00 AM*
-### According to legend, if you give someone the 'evil eye' what are you doing?
+*Updated 3/15/2021 at 12:00 AM*
+### Who was on the $500 bill?
 <details>
 <summary>
-cursing them    
+Calvin Coolidge    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andrew Jackson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aaron Burr   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+William McKinley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-blessing a child  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-counting money   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-passing time  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
