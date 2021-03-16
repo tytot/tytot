@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/15/2021 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 3/16/2021 at 12:00 AM*
+### When it comes to measuring horses, how long is a 'hand'?
 <details>
 <summary>
-Calvin Coolidge    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Andrew Jackson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aaron Burr   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-William McKinley  
+four inches    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+seven inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two feet  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
