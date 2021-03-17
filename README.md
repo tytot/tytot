@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/16/2021 at 12:00 AM*
-### When it comes to measuring horses, how long is a 'hand'?
+*Updated 3/17/2021 at 12:00 AM*
+### What color is cartoon character Marge Simpson's hair?
 <details>
 <summary>
-four inches    
+yellow    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+purple  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten inches   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two feet  
+brown  
 </summary>
 
 :x: *Wrong...*
