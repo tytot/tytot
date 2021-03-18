@@ -8,7 +8,7 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/17/2021 at 12:00 AM*
+*Updated 3/18/2021 at 12:00 AM*
 ### What color is cartoon character Marge Simpson's hair?
 <details>
 <summary>
