@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/18/2021 at 12:00 AM*
-### What color is cartoon character Marge Simpson's hair?
+*Updated 3/19/2021 at 12:00 AM*
+### In American football, how many points is a touchdown worth?
 <details>
 <summary>
-yellow    
+two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple  
+three  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue   
+six   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-brown  
+seven  
 </summary>
 
 :x: *Wrong...*
