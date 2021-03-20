@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/19/2021 at 12:00 AM*
-### In American football, how many points is a touchdown worth?
+*Updated 3/20/2021 at 12:00 AM*
+### Which of these is not one of the official languages of the United Nations?
 <details>
 <summary>
-two    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-six   
+Japanese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
+English  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Russian   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
 </summary>
 
 :x: *Wrong...*
