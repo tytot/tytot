@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/21/2021 at 12:00 AM*
-### Which of these is not a type of rock?
+*Updated 3/22/2021 at 12:00 AM*
+### The term 'chili con carne' refers to chili with what?
 <details>
 <summary>
-metamorphic    
+beans     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sedimentary  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-igneous   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-deciduous  
+meat  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cheese   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chili peppers  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
