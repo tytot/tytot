@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/22/2021 at 12:00 AM*
-### The term 'chili con carne' refers to chili with what?
+*Updated 3/22/21 at 12:00 AM*
+### Into what body of water does the Rhone River flow?
 <details>
 <summary>
-beans     
+Atlantic Ocean    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meat  
+Caspian Sea  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Sea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mediterranean Sea  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-cheese   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chili peppers  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
