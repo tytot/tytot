@@ -1,7 +1,7 @@
 const git = require('simple-git')()
 
 function push() {
-    git.pull()
+    git.pull('origin', 'master')
         .add('.')
         .commit('Update daily trivia')
         .push('origin', 'master')

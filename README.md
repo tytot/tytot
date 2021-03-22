@@ -2,41 +2,41 @@
 <a href="https://tylerl.in"><img alt="Website" title="Website" src="https://raw.githubusercontent.com/tytot/tytot/master/me.png" alt="Tyler Lin" width="50%" height="50%" /></a>
 </div>
 <p align="center">
-<a href="mailto:tyler@tylerl.in"><img alt="Email" title="Email" height="32" width="32" src="https://camo.githubusercontent.com/df5a487e714dcdebdb4b5473a4ebc3a19fed6e15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" /></a>
-<a href="https://www.instagram.com/t.1in/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
-<a href="https://www.youtube.com/channel/UCHohccum1zD32bCk3hZT7Pw"><img alt="Youtube" title="Youtube" height="32" width="32" src="https://camo.githubusercontent.com/0f31a4f7adb78461ca03dfaad4a138eedf0d14e0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" /></a>
+<a href="mailto:tyler@tylerl.in"><img alt="Email" title="Email" height="40" width="40" src="https://camo.githubusercontent.com/df5a487e714dcdebdb4b5473a4ebc3a19fed6e15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" /></a>
+<a href="https://www.instagram.com/t.1in/"><img alt="Instagram" title="Instagram" height="40" width="40" src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
+<a href="https://www.youtube.com/channel/UCHohccum1zD32bCk3hZT7Pw"><img alt="Youtube" title="Youtube" height="40" width="40" src="https://camo.githubusercontent.com/0f31a4f7adb78461ca03dfaad4a138eedf0d14e0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" /></a>
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/22/21 at 12:00 AM*
-### Into what body of water does the Rhone River flow?
+*Updated 3/22/2021 at 12:00 AM*
+### What high school does the gang from the 'Archie' comic strip attend?
 <details>
 <summary>
-Atlantic Ocean    
+Ridgemont High    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Caspian Sea  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Sea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mediterranean Sea  
+Riverdale High  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Rumson High   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Riker's Island High  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
