@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/22/2021 at 12:00 AM*
-### What high school does the gang from the 'Archie' comic strip attend?
+*Updated 3/24/2021 at 12:00 AM*
+### What is the technical term for someone who studies fish?
 <details>
 <summary>
-Ridgemont High    
+entomologist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Riverdale High  
+ichthyologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rumson High   
+marinologist   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Riker's Island High  
+herpetologist  
 </summary>
 
 :x: *Wrong...*
