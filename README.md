@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/24/2021 at 12:00 AM*
-### What is the technical term for someone who studies fish?
+*Updated 3/25/2021 at 12:00 AM*
+### In soccer, which player is allowed to use his or her hands in the field of play?
 <details>
 <summary>
-entomologist    
+midfielder    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ichthyologist  
+center  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sweeper   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+goalkeeper  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-marinologist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-herpetologist  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
