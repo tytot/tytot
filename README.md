@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/25/2021 at 12:00 AM*
-### In soccer, which player is allowed to use his or her hands in the field of play?
+*Updated 3/26/2021 at 12:00 AM*
+### In the Arthurian legend, who is married to Guinevere?
 <details>
 <summary>
-midfielder    
+Merlin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-center  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sweeper   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-goalkeeper  
+King Arthur  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Lancelot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Camelot  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
