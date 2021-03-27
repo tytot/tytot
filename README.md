@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/26/2021 at 12:00 AM*
-### In the Arthurian legend, who is married to Guinevere?
+*Updated 3/27/2021 at 12:00 AM*
+### Which of these places is known for art auctions?
 <details>
 <summary>
-Merlin    
+Shelby's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-King Arthur  
+Nickleby's  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Gatsby's   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sotheby's  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Lancelot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Camelot  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
