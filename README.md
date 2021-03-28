@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/27/2021 at 12:00 AM*
-### Which of these places is known for art auctions?
+*Updated 3/28/2021 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-Shelby's    
+platinum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nickleby's  
+gold  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gatsby's   
+steel   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sotheby's  
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
