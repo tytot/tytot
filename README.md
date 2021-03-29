@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/28/2021 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 3/29/2021 at 12:00 AM*
+### What chemical do people frequently use to bleach hair?
 <details>
 <summary>
-platinum    
+folic acid    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gold  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-steel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-silver  
+hydrogen peroxide  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+sodium chloride   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nitrous oxide  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
