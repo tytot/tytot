@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/29/2021 at 12:00 AM*
-### What chemical do people frequently use to bleach hair?
+*Updated 3/30/2021 at 12:00 AM*
+### Which of these is a member of the cucumber family?
 <details>
 <summary>
-folic acid    
+green pepper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hydrogen peroxide  
+watermelon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sodium chloride   
+potato   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nitrous oxide  
+green bean  
 </summary>
 
 :x: *Wrong...*
