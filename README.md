@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/30/2021 at 12:00 AM*
-### Which of these is a member of the cucumber family?
+*Updated 3/31/2021 at 12:00 AM*
+### Which of these rock guitarists designed a colorful line of men's neckties?
 <details>
 <summary>
-green pepper    
+Eric Clapton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-watermelon  
+Jerry Garcia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-potato   
+Jeff Beck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green bean  
+Keith Richards  
 </summary>
 
 :x: *Wrong...*
