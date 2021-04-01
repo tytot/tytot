@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/31/2021 at 12:00 AM*
-### Which of these rock guitarists designed a colorful line of men's neckties?
+*Updated 4/1/2021 at 12:00 AM*
+### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
 <details>
 <summary>
-Eric Clapton    
+Pueblo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jerry Garcia  
+Aztec  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inca   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Jeff Beck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Keith Richards  
+Apache  
 </summary>
 
 :x: *Wrong...*
