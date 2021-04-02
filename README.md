@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/1/2021 at 12:00 AM*
-### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
+*Updated 4/2/2021 at 12:00 AM*
+### What is the baseball term for a batter who substitutes for another batter?
 <details>
 <summary>
-Pueblo    
+switchhitter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aztec  
+shadow hitter  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Inca   
+clip hitter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pinch hitter  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Apache  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
