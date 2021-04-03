@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/2/2021 at 12:00 AM*
-### What is the baseball term for a batter who substitutes for another batter?
+*Updated 4/3/2021 at 12:00 AM*
+### Which of these months has 31 days?
 <details>
 <summary>
-switchhitter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shadow hitter  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clip hitter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pinch hitter  
+March    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+April  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+June   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+September  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
