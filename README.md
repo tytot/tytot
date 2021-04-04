@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/3/2021 at 12:00 AM*
-### Which of these months has 31 days?
+*Updated 4/4/2021 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-March    
+platinum    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gold  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-April  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-June   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-September  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
