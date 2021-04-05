@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/4/2021 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 4/5/2021 at 12:00 AM*
+### Which of these is not a city in the state of New York?
 <details>
 <summary>
-platinum    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gold  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-steel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-silver  
+Perskippity    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Kerhonkson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Schenectady   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lackawanna  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
