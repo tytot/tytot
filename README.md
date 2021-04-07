@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/6/2021 at 12:00 AM*
-### Excluding wisdom teeth, how many adult teeth do humans have?
+*Updated 4/7/2021 at 12:00 AM*
+### Who is the star of the TV show 'Everybody Loves Raymond'?
 <details>
 <summary>
-28    
+Ray Liotta    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ray Romano  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-32  
+Ray Parker Jr.   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-35   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-40  
+Sugar Ray Leonard  
 </summary>
 
 :x: *Wrong...*
