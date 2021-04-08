@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/7/2021 at 12:00 AM*
-### Who is the star of the TV show 'Everybody Loves Raymond'?
+*Updated 4/8/2021 at 12:00 AM*
+### In the famous ballet 'The Nutcracker' who does the hero defeat?
 <details>
 <summary>
-Ray Liotta    
+Sugar Plum Fairy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ray Romano  
+Rat King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ray Parker Jr.   
+Snow Queen   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sugar Ray Leonard  
+Marzipan  
 </summary>
 
 :x: *Wrong...*
