@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/8/2021 at 12:00 AM*
-### In the famous ballet 'The Nutcracker' who does the hero defeat?
+*Updated 4/9/2021 at 12:00 AM*
+### In the United States, what is the first day of spring?
 <details>
 <summary>
-Sugar Plum Fairy    
+February 21    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rat King  
+March 21  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Snow Queen   
+April 21   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Marzipan  
+May 21  
 </summary>
 
 :x: *Wrong...*
