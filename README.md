@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/9/2021 at 12:00 AM*
-### In the United States, what is the first day of spring?
+*Updated 4/10/2021 at 12:00 AM*
+### How many ribs are there in the human body?
 <details>
 <summary>
-February 21    
+18    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-March 21  
+24  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-April 21   
+30   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-May 21  
+42  
 </summary>
 
 :x: *Wrong...*
