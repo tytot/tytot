@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/10/2021 at 12:00 AM*
-### How many ribs are there in the human body?
+*Updated 4/11/2021 at 12:00 AM*
+### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
 <details>
 <summary>
-18    
+Jerry Bailey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-24  
+Steve Cauthen  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-30   
+Willie Shoemaker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-42  
+Pasquale Devito  
 </summary>
 
 :x: *Wrong...*
