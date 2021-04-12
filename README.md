@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/11/2021 at 12:00 AM*
-### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+*Updated 4/12/2021 at 12:00 AM*
+### How many ships did Columbus set sail with on his initial voyage to the New World?
 <details>
 <summary>
-Jerry Bailey    
+Two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Cauthen  
+Three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Willie Shoemaker   
+Five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pasquale Devito  
+Ten  
 </summary>
 
 :x: *Wrong...*
