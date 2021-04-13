@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/12/2021 at 12:00 AM*
-### How many ships did Columbus set sail with on his initial voyage to the New World?
+*Updated 4/13/2021 at 12:00 AM*
+### The TV show 'House of Style' airs on what network?
 <details>
 <summary>
-Two    
+E    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three  
+WB  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+MTV   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ten  
+Home Shopping Network  
 </summary>
 
 :x: *Wrong...*
