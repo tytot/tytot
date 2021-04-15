@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/14/2021 at 12:00 AM*
-### What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?
+*Updated 4/15/2021 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-Lamborghini    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Camaro  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Corvette   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Trans Am  
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+beef   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pork  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
