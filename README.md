@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/15/2021 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 4/16/2021 at 12:00 AM*
+### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
 <details>
 <summary>
-shrimp    
+Martha Stewart    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+Dr Ruth Westheimer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ann Landers   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pork  
+Miss Manners  
 </summary>
 
 :x: *Wrong...*
