@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/16/2021 at 12:00 AM*
-### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
+*Updated 4/17/2021 at 12:00 AM*
+### How many ribs are there in the human body?
 <details>
 <summary>
-Martha Stewart    
+18    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr Ruth Westheimer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ann Landers   
+24  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Miss Manners  
+30   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+42  
 </summary>
 
 :x: *Wrong...*
