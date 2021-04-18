@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/17/2021 at 12:00 AM*
-### How many ribs are there in the human body?
+*Updated 4/18/2021 at 12:00 AM*
+### In the famous ballet 'The Nutcracker' who does the hero defeat?
 <details>
 <summary>
-18    
+Sugar Plum Fairy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-24  
+Rat King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-30   
+Snow Queen   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-42  
+Marzipan  
 </summary>
 
 :x: *Wrong...*
