@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/18/2021 at 12:00 AM*
-### In the famous ballet 'The Nutcracker' who does the hero defeat?
+*Updated 4/19/2021 at 12:00 AM*
+### What team has won the most World Series?
 <details>
 <summary>
-Sugar Plum Fairy    
+Chicago Cubs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rat King  
+Los Angeles Dodgers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York Yankees   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Snow Queen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Marzipan  
+San Francisco Giants  
 </summary>
 
 :x: *Wrong...*
