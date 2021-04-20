@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/19/2021 at 12:00 AM*
-### What team has won the most World Series?
+*Updated 4/20/2021 at 12:00 AM*
+### Who was president of the United States when Bill Clinton was born?
 <details>
 <summary>
-Chicago Cubs    
+Herbert Hoover    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Los Angeles Dodgers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York Yankees   
+Harry S. Truman  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-San Francisco Giants  
+Franklin Roosevelt   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dwight Eisenhower  
 </summary>
 
 :x: *Wrong...*
