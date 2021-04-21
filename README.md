@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/20/2021 at 12:00 AM*
-### Who was president of the United States when Bill Clinton was born?
+*Updated 4/21/2021 at 12:00 AM*
+### On what body part should you wear a babushka?
 <details>
 <summary>
-Herbert Hoover    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harry S. Truman  
+head    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Franklin Roosevelt   
+hands  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dwight Eisenhower  
+foot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+legs  
 </summary>
 
 :x: *Wrong...*
