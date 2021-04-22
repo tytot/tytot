@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/21/2021 at 12:00 AM*
-### On what body part should you wear a babushka?
+*Updated 4/22/2021 at 12:00 AM*
+### For a man and woman on a date, 'dutch treat' means what?
 <details>
 <summary>
-head    
+the man pays    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the woman pays  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Dutch pay   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+each pays their own way  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-hands  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-foot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-legs  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
