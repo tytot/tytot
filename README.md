@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/22/2021 at 12:00 AM*
-### For a man and woman on a date, 'dutch treat' means what?
+*Updated 4/23/2021 at 12:00 AM*
+### In which of the following bands did Jimmy Page not play guitar?
 <details>
 <summary>
-the man pays    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the woman pays  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Dutch pay   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-each pays their own way  
+Bad Company    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+The Firm  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Led Zeppelin   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Yardbirds  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
