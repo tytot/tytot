@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/23/2021 at 12:00 AM*
-### In which of the following bands did Jimmy Page not play guitar?
+*Updated 4/24/2021 at 12:00 AM*
+### How many ribs are there in the human body?
 <details>
 <summary>
-Bad Company    
+18    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+24  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-The Firm  
+30   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Led Zeppelin   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Yardbirds  
+42  
 </summary>
 
 :x: *Wrong...*
