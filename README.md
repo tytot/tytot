@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/24/2021 at 12:00 AM*
-### How many ribs are there in the human body?
+*Updated 4/25/2021 at 12:00 AM*
+### The sport of judo comes from what Asian country?
 <details>
 <summary>
-18    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-24  
+Japan    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-30   
+Vietnam  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-42  
+Laos   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Philippines  
 </summary>
 
 :x: *Wrong...*
