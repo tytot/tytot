@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/25/2021 at 12:00 AM*
-### The sport of judo comes from what Asian country?
+*Updated 4/26/2021 at 12:00 AM*
+### What animal is used to make lard?
 <details>
 <summary>
-Japan    
+pig    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vietnam  
+cow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Laos   
+snake   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philippines  
+chicken  
 </summary>
 
 :x: *Wrong...*
