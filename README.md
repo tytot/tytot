@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/26/2021 at 12:00 AM*
-### What animal is used to make lard?
+*Updated 4/27/2021 at 12:00 AM*
+### A student who earns a J.D. can begin his or her career as a what?
 <details>
 <summary>
-pig    
+lawyer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cow  
+bricklayer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-snake   
+doctor   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+accountant  
 </summary>
 
 :x: *Wrong...*
