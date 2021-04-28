@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/27/2021 at 12:00 AM*
-### A student who earns a J.D. can begin his or her career as a what?
+*Updated 4/28/2021 at 12:00 AM*
+### What is the proper nautical use of an anchor?
 <details>
 <summary>
-lawyer    
+to catch large fish    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to calculate water depth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to hold a ship in place   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bricklayer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-doctor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-accountant  
+to damage other boats  
 </summary>
 
 :x: *Wrong...*
