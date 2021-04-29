@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/28/2021 at 12:00 AM*
-### What is the proper nautical use of an anchor?
+*Updated 4/29/2021 at 12:00 AM*
+### Which famed modeling agency shares its name with a top U.S. automaker?
 <details>
 <summary>
-to catch large fish    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to calculate water depth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to hold a ship in place   
+Ford    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to damage other boats  
+Chevrolet  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chrysler   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturn  
 </summary>
 
 :x: *Wrong...*
