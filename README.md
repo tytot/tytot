@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/29/2021 at 12:00 AM*
-### Which famed modeling agency shares its name with a top U.S. automaker?
+*Updated 4/30/2021 at 12:00 AM*
+### What is the principal ingredient in traditional cole slaw?
 <details>
 <summary>
-Ford    
+lettuce    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+spinach   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cabbage   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chevrolet  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chrysler   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturn  
+chicory  
 </summary>
 
 :x: *Wrong...*
