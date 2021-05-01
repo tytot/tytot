@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/30/2021 at 12:00 AM*
-### What is the principal ingredient in traditional cole slaw?
+*Updated 5/1/2021 at 12:00 AM*
+### As of 1999, which state has the most Girl Scouts?
 <details>
 <summary>
-lettuce    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-spinach   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cabbage   
+California    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicory  
+Illinois  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pennsylvania  
 </summary>
 
 :x: *Wrong...*
