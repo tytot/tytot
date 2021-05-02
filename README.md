@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/1/2021 at 12:00 AM*
-### As of 1999, which state has the most Girl Scouts?
+*Updated 5/2/2021 at 12:00 AM*
+### What is the more common name for the disease 'pertussis'?
 <details>
 <summary>
-California    
+whooping cough    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Illinois  
+tennis elbow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York   
+black lung   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pennsylvania  
+German measles  
 </summary>
 
 :x: *Wrong...*
