@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/2/2021 at 12:00 AM*
-### What is the more common name for the disease 'pertussis'?
+*Updated 5/3/2021 at 12:00 AM*
+### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
 <details>
 <summary>
-whooping cough    
+six    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tennis elbow  
+seven  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-black lung   
+eight   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-German measles  
+ten  
 </summary>
 
 :x: *Wrong...*
