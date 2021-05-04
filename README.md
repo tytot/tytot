@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/3/2021 at 12:00 AM*
-### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
+*Updated 5/4/2021 at 12:00 AM*
+### Which of these pastas is spiral shaped?
 <details>
 <summary>
-six    
+fettuccine    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rigatoni  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+tortellini   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rotini  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-seven  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
