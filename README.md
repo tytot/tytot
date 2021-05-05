@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/4/2021 at 12:00 AM*
-### Which of these pastas is spiral shaped?
+*Updated 5/5/2021 at 12:00 AM*
+### In bowling, how many pins must you knock down to get a strike?
 <details>
 <summary>
-fettuccine    
+zero    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rigatoni  
+8  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tortellini   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rotini  
+10   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+12  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
