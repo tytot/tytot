@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/5/2021 at 12:00 AM*
-### In bowling, how many pins must you knock down to get a strike?
+*Updated 5/6/2021 at 12:00 AM*
+### Which of the following breakfast cereals is shaped like the letter O?
 <details>
 <summary>
-zero    
+Life Corn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8  
+Chex  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-10   
+Cheerios   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-12  
+Raisin Bran  
 </summary>
 
 :x: *Wrong...*
