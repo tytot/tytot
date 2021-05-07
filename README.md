@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/6/2021 at 12:00 AM*
-### Which of the following breakfast cereals is shaped like the letter O?
+*Updated 5/7/2021 at 12:00 AM*
+### Which of these popular games relies on bluffing?
 <details>
 <summary>
-Life Corn    
+Outburst    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chex  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cheerios   
+Balderdash  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Raisin Bran  
+Pictionary   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Scattergories  
 </summary>
 
 :x: *Wrong...*
