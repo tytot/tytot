@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/7/2021 at 12:00 AM*
-### Which of these popular games relies on bluffing?
+*Updated 5/8/2021 at 12:00 AM*
+### Which company holds an annual self-named 'Bake-Off'?
 <details>
 <summary>
-Outburst    
+Betty Crocker    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Balderdash  
+Duncan Hines  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pillsbury   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Pictionary   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scattergories  
+Keebler  
 </summary>
 
 :x: *Wrong...*
