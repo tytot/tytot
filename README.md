@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/8/2021 at 12:00 AM*
-### Which company holds an annual self-named 'Bake-Off'?
+*Updated 5/9/2021 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-Betty Crocker    
+Rocky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Duncan Hines  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pillsbury   
+Underdog   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Keebler  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
