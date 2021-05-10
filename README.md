@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/9/2021 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 5/10/2021 at 12:00 AM*
+### How much does Peanuts character Lucy charge for her psychiatric advice?
 <details>
 <summary>
-Rocky    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jonny Quest  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Underdog   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sherman  
+5 cents    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+10 cents  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+75 cents   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$125  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
