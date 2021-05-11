@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/10/2021 at 12:00 AM*
-### How much does Peanuts character Lucy charge for her psychiatric advice?
+*Updated 5/11/2021 at 12:00 AM*
+### The film 'Stand By Me' is based on a novel by what author?
 <details>
 <summary>
-5 cents    
+Anne Proulx    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Stephen King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-10 cents  
+Dean Koontz   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-75 cents   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-$125  
+Frank McCourt  
 </summary>
 
 :x: *Wrong...*
