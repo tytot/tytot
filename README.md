@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/12/2021 at 12:00 AM*
-### What letters are on the '3' button of a touch-tone telephone?
+*Updated 5/13/2021 at 12:00 AM*
+### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
 <details>
 <summary>
-ABC    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-DEF  
+Law of Inertia    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-GHI   
+Law of Thermodynamics  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-WXY  
+Law of Relativity   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Gravitation  
 </summary>
 
 :x: *Wrong...*
