@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/13/2021 at 12:00 AM*
-### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
+*Updated 5/14/2021 at 12:00 AM*
+### What was the title of Beethoven's only completed opera?
 <details>
 <summary>
-Law of Inertia    
+'Faust'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'The Silence'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Immortal Beloved'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Fidelio'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Law of Thermodynamics  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Law of Relativity   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Law of Gravitation  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
