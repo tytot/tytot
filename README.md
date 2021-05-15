@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/14/2021 at 12:00 AM*
-### What was the title of Beethoven's only completed opera?
+*Updated 5/15/2021 at 12:00 AM*
+### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
 <details>
 <summary>
-'Faust'    
+through outer space    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'The Silence'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Immortal Beloved'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Fidelio'  
+through a human body  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+to the ocean floor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to the center of the earth  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
