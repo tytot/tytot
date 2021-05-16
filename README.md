@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/15/2021 at 12:00 AM*
-### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
+*Updated 5/16/2021 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-through outer space    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-through a human body  
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to the ocean floor   
+II  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to the center of the earth  
+I   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ii  
 </summary>
 
 :x: *Wrong...*
