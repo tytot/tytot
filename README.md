@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/16/2021 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 5/17/2021 at 12:00 AM*
+### To make an international telephone call from within the US, what are the first numbers you should dial?
 <details>
 <summary>
-2    
+011    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-II  
+101  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-I   
+888   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ii  
+911  
 </summary>
 
 :x: *Wrong...*
