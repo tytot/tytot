@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/17/2021 at 12:00 AM*
-### To make an international telephone call from within the US, what are the first numbers you should dial?
+*Updated 5/18/2021 at 12:00 AM*
+### Which of these horror films spawned the most sequels?
 <details>
 <summary>
-011    
+'Scream'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Jaws'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Halloween'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Friday the 13th'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-101  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-888   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-911  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
