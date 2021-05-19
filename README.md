@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/18/2021 at 12:00 AM*
-### Which of these horror films spawned the most sequels?
+*Updated 5/19/2021 at 12:00 AM*
+### Which character on the TV show 'Friends' is a chef?
 <details>
 <summary>
-'Scream'    
+Joey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Jaws'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Halloween'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Friday the 13th'  
+Monica  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Ross   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rachel  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
