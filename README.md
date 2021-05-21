@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/20/2021 at 12:00 AM*
-### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
+*Updated 5/21/2021 at 12:00 AM*
+### Who or what was Big Bertha?
 <details>
 <summary>
-one hour forward    
+a comet    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-one hour backward  
+a World War I gun  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two hours forward   
+a pro wrestling champion   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two hours backward  
+a giant Muppet  
 </summary>
 
 :x: *Wrong...*
