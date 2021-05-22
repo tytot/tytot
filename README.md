@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/21/2021 at 12:00 AM*
-### Who or what was Big Bertha?
+*Updated 5/22/2021 at 12:00 AM*
+### What does an animal produce when it lactates?
 <details>
 <summary>
-a comet    
+sweat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a World War I gun  
+wool  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+milk   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a pro wrestling champion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a giant Muppet  
+methane  
 </summary>
 
 :x: *Wrong...*
