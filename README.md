@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/22/2021 at 12:00 AM*
-### What does an animal produce when it lactates?
+*Updated 5/23/2021 at 12:00 AM*
+### According to a Yale University study, what smell is the most recognizable to American adults?
 <details>
 <summary>
-sweat    
+tuna    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wool  
+laundry  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-milk   
+popcorn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+coffee  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-methane  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
