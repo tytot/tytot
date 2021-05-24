@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/23/2021 at 12:00 AM*
-### According to a Yale University study, what smell is the most recognizable to American adults?
+*Updated 5/24/2021 at 12:00 AM*
+### What city did the Beatles originally call home?
 <details>
 <summary>
-tuna    
+London    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-laundry  
+Leeds  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-popcorn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-coffee  
+Liverpool   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Manchester  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
