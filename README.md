@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/24/2021 at 12:00 AM*
-### What city did the Beatles originally call home?
+*Updated 5/25/2021 at 12:00 AM*
+### According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
 <details>
 <summary>
-London    
+Poodle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Leeds  
+Beagle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Liverpool   
+German shepherd   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Labrador retriever  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Manchester  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
