@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/25/2021 at 12:00 AM*
-### According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
+*Updated 5/26/2021 at 12:00 AM*
+### Who was the first American in space?
 <details>
 <summary>
-Poodle    
+John Glenn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Beagle  
+Buzz Aldrin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-German shepherd   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Labrador retriever  
+Alan Shepard   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Neil Armstrong  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
