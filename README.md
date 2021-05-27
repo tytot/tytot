@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/26/2021 at 12:00 AM*
-### Who was the first American in space?
+*Updated 5/27/2021 at 12:00 AM*
+### According to a famous line from the existentialist play 'No Exit' what is hell?
 <details>
 <summary>
-John Glenn    
+oneself    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Buzz Aldrin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Alan Shepard   
+other people  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neil Armstrong  
+little made large   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hued in green and blue  
 </summary>
 
 :x: *Wrong...*
