@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/27/2021 at 12:00 AM*
-### According to a famous line from the existentialist play 'No Exit' what is hell?
+*Updated 5/28/2021 at 12:00 AM*
+### What rank entitles a general in the US Army to wear three stars?
 <details>
 <summary>
-oneself    
+brigadier general    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-other people  
+corporal general  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+lieutenant general   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-little made large   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hued in green and blue  
+major general  
 </summary>
 
 :x: *Wrong...*
