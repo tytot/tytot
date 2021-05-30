@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/29/2021 at 12:00 AM*
-### What high school does the gang from the 'Archie' comic strip attend?
+*Updated 5/30/2021 at 12:00 AM*
+### Who was the English king at the time of the American Revolution?
 <details>
 <summary>
-Ridgemont High    
+Charles I    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Riverdale High  
+James I  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Edward III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+George III  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Rumson High   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Riker's Island High  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
