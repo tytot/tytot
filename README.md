@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/30/2021 at 12:00 AM*
-### Who was the English king at the time of the American Revolution?
+*Updated 5/31/2021 at 12:00 AM*
+### Where are fireworks first known to have been developed?
 <details>
 <summary>
-Charles I    
+Italy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-James I  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Edward III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-George III  
+China  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Great Britain   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Greece  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
