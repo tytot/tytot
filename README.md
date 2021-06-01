@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/31/2021 at 12:00 AM*
-### Where are fireworks first known to have been developed?
+*Updated 6/1/2021 at 12:00 AM*
+### Who sang lead vocals for the band Big Brother and the Holding Company?
 <details>
 <summary>
-Italy    
+Grace Slick    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-China  
+Janis Joplin  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Great Britain   
+Mama Cass   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece  
+Karen Carpenter  
 </summary>
 
 :x: *Wrong...*
