@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/1/2021 at 12:00 AM*
-### Who sang lead vocals for the band Big Brother and the Holding Company?
+*Updated 6/2/2021 at 12:00 AM*
+### Who was the first US president to resign from that office?
 <details>
 <summary>
-Grace Slick    
+Martin Van Buren    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Janis Joplin  
+Andrew Jackson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andrew Johnson   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Richard Nixon  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Mama Cass   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Karen Carpenter  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
