@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/2/2021 at 12:00 AM*
-### Who was the first US president to resign from that office?
+*Updated 6/3/2021 at 12:00 AM*
+### Which of these television programs did not feature characters introduced on 'Happy Days'?
 <details>
 <summary>
-Martin Van Buren    
+'Mork & Mindy'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Andrew Johnson   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Richard Nixon  
+'Perfect Strangers'  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+'Joanie Loves Chachi'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Laverne & Shirley'  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
