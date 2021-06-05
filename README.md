@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/4/2021 at 12:00 AM*
-### Who co-founded Microsoft with Bill Gates?
+*Updated 6/5/2021 at 12:00 AM*
+### How many keys are on a standard piano?
 <details>
 <summary>
-Steve Jobs    
+20    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Wozniak  
+54  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Williams   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Paul Allen  
+88   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+100  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
