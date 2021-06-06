@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/5/2021 at 12:00 AM*
-### How many keys are on a standard piano?
+*Updated 6/6/2021 at 12:00 AM*
+### Which of these is not a breed of cat?
 <details>
 <summary>
-20    
+Persian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-54  
+Turkish Angora  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-88   
+Bichon Frise   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-100  
+Maine Coon  
 </summary>
 
 :x: *Wrong...*
