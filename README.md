@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/7/2021 at 12:00 AM*
-### What is the medical term for a doctor's identification of a disease?
+*Updated 6/8/2021 at 12:00 AM*
+### Which of the following breakfast cereals is shaped like the letter O?
 <details>
 <summary>
-Hypnosis    
+Life Corn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Prognosis  
+Chex  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Trichinosis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Diagnosis  
+Cheerios   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Raisin Bran  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
