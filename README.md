@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/8/2021 at 12:00 AM*
-### Which of the following breakfast cereals is shaped like the letter O?
+*Updated 6/9/2021 at 12:00 AM*
+### What is the last book of the New Testament?
 <details>
 <summary>
-Life Corn    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chex  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cheerios   
+Revelation    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Raisin Bran  
+Judges  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ruth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John  
 </summary>
 
 :x: *Wrong...*
