@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/10/2021 at 12:00 AM*
-### What animal is considered sacred in India?
+*Updated 6/11/2021 at 12:00 AM*
+### Which of these companies is not an online stock brokerage?
 <details>
 <summary>
-sheep    
+E*Trade    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cow  
+EDigital  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken   
+Datek Online   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dog  
+DLJ Direct  
 </summary>
 
 :x: *Wrong...*
