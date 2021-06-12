@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/11/2021 at 12:00 AM*
-### Which of these companies is not an online stock brokerage?
+*Updated 6/12/2021 at 12:00 AM*
+### What is the art of elegant handwriting called?
 <details>
 <summary>
-E*Trade    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-EDigital  
+calligraphy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Datek Online   
+engraving  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DLJ Direct  
+decoupage   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+lithography  
 </summary>
 
 :x: *Wrong...*
