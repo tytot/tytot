@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/12/2021 at 12:00 AM*
-### What is the art of elegant handwriting called?
+*Updated 6/13/2021 at 12:00 AM*
+### In baseball, how many balls make a walk?
 <details>
 <summary>
-calligraphy    
+one    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-engraving  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-decoupage   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-lithography  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
