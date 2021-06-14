@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/13/2021 at 12:00 AM*
-### In baseball, how many balls make a walk?
+*Updated 6/14/2021 at 12:00 AM*
+### According to the USDA, which food group should you eat the most servings of per day?
 <details>
 <summary>
-one    
+vegetables    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+dairy  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three   
+meats   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+breads  
 </summary>
 
 :heavy_check_mark: *Correct!*
