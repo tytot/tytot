@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/14/2021 at 12:00 AM*
-### According to the USDA, which food group should you eat the most servings of per day?
+*Updated 6/15/2021 at 12:00 AM*
+### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
 <details>
 <summary>
-vegetables    
+Abner Doubleday    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dairy  
+Ty Cobb  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meats   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-breads  
+Jackie Robinson   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Billy Martin  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
