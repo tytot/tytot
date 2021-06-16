@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/15/2021 at 12:00 AM*
-### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
+*Updated 6/16/2021 at 12:00 AM*
+### What kind of animal is cartoon character Tennessee Tuxedo?
 <details>
 <summary>
-Abner Doubleday    
+cat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ty Cobb  
+skunk  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Robinson   
+walrus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+penguin  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Billy Martin  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
