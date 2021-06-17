@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/16/2021 at 12:00 AM*
-### What kind of animal is cartoon character Tennessee Tuxedo?
+*Updated 6/17/2021 at 12:00 AM*
+### Paper will burn at approximately what temperature, in Fahrenheit?
 <details>
 <summary>
-cat    
+98.6 degrees    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-skunk  
+212.5 degrees  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-walrus   
+398.5 degrees   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-penguin  
+451 degrees  
 </summary>
 
 :heavy_check_mark: *Correct!*
