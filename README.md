@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/17/2021 at 12:00 AM*
-### Paper will burn at approximately what temperature, in Fahrenheit?
+*Updated 6/18/2021 at 12:00 AM*
+### On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?
 <details>
 <summary>
-98.6 degrees    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-212.5 degrees  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-398.5 degrees   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-451 degrees  
+Eros    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Cupid  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aphrodite   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Venus  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
