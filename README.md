@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/18/2021 at 12:00 AM*
-### On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?
+*Updated 6/19/2021 at 12:00 AM*
+### Which of these is referred to as a 'pigskin'?
 <details>
 <summary>
-Eros    
+Football    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cupid  
+Basketball  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aphrodite   
+hockey puck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Venus  
+catcher's Mitt  
 </summary>
 
 :x: *Wrong...*
