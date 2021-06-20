@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/19/2021 at 12:00 AM*
-### Which of these is referred to as a 'pigskin'?
+*Updated 6/20/2021 at 12:00 AM*
+### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
 <details>
 <summary>
-Football    
+one hour forward    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+one hour backward  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Basketball  
+two hours forward   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hockey puck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-catcher's Mitt  
+two hours backward  
 </summary>
 
 :x: *Wrong...*
