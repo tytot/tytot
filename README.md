@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/20/2021 at 12:00 AM*
-### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
+*Updated 6/21/2021 at 12:00 AM*
+### How many periods are there in an ice hockey game?
 <details>
 <summary>
-one hour forward    
+One    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-one hour backward  
+Two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Three   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two hours forward   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two hours backward  
+Four  
 </summary>
 
 :x: *Wrong...*
