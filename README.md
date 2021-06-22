@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/21/2021 at 12:00 AM*
-### How many periods are there in an ice hockey game?
+*Updated 6/22/2021 at 12:00 AM*
+### Which of these rock guitarists designed a colorful line of men's neckties?
 <details>
 <summary>
-One    
+Eric Clapton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Three   
+Jerry Garcia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Four  
+Jeff Beck   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Keith Richards  
 </summary>
 
 :x: *Wrong...*
