@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/22/2021 at 12:00 AM*
-### Which of these rock guitarists designed a colorful line of men's neckties?
+*Updated 6/23/2021 at 12:00 AM*
+### Which of these horror films spawned the most sequels?
 <details>
 <summary>
-Eric Clapton    
+'Scream'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jerry Garcia  
+'Jaws'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Halloween'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Friday the 13th'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Jeff Beck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Keith Richards  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
