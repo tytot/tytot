@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/23/2021 at 12:00 AM*
-### Which of these horror films spawned the most sequels?
+*Updated 6/24/2021 at 12:00 AM*
+### Which of these foods could contain small amounts of naturally occurring opium?
 <details>
 <summary>
-'Scream'    
+chocolate truffles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Jaws'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Halloween'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Friday the 13th'  
+poppy seed bagels  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+carbonated soda   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sesame chicken  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
