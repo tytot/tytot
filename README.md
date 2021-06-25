@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/24/2021 at 12:00 AM*
-### Which of these foods could contain small amounts of naturally occurring opium?
+*Updated 6/25/2021 at 12:00 AM*
+### Who was the longest reigning monarch in French history?
 <details>
 <summary>
-chocolate truffles    
+Louis XIII     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-poppy seed bagels  
+Louis XIV  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carbonated soda   
+Louis XV   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sesame chicken  
+Louis XVI  
 </summary>
 
 :x: *Wrong...*
