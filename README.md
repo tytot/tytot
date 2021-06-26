@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/25/2021 at 12:00 AM*
-### Who was the longest reigning monarch in French history?
+*Updated 6/26/2021 at 12:00 AM*
+### As of 1999, which state has the most Girl Scouts?
 <details>
 <summary>
-Louis XIII     
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Louis XIV  
+California    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Louis XV   
+Illinois  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Louis XVI  
+New York   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pennsylvania  
 </summary>
 
 :x: *Wrong...*
