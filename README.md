@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/26/2021 at 12:00 AM*
-### As of 1999, which state has the most Girl Scouts?
+*Updated 6/27/2021 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-California    
+yahtzee    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+mulligan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Illinois  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pennsylvania  
+ace  
 </summary>
 
 :x: *Wrong...*
