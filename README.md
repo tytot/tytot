@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/27/2021 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 6/29/2021 at 12:00 AM*
+### John D. Rockefeller made his fortune in what industry?
 <details>
 <summary>
-yahtzee    
+automobile     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mulligan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-turkey   
+oil  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+railroad  
 </summary>
 
 :x: *Wrong...*
