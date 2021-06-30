@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/29/2021 at 12:00 AM*
-### John D. Rockefeller made his fortune in what industry?
+*Updated 6/30/2021 at 12:00 AM*
+### Ada Lovelace is credited with being the first person to have made what?
 <details>
 <summary>
-automobile     
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-oil  
+a computer program    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-steel   
+a souffle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-railroad  
+a brassiere   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a mystery novel  
 </summary>
 
 :x: *Wrong...*
