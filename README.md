@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/1/2021 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 7/2/2021 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-It opens many locks.    
+sportswear    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dishwashers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-It's made of bone.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
