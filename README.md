@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/2/2021 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 7/3/2021 at 12:00 AM*
+### At what age can someone first attend an R-rated movie without an accompanying adult?
 <details>
 <summary>
-sportswear    
+15    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dishwashers  
+17  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cigarettes   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bicycles  
+18   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+21  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
