@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/3/2021 at 12:00 AM*
-### At what age can someone first attend an R-rated movie without an accompanying adult?
+*Updated 7/4/2021 at 12:00 AM*
+### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
 <details>
 <summary>
-15    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-17  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-18   
+a cow    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-21  
+a hat  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a harp   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a goose  
 </summary>
 
 :x: *Wrong...*
