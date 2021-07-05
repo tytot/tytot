@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/4/2021 at 12:00 AM*
-### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
+*Updated 7/5/2021 at 12:00 AM*
+### What does the Yiddish word 'meshuga' mean?
 <details>
 <summary>
-a cow    
+crazy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a hat  
+sacred  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a harp   
+stingy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a goose  
+sweet  
 </summary>
 
 :x: *Wrong...*
