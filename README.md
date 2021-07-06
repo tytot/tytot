@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/5/2021 at 12:00 AM*
-### What does the Yiddish word 'meshuga' mean?
+*Updated 7/6/2021 at 12:00 AM*
+### If a piece of music is in 'common time' how many quarter notes are there per measure?
 <details>
 <summary>
-crazy    
+one    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sacred  
+five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stingy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sweet  
+ten  
 </summary>
 
 :x: *Wrong...*
