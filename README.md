@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/6/2021 at 12:00 AM*
-### If a piece of music is in 'common time' how many quarter notes are there per measure?
+*Updated 7/7/2021 at 12:00 AM*
+### What is the nickname of Florida's controversial death row electric chair?
 <details>
 <summary>
-one    
+Old Yeller    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+Old Geezer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Smoky   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Sparky  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
