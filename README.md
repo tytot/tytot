@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/7/2021 at 12:00 AM*
-### What is the nickname of Florida's controversial death row electric chair?
+*Updated 7/8/2021 at 12:00 AM*
+### Which of these stores is not owned by Gap Inc?
 <details>
 <summary>
-Old Yeller    
+Gap    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Geezer  
+Banana Republic  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Smoky   
+Old Navy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Sparky  
+J Crew  
 </summary>
 
 :heavy_check_mark: *Correct!*
