@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/8/2021 at 12:00 AM*
-### Which of these stores is not owned by Gap Inc?
+*Updated 7/9/2021 at 12:00 AM*
+### Which American colony, known for its religious tolerance, did Roger Williams found in 1636?
 <details>
 <summary>
-Gap    
+Massachusetts    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Banana Republic  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Navy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-J Crew  
+Rhode Island  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Virginia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vermont  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
