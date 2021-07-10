@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/9/2021 at 12:00 AM*
-### Which American colony, known for its religious tolerance, did Roger Williams found in 1636?
+*Updated 7/10/2021 at 12:00 AM*
+### Which of these foods could contain small amounts of naturally occurring opium?
 <details>
 <summary>
-Massachusetts    
+chocolate truffles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhode Island  
+poppy seed bagels  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Virginia   
+carbonated soda   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vermont  
+sesame chicken  
 </summary>
 
 :x: *Wrong...*
