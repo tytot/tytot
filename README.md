@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/10/2021 at 12:00 AM*
-### Which of these foods could contain small amounts of naturally occurring opium?
+*Updated 7/11/2021 at 12:00 AM*
+### How is 4:00 pm expressed in military time?
 <details>
 <summary>
-chocolate truffles    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-poppy seed bagels  
+1600    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carbonated soda   
+004  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sesame chicken  
+0400    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+4:00  
 </summary>
 
 :x: *Wrong...*
