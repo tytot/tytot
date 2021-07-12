@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/11/2021 at 12:00 AM*
-### How is 4:00 pm expressed in military time?
+*Updated 7/12/2021 at 12:00 AM*
+### Someone would most likely contract salmonella poisoning from eating which of the following?
 <details>
 <summary>
-1600    
+carrots    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-004  
+tofu   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-0400    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-4:00  
+rice  
 </summary>
 
 :x: *Wrong...*
