@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/12/2021 at 12:00 AM*
-### Someone would most likely contract salmonella poisoning from eating which of the following?
+*Updated 7/13/2021 at 12:00 AM*
+### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
 <details>
 <summary>
-carrots    
+Boston Celtics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+Los Angeles Lakers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York Knicks   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tofu   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+Philadelphia 76ers  
 </summary>
 
 :x: *Wrong...*
