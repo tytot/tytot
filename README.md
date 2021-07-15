@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/13/2021 at 12:00 AM*
-### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
+*Updated 7/15/2021 at 12:00 AM*
+### If someone has cataracts, what part of their body might need an operation?
 <details>
 <summary>
-Boston Celtics    
+ear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Los Angeles Lakers  
+hand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York Knicks   
+eye   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Philadelphia 76ers  
+knee  
 </summary>
 
 :x: *Wrong...*
