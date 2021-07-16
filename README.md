@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/15/2021 at 12:00 AM*
-### If someone has cataracts, what part of their body might need an operation?
+*Updated 7/16/2021 at 12:00 AM*
+### Who is the mythological Roman goddess of flowers?
 <details>
 <summary>
-ear    
+Diana    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hand  
+Echo  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eye   
+Flora   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-knee  
+Niobe  
 </summary>
 
 :x: *Wrong...*
