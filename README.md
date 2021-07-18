@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/17/2021 at 12:00 AM*
-### Which of these is a government agency established to protect investors?
+*Updated 7/18/2021 at 12:00 AM*
+### Who wrote 'A Tale of Two Cities'?
 <details>
 <summary>
-AAA    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-NBA  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-SEC   
+Charles Dickens    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-MADD  
+Nathaniel Hawthorne  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Washington Irving   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mark Twain  
 </summary>
 
 :x: *Wrong...*
