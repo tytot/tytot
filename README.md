@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/18/2021 at 12:00 AM*
-### Who wrote 'A Tale of Two Cities'?
+*Updated 7/19/2021 at 12:00 AM*
+### What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?
 <details>
 <summary>
-Charles Dickens    
+blossom on a shield    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eye of the archer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the lion's mane   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+armpit of the giant  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Nathaniel Hawthorne  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Washington Irving   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mark Twain  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
