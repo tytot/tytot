@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/19/2021 at 12:00 AM*
-### What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?
+*Updated 7/20/2021 at 12:00 AM*
+### In the children's game, what color is 'Rover'?
 <details>
 <summary>
-blossom on a shield    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eye of the archer  
+black  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the lion's mane   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-armpit of the giant  
+red   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+blue  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
