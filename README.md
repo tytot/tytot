@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/20/2021 at 12:00 AM*
-### In the children's game, what color is 'Rover'?
+*Updated 7/21/2021 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-green    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-black  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-red   
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+It's made of bone.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
