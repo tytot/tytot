@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/21/2021 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 7/22/2021 at 12:00 AM*
+### The sport of judo comes from what Asian country?
 <details>
 <summary>
-It opens many locks.    
+Japan    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-It's made of bone.  
+Vietnam  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It's extremely old.   
+Laos   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It hangs in a closet.  
+Philippines  
 </summary>
 
 :x: *Wrong...*
