@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/22/2021 at 12:00 AM*
-### The sport of judo comes from what Asian country?
+*Updated 7/23/2021 at 12:00 AM*
+### Modern computer microchips are primarily composed of what element?
 <details>
 <summary>
-Japan    
+Sodium    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Silicon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vietnam  
+Aluminum   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Laos   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philippines  
+Silver  
 </summary>
 
 :x: *Wrong...*
