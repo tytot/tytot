@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/23/2021 at 12:00 AM*
-### Modern computer microchips are primarily composed of what element?
+*Updated 7/24/2021 at 12:00 AM*
+### Which of these is not a type of chili pepper?
 <details>
 <summary>
-Sodium    
+habanero    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Silicon  
+cheyenne  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aluminum   
+jalapeno   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Silver  
+guajillo  
 </summary>
 
 :x: *Wrong...*
