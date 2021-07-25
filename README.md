@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/24/2021 at 12:00 AM*
-### Which of these is not a type of chili pepper?
+*Updated 7/25/2021 at 12:00 AM*
+### What force causes an ice cream cone to fly off of a spinning merry-go-round?
 <details>
 <summary>
-habanero    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cheyenne  
+centrifugal    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-jalapeno   
+vehicular  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-guajillo  
+gravitational   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+torsal  
 </summary>
 
 :x: *Wrong...*
