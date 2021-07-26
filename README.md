@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/25/2021 at 12:00 AM*
-### What force causes an ice cream cone to fly off of a spinning merry-go-round?
+*Updated 7/26/2021 at 12:00 AM*
+### To create a tapestry, one must traditionally engage in what activity?
 <details>
 <summary>
-centrifugal    
+weaving    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-vehicular  
+sculpting  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravitational   
+baking   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-torsal  
+singing  
 </summary>
 
 :x: *Wrong...*
