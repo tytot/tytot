@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/26/2021 at 12:00 AM*
-### To create a tapestry, one must traditionally engage in what activity?
+*Updated 7/27/2021 at 12:00 AM*
+### How many $100 bills does it take to equal one million dollars?
 <details>
 <summary>
-weaving    
+one thousand    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+five thousand  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten thousand   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sculpting  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-baking   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-singing  
+one hundred thousand  
 </summary>
 
 :x: *Wrong...*
