@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/27/2021 at 12:00 AM*
-### How many $100 bills does it take to equal one million dollars?
+*Updated 7/28/2021 at 12:00 AM*
+### Elephant tusks are made of what material?
 <details>
 <summary>
-one thousand    
+coral    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five thousand  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten thousand   
+ivory  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-one hundred thousand  
+bone   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+calcium  
 </summary>
 
 :x: *Wrong...*
