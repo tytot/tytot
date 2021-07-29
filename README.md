@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/28/2021 at 12:00 AM*
-### Elephant tusks are made of what material?
+*Updated 7/29/2021 at 12:00 AM*
+### Which Pope immediately preceded John Paul II?
 <details>
 <summary>
-coral    
+John XXIII     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ivory  
+Paul VI  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John Paul I   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bone   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-calcium  
+Hank II  
 </summary>
 
 :x: *Wrong...*
