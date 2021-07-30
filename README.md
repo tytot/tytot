@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/29/2021 at 12:00 AM*
-### Which Pope immediately preceded John Paul II?
+*Updated 7/30/2021 at 12:00 AM*
+### 'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?
 <details>
 <summary>
-John XXIII     
+'Citizen Kane'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul VI  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John Paul I   
+'The African Queen'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hank II  
+'The Deer Hunter'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Adam's Rib'  
 </summary>
 
 :x: *Wrong...*
