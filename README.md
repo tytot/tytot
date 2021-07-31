@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/30/2021 at 12:00 AM*
-### 'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?
+*Updated 7/31/2021 at 12:00 AM*
+### In the movie 'Star Wars' what kind of creature is Chewbacca?
 <details>
 <summary>
-'Citizen Kane'    
+Woolie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'The African Queen'  
+Boobie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Wookie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Deer Hunter'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Adam's Rib'  
+Klingon  
 </summary>
 
 :x: *Wrong...*
