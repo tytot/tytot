@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/31/2021 at 12:00 AM*
-### In the movie 'Star Wars' what kind of creature is Chewbacca?
+*Updated 8/1/2021 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-Woolie    
+platinum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boobie  
+gold  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wookie   
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Klingon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
