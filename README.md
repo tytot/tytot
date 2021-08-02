@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/1/2021 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 8/2/2021 at 12:00 AM*
+### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
 <details>
 <summary>
-platinum    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gold  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-steel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-silver  
+a cow    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+a hat  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a harp   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a goose  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
