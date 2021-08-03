@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/2/2021 at 12:00 AM*
-### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
+*Updated 8/3/2021 at 12:00 AM*
+### What disease is characterized by a body's inability to properly metabolize glucose?
 <details>
 <summary>
-a cow    
+Influenza    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Septicemia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Diabetes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a hat  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a harp   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a goose  
+Arthritis  
 </summary>
 
 :x: *Wrong...*
