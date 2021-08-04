@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/3/2021 at 12:00 AM*
-### What disease is characterized by a body's inability to properly metabolize glucose?
+*Updated 8/4/2021 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-Influenza    
+13    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Septicemia  
+48  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Diabetes   
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Arthritis  
+51  
 </summary>
 
 :x: *Wrong...*
