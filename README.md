@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/4/2021 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 8/5/2021 at 12:00 AM*
+### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
 <details>
 <summary>
-13    
+Billy Graham    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-48  
+Oral Roberts  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-50   
+Jerry Falwell   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jimmy Swaggart  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-51  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
