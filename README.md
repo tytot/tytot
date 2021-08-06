@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/5/2021 at 12:00 AM*
-### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
+*Updated 8/6/2021 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-Billy Graham    
+chirp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Oral Roberts  
+bark  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jerry Falwell   
+growl   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jimmy Swaggart  
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
