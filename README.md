@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/6/2021 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 8/7/2021 at 12:00 AM*
+### Which of the Three Stooges was not related to the others?
 <details>
 <summary>
-chirp    
+Moe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+Larry  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Curly   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Shemp  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
