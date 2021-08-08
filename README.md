@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/2021 at 12:00 AM*
-### Which of the Three Stooges was not related to the others?
+*Updated 8/8/2021 at 12:00 AM*
+### Which of these television programs did not feature characters introduced on 'Happy Days'?
 <details>
 <summary>
-Moe    
+'Mork & Mindy'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Larry  
+'Perfect Strangers'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curly   
+'Joanie Loves Chachi'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Shemp  
+'Laverne & Shirley'  
 </summary>
 
 :x: *Wrong...*
