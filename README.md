@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2021 at 12:00 AM*
-### Which of these television programs did not feature characters introduced on 'Happy Days'?
+*Updated 8/9/2021 at 12:00 AM*
+### How long is a single term in the US Senate?
 <details>
 <summary>
-'Mork & Mindy'    
+two years    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Perfect Strangers'  
+four years  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+six years   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Joanie Loves Chachi'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Laverne & Shirley'  
+eight years  
 </summary>
 
 :x: *Wrong...*
