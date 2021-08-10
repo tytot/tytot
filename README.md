@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/9/2021 at 12:00 AM*
-### How long is a single term in the US Senate?
+*Updated 8/10/2021 at 12:00 AM*
+### How are actors Charlie Sheen and Emilio Estevez related?
 <details>
 <summary>
-two years    
+they're cousins    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four years  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-six years   
+they're brothers  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-eight years  
+they're father and son   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+they're uncle and nephew  
 </summary>
 
 :x: *Wrong...*
