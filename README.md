@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/10/2021 at 12:00 AM*
-### How are actors Charlie Sheen and Emilio Estevez related?
+*Updated 8/11/2021 at 12:00 AM*
+### Which of these words is a synonym for 'perambulate'?
 <details>
 <summary>
-they're cousins    
+kiss    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-they're brothers  
+shout  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stroll   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-they're father and son   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-they're uncle and nephew  
+heal  
 </summary>
 
 :x: *Wrong...*
