@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/11/2021 at 12:00 AM*
-### Which of these words is a synonym for 'perambulate'?
+*Updated 8/12/2021 at 12:00 AM*
+### What animal represents the year 2000 on the Chinese calendar?
 <details>
 <summary>
-kiss    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shout  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-stroll   
+dragon    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-heal  
+rabbit  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+tiger   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+monkey  
 </summary>
 
 :x: *Wrong...*
