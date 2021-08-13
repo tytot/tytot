@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/12/2021 at 12:00 AM*
-### What animal represents the year 2000 on the Chinese calendar?
+*Updated 8/13/2021 at 12:00 AM*
+### What is the more common name for the disease 'pertussis'?
 <details>
 <summary>
-dragon    
+whooping cough    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rabbit  
+tennis elbow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tiger   
+black lung   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-monkey  
+German measles  
 </summary>
 
 :x: *Wrong...*
