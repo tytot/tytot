@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/13/2021 at 12:00 AM*
-### What is the more common name for the disease 'pertussis'?
+*Updated 8/14/2021 at 12:00 AM*
+### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
 <details>
 <summary>
-whooping cough    
+Jerry Bailey    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Steve Cauthen  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tennis elbow  
+Willie Shoemaker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-black lung   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German measles  
+Pasquale Devito  
 </summary>
 
 :x: *Wrong...*
