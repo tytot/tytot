@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/14/2021 at 12:00 AM*
-### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+*Updated 8/15/2021 at 12:00 AM*
+### Which of these is referred to as a 'pigskin'?
 <details>
 <summary>
-Jerry Bailey    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Steve Cauthen  
+Football    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Willie Shoemaker   
+Basketball  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pasquale Devito  
+hockey puck   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+catcher's Mitt  
 </summary>
 
 :x: *Wrong...*
