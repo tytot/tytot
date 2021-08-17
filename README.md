@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/16/2021 at 12:00 AM*
-### What are the names of Donald Duck's three nephews?
+*Updated 8/17/2021 at 12:00 AM*
+### What is the largest city in Pennsylvania?
 <details>
 <summary>
-Quick, Quack, Quock    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Alvin, Simon, Theodore  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie, Chip, Ernie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Huey, Dewey, Louie  
+Philadelphia    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Stewartsville  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harrisburg   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pittsburgh  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
