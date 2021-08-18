@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/17/2021 at 12:00 AM*
-### What is the largest city in Pennsylvania?
+*Updated 8/18/2021 at 12:00 AM*
+### If someone has cataracts, what part of their body might need an operation?
 <details>
 <summary>
-Philadelphia    
+ear    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hand  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eye   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Stewartsville  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harrisburg   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh  
+knee  
 </summary>
 
 :x: *Wrong...*
