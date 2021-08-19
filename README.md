@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/18/2021 at 12:00 AM*
-### If someone has cataracts, what part of their body might need an operation?
+*Updated 8/19/2021 at 12:00 AM*
+### What was Ludwig Van Beethoven's final symphony?
 <details>
 <summary>
-ear    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hand  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eye   
+Ninth    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-knee  
+Tenth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Eleventh   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Twelfth  
 </summary>
 
 :x: *Wrong...*
