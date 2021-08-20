@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/19/2021 at 12:00 AM*
-### What was Ludwig Van Beethoven's final symphony?
+*Updated 8/20/2021 at 12:00 AM*
+### How do you express 3/4 as a decimal?
 <details>
 <summary>
-Ninth    
+.25    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+.50  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+.75   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Tenth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eleventh   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Twelfth  
+.90  
 </summary>
 
 :x: *Wrong...*
