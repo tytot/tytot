@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/20/2021 at 12:00 AM*
-### How do you express 3/4 as a decimal?
+*Updated 8/21/2021 at 12:00 AM*
+### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
 <details>
 <summary>
-.25    
+Abner Doubleday    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-.50  
+Ty Cobb  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-.75   
+Jackie Robinson   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-.90  
+Billy Martin  
 </summary>
 
 :x: *Wrong...*
