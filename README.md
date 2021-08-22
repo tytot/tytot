@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/21/2021 at 12:00 AM*
-### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
+*Updated 8/22/2021 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-Abner Doubleday    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ty Cobb  
+Bovinity Divinity  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Robinson   
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Billy Martin  
+Chubby Hubby  
 </summary>
 
 :x: *Wrong...*
