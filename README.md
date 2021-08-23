@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/22/2021 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 8/23/2021 at 12:00 AM*
+### Someone would most likely contract salmonella poisoning from eating which of the following?
 <details>
 <summary>
-Wavy Gravy    
+carrots    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cutie Patootie   
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+tofu   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rice  
 </summary>
 
 :x: *Wrong...*
