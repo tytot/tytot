@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/23/2021 at 12:00 AM*
-### Someone would most likely contract salmonella poisoning from eating which of the following?
+*Updated 8/24/2021 at 12:00 AM*
+### Cheddar cheese got its name from a village in what country?
 <details>
 <summary>
-carrots    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+England    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tofu   
+France  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rice  
+Switzerland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Denmark  
 </summary>
 
 :x: *Wrong...*
