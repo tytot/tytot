@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/24/2021 at 12:00 AM*
-### Cheddar cheese got its name from a village in what country?
+*Updated 8/25/2021 at 12:00 AM*
+### Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?
 <details>
 <summary>
-England    
+Jimmy Connors    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pete Sampras  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John McEnroe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bobby Riggs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-France  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Switzerland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Denmark  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
