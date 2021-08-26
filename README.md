@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/25/2021 at 12:00 AM*
-### Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?
+*Updated 8/26/2021 at 12:00 AM*
+### Mohair is made from the fleece of what animal?
 <details>
 <summary>
-Jimmy Connors    
+camel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pete Sampras  
+llama  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-John McEnroe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bobby Riggs  
+goat   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+mole  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
