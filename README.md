@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/26/2021 at 12:00 AM*
-### Mohair is made from the fleece of what animal?
+*Updated 8/27/2021 at 12:00 AM*
+### What is your hallux?
 <details>
 <summary>
-camel    
+earlobe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-llama  
+tongue  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-goat   
+eyelid   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+big toe  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-mole  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
