@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/27/2021 at 12:00 AM*
-### What is your hallux?
+*Updated 8/28/2021 at 12:00 AM*
+### Each year in pro baseball, the player voted as the best fielder at his position wins what?
 <details>
 <summary>
-earlobe    
+a brand new car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tongue  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eyelid   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-big toe  
+the Gold Glove  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+the Silver Bat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Brass Baseball  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
