@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/28/2021 at 12:00 AM*
-### Each year in pro baseball, the player voted as the best fielder at his position wins what?
+*Updated 8/29/2021 at 12:00 AM*
+### Which of these rock guitarists designed a colorful line of men's neckties?
 <details>
 <summary>
-a brand new car    
+Eric Clapton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the Gold Glove  
+Jerry Garcia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-the Silver Bat   
+Jeff Beck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the Brass Baseball  
+Keith Richards  
 </summary>
 
 :x: *Wrong...*
