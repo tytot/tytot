@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/29/2021 at 12:00 AM*
-### Which of these rock guitarists designed a colorful line of men's neckties?
+*Updated 8/30/2021 at 12:00 AM*
+### If you work as a 'dolly grip' what business are you in?
 <details>
 <summary>
-Eric Clapton    
+sheep farming    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jerry Garcia  
+film production  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Jeff Beck   
+construction   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Keith Richards  
+moving  
 </summary>
 
 :x: *Wrong...*
