@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/30/2021 at 12:00 AM*
-### If you work as a 'dolly grip' what business are you in?
+*Updated 8/31/2021 at 12:00 AM*
+### What term is used to describe a group of fish?
 <details>
 <summary>
-sheep farming    
+knot    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-film production  
+drape  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+school   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-construction   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-moving  
+gaggle  
 </summary>
 
 :x: *Wrong...*
