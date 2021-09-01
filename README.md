@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/31/2021 at 12:00 AM*
-### What term is used to describe a group of fish?
+*Updated 9/1/2021 at 12:00 AM*
+### Which of the boys on the TV show 'My Three Sons' is adopted?
 <details>
 <summary>
-knot    
+Mike    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-drape  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-school   
+Ernie  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-gaggle  
+Chip   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robbie  
 </summary>
 
 :x: *Wrong...*
