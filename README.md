@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/1/2021 at 12:00 AM*
-### Which of the boys on the TV show 'My Three Sons' is adopted?
+*Updated 9/2/2021 at 12:00 AM*
+### Which of these measurements is equal to one square foot?
 <details>
 <summary>
-Mike    
+50 square inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernie  
+77 square inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+100 square inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+144 square inches  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Chip   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
