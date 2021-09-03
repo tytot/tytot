@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/2/2021 at 12:00 AM*
-### Which of these measurements is equal to one square foot?
+*Updated 9/3/2021 at 12:00 AM*
+### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
 <details>
 <summary>
-50 square inches    
+ducks in a pond    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-77 square inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-100 square inches   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-144 square inches  
+pigs in a blanket  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cows in a pasture   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dogs in the oven  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
