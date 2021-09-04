@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/3/2021 at 12:00 AM*
-### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
+*Updated 9/4/2021 at 12:00 AM*
+### At what age can someone first attend an R-rated movie without an accompanying adult?
 <details>
 <summary>
-ducks in a pond    
+15    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pigs in a blanket  
+17  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+18   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cows in a pasture   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dogs in the oven  
+21  
 </summary>
 
 :x: *Wrong...*
