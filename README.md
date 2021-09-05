@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/4/2021 at 12:00 AM*
-### At what age can someone first attend an R-rated movie without an accompanying adult?
+*Updated 9/5/2021 at 12:00 AM*
+### Who is the career hit leader among players never elected to Baseball's Hall of Fame?
 <details>
 <summary>
-15    
+Steve Garvey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-17  
+Jim Rice  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-18   
+Pete Rose   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-21  
+Ken Griffey Jr  
 </summary>
 
 :x: *Wrong...*
