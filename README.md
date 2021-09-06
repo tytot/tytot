@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/5/2021 at 12:00 AM*
-### Who is the career hit leader among players never elected to Baseball's Hall of Fame?
+*Updated 9/6/2021 at 12:00 AM*
+### What is an alternate name for the food dish 'Beijing duck'?
 <details>
 <summary>
-Steve Garvey    
+Shanghai duck    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jim Rice  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pete Rose   
+Peking duck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ken Griffey Jr  
+Hong Kong duck   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Brooklyn duck  
 </summary>
 
 :x: *Wrong...*
