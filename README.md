@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/6/2021 at 12:00 AM*
-### What is an alternate name for the food dish 'Beijing duck'?
+*Updated 9/7/2021 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-Shanghai duck    
+'All the King's Men'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Peking duck  
+'All the Pretty Horses'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hong Kong duck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Brooklyn duck  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
