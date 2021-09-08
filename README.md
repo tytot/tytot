@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/7/2021 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 9/8/2021 at 12:00 AM*
+### Who originally proposed the idea of daylight-saving time?
 <details>
 <summary>
-'All the King's Men'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'All the Pretty Horses'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'All the President's Men'   
+Benjamin Franklin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'All the Right Moves'  
+Henry David Thoreau  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Galileo   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Albert Einstein  
 </summary>
 
 :x: *Wrong...*
