@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/8/2021 at 12:00 AM*
-### Who originally proposed the idea of daylight-saving time?
+*Updated 9/9/2021 at 12:00 AM*
+### What disease is characterized by a body's inability to properly metabolize glucose?
 <details>
 <summary>
-Benjamin Franklin    
+Influenza    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Septicemia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Diabetes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Henry David Thoreau  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Galileo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Albert Einstein  
+Arthritis  
 </summary>
 
 :x: *Wrong...*
