@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/9/2021 at 12:00 AM*
-### What disease is characterized by a body's inability to properly metabolize glucose?
+*Updated 9/10/2021 at 12:00 AM*
+### What substance was used for blood in the famous shower scene from the movie 'Psycho'?
 <details>
 <summary>
-Influenza    
+tomato juice    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Septicemia  
+red wine  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Diabetes   
+chocolate syrup   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Arthritis  
+ketchup  
 </summary>
 
 :x: *Wrong...*
