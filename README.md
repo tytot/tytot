@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/10/2021 at 12:00 AM*
-### What substance was used for blood in the famous shower scene from the movie 'Psycho'?
+*Updated 9/11/2021 at 12:00 AM*
+### Which of these organs comes in a pair?
 <details>
 <summary>
-tomato juice    
+liver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-red wine  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chocolate syrup   
+kidney  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ketchup  
+stomach   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gallbladder  
 </summary>
 
 :x: *Wrong...*
