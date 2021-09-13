@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/12/2021 at 12:00 AM*
-### Which of these vitamins was the first to be named?
+*Updated 9/13/2021 at 12:00 AM*
+### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
-Vitamin A    
+Edward Estlin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vitamin-12  
+Edmund Earl  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vitamin E   
+Ernest Eakins   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vitameatavegimen  
+Eugene Evan  
 </summary>
 
 :x: *Wrong...*
