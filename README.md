@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/13/2021 at 12:00 AM*
-### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
+*Updated 9/14/2021 at 12:00 AM*
+### Who was the WNBA's Most Valuable Player of 1999?
 <details>
 <summary>
-Edward Estlin    
+Rebecca Lobo    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sheryl Swoopes  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lisa Leslie   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Yolanda Griffith  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Edmund Earl  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ernest Eakins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eugene Evan  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
