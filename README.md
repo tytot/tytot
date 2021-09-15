@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/14/2021 at 12:00 AM*
-### Who was the WNBA's Most Valuable Player of 1999?
+*Updated 9/15/2021 at 12:00 AM*
+### What color is the masthead of USA Today's 'Life' section?
 <details>
 <summary>
-Rebecca Lobo    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sheryl Swoopes  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lisa Leslie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Yolanda Griffith  
+purple  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+red   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
