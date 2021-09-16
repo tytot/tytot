@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/15/2021 at 12:00 AM*
-### What color is the masthead of USA Today's 'Life' section?
+*Updated 9/16/2021 at 12:00 AM*
+### Which of the following beverages is brewed from the leaves of a plant?
 <details>
 <summary>
-green    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-purple  
+tea    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red   
+coffee  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue  
+ginger ale   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+wine  
 </summary>
 
 :x: *Wrong...*
