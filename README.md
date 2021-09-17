@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/16/2021 at 12:00 AM*
-### Which of the following beverages is brewed from the leaves of a plant?
+*Updated 9/17/2021 at 12:00 AM*
+### What part of the world was once known as Cathay?
 <details>
 <summary>
-tea    
+China    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-coffee  
+India  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ginger ale   
+Iran   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wine  
+Indonesia  
 </summary>
 
 :x: *Wrong...*
