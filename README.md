@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/17/2021 at 12:00 AM*
-### What part of the world was once known as Cathay?
+*Updated 9/18/2021 at 12:00 AM*
+### What is the chemical process wherein a solid is turned to a liquid via the application of heat?
 <details>
 <summary>
-China    
+distillation    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+photosynthesis  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+freezing   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+melting  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-India  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Iran   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Indonesia  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
