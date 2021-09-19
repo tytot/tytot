@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/18/2021 at 12:00 AM*
-### What is the chemical process wherein a solid is turned to a liquid via the application of heat?
+*Updated 9/19/2021 at 12:00 AM*
+### What children's storybook character believes that the sky is falling?
 <details>
 <summary>
-distillation    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-photosynthesis  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-freezing   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-melting  
+Chicken Little    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Curious George  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jack Sprat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tom Thumb  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
