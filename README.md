@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/20/2021 at 12:00 AM*
-### How many periods are there in an ice hockey game?
+*Updated 9/21/2021 at 12:00 AM*
+### In computer terminology, what does the acronym 'ISP' stand for?
 <details>
 <summary>
-One    
+Individual Site Privacy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Two  
+Investment Stability Plan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three   
+Internal Security Position   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Internet Service Provider  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Four  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
