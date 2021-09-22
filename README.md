@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/21/2021 at 12:00 AM*
-### In computer terminology, what does the acronym 'ISP' stand for?
+*Updated 9/22/2021 at 12:00 AM*
+### What was the name of Huey Lewis' band?
 <details>
 <summary>
-Individual Site Privacy    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Investment Stability Plan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Internal Security Position   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Internet Service Provider  
+The News    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+The Attractions  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Silver Bullet Band   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Louie and Dewey  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
