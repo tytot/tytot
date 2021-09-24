@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/22/2021 at 12:00 AM*
-### What was the name of Huey Lewis' band?
+*Updated 9/24/2021 at 12:00 AM*
+### How many periods are there in an ice hockey game?
 <details>
 <summary>
-The News    
+One    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Three   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-The Attractions  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Silver Bullet Band   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Louie and Dewey  
+Four  
 </summary>
 
 :x: *Wrong...*
