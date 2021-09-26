@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/25/2021 at 12:00 AM*
-### What actress starred on 'Charlie's Angels' for the show's entire run?
+*Updated 9/26/2021 at 12:00 AM*
+### What color is Pepto-Bismol liquid?
 <details>
 <summary>
-Cheryl Ladd    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Farrah Fawcett  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jaclyn Smith   
+pink    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kate Jackson  
+blue  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clear   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green  
 </summary>
 
 :x: *Wrong...*
