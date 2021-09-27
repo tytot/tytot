@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/26/2021 at 12:00 AM*
-### What color is Pepto-Bismol liquid?
+*Updated 9/27/2021 at 12:00 AM*
+### Which of these painting tools has bristles on it?
 <details>
 <summary>
-pink    
+easel    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+knife  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brush   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clear   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-green  
+palette  
 </summary>
 
 :x: *Wrong...*
