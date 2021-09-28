@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/27/2021 at 12:00 AM*
-### Which of these painting tools has bristles on it?
+*Updated 9/28/2021 at 12:00 AM*
+### What country does Bordeaux wine come from?
 <details>
 <summary>
-easel    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-knife  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-brush   
+France    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-palette  
+Spain  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Australia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+United States  
 </summary>
 
 :x: *Wrong...*
