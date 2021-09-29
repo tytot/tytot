@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/28/2021 at 12:00 AM*
-### What country does Bordeaux wine come from?
+*Updated 9/29/2021 at 12:00 AM*
+### What is the largest city in Pennsylvania?
 <details>
 <summary>
-France    
+Philadelphia    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Spain  
+Stewartsville  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Australia   
+Harrisburg   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-United States  
+Pittsburgh  
 </summary>
 
 :x: *Wrong...*
