@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/29/2021 at 12:00 AM*
-### What is the largest city in Pennsylvania?
+*Updated 9/30/2021 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-Philadelphia    
+Fancy Feast    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cat Chow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Stewartsville  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harrisburg   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh  
+9-Lives  
 </summary>
 
 :x: *Wrong...*
