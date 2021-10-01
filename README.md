@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/30/2021 at 12:00 AM*
-### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
+*Updated 10/1/2021 at 12:00 AM*
+### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
 <details>
 <summary>
-Fancy Feast    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cat Chow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Meow Mix   
+cheese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-9-Lives  
+fruit  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gravy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+whipped cream  
 </summary>
 
 :x: *Wrong...*
