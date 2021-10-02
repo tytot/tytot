@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/1/2021 at 12:00 AM*
-### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
+*Updated 10/2/2021 at 12:00 AM*
+### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
 <details>
 <summary>
-cheese    
+Martha Stewart    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dr Ruth Westheimer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ann Landers   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-fruit  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-whipped cream  
+Miss Manners  
 </summary>
 
 :x: *Wrong...*
