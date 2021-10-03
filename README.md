@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/2/2021 at 12:00 AM*
-### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
+*Updated 10/3/2021 at 12:00 AM*
+### According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
 <details>
 <summary>
-Martha Stewart    
+Poodle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr Ruth Westheimer  
+Beagle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ann Landers   
+German shepherd   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Labrador retriever  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Miss Manners  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
