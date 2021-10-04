@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/3/2021 at 12:00 AM*
-### According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
+*Updated 10/4/2021 at 12:00 AM*
+### Which of these animals lays eggs?
 <details>
 <summary>
-Poodle    
+cow    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Beagle  
+gerbil  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-German shepherd   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Labrador retriever  
+frog   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+elephant  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
