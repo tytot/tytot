@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/4/2021 at 12:00 AM*
-### Which of these animals lays eggs?
+*Updated 10/5/2021 at 12:00 AM*
+### In Mister Rogers' theme song, what does he ask you to be?
 <details>
 <summary>
-cow    
+his cook    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gerbil  
+his student  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-frog   
+his neighbor   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-elephant  
+all you can be  
 </summary>
 
 :x: *Wrong...*
