@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/5/2021 at 12:00 AM*
-### In Mister Rogers' theme song, what does he ask you to be?
+*Updated 10/7/2021 at 12:00 AM*
+### What type of meat is on a traditional Reuben sandwich?
 <details>
 <summary>
-his cook    
+turkey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-his student  
+bologna  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-his neighbor   
+corned beef   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-all you can be  
+pepperoni  
 </summary>
 
 :x: *Wrong...*
