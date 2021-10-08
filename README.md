@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/7/2021 at 12:00 AM*
-### What type of meat is on a traditional Reuben sandwich?
+*Updated 10/8/2021 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-turkey    
+Rocky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bologna  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-corned beef   
+Underdog   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-pepperoni  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
