@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/8/2021 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 10/9/2021 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-Rocky    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jonny Quest  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Underdog   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sherman  
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+II  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+I   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ii  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
