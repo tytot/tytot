@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/9/2021 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 10/10/2021 at 12:00 AM*
+### Which of the boys on the TV show 'My Three Sons' is adopted?
 <details>
 <summary>
-2    
+Mike    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ernie  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-II  
+Chip   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-I   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ii  
+Robbie  
 </summary>
 
 :x: *Wrong...*
