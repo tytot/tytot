@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/10/2021 at 12:00 AM*
-### Which of the boys on the TV show 'My Three Sons' is adopted?
+*Updated 10/11/2021 at 12:00 AM*
+### Which of these games is not played with cards?
 <details>
 <summary>
-Mike    
+baccarat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernie  
+rummy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+craps   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chip   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie  
+solitaire  
 </summary>
 
 :x: *Wrong...*
