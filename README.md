@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/11/2021 at 12:00 AM*
-### Which of these games is not played with cards?
+*Updated 10/12/2021 at 12:00 AM*
+### What color is a ruby?
 <details>
 <summary>
-baccarat    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rummy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-craps   
+red    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-solitaire  
+black  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+yellow   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :x: *Wrong...*
