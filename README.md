@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/12/2021 at 12:00 AM*
-### What color is a ruby?
+*Updated 10/13/2021 at 12:00 AM*
+### What kind of item is a ginsu?
 <details>
 <summary>
-red    
+radio    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-black  
+toothbrush   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-yellow   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+martial arts weapon  
 </summary>
 
 :x: *Wrong...*
