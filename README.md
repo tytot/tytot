@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/13/2021 at 12:00 AM*
-### What kind of item is a ginsu?
+*Updated 10/14/2021 at 12:00 AM*
+### What Greek poet wrote 'The Iliad' and 'The Odyssey'?
 <details>
 <summary>
-radio    
+Sophocles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-knife  
+Plato  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Homer   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-toothbrush   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-martial arts weapon  
+Socrates  
 </summary>
 
 :x: *Wrong...*
