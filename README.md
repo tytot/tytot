@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/14/2021 at 12:00 AM*
-### What Greek poet wrote 'The Iliad' and 'The Odyssey'?
+*Updated 10/15/2021 at 12:00 AM*
+### What is a balalaika?
 <details>
 <summary>
-Sophocles    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Plato  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Homer   
+musical instrument    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Socrates  
+Russian peasant  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+type of hat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breed of shark  
 </summary>
 
 :x: *Wrong...*
