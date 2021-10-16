@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/15/2021 at 12:00 AM*
-### What is a balalaika?
+*Updated 10/16/2021 at 12:00 AM*
+### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
 <details>
 <summary>
-musical instrument    
+Pueblo    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aztec  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inca   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Russian peasant  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-type of hat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-breed of shark  
+Apache  
 </summary>
 
 :x: *Wrong...*
