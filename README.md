@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/16/2021 at 12:00 AM*
-### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
+*Updated 10/17/2021 at 12:00 AM*
+### Which of these is not one of the four basic forces in nature?
 <details>
 <summary>
-Pueblo    
+electromagnetic    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aztec  
+gravitational  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Inca   
+nuclear   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+centrifugal  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Apache  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
