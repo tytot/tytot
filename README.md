@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/17/2021 at 12:00 AM*
-### Which of these is not one of the four basic forces in nature?
+*Updated 10/18/2021 at 12:00 AM*
+### The majority of calcium in the human body is found where?
 <details>
 <summary>
-electromagnetic    
+hair    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravitational  
+blood  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nuclear   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-centrifugal  
+bones   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+digestive tract  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
