@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/18/2021 at 12:00 AM*
-### The majority of calcium in the human body is found where?
+*Updated 10/19/2021 at 12:00 AM*
+### A portrait that comically exaggerates a person's physical traits is called a what?
 <details>
 <summary>
-hair    
+landscape    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blood  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bones   
+caricature  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-digestive tract  
+still life   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Impressionism  
 </summary>
 
 :x: *Wrong...*
