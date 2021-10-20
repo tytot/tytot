@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/19/2021 at 12:00 AM*
-### A portrait that comically exaggerates a person's physical traits is called a what?
+*Updated 10/20/2021 at 12:00 AM*
+### To make an international telephone call from within the US, what are the first numbers you should dial?
 <details>
 <summary>
-landscape    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-caricature  
+011    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-still life   
+101  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Impressionism  
+888   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+911  
 </summary>
 
 :x: *Wrong...*
