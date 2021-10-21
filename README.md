@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/20/2021 at 12:00 AM*
-### To make an international telephone call from within the US, what are the first numbers you should dial?
+*Updated 10/21/2021 at 12:00 AM*
+### Astronaut John Glenn served as a pilot in what branch of the military?
 <details>
 <summary>
-011    
+Army    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Air Force  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Marines   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-101  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-888   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-911  
+Navy  
 </summary>
 
 :x: *Wrong...*
