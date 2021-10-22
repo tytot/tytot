@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/21/2021 at 12:00 AM*
-### Astronaut John Glenn served as a pilot in what branch of the military?
+*Updated 10/22/2021 at 12:00 AM*
+### What native empire controlled Large areas of South African Territory during the 19th century?
 <details>
 <summary>
-Army    
+Hutu    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Air Force  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Marines   
+Zulu  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Navy  
+Aztec   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Masai  
 </summary>
 
 :x: *Wrong...*
