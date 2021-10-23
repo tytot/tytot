@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/22/2021 at 12:00 AM*
-### What native empire controlled Large areas of South African Territory during the 19th century?
+*Updated 10/23/2021 at 12:00 AM*
+### In Greek mythology, what is the name of Zeus' father?
 <details>
 <summary>
-Hutu    
+Apollo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Zulu  
+Cronus  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aztec   
+Prometheus   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Masai  
+Hercules  
 </summary>
 
 :x: *Wrong...*
