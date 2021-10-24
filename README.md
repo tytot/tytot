@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/23/2021 at 12:00 AM*
-### In Greek mythology, what is the name of Zeus' father?
+*Updated 10/24/2021 at 12:00 AM*
+### According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
 <details>
 <summary>
-Apollo    
+Poodle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cronus  
+Beagle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+German shepherd   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Labrador retriever  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Prometheus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hercules  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
