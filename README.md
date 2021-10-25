@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/24/2021 at 12:00 AM*
-### According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?
+*Updated 10/25/2021 at 12:00 AM*
+### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
 <details>
 <summary>
-Poodle    
+a lime    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Beagle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German shepherd   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Labrador retriever  
+a shaker of salt  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+his car keys   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the bartender  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
