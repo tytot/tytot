@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/25/2021 at 12:00 AM*
-### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
+*Updated 10/26/2021 at 12:00 AM*
+### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
 <details>
 <summary>
-a lime    
+Mount Everest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a shaker of salt  
+Bermuda Triangle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Atlantis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Pole  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-his car keys   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the bartender  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
