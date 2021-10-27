@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/26/2021 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 10/27/2021 at 12:00 AM*
+### What term describes a word created by rearranging the letters of another word?
 <details>
 <summary>
-Mount Everest    
+onomatopoeia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bermuda Triangle  
+malapropism  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+anagram   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+antonym  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
