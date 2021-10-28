@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/27/2021 at 12:00 AM*
-### What term describes a word created by rearranging the letters of another word?
+*Updated 10/28/2021 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-onomatopoeia    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-malapropism  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-anagram   
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-antonym  
+beef   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pork  
 </summary>
 
 :x: *Wrong...*
