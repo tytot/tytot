@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/28/2021 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 10/29/2021 at 12:00 AM*
+### Which of these is not one of superhero Captain Marvel's abilities?
 <details>
 <summary>
-shrimp    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+the power of Apollo    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
+the strength of Hercules  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pork  
+the courage of Achilles   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the wisdom of Solomon  
 </summary>
 
 :x: *Wrong...*
