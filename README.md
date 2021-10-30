@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/29/2021 at 12:00 AM*
-### Which of these is not one of superhero Captain Marvel's abilities?
+*Updated 10/30/2021 at 12:00 AM*
+### Into what body of water does the Rhone River flow?
 <details>
 <summary>
-the power of Apollo    
+Atlantic Ocean    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Caspian Sea  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Sea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mediterranean Sea  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-the strength of Hercules  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the courage of Achilles   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the wisdom of Solomon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
