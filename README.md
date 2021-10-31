@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/30/2021 at 12:00 AM*
-### Into what body of water does the Rhone River flow?
+*Updated 10/31/2021 at 12:00 AM*
+### What sport is known as 'The Sport of Kings'?
 <details>
 <summary>
-Atlantic Ocean    
+polo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Caspian Sea  
+archery  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-North Sea   
+yachting   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mediterranean Sea  
+horse racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
