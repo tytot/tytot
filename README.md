@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/31/2021 at 12:00 AM*
-### What sport is known as 'The Sport of Kings'?
+*Updated 11/1/2021 at 12:00 AM*
+### If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?
 <details>
 <summary>
-polo    
+Sunday    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-archery  
+Monday  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-yachting   
+Friday   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-horse racing  
+Saturday  
 </summary>
 
 :heavy_check_mark: *Correct!*
