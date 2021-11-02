@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/1/2021 at 12:00 AM*
-### If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?
+*Updated 11/2/2021 at 12:00 AM*
+### If you are truly afraid of the dark, what do you suffer from?
 <details>
 <summary>
-Sunday    
+hypnophobia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Monday  
+cryptophobia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Friday   
+hadephobia   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Saturday  
+nyctophobia  
 </summary>
 
 :heavy_check_mark: *Correct!*
