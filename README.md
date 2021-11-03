@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/2/2021 at 12:00 AM*
-### If you are truly afraid of the dark, what do you suffer from?
+*Updated 11/3/2021 at 12:00 AM*
+### What does the 'ROM' in CD-ROM stand for?
 <details>
 <summary>
-hypnophobia    
+Really Obscure Memory    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cryptophobia  
+Run-Other Memory  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hadephobia   
+Random Object Memory   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nyctophobia  
+Read-Only Memory  
 </summary>
 
 :heavy_check_mark: *Correct!*
