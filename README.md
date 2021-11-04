@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/3/2021 at 12:00 AM*
-### What does the 'ROM' in CD-ROM stand for?
+*Updated 11/4/2021 at 12:00 AM*
+### Who were the Chicago Seven?
 <details>
 <summary>
-Really Obscure Memory    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Run-Other Memory  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Random Object Memory   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Read-Only Memory  
+war protesters    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+bluegrass musicians  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bank robbers   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+mobsters  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
