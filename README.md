@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/4/2021 at 12:00 AM*
-### Who were the Chicago Seven?
+*Updated 11/5/2021 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-war protesters    
+Michael Brown    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bluegrass musicians  
+Malcolm Lincoln   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bank robbers   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-mobsters  
+Michael Lloyd  
 </summary>
 
 :x: *Wrong...*
