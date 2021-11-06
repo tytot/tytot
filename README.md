@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/5/2021 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 11/6/2021 at 12:00 AM*
+### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
 <details>
 <summary>
-Michael Brown    
+Whoopi Goldberg    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+Jennifer Grey  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kirstie Alley   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Malcolm Lincoln   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michael Lloyd  
+Helen Hunt  
 </summary>
 
 :x: *Wrong...*
