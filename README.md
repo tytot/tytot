@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/6/2021 at 12:00 AM*
-### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
+*Updated 11/7/2021 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-Whoopi Goldberg    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jennifer Grey  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kirstie Alley   
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Helen Hunt  
+It's made of bone.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
