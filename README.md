@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/7/2021 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 11/8/2021 at 12:00 AM*
+### What is the official language of The Netherlands?
 <details>
 <summary>
-It opens many locks.    
+Danish    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Swedish  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+German   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dutch  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-It's made of bone.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
