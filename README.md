@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/8/2021 at 12:00 AM*
-### What is the official language of The Netherlands?
+*Updated 11/9/2021 at 12:00 AM*
+### Which of these rock guitarists designed a colorful line of men's neckties?
 <details>
 <summary>
-Danish    
+Eric Clapton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Swedish  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dutch  
+Jerry Garcia  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Jeff Beck   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Keith Richards  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
