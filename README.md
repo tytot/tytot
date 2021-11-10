@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/9/2021 at 12:00 AM*
-### Which of these rock guitarists designed a colorful line of men's neckties?
+*Updated 11/10/2021 at 12:00 AM*
+### The disco band ABBA comes from what country?
 <details>
 <summary>
-Eric Clapton    
+Norway    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jerry Garcia  
+Sweden  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Jeff Beck   
+Switzerland   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Keith Richards  
+The Netherlands  
 </summary>
 
 :x: *Wrong...*
