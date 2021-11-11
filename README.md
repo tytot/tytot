@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/10/2021 at 12:00 AM*
-### The disco band ABBA comes from what country?
+*Updated 11/11/2021 at 12:00 AM*
+### What automobile company makes the Sonata?
 <details>
 <summary>
-Norway    
+Toyota    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sweden  
+Honda  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Subaru   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hyundai  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Switzerland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Netherlands  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
