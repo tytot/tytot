@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/11/2021 at 12:00 AM*
-### What automobile company makes the Sonata?
+*Updated 11/12/2021 at 12:00 AM*
+### What term describes someone who does not believe in the existence of God?
 <details>
 <summary>
-Toyota    
+hedonist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Honda  
+deist  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Subaru   
+agnostic   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hyundai  
+atheist  
 </summary>
 
 :heavy_check_mark: *Correct!*
