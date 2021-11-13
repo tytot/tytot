@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/12/2021 at 12:00 AM*
-### What term describes someone who does not believe in the existence of God?
+*Updated 11/13/2021 at 12:00 AM*
+### What place is named in the title of the 1979 live album by rock legends Cheap Trick?
 <details>
 <summary>
-hedonist    
+Budapest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-deist  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-agnostic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-atheist  
+Budokan  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Bhutan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Britain  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
