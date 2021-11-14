@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/13/2021 at 12:00 AM*
-### What place is named in the title of the 1979 live album by rock legends Cheap Trick?
+*Updated 11/14/2021 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-Budapest    
+sportswear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Budokan  
+dishwashers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Bhutan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Britain  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
