@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/14/2021 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 11/15/2021 at 12:00 AM*
+### What French city is home to a famous international film festival each spring?
 <details>
 <summary>
-sportswear    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dishwashers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cigarettes   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bicycles  
+Cannes    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Marseille  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dijon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lyon  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
