@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/15/2021 at 12:00 AM*
-### What French city is home to a famous international film festival each spring?
+*Updated 11/16/2021 at 12:00 AM*
+### In the television network abbreviation 'ABC' what does the 'A' stand for?
 <details>
 <summary>
-Cannes    
+Artistic    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Audio  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+American   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Marseille  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dijon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lyon  
+Adult  
 </summary>
 
 :x: *Wrong...*
