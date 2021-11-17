@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/16/2021 at 12:00 AM*
-### In the television network abbreviation 'ABC' what does the 'A' stand for?
+*Updated 11/17/2021 at 12:00 AM*
+### In British currency, how many pence make a pound?
 <details>
 <summary>
-Artistic    
+10    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Audio  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-American   
+100  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Adult  
+500   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1000  
 </summary>
 
 :x: *Wrong...*
