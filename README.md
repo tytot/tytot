@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/17/2021 at 12:00 AM*
-### In British currency, how many pence make a pound?
+*Updated 11/18/2021 at 12:00 AM*
+### Which of these is made from cacao seeds?
 <details>
 <summary>
-10    
+marzipan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-100  
+soy sauce  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-500   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1000  
+anchovies  
 </summary>
 
 :x: *Wrong...*
