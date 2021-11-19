@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/18/2021 at 12:00 AM*
-### Which of these is made from cacao seeds?
+*Updated 11/19/2021 at 12:00 AM*
+### How many states were in the Confederate States of America?
 <details>
 <summary>
-marzipan    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-soy sauce  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chocolate   
+11    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-anchovies  
+13  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+16   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+22  
 </summary>
 
 :x: *Wrong...*
