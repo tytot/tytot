@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/19/2021 at 12:00 AM*
-### How many states were in the Confederate States of America?
+*Updated 11/20/2021 at 12:00 AM*
+### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
 <details>
 <summary>
-11    
+Russell Westbrook    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kevin Love  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-13  
+O.J. Mayo   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-16   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-22  
+Ricky Rubio  
 </summary>
 
 :x: *Wrong...*
