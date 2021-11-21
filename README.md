@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/20/2021 at 12:00 AM*
-### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
+*Updated 11/21/2021 at 12:00 AM*
+### What condition is caused by malfunctioning sebaceous glands?
 <details>
 <summary>
-Russell Westbrook    
+bad breath    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kevin Love  
+shingles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+acne   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-O.J. Mayo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ricky Rubio  
+carpal tunnel syndrome  
 </summary>
 
 :x: *Wrong...*
