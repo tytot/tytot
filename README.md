@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/21/2021 at 12:00 AM*
-### What condition is caused by malfunctioning sebaceous glands?
+*Updated 11/22/2021 at 12:00 AM*
+### Which of these months has 31 days?
 <details>
 <summary>
-bad breath    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shingles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-acne   
+March    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carpal tunnel syndrome  
+April  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+June   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+September  
 </summary>
 
 :x: *Wrong...*
