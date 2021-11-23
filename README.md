@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/22/2021 at 12:00 AM*
-### Which of these months has 31 days?
+*Updated 11/23/2021 at 12:00 AM*
+### What liqueur is used to make a Pink Lady cocktail pink?
 <details>
 <summary>
-March    
+grenadine    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-April  
+schnapps  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-June   
+triple sec   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-September  
+pernod  
 </summary>
 
 :x: *Wrong...*
