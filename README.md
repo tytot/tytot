@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/23/2021 at 12:00 AM*
-### What liqueur is used to make a Pink Lady cocktail pink?
+*Updated 11/24/2021 at 12:00 AM*
+### A student who earns a J.D. can begin his or her career as a what?
 <details>
 <summary>
-grenadine    
+lawyer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-schnapps  
+bricklayer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-triple sec   
+doctor   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pernod  
+accountant  
 </summary>
 
 :x: *Wrong...*
