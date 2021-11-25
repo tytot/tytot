@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/24/2021 at 12:00 AM*
-### A student who earns a J.D. can begin his or her career as a what?
+*Updated 11/25/2021 at 12:00 AM*
+### In Mister Rogers' theme song, what does he ask you to be?
 <details>
 <summary>
-lawyer    
+his cook    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+his student  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+his neighbor   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bricklayer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-doctor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-accountant  
+all you can be  
 </summary>
 
 :x: *Wrong...*
