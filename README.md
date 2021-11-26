@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/25/2021 at 12:00 AM*
-### In Mister Rogers' theme song, what does he ask you to be?
+*Updated 11/26/2021 at 12:00 AM*
+### Which of these foods is poisonous to dogs?
 <details>
 <summary>
-his cook    
+peanut butter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-his student  
+bananas  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-his neighbor   
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-all you can be  
+olives  
 </summary>
 
 :x: *Wrong...*
