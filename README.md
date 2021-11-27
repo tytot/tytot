@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/26/2021 at 12:00 AM*
-### In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?
+*Updated 11/27/2021 at 12:00 AM*
+### How many periods are there in an ice hockey game?
 <details>
 <summary>
-Gulf of Sidra    
+One    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Three   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gulf of Oman  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Red Sea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Persian Gulf  
+Four  
 </summary>
 
 :x: *Wrong...*
