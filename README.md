@@ -9,31 +9,31 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 11/26/2021 at 12:00 AM*
-### Which of these foods is poisonous to dogs?
+### In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?
 <details>
 <summary>
-peanut butter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bananas  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chocolate   
+Gulf of Sidra    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-olives  
+Gulf of Oman  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Red Sea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Persian Gulf  
 </summary>
 
 :x: *Wrong...*
