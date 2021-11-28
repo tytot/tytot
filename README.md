@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/27/2021 at 12:00 AM*
-### How many periods are there in an ice hockey game?
+*Updated 11/28/2021 at 12:00 AM*
+### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
 <details>
 <summary>
-One    
+Little Buddy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Three   
+Mini-Me  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Four  
+Small Fry   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dr. Evil Jr  
 </summary>
 
 :x: *Wrong...*
