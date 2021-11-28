@@ -9,31 +9,31 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 11/28/2021 at 12:00 AM*
-### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
+### What is the proper nautical use of an anchor?
 <details>
 <summary>
-Little Buddy    
+to catch large fish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mini-Me  
+to calculate water depth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to hold a ship in place   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Small Fry   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dr. Evil Jr  
+to damage other boats  
 </summary>
 
 :x: *Wrong...*
