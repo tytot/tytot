@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/28/2021 at 12:00 AM*
-### What is the proper nautical use of an anchor?
+*Updated 11/29/2021 at 12:00 AM*
+### Which of these is an Italian Design firm?
 <details>
 <summary>
-to catch large fish    
+Escada    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to calculate water depth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to hold a ship in place   
+Fendi  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to damage other boats  
+Ghost   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mainbocher  
 </summary>
 
 :x: *Wrong...*
