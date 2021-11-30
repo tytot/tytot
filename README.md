@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/29/2021 at 12:00 AM*
-### Which of these is an Italian Design firm?
+*Updated 11/30/2021 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-Escada    
+in French    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fendi  
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ghost   
+in braille   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mainbocher  
+in gibberish  
 </summary>
 
 :x: *Wrong...*
