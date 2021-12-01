@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/30/2021 at 12:00 AM*
-### How is the word 'ambulance' normally written on the front of American ambulances?
+*Updated 12/1/2021 at 12:00 AM*
+### Which of these items is useful for removing ink stains?
 <details>
 <summary>
-in French    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-in reverse  
+baking soda    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in braille   
+nail polish  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in gibberish  
+hair spray   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+butter  
 </summary>
 
 :x: *Wrong...*
