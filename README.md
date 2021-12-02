@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/1/2021 at 12:00 AM*
-### Which of these items is useful for removing ink stains?
+*Updated 12/2/2021 at 12:00 AM*
+### Which of these Hemingway characters is a newspaperman?
 <details>
 <summary>
-baking soda    
+Jake Barnes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-nail polish  
+Rogelio Gomez  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hair spray   
+Frederic Henry   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-butter  
+John MacWalsey  
 </summary>
 
 :x: *Wrong...*
