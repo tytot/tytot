@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/2/2021 at 12:00 AM*
-### Which of these Hemingway characters is a newspaperman?
+*Updated 12/3/2021 at 12:00 AM*
+### According to a popular slogan, what state should people not 'mess with'?
 <details>
 <summary>
-Jake Barnes    
+New York    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Texas  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rogelio Gomez  
+Montana   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frederic Henry   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John MacWalsey  
+Rhode Island  
 </summary>
 
 :x: *Wrong...*
