@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/3/2021 at 12:00 AM*
-### According to a popular slogan, what state should people not 'mess with'?
+*Updated 12/4/2021 at 12:00 AM*
+### A student who earns a J.D. can begin his or her career as a what?
 <details>
 <summary>
-New York    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Texas  
+lawyer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Montana   
+bricklayer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhode Island  
+doctor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+accountant  
 </summary>
 
 :x: *Wrong...*
