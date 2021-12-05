@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/4/2021 at 12:00 AM*
-### A student who earns a J.D. can begin his or her career as a what?
+*Updated 12/5/2021 at 12:00 AM*
+### A triptych is a work of art that is painted on how many panels?
 <details>
 <summary>
-lawyer    
+two    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bricklayer  
+five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-doctor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-accountant  
+eight  
 </summary>
 
 :x: *Wrong...*
