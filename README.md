@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/5/2021 at 12:00 AM*
-### A triptych is a work of art that is painted on how many panels?
+*Updated 12/6/2021 at 12:00 AM*
+### The Original Apple iMac computer was available in all of the following colors except which?
 <details>
 <summary>
-two    
+Tangerine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
+Strawberry  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kiwi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight  
+Grape  
 </summary>
 
 :x: *Wrong...*
