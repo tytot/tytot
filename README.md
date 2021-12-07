@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/6/2021 at 12:00 AM*
-### The Original Apple iMac computer was available in all of the following colors except which?
+*Updated 12/7/2021 at 12:00 AM*
+### What is the last book of the New Testament?
 <details>
 <summary>
-Tangerine    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Strawberry  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kiwi   
+Revelation    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Grape  
+Judges  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ruth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John  
 </summary>
 
 :x: *Wrong...*
