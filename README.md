@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/7/2021 at 12:00 AM*
-### What is the last book of the New Testament?
+*Updated 12/8/2021 at 12:00 AM*
+### What Mexican holiday takes place on May 5th?
 <details>
 <summary>
-Revelation    
+Mexican Independence Day    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Santa Anna's Birthday  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cinco de Mayo   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Judges  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ruth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John  
+Christmas  
 </summary>
 
 :x: *Wrong...*
