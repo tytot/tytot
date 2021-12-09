@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/8/2021 at 12:00 AM*
-### What Mexican holiday takes place on May 5th?
+*Updated 12/9/2021 at 12:00 AM*
+### To make an international telephone call from within the US, what are the first numbers you should dial?
 <details>
 <summary>
-Mexican Independence Day    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Santa Anna's Birthday  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cinco de Mayo   
+011    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Christmas  
+101  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+888   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+911  
 </summary>
 
 :x: *Wrong...*
