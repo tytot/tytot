@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/9/2021 at 12:00 AM*
-### To make an international telephone call from within the US, what are the first numbers you should dial?
+*Updated 12/10/2021 at 12:00 AM*
+### Which of these is not a fabric?
 <details>
 <summary>
-011    
+Velveteen    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Celotex  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-101  
+Seersucker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-888   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-911  
+Tencel  
 </summary>
 
 :x: *Wrong...*
