@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/10/2021 at 12:00 AM*
-### Which of these is not a fabric?
+*Updated 12/11/2021 at 12:00 AM*
+### What country was once ruled by shoguns?
 <details>
 <summary>
-Velveteen    
+China    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Celotex  
+Japan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Seersucker   
+North Korea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tencel  
+Taiwan  
 </summary>
 
 :x: *Wrong...*
