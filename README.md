@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/11/2021 at 12:00 AM*
-### What country was once ruled by shoguns?
+*Updated 12/12/2021 at 12:00 AM*
+### Which character on the TV show 'Friends' is a chef?
 <details>
 <summary>
-China    
+Joey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan  
+Monica  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-North Korea   
+Ross   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Taiwan  
+Rachel  
 </summary>
 
 :x: *Wrong...*
