@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/12/2021 at 12:00 AM*
-### Which character on the TV show 'Friends' is a chef?
+*Updated 12/13/2021 at 12:00 AM*
+### Who is the patron saint of animals?
 <details>
 <summary>
-Joey    
+St. Isidore of Seville    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Monica  
+St. Anthony of Padua  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+St. Francis of Assisi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ross   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rachel  
+St. Joan of Arc  
 </summary>
 
 :x: *Wrong...*
