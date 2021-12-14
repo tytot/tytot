@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/13/2021 at 12:00 AM*
-### Who is the patron saint of animals?
+*Updated 12/14/2021 at 12:00 AM*
+### What sporting event is held annually on Memorial Day weekend?
 <details>
 <summary>
-St. Isidore of Seville    
+Iditarod    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-St. Anthony of Padua  
+Kentucky Derby  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-St. Francis of Assisi   
+Indianapolis 500   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-St. Joan of Arc  
+Super Bowl  
 </summary>
 
 :x: *Wrong...*
