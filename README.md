@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/14/2021 at 12:00 AM*
-### What sporting event is held annually on Memorial Day weekend?
+*Updated 12/15/2021 at 12:00 AM*
+### For a man and woman on a date, 'dutch treat' means what?
 <details>
 <summary>
-Iditarod    
+the man pays    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kentucky Derby  
+the woman pays  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Indianapolis 500   
+the Dutch pay   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+each pays their own way  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Super Bowl  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
