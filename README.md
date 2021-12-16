@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/15/2021 at 12:00 AM*
-### For a man and woman on a date, 'dutch treat' means what?
+*Updated 12/16/2021 at 12:00 AM*
+### What biological process replicates DNA?
 <details>
 <summary>
-the man pays    
+molting    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the woman pays  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Dutch pay   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-each pays their own way  
+mitosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+diffusion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+peristalsis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
