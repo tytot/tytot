@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/16/2021 at 12:00 AM*
-### What biological process replicates DNA?
+*Updated 12/17/2021 at 12:00 AM*
+### Which of these countries was not a member of the Axis nations during World War II?
 <details>
 <summary>
-molting    
+Germany    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mitosis  
+Italy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spain   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-diffusion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-peristalsis  
+Japan  
 </summary>
 
 :x: *Wrong...*
