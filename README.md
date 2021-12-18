@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/17/2021 at 12:00 AM*
-### Which of these countries was not a member of the Axis nations during World War II?
+*Updated 12/18/2021 at 12:00 AM*
+### An airplane's black box is usually what color?
 <details>
 <summary>
-Germany    
+black    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Italy  
+white  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Spain   
+orange   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Japan  
+purple  
 </summary>
 
 :x: *Wrong...*
