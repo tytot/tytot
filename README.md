@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/18/2021 at 12:00 AM*
-### An airplane's black box is usually what color?
+*Updated 12/19/2021 at 12:00 AM*
+### Where would you typically find a bailiff?
 <details>
 <summary>
-black    
+grocery store    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-white  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-orange   
+courtroom  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-purple  
+football stadium   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+doctor's office  
 </summary>
 
 :x: *Wrong...*
