@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/19/2021 at 12:00 AM*
-### Where would you typically find a bailiff?
+*Updated 12/20/2021 at 12:00 AM*
+### What is your astrological sign if you were born on Halloween?
 <details>
 <summary>
-grocery store    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-courtroom  
+Scorpio    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-football stadium   
+Capricorn  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-doctor's office  
+Libra   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cancer  
 </summary>
 
 :x: *Wrong...*
