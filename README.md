@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/20/2021 at 12:00 AM*
-### What is your astrological sign if you were born on Halloween?
+*Updated 12/21/2021 at 12:00 AM*
+### What is the oldest continuously run sporting event in the United States?
 <details>
 <summary>
-Scorpio    
+Westminster Dog Show    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boston Marathon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kentucky Derby   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Capricorn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Libra   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cancer  
+Indianapolis 500  
 </summary>
 
 :x: *Wrong...*
