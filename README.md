@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/21/2021 at 12:00 AM*
-### What is the oldest continuously run sporting event in the United States?
+*Updated 12/22/2021 at 12:00 AM*
+### What disease is characterized by a body's inability to properly metabolize glucose?
 <details>
 <summary>
-Westminster Dog Show    
+Influenza    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Marathon  
+Septicemia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kentucky Derby   
+Diabetes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Indianapolis 500  
+Arthritis  
 </summary>
 
 :x: *Wrong...*
