@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/23/2021 at 12:00 AM*
-### What is the oldest continuously run sporting event in the United States?
+*Updated 12/24/2021 at 12:00 AM*
+### What is the traditional 20th wedding anniversary gift?
 <details>
 <summary>
-Westminster Dog Show    
+paper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Marathon  
+leather  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kentucky Derby   
+china   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Indianapolis 500  
+silver  
 </summary>
 
 :x: *Wrong...*
