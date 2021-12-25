@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/24/2021 at 12:00 AM*
-### What is the traditional 20th wedding anniversary gift?
+*Updated 12/25/2021 at 12:00 AM*
+### What is the baseball term for a batter who substitutes for another batter?
 <details>
 <summary>
-paper    
+switchhitter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-leather  
+shadow hitter  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-china   
+clip hitter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pinch hitter  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-silver  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
