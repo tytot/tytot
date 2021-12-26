@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/25/2021 at 12:00 AM*
-### What is the baseball term for a batter who substitutes for another batter?
+*Updated 12/26/2021 at 12:00 AM*
+### What is another name for the camelopard?
 <details>
 <summary>
-switchhitter    
+circus    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shadow hitter  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clip hitter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pinch hitter  
+giraffe  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cantaloupe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oasis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
