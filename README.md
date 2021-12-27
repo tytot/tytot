@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/26/2021 at 12:00 AM*
-### What is another name for the camelopard?
+*Updated 12/27/2021 at 12:00 AM*
+### What kind of angle is formed where two perpendicular lines meet?
 <details>
 <summary>
-circus    
+obtuse    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-giraffe  
+acute  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+right   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cantaloupe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-oasis  
+invisible  
 </summary>
 
 :x: *Wrong...*
