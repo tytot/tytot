@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/27/2021 at 12:00 AM*
-### What kind of angle is formed where two perpendicular lines meet?
+*Updated 12/28/2021 at 12:00 AM*
+### A second-year college student is usually called a what?
 <details>
 <summary>
-obtuse    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-acute  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-right   
+sophomore    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-invisible  
+senior  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+freshman    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+junior   
 </summary>
 
 :x: *Wrong...*
