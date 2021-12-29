@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/28/2021 at 12:00 AM*
-### A second-year college student is usually called a what?
+*Updated 12/29/2021 at 12:00 AM*
+### In a game with no wild cards, what is the highest possible poker hand?
 <details>
 <summary>
-sophomore    
+straight flush    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+royal flush  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-senior  
+full house   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-freshman    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-junior   
+four of a kind  
 </summary>
 
 :x: *Wrong...*
