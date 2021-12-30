@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/29/2021 at 12:00 AM*
-### In a game with no wild cards, what is the highest possible poker hand?
+*Updated 12/30/2021 at 12:00 AM*
+### What is your astrological sign if you were born on Halloween?
 <details>
 <summary>
-straight flush    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-royal flush  
+Scorpio    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full house   
+Capricorn  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four of a kind  
+Libra   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cancer  
 </summary>
 
 :x: *Wrong...*
