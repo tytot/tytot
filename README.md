@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/30/2021 at 12:00 AM*
-### What is your astrological sign if you were born on Halloween?
+*Updated 12/31/2021 at 12:00 AM*
+### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
 <details>
 <summary>
-Scorpio    
+Whoopi Goldberg    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jennifer Grey  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kirstie Alley   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Capricorn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Libra   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cancer  
+Helen Hunt  
 </summary>
 
 :x: *Wrong...*
