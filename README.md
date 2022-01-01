@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/31/2021 at 12:00 AM*
-### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
+*Updated 1/1/2022 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-Whoopi Goldberg    
+battery    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jennifer Grey  
+engine  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kirstie Alley   
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Helen Hunt  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
