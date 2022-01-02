@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/1/2022 at 12:00 AM*
-### On which part of a car would you find the 'caliper'?
+*Updated 1/2/2022 at 12:00 AM*
+### The term 'chili con carne' refers to chili with what?
 <details>
 <summary>
-battery    
+beans     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-engine  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-radiator   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-brakes  
+meat  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cheese   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chili peppers  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
