@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/2/2022 at 12:00 AM*
-### The term 'chili con carne' refers to chili with what?
+*Updated 1/3/2022 at 12:00 AM*
+### In British currency, how many pence make a pound?
 <details>
 <summary>
-beans     
+10    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meat  
+100  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cheese   
+500   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chili peppers  
+1000  
 </summary>
 
 :x: *Wrong...*
