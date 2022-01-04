@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/3/2022 at 12:00 AM*
-### In British currency, how many pence make a pound?
+*Updated 1/4/2022 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-10    
+3 1/2 x 5 inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-100  
+5 x 10 inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-500   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1000  
+11 x 17 inches  
 </summary>
 
 :x: *Wrong...*
