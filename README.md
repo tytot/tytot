@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/4/2022 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 1/5/2022 at 12:00 AM*
+### What is the approximate speed of light?
 <details>
 <summary>
-3 1/2 x 5 inches    
+165 miles per hour    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
+122,000 miles per hour  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8 1/2 x 11 inches   
+186,000 miles per second   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-11 x 17 inches  
+293,000 miles per second  
 </summary>
 
 :x: *Wrong...*
