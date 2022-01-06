@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/5/2022 at 12:00 AM*
-### What is the approximate speed of light?
+*Updated 1/6/2022 at 12:00 AM*
+### How is 4:00 pm expressed in military time?
 <details>
 <summary>
-165 miles per hour    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-122,000 miles per hour  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-186,000 miles per second   
+1600    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-293,000 miles per second  
+004  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+0400    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+4:00  
 </summary>
 
 :x: *Wrong...*
