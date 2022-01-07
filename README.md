@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/6/2022 at 12:00 AM*
-### How is 4:00 pm expressed in military time?
+*Updated 1/7/2022 at 12:00 AM*
+### What famous folksinger founded the Institute for the Study of Non-Violence in 1965?
 <details>
 <summary>
-1600    
+Bob Dylan    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Woody Guthrie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Joan Baez   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-004  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-0400    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-4:00  
+Peter Yarrow  
 </summary>
 
 :x: *Wrong...*
