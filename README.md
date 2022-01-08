@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/7/2022 at 12:00 AM*
-### What famous folksinger founded the Institute for the Study of Non-Violence in 1965?
+*Updated 1/8/2022 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-Bob Dylan    
+in French    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Woody Guthrie  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Joan Baez   
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Peter Yarrow  
+in braille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+in gibberish  
 </summary>
 
 :x: *Wrong...*
