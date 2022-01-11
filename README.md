@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/10/2022 at 12:00 AM*
-### In Greek mythology, what is the name of Zeus' father?
+*Updated 1/11/2022 at 12:00 AM*
+### What sport is featured in the 1996 movie 'Kingpin'?
 <details>
 <summary>
-Apollo    
+wrestling    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cronus  
+golf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chess   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Prometheus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hercules  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
