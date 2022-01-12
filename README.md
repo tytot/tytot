@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/11/2022 at 12:00 AM*
-### What sport is featured in the 1996 movie 'Kingpin'?
+*Updated 1/12/2022 at 12:00 AM*
+### In an adult human, how long is the large intestine?
 <details>
 <summary>
-wrestling    
+one foot    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-golf  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chess   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bowling  
+five feet  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+twelve feet   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+twenty feet  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
