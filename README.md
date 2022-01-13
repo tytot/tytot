@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/12/2022 at 12:00 AM*
-### In an adult human, how long is the large intestine?
+*Updated 1/13/2022 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-one foot    
+'All the King's Men'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five feet  
+'All the Pretty Horses'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-twelve feet   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-twenty feet  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
