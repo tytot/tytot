@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/13/2022 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 1/14/2022 at 12:00 AM*
+### For a man and woman on a date, 'dutch treat' means what?
 <details>
 <summary>
-'All the King's Men'    
+the man pays    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the Pretty Horses'  
+the woman pays  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the President's Men'   
+the Dutch pay   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+each pays their own way  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-'All the Right Moves'  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
