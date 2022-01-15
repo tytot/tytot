@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/14/2022 at 12:00 AM*
-### For a man and woman on a date, 'dutch treat' means what?
+*Updated 1/15/2022 at 12:00 AM*
+### On average, what length of time passes between high tides?
 <details>
 <summary>
-the man pays    
+3 hours, 25 minutes    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the woman pays  
+6 hours, 25 minutes  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the Dutch pay   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-each pays their own way  
+12 hours, 25 minutes   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+24 hours, 25 minutes  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
