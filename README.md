@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/16/2022 at 12:00 AM*
-### What liqueur is used to make a Pink Lady cocktail pink?
+*Updated 1/17/2022 at 12:00 AM*
+### What kind of flying contraption is featured in the movie 'Chitty Chitty Bang Bang'?
 <details>
 <summary>
-grenadine    
+boat    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+car  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-schnapps  
+truck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-triple sec   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pernod  
+bike  
 </summary>
 
 :x: *Wrong...*
