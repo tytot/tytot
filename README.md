@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/17/2022 at 12:00 AM*
-### What kind of flying contraption is featured in the movie 'Chitty Chitty Bang Bang'?
+*Updated 1/18/2022 at 12:00 AM*
+### For what purpose would you use an awl?
 <details>
 <summary>
-boat    
+to shoot ducks    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-car  
+to polish floors  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to make holes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-truck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bike  
+to weigh fruit  
 </summary>
 
 :x: *Wrong...*
