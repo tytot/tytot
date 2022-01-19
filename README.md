@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/18/2022 at 12:00 AM*
-### For what purpose would you use an awl?
+*Updated 1/19/2022 at 12:00 AM*
+### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
 <details>
 <summary>
-to shoot ducks    
+Dr. Evil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to polish floors  
+Q  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to make holes   
+Little Jimmy Bond   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to weigh fruit  
+M  
 </summary>
 
 :x: *Wrong...*
