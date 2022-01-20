@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/19/2022 at 12:00 AM*
-### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
+*Updated 1/20/2022 at 12:00 AM*
+### What is the national animal of Australia?
 <details>
 <summary>
-Dr. Evil    
+koala    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Q  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Little Jimmy Bond   
+kangaroo  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-M  
+platypus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+alligator  
 </summary>
 
 :x: *Wrong...*
