@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/20/2022 at 12:00 AM*
-### What is the national animal of Australia?
+*Updated 1/21/2022 at 12:00 AM*
+### Which of these refers to an alcoholic drink laced with a knockout drug?
 <details>
 <summary>
-koala    
+Zombie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-kangaroo  
+Kamikaze  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mickey Finn   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-platypus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-alligator  
+Molotov cocktail  
 </summary>
 
 :x: *Wrong...*
