@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/21/2022 at 12:00 AM*
-### Which of these refers to an alcoholic drink laced with a knockout drug?
+*Updated 1/22/2022 at 12:00 AM*
+### What city did the Beatles originally call home?
 <details>
 <summary>
-Zombie    
+London    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kamikaze  
+Leeds  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mickey Finn   
+Liverpool   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Molotov cocktail  
+Manchester  
 </summary>
 
 :x: *Wrong...*
