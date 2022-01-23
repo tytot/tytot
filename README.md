@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/22/2022 at 12:00 AM*
-### What city did the Beatles originally call home?
+*Updated 1/23/2022 at 12:00 AM*
+### Where is the Louvre museum?
 <details>
 <summary>
-London    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leeds  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Liverpool   
+Paris    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Manchester  
+Lyon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Geneva   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vichy  
 </summary>
 
 :x: *Wrong...*
