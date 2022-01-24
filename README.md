@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/23/2022 at 12:00 AM*
-### Where is the Louvre museum?
+*Updated 1/24/2022 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-Paris    
+Michael    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lyon  
+Mortimer   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Geneva   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vichy  
+Matthew  
 </summary>
 
 :x: *Wrong...*
