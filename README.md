@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/24/2022 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 1/25/2022 at 12:00 AM*
+### Which of these is not a type of rock?
 <details>
 <summary>
-Michael    
+metamorphic    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Milhous  
+sedimentary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+igneous   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+deciduous  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Mortimer   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Matthew  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
