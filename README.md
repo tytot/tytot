@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/25/2022 at 12:00 AM*
-### Which of these is not a type of rock?
+*Updated 1/26/2022 at 12:00 AM*
+### How is 4:00 pm expressed in military time?
 <details>
 <summary>
-metamorphic    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sedimentary  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-igneous   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-deciduous  
+1600    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+004  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+0400    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+4:00  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
