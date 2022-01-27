@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/26/2022 at 12:00 AM*
-### How is 4:00 pm expressed in military time?
+*Updated 1/27/2022 at 12:00 AM*
+### What is the name of the mountain where the mythological Greek gods live?
 <details>
 <summary>
-1600    
+Jupiter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Olympus  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-004  
+Vesuvius   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-0400    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-4:00  
+Valhalla  
 </summary>
 
 :x: *Wrong...*
