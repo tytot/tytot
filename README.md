@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/27/2022 at 12:00 AM*
-### What is the name of the mountain where the mythological Greek gods live?
+*Updated 1/28/2022 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-Jupiter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Olympus  
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vesuvius   
+influenza  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Valhalla  
+emphysema   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+heart disease  
 </summary>
 
 :x: *Wrong...*
