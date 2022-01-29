@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/28/2022 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 1/29/2022 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-cancer    
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-influenza  
+It's made of bone.  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-emphysema   
+It's extremely old.   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-heart disease  
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
