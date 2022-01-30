@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/29/2022 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 1/30/2022 at 12:00 AM*
+### Ada Lovelace is credited with being the first person to have made what?
 <details>
 <summary>
-It opens many locks.    
+a computer program    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-It's made of bone.  
+a souffle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It's extremely old.   
+a brassiere   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It hangs in a closet.  
+a mystery novel  
 </summary>
 
 :x: *Wrong...*
