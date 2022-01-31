@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/30/2022 at 12:00 AM*
-### Ada Lovelace is credited with being the first person to have made what?
+*Updated 1/31/2022 at 12:00 AM*
+### From 1971 to 1997, the Democratic Republic of Congo was known as what?
 <details>
 <summary>
-a computer program    
+Zaire    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a souffle  
+Angola  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a brassiere   
+Rhodesia   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a mystery novel  
+Belgian Congo  
 </summary>
 
 :x: *Wrong...*
