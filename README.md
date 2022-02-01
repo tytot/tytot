@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/31/2022 at 12:00 AM*
-### From 1971 to 1997, the Democratic Republic of Congo was known as what?
+*Updated 2/1/2022 at 12:00 AM*
+### What city's airport uses the code ORD?
 <details>
 <summary>
-Zaire    
+Chicago    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Angola  
+Orlando  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhodesia   
+New York City   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Belgian Congo  
+Portland  
 </summary>
 
 :x: *Wrong...*
