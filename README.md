@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/1/2022 at 12:00 AM*
-### What city's airport uses the code ORD?
+*Updated 2/2/2022 at 12:00 AM*
+### What country is the rock group U2 from?
 <details>
 <summary>
-Chicago    
+England    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ireland  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Orlando  
+Belgium   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York City   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Portland  
+Germany  
 </summary>
 
 :x: *Wrong...*
