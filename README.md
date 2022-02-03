@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/2/2022 at 12:00 AM*
-### What country is the rock group U2 from?
+*Updated 2/3/2022 at 12:00 AM*
+### Phoebe, Dione and Helene are moons of what planet?
 <details>
 <summary>
-England    
+Jupiter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ireland  
+Saturn  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Belgium   
+Neptune   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Germany  
+Pluto  
 </summary>
 
 :x: *Wrong...*
