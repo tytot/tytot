@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/3/2022 at 12:00 AM*
-### Phoebe, Dione and Helene are moons of what planet?
+*Updated 2/4/2022 at 12:00 AM*
+### Which of these animals lays eggs?
 <details>
 <summary>
-Jupiter    
+cow    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Saturn  
+gerbil  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+frog   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neptune   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pluto  
+elephant  
 </summary>
 
 :x: *Wrong...*
