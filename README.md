@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/4/2022 at 12:00 AM*
-### Which of these animals lays eggs?
+*Updated 2/5/2022 at 12:00 AM*
+### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
 <details>
 <summary>
-cow    
+Stormfield    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gerbil  
+Fog City  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-frog   
+Mudville   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-elephant  
+Waterlog  
 </summary>
 
 :x: *Wrong...*
