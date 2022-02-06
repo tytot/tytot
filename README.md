@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/5/2022 at 12:00 AM*
-### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
+*Updated 2/6/2022 at 12:00 AM*
+### What is the largest city in Pennsylvania?
 <details>
 <summary>
-Stormfield    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Fog City  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mudville   
+Philadelphia    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Waterlog  
+Stewartsville  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harrisburg   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pittsburgh  
 </summary>
 
 :x: *Wrong...*
