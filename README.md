@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/6/2022 at 12:00 AM*
-### What is the largest city in Pennsylvania?
+*Updated 2/7/2022 at 12:00 AM*
+### What disease is sometimes referred to as the 'royal disease'?
 <details>
 <summary>
-Philadelphia    
+rickets    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+measles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hemophilia   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Stewartsville  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harrisburg   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh  
+tuberculosis  
 </summary>
 
 :x: *Wrong...*
