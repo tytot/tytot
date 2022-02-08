@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/7/2022 at 12:00 AM*
-### What disease is sometimes referred to as the 'royal disease'?
+*Updated 2/8/2022 at 12:00 AM*
+### Which of these is a fish?
 <details>
 <summary>
-rickets    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-measles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hemophilia   
+sea horse    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tuberculosis  
+sea cow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sea snake   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sea lion  
 </summary>
 
 :x: *Wrong...*
