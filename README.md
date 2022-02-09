@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/8/2022 at 12:00 AM*
-### Which of these is a fish?
+*Updated 2/9/2022 at 12:00 AM*
+### Which of these candy bars was named for a baseball player?
 <details>
 <summary>
-sea horse    
+Baby Ruth    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sea cow  
+Clark Bar  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sea snake   
+Reggie Bar   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sea lion  
+Butterfinger  
 </summary>
 
 :x: *Wrong...*
