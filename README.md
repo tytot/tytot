@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/9/2022 at 12:00 AM*
-### Which of these candy bars was named for a baseball player?
+*Updated 2/10/2022 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-Baby Ruth    
+Michael Brown    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Clark Bar  
+Malcolm Lincoln   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Reggie Bar   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Butterfinger  
+Michael Lloyd  
 </summary>
 
 :x: *Wrong...*
