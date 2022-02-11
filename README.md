@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/10/2022 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 2/11/2022 at 12:00 AM*
+### During which war did US troops fight the Battle of New Orleans?
 <details>
 <summary>
-Michael Brown    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+Civil War  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mexican War   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Malcolm Lincoln   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michael Lloyd  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
