@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/11/2022 at 12:00 AM*
-### During which war did US troops fight the Battle of New Orleans?
+*Updated 2/12/2022 at 12:00 AM*
+### What tea is known for its distinctive bergamot flavor?
 <details>
 <summary>
-American Revolution    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Civil War  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mexican War   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-War of 1812  
+Earl Grey    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Darjeeling  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+English Breakfast   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Prince of Wales  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
