@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/12/2022 at 12:00 AM*
-### What tea is known for its distinctive bergamot flavor?
+*Updated 2/13/2022 at 12:00 AM*
+### What does the Latin phrase 'e pluribus unum' mean?
 <details>
 <summary>
-Earl Grey    
+What a crazy life.    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+In God we trust.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+from many, one   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Darjeeling  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-English Breakfast   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Prince of Wales  
+for the greater good  
 </summary>
 
 :x: *Wrong...*
