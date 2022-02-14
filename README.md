@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/13/2022 at 12:00 AM*
-### What does the Latin phrase 'e pluribus unum' mean?
+*Updated 2/14/2022 at 12:00 AM*
+### What is the traditional 20th wedding anniversary gift?
 <details>
 <summary>
-What a crazy life.    
+paper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-In God we trust.  
+leather  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-from many, one   
+china   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-for the greater good  
+silver  
 </summary>
 
 :x: *Wrong...*
