@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/14/2022 at 12:00 AM*
-### What is the traditional 20th wedding anniversary gift?
+*Updated 2/15/2022 at 12:00 AM*
+### Which of these is not one of superhero Captain Marvel's abilities?
 <details>
 <summary>
-paper    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-leather  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-china   
+the power of Apollo    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-silver  
+the strength of Hercules  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the courage of Achilles   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the wisdom of Solomon  
 </summary>
 
 :x: *Wrong...*
