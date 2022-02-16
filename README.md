@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/15/2022 at 12:00 AM*
-### Which of these is not one of superhero Captain Marvel's abilities?
+*Updated 2/16/2022 at 12:00 AM*
+### What is the baseball term for a batter who substitutes for another batter?
 <details>
 <summary>
-the power of Apollo    
+switchhitter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shadow hitter  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clip hitter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pinch hitter  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-the strength of Hercules  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the courage of Achilles   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the wisdom of Solomon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
