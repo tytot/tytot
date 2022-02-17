@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/16/2022 at 12:00 AM*
-### What is the baseball term for a batter who substitutes for another batter?
+*Updated 2/17/2022 at 12:00 AM*
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-switchhitter    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shadow hitter  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clip hitter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pinch hitter  
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Civil War   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+World War I  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
