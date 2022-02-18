@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/17/2022 at 12:00 AM*
-### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+*Updated 2/18/2022 at 12:00 AM*
+### Which of these is not a type of rock?
 <details>
 <summary>
-American Revolution    
+metamorphic    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+sedimentary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+igneous   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+deciduous  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Civil War   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-World War I  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
