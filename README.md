@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/18/2022 at 12:00 AM*
-### Which of these is not a type of rock?
+*Updated 2/19/2022 at 12:00 AM*
+### How many axles does a standard automobile have?
 <details>
 <summary>
-metamorphic    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sedimentary  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-igneous   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-deciduous  
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+four   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
