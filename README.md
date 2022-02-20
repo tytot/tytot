@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/19/2022 at 12:00 AM*
-### How many axles does a standard automobile have?
+*Updated 2/20/2022 at 12:00 AM*
+### Which of these colors is a shade of blue?
 <details>
 <summary>
-one    
+ochre    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+periwinkle  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-four   
+mauve   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight  
+ecru  
 </summary>
 
 :x: *Wrong...*
