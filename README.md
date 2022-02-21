@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/20/2022 at 12:00 AM*
-### Which of these colors is a shade of blue?
+*Updated 2/21/2022 at 12:00 AM*
+### Which of these is not a breed of cat?
 <details>
 <summary>
-ochre    
+Persian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-periwinkle  
+Turkish Angora  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bichon Frise   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-mauve   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ecru  
+Maine Coon  
 </summary>
 
 :x: *Wrong...*
