@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/21/2022 at 12:00 AM*
-### Which of these is not a breed of cat?
+*Updated 2/22/2022 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-Persian    
+13    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Turkish Angora  
+48  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bichon Frise   
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Maine Coon  
+51  
 </summary>
 
 :x: *Wrong...*
