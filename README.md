@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/22/2022 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 2/23/2022 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-13    
+Michael Brown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-48  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-50   
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-51  
+Malcolm Lincoln   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michael Lloyd  
 </summary>
 
 :x: *Wrong...*
