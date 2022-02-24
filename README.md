@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/23/2022 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 2/24/2022 at 12:00 AM*
+### Elephant tusks are made of what material?
 <details>
 <summary>
-Michael Brown    
+coral    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+ivory  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Malcolm Lincoln   
+bone   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Michael Lloyd  
+calcium  
 </summary>
 
 :x: *Wrong...*
