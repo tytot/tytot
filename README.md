@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/24/2022 at 12:00 AM*
-### Elephant tusks are made of what material?
+*Updated 2/25/2022 at 12:00 AM*
+### Which of these items is useful for removing ink stains?
 <details>
 <summary>
-coral    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ivory  
+baking soda    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bone   
+nail polish  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-calcium  
+hair spray   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+butter  
 </summary>
 
 :x: *Wrong...*
