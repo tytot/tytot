@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/25/2022 at 12:00 AM*
-### Which of these items is useful for removing ink stains?
+*Updated 2/26/2022 at 12:00 AM*
+### What does the Yiddish word 'meshuga' mean?
 <details>
 <summary>
-baking soda    
+crazy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-nail polish  
+sacred  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hair spray   
+stingy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-butter  
+sweet  
 </summary>
 
 :x: *Wrong...*
