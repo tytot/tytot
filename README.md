@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/26/2022 at 12:00 AM*
-### What does the Yiddish word 'meshuga' mean?
+*Updated 2/27/2022 at 12:00 AM*
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-crazy    
+American Revolution    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sacred  
+Civil War   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stingy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sweet  
+World War I  
 </summary>
 
 :x: *Wrong...*
