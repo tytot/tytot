@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/27/2022 at 12:00 AM*
-### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+*Updated 2/28/2022 at 12:00 AM*
+### Which of these plants is the national emblem of Scotland?
 <details>
 <summary>
-American Revolution    
+ivy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+thistle  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Civil War   
+rose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-World War I  
+linden  
 </summary>
 
 :x: *Wrong...*
