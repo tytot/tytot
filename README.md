@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/28/2022 at 12:00 AM*
-### Which of these plants is the national emblem of Scotland?
+*Updated 3/1/2022 at 12:00 AM*
+### In what year did the Great Depression begin?
 <details>
 <summary>
-ivy    
+1884    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thistle  
+1929  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rose   
+1953   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-linden  
+1975  
 </summary>
 
 :x: *Wrong...*
