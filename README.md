@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/1/2022 at 12:00 AM*
-### In what year did the Great Depression begin?
+*Updated 3/2/2022 at 12:00 AM*
+### What city's residents are known as 'Knickerbockers'?
 <details>
 <summary>
-1884    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1929  
+Philadelphia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York City   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1953   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1975  
+London  
 </summary>
 
 :x: *Wrong...*
