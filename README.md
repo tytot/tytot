@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/3/2022 at 12:00 AM*
-### In what year did the Great Depression begin?
+*Updated 3/4/2022 at 12:00 AM*
+### Which of these companies is not an online stock brokerage?
 <details>
 <summary>
-1884    
+E*Trade    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1929  
+EDigital  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1953   
+Datek Online   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1975  
+DLJ Direct  
 </summary>
 
 :x: *Wrong...*
