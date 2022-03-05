@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/4/2022 at 12:00 AM*
-### Which of these companies is not an online stock brokerage?
+*Updated 3/5/2022 at 12:00 AM*
+### Which of these is not a fabric?
 <details>
 <summary>
-E*Trade    
+Velveteen    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-EDigital  
+Celotex  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Datek Online   
+Seersucker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DLJ Direct  
+Tencel  
 </summary>
 
 :x: *Wrong...*
