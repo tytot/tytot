@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/5/2022 at 12:00 AM*
-### Which of these is not a fabric?
+*Updated 3/7/2022 at 12:00 AM*
+### Mohair is made from the fleece of what animal?
 <details>
 <summary>
-Velveteen    
+camel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Celotex  
+llama  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+goat   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Seersucker   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tencel  
+mole  
 </summary>
 
 :x: *Wrong...*
