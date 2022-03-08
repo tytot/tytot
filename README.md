@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/7/2022 at 12:00 AM*
-### Mohair is made from the fleece of what animal?
+*Updated 3/8/2022 at 12:00 AM*
+### How many ribs are there in the human body?
 <details>
 <summary>
-camel    
+18    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-llama  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-goat   
+24  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-mole  
+30   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+42  
 </summary>
 
 :x: *Wrong...*
