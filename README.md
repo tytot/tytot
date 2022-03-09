@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/8/2022 at 12:00 AM*
-### How many ribs are there in the human body?
+*Updated 3/9/2022 at 12:00 AM*
+### What sport is featured in the 1996 movie 'Kingpin'?
 <details>
 <summary>
-18    
+wrestling    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-24  
+golf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chess   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-30   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-42  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
