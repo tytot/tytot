@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/9/2022 at 12:00 AM*
-### What sport is featured in the 1996 movie 'Kingpin'?
+*Updated 3/10/2022 at 12:00 AM*
+### Who was on the $500 bill?
 <details>
 <summary>
-wrestling    
+Calvin Coolidge    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-golf  
+Andrew Jackson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chess   
+Aaron Burr   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bowling  
+William McKinley  
 </summary>
 
 :heavy_check_mark: *Correct!*
