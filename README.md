@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/10/2022 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 3/11/2022 at 12:00 AM*
+### Which of these foods is poisonous to dogs?
 <details>
 <summary>
-Calvin Coolidge    
+peanut butter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
+bananas  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aaron Burr   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-William McKinley  
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+olives  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
