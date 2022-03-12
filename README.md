@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/11/2022 at 12:00 AM*
-### Which of these foods is poisonous to dogs?
+*Updated 3/12/2022 at 12:00 AM*
+### What is the capital of New Zealand?
 <details>
 <summary>
-peanut butter    
+Sydney    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bananas  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chocolate   
+Wellington  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-olives  
+Auckland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Melbourne  
 </summary>
 
 :x: *Wrong...*
