@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/12/2022 at 12:00 AM*
-### What is the capital of New Zealand?
+*Updated 3/13/2022 at 12:00 AM*
+### Which of these animals shares its name with a luxury car?
 <details>
 <summary>
-Sydney    
+yak    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wellington  
+gazelle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sloth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+jaguar  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Auckland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Melbourne  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
