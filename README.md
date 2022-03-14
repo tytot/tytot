@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/13/2022 at 12:00 AM*
-### Which of these animals shares its name with a luxury car?
+*Updated 3/14/2022 at 12:00 AM*
+### Which of these is a type of artwork consisting of pieces of wood inlaid in geometric patterns?
 <details>
 <summary>
-yak    
+marquetry    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gazelle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sloth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-jaguar  
+parquetry  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+harquetry   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sharquetry  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
