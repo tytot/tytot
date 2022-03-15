@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/14/2022 at 12:00 AM*
-### Which of these is a type of artwork consisting of pieces of wood inlaid in geometric patterns?
+*Updated 3/15/2022 at 12:00 AM*
+### What term describes someone who does not believe in the existence of God?
 <details>
 <summary>
-marquetry    
+hedonist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-parquetry  
+deist  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+agnostic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+atheist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-harquetry   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sharquetry  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
