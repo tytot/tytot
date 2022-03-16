@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/15/2022 at 12:00 AM*
-### What term describes someone who does not believe in the existence of God?
+*Updated 3/16/2022 at 12:00 AM*
+### What is the more common name for the disease 'pertussis'?
 <details>
 <summary>
-hedonist    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-deist  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-agnostic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-atheist  
+whooping cough    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+tennis elbow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+black lung   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+German measles  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
