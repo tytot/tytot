@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/16/2022 at 12:00 AM*
-### What is the more common name for the disease 'pertussis'?
+*Updated 3/17/2022 at 12:00 AM*
+### Who was on the $500 bill?
 <details>
 <summary>
-whooping cough    
+Calvin Coolidge    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andrew Jackson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aaron Burr   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+William McKinley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-tennis elbow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-black lung   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German measles  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
