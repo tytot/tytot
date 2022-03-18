@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/17/2022 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 3/18/2022 at 12:00 AM*
+### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
 <details>
 <summary>
-Calvin Coolidge    
+Pun'kin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
+Lamikins  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aaron Burr   
+Suga'baby   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-William McKinley  
+Swee'pea  
 </summary>
 
 :heavy_check_mark: *Correct!*
