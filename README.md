@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/18/2022 at 12:00 AM*
-### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
+*Updated 3/19/2022 at 12:00 AM*
+### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
 <details>
 <summary>
-Pun'kin    
+skiing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lamikins  
+biking  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Suga'baby   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Swee'pea  
+snowboarding   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+surfing  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
