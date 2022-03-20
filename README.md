@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/19/2022 at 12:00 AM*
-### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+*Updated 3/20/2022 at 12:00 AM*
+### According to folklore, the 'jackalope' is an antlered version of what animal?
 <details>
 <summary>
-skiing    
+chicken    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-biking  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snowboarding   
+rabbit  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-surfing  
+moose   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+snake  
 </summary>
 
 :x: *Wrong...*
