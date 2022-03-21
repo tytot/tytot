@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/20/2022 at 12:00 AM*
-### According to folklore, the 'jackalope' is an antlered version of what animal?
+*Updated 3/21/2022 at 12:00 AM*
+### Who is the patron saint of animals?
 <details>
 <summary>
-chicken    
+St. Isidore of Seville    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rabbit  
+St. Anthony of Padua  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+St. Francis of Assisi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-moose   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snake  
+St. Joan of Arc  
 </summary>
 
 :x: *Wrong...*
