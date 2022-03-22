@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/21/2022 at 12:00 AM*
-### Who is the patron saint of animals?
+*Updated 3/22/2022 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-St. Isidore of Seville    
+Michael    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-St. Anthony of Padua  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-St. Francis of Assisi   
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-St. Joan of Arc  
+Mortimer   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Matthew  
 </summary>
 
 :x: *Wrong...*
