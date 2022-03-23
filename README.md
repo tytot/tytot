@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/22/2022 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 3/23/2022 at 12:00 AM*
+### What company makes perfumes called 'Beautiful' and 'Pleasures'?
 <details>
 <summary>
-Michael    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Milhous  
+Estee Lauder    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mortimer   
+Ralph Lauren  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Matthew  
+Elizabeth Arden   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Calvin Klein  
 </summary>
 
 :x: *Wrong...*
