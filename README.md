@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/23/2022 at 12:00 AM*
-### What company makes perfumes called 'Beautiful' and 'Pleasures'?
+*Updated 3/24/2022 at 12:00 AM*
+### Who is an archenemy of the cartoon superhero Underdog?
 <details>
 <summary>
-Estee Lauder    
+OverCat    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ralph Lauren  
+Muttley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Arden   
+Mr. Whoopie   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Calvin Klein  
+Dick Dastardly  
 </summary>
 
 :x: *Wrong...*
