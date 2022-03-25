@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/24/2022 at 12:00 AM*
-### Who is an archenemy of the cartoon superhero Underdog?
+*Updated 3/25/2022 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-OverCat    
+in French    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Muttley  
+in braille   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mr. Whoopie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dick Dastardly  
+in gibberish  
 </summary>
 
 :x: *Wrong...*
