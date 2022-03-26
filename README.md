@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/25/2022 at 12:00 AM*
-### How is the word 'ambulance' normally written on the front of American ambulances?
+*Updated 3/26/2022 at 12:00 AM*
+### What is the principal ingredient in traditional cole slaw?
 <details>
 <summary>
-in French    
+lettuce    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in reverse  
+spinach   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cabbage   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in braille   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-in gibberish  
+chicory  
 </summary>
 
 :x: *Wrong...*
