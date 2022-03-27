@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/26/2022 at 12:00 AM*
-### What is the principal ingredient in traditional cole slaw?
+*Updated 3/27/2022 at 12:00 AM*
+### What is the name of Raggedy Ann's doll brother?
 <details>
 <summary>
-lettuce    
+Red    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-spinach   
+Freckles  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cabbage   
+Randy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-chicory  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
