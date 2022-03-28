@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/27/2022 at 12:00 AM*
-### What is the name of Raggedy Ann's doll brother?
+*Updated 3/28/2022 at 12:00 AM*
+### Into what body of water does the Rhone River flow?
 <details>
 <summary>
-Red    
+Atlantic Ocean    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Freckles  
+Caspian Sea  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Randy   
+North Sea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andy  
+Mediterranean Sea  
 </summary>
 
 :heavy_check_mark: *Correct!*
