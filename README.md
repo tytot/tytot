@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/28/2022 at 12:00 AM*
-### Into what body of water does the Rhone River flow?
+*Updated 3/29/2022 at 12:00 AM*
+### Which 'Rocky' film features Mr. T?
 <details>
 <summary>
-Atlantic Ocean    
+'Rocky II'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Caspian Sea  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Sea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mediterranean Sea  
+'Rocky III'  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+'Rocky IV'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Rocky '  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
