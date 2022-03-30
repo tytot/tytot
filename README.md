@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/29/2022 at 12:00 AM*
-### Which 'Rocky' film features Mr. T?
+*Updated 3/30/2022 at 12:00 AM*
+### Which of these is not one of the four basic forces in nature?
 <details>
 <summary>
-'Rocky II'    
+electromagnetic    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Rocky III'  
+gravitational  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nuclear   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+centrifugal  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-'Rocky IV'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Rocky '  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
