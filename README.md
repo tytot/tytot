@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/30/2022 at 12:00 AM*
-### Which of these is not one of the four basic forces in nature?
+*Updated 3/31/2022 at 12:00 AM*
+### Which of these plants is the national emblem of Scotland?
 <details>
 <summary>
-electromagnetic    
+ivy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravitational  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nuclear   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-centrifugal  
+thistle  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+rose   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+linden  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
