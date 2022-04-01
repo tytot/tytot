@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/31/2022 at 12:00 AM*
-### Which of these plants is the national emblem of Scotland?
+*Updated 4/1/2022 at 12:00 AM*
+### According to a famous line from the existentialist play 'No Exit' what is hell?
 <details>
 <summary>
-ivy    
+oneself    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thistle  
+other people  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rose   
+little made large   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-linden  
+hued in green and blue  
 </summary>
 
 :x: *Wrong...*
