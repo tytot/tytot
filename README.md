@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/1/2022 at 12:00 AM*
-### According to a famous line from the existentialist play 'No Exit' what is hell?
+*Updated 4/2/2022 at 12:00 AM*
+### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
 <details>
 <summary>
-oneself    
+talking car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-other people  
+winged horse  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+magic carpet   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-little made large   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hued in green and blue  
+hot air balloon  
 </summary>
 
 :x: *Wrong...*
