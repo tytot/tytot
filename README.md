@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/2/2022 at 12:00 AM*
-### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
+*Updated 4/3/2022 at 12:00 AM*
+### Which of these would you most commonly find in a sconce?
 <details>
 <summary>
-talking car    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-winged horse  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-magic carpet   
+candle    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-hot air balloon  
+food  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+birds   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+books  
 </summary>
 
 :x: *Wrong...*
