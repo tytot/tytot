@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/3/2022 at 12:00 AM*
-### Which of these would you most commonly find in a sconce?
+*Updated 4/4/2022 at 12:00 AM*
+### What were the first names of the early American explorers Lewis and Clark?
 <details>
 <summary>
-candle    
+Morgan and Mason    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Meriwether and William  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-food  
+Cabot and Joseph   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-birds   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books  
+Meredith and George  
 </summary>
 
 :x: *Wrong...*
