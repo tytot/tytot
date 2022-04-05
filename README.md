@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/4/2022 at 12:00 AM*
-### What were the first names of the early American explorers Lewis and Clark?
+*Updated 4/5/2022 at 12:00 AM*
+### The dance known as the 'fandango' is of what origin?
 <details>
 <summary>
-Morgan and Mason    
+Australian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meriwether and William  
+African  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Native American   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Cabot and Joseph   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Meredith and George  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
