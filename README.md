@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/5/2022 at 12:00 AM*
-### The dance known as the 'fandango' is of what origin?
+*Updated 4/6/2022 at 12:00 AM*
+### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
 <details>
 <summary>
-Australian    
+ophthalmologist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-African  
+cardiologist  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Native American   
+neurologist   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Spanish  
+proctologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
