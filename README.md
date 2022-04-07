@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/6/2022 at 12:00 AM*
-### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
+*Updated 4/7/2022 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-ophthalmologist    
+Rocky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cardiologist  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-neurologist   
+Underdog   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-proctologist  
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
