@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/7/2022 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 4/8/2022 at 12:00 AM*
+### What is considered the proper way to address a duke?
 <details>
 <summary>
-Rocky    
+'Your Majesty'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jonny Quest  
+'Your Eminence'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Underdog   
+'Your Excellency'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sherman  
+'Your Grace'  
 </summary>
 
 :heavy_check_mark: *Correct!*
