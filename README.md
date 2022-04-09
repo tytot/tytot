@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/8/2022 at 12:00 AM*
-### What is considered the proper way to address a duke?
+*Updated 4/9/2022 at 12:00 AM*
+### What is the nickname of Florida's controversial death row electric chair?
 <details>
 <summary>
-'Your Majesty'    
+Old Yeller    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Your Eminence'  
+Old Geezer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Your Excellency'   
+Old Smoky   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Your Grace'  
+Old Sparky  
 </summary>
 
 :heavy_check_mark: *Correct!*
