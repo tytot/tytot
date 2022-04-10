@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/9/2022 at 12:00 AM*
-### What is the nickname of Florida's controversial death row electric chair?
+*Updated 4/10/2022 at 12:00 AM*
+### Whose profile can you see on the front of dimes that are currently in circulation?
 <details>
 <summary>
-Old Yeller    
+George Washington    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Geezer  
+Thomas Jefferson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Smoky   
+Benjamin Franklin   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Sparky  
+Franklin Roosevelt  
 </summary>
 
 :heavy_check_mark: *Correct!*
