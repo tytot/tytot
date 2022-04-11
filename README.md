@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/10/2022 at 12:00 AM*
-### Whose profile can you see on the front of dimes that are currently in circulation?
+*Updated 4/11/2022 at 12:00 AM*
+### Which of these is an Italian Design firm?
 <details>
 <summary>
-George Washington    
+Escada    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thomas Jefferson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Benjamin Franklin   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Franklin Roosevelt  
+Fendi  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Ghost   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mainbocher  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
