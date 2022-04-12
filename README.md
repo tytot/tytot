@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/11/2022 at 12:00 AM*
-### Which of these is an Italian Design firm?
+*Updated 4/12/2022 at 12:00 AM*
+### What is the name of Mario's brother in the 'Super Mario' video games?
 <details>
 <summary>
-Escada    
+Louis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fendi  
+Luigi  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ghost   
+Luciano   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mainbocher  
+Zelda  
 </summary>
 
 :x: *Wrong...*
