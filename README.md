@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/12/2022 at 12:00 AM*
-### What is the name of Mario's brother in the 'Super Mario' video games?
+*Updated 4/13/2022 at 12:00 AM*
+### Which of the following words does not appear in the Lewis Carroll poem 'Jabberwocky'?
 <details>
 <summary>
-Louis    
+brillig    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Luigi  
+bandersnatch  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+wabe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+grelp  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Luciano   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Zelda  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
