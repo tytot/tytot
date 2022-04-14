@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/13/2022 at 12:00 AM*
-### Which of the following words does not appear in the Lewis Carroll poem 'Jabberwocky'?
+*Updated 4/14/2022 at 12:00 AM*
+### What colors are the two circles in the MasterCard logo?
 <details>
 <summary>
-brillig    
+pink and orange    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bandersnatch  
+blue and green  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wabe   
+black and white   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-grelp  
+red and yellow  
 </summary>
 
 :heavy_check_mark: *Correct!*
