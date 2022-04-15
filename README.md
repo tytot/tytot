@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/14/2022 at 12:00 AM*
-### What colors are the two circles in the MasterCard logo?
+*Updated 4/15/2022 at 12:00 AM*
+### Where is the Frank Lloyd Wright-designed house known as Falling Water?
 <details>
 <summary>
-pink and orange    
+Connecticut    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue and green  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-black and white   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-red and yellow  
+Pennsylvania  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Illinois   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
