@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/15/2022 at 12:00 AM*
-### Where is the Frank Lloyd Wright-designed house known as Falling Water?
+*Updated 4/16/2022 at 12:00 AM*
+### In the movie 'Star Wars' what kind of creature is Chewbacca?
 <details>
 <summary>
-Connecticut    
+Woolie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pennsylvania  
+Boobie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Wookie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Illinois   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York  
+Klingon  
 </summary>
 
 :x: *Wrong...*
