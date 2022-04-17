@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/16/2022 at 12:00 AM*
-### In the movie 'Star Wars' what kind of creature is Chewbacca?
+*Updated 4/17/2022 at 12:00 AM*
+### What is the final word of the Pledge of Allegiance?
 <details>
 <summary>
-Woolie    
+America    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boobie  
+stands  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wookie   
+indivisible   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+all  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Klingon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
