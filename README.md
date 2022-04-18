@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/17/2022 at 12:00 AM*
-### What is the final word of the Pledge of Allegiance?
+*Updated 4/18/2022 at 12:00 AM*
+### What animal is used to make lard?
 <details>
 <summary>
-America    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-stands  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-indivisible   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-all  
+pig    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+snake   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
