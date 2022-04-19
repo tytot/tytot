@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/18/2022 at 12:00 AM*
-### What animal is used to make lard?
+*Updated 4/19/2022 at 12:00 AM*
+### Which of these songs was a Top 10 hit for the rock band The Police?
 <details>
 <summary>
-pig    
+'Radio Ga-Ga'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Ob-la-di, Ob-la-da'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'De Do Do Do, De Da Da Da'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snake   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+'In-a-Gadda-Da-Vida'  
 </summary>
 
 :x: *Wrong...*
