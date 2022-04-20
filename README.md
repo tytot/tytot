@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/19/2022 at 12:00 AM*
-### Which of these songs was a Top 10 hit for the rock band The Police?
+*Updated 4/20/2022 at 12:00 AM*
+### What country does Bordeaux wine come from?
 <details>
 <summary>
-'Radio Ga-Ga'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Ob-la-di, Ob-la-da'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'De Do Do Do, De Da Da Da'   
+France    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'In-a-Gadda-Da-Vida'  
+Spain  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Australia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+United States  
 </summary>
 
 :x: *Wrong...*
