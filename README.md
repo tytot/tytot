@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/20/2022 at 12:00 AM*
-### What country does Bordeaux wine come from?
+*Updated 4/21/2022 at 12:00 AM*
+### Which of these words is a synonym for 'perambulate'?
 <details>
 <summary>
-France    
+kiss    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shout  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stroll   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Spain  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Australia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-United States  
+heal  
 </summary>
 
 :x: *Wrong...*
