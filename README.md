@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/21/2022 at 12:00 AM*
-### Which of these words is a synonym for 'perambulate'?
+*Updated 4/22/2022 at 12:00 AM*
+### The Strauss family of composers popularized what dance?
 <details>
 <summary>
-kiss    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shout  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-stroll   
+waltz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-heal  
+tango  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+fox-trot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+square dance  
 </summary>
 
 :x: *Wrong...*
