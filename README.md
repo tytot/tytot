@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/22/2022 at 12:00 AM*
-### The Strauss family of composers popularized what dance?
+*Updated 4/23/2022 at 12:00 AM*
+### What city's residents are known as 'Knickerbockers'?
 <details>
 <summary>
-waltz    
+Boston    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Philadelphia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York City   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tango  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-fox-trot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-square dance  
+London  
 </summary>
 
 :x: *Wrong...*
