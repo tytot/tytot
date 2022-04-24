@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/23/2022 at 12:00 AM*
-### What city's residents are known as 'Knickerbockers'?
+*Updated 4/24/2022 at 12:00 AM*
+### Who is the mythological Roman goddess of flowers?
 <details>
 <summary>
-Boston    
+Diana    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
+Echo  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York City   
+Flora   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-London  
+Niobe  
 </summary>
 
 :x: *Wrong...*
