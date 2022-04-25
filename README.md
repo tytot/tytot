@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/24/2022 at 12:00 AM*
-### Who is the mythological Roman goddess of flowers?
+*Updated 4/25/2022 at 12:00 AM*
+### If you have a 'sawbuck' how much money do you have?
 <details>
 <summary>
-Diana    
+$1    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Echo  
+$5  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Flora   
+$10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Niobe  
+$20  
 </summary>
 
 :x: *Wrong...*
