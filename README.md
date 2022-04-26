@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/25/2022 at 12:00 AM*
-### If you have a 'sawbuck' how much money do you have?
+*Updated 4/26/2022 at 12:00 AM*
+### How long is a single term in the US Senate?
 <details>
 <summary>
-$1    
+two years    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$5  
+four years  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$10   
+six years   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-$20  
+eight years  
 </summary>
 
 :x: *Wrong...*
