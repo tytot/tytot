@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/26/2022 at 12:00 AM*
-### How long is a single term in the US Senate?
+*Updated 4/27/2022 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-two years    
+yahtzee    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four years  
+mulligan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-six years   
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-eight years  
+ace  
 </summary>
 
 :x: *Wrong...*
