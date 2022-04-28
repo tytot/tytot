@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/27/2022 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 4/28/2022 at 12:00 AM*
+### The American patriot Paul Revere was named for his father, whose original name was what?
 <details>
 <summary>
-yahtzee    
+John Paul Revere    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mulligan  
+Paul Silver  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-turkey   
+Apollos Rivoire   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+Paolo Reverini  
 </summary>
 
 :x: *Wrong...*
