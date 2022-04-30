@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/29/2022 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 4/30/2022 at 12:00 AM*
+### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
 <details>
 <summary>
-yahtzee    
+Pueblo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mulligan  
+Aztec  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-turkey   
+Inca   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+Apache  
 </summary>
 
 :x: *Wrong...*
