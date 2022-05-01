@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/30/2022 at 12:00 AM*
-### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
+*Updated 5/1/2022 at 12:00 AM*
+### What literary work is the source of the quote 'Abandon every hope, all you who enter here'?
 <details>
 <summary>
-Pueblo    
+'Paradise Lost'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aztec  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Inca   
+'The Divine Comedy'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Apache  
+'Beowulf'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Twilight'  
 </summary>
 
 :x: *Wrong...*
