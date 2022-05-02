@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/1/2022 at 12:00 AM*
-### What literary work is the source of the quote 'Abandon every hope, all you who enter here'?
+*Updated 5/2/2022 at 12:00 AM*
+### What is the capital of North Dakota?
 <details>
 <summary>
-'Paradise Lost'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'The Divine Comedy'  
+Bismarck    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Beowulf'   
+Fargo  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Twilight'  
+Sioux Falls   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pierre  
 </summary>
 
 :x: *Wrong...*
