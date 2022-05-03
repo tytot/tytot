@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/2/2022 at 12:00 AM*
-### What is the capital of North Dakota?
+*Updated 5/3/2022 at 12:00 AM*
+### What is the most popular month for weddings in America?
 <details>
 <summary>
-Bismarck    
+January    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+May  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+August   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Fargo  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sioux Falls   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pierre  
+November  
 </summary>
 
 :x: *Wrong...*
