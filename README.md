@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/4/2022 at 12:00 AM*
-### What does the acronym 'REM' stand for?
+*Updated 5/5/2022 at 12:00 AM*
+### According to the title of a popular children's TV show, what color is Bear's big house?
 <details>
 <summary>
-random energy module    
+red    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rapid eye movement  
+green  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+purple   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-red entertainment machine   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-really energetic music  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
