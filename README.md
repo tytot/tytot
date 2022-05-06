@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/5/2022 at 12:00 AM*
-### According to the title of a popular children's TV show, what color is Bear's big house?
+*Updated 5/6/2022 at 12:00 AM*
+### Who is the mythological Roman goddess of flowers?
 <details>
 <summary>
-red    
+Diana    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green  
+Echo  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+Flora   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Niobe  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
