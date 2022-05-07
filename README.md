@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/6/2022 at 12:00 AM*
-### Who is the mythological Roman goddess of flowers?
+*Updated 5/7/2022 at 12:00 AM*
+### What country gave us the fashionable headgear called the beret?
 <details>
 <summary>
-Diana    
+Switzerland    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Echo  
+China  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Flora   
+Mexico   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+France  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Niobe  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
