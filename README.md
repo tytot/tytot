@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/7/2022 at 12:00 AM*
-### What country gave us the fashionable headgear called the beret?
+*Updated 5/8/2022 at 12:00 AM*
+### What country does Bordeaux wine come from?
 <details>
 <summary>
-Switzerland    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-China  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mexico   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-France  
+France    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Spain  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Australia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+United States  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
