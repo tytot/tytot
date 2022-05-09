@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/8/2022 at 12:00 AM*
-### What country does Bordeaux wine come from?
+*Updated 5/9/2022 at 12:00 AM*
+### How many innings are there in a regular Major League Baseball game?
 <details>
 <summary>
-France    
+seven    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nine   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Spain  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Australia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-United States  
+ten  
 </summary>
 
 :x: *Wrong...*
