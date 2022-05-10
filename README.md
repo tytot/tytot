@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/9/2022 at 12:00 AM*
-### How many innings are there in a regular Major League Baseball game?
+*Updated 5/10/2022 at 12:00 AM*
+### What kind of worker uses a 'paddy wagon'?
 <details>
 <summary>
-seven    
+limo driver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nine   
+police officer  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ten  
+rice farmer   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+paramedic  
 </summary>
 
 :x: *Wrong...*
