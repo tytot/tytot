@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/10/2022 at 12:00 AM*
-### What kind of worker uses a 'paddy wagon'?
+*Updated 5/11/2022 at 12:00 AM*
+### In the card game blackjack, how much are a queen and a king worth-together?
 <details>
 <summary>
-limo driver    
+11    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-police officer  
+15  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+20   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rice farmer   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-paramedic  
+21  
 </summary>
 
 :x: *Wrong...*
