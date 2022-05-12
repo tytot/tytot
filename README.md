@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/11/2022 at 12:00 AM*
-### In the card game blackjack, how much are a queen and a king worth-together?
+*Updated 5/12/2022 at 12:00 AM*
+### Which of these places is known for art auctions?
 <details>
 <summary>
-11    
+Shelby's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-15  
+Nickleby's  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-20   
+Gatsby's   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sotheby's  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-21  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
