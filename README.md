@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/12/2022 at 12:00 AM*
-### Which of these places is known for art auctions?
+*Updated 5/13/2022 at 12:00 AM*
+### In what decade did Israel become an independent state?
 <details>
 <summary>
-Shelby's    
+1920s    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nickleby's  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Gatsby's   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sotheby's  
+1940s  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+1950s   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1960s  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
