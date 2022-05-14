@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/13/2022 at 12:00 AM*
-### In what decade did Israel become an independent state?
+*Updated 5/14/2022 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-1920s    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1940s  
+Bovinity Divinity  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1950s   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1960s  
+Chubby Hubby  
 </summary>
 
 :x: *Wrong...*
