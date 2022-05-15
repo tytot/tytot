@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/14/2022 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 5/15/2022 at 12:00 AM*
+### How many states were in the Confederate States of America?
 <details>
 <summary>
-Wavy Gravy    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bovinity Divinity  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cutie Patootie   
+11    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+13  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+16   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+22  
 </summary>
 
 :x: *Wrong...*
