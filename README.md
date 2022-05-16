@@ -8,32 +8,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/15/2022 at 12:00 AM*
-### How many states were in the Confederate States of America?
+*Updated 5/16/2022 at 12:00 AM*
+### Which of these is not a 'lock' function on a standard desktop computer keyboard?
 <details>
 <summary>
-11    
+print lock    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-13  
+number lock  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-16   
+scroll lock   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-22  
+caps lock  
 </summary>
 
 :x: *Wrong...*
