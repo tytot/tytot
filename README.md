@@ -8,35 +8,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/16/2022 at 12:00 AM*
-### Which of these is not a 'lock' function on a standard desktop computer keyboard?
+*Updated 5/17/2022 at 12:00 AM*
+### What city is known as 'the rubber capital of the world'?
 <details>
 <summary>
-print lock    
+Omaha, Nebraska    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rockford, Illinois  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Grand Rapids, Michigan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Akron, Ohio  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-number lock  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scroll lock   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-caps lock  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
