@@ -7,36 +7,7 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/17/2022 at 12:00 AM*
-### What city is known as 'the rubber capital of the world'?
-<details>
-<summary>
-Omaha, Nebraska    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rockford, Illinois  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grand Rapids, Michigan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Akron, Ohio  
-</summary>
-
-:heavy_check_mark: *Correct!*
-</details>
+_Question Here_
 
 ## :bar_chart: My Stats
 
