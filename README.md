@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/24/2023 at 12:00 AM*
-### Who were the Chicago Seven?
+*Updated 3/25/2023 at 12:00 AM*
+### Who is the shortest man to ever win an NBA slam dunk competition?
 <details>
 <summary>
-war protesters    
+Anthony 'Spud' Webb    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bluegrass musicians  
+Michael 'Air' Jordan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bank robbers   
+Tyrone 'Muggsy' Bogues   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mobsters  
+Julius 'Dr. J' Erving  
 </summary>
 
 :x: *Wrong...*
