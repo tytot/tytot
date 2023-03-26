@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/25/2023 at 12:00 AM*
-### Who is the shortest man to ever win an NBA slam dunk competition?
+*Updated 3/26/2023 at 12:00 AM*
+### How many ships did Columbus set sail with on his initial voyage to the New World?
 <details>
 <summary>
-Anthony 'Spud' Webb    
+Two    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Michael 'Air' Jordan  
+Five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tyrone 'Muggsy' Bogues   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Julius 'Dr. J' Erving  
+Ten  
 </summary>
 
 :x: *Wrong...*
