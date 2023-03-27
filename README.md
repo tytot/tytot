@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/26/2023 at 12:00 AM*
-### How many ships did Columbus set sail with on his initial voyage to the New World?
+*Updated 3/27/2023 at 12:00 AM*
+### Who was the mother of the Greek god Zeus?
 <details>
 <summary>
-Two    
+Gaia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three  
+Phoebe  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rhea   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ten  
+Hera  
 </summary>
 
 :x: *Wrong...*
