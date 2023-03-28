@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/27/2023 at 12:00 AM*
-### Who was the mother of the Greek god Zeus?
+*Updated 3/28/2023 at 12:00 AM*
+### According to the title of a popular children's TV show, what color is Bear's big house?
 <details>
 <summary>
-Gaia    
+red    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Phoebe  
+green  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhea   
+purple   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Hera  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
