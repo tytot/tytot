@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/28/2023 at 12:00 AM*
-### According to the title of a popular children's TV show, what color is Bear's big house?
+*Updated 3/29/2023 at 12:00 AM*
+### Which of the following is not in Nevada?
 <details>
 <summary>
-red    
+Liberace Museum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-purple   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+Pikes Peak  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Lake Mead   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hoover Dam  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
