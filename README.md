@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/29/2023 at 12:00 AM*
-### Which of the following is not in Nevada?
+*Updated 3/30/2023 at 12:00 AM*
+### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
 <details>
 <summary>
-Liberace Museum    
+through outer space    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pikes Peak  
+through a human body  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lake Mead   
+to the ocean floor   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hoover Dam  
+to the center of the earth  
 </summary>
 
 :x: *Wrong...*
