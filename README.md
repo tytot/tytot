@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/30/2023 at 12:00 AM*
-### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
+*Updated 3/31/2023 at 12:00 AM*
+### The Original Apple iMac computer was available in all of the following colors except which?
 <details>
 <summary>
-through outer space    
+Tangerine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-through a human body  
+Strawberry  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kiwi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to the ocean floor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to the center of the earth  
+Grape  
 </summary>
 
 :x: *Wrong...*
