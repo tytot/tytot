@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/31/2023 at 12:00 AM*
-### The Original Apple iMac computer was available in all of the following colors except which?
+*Updated 4/1/2023 at 12:00 AM*
+### When it first appeared on the Internet, amazon.com sold only what?
 <details>
 <summary>
-Tangerine    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Strawberry  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kiwi   
+books    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Grape  
+compact discs  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cars   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clothes  
 </summary>
 
 :x: *Wrong...*
