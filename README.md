@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/1/2023 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 4/26/2023 at 12:00 AM*
+### How many states were in the Confederate States of America?
 <details>
 <summary>
-books    
+11    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-compact discs  
+13  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cars   
+16   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-clothes  
+22  
 </summary>
 
 :x: *Wrong...*
