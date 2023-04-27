@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/26/2023 at 12:00 AM*
-### How many states were in the Confederate States of America?
+*Updated 4/27/2023 at 12:00 AM*
+### What term describes someone who does not believe in the existence of God?
 <details>
 <summary>
-11    
+hedonist    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+deist  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+agnostic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+atheist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-13  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-16   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-22  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
