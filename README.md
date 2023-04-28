@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/27/2023 at 12:00 AM*
-### What term describes someone who does not believe in the existence of God?
+*Updated 4/28/2023 at 12:00 AM*
+### Which of these popular games relies on bluffing?
 <details>
 <summary>
-hedonist    
+Outburst    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-deist  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-agnostic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-atheist  
+Balderdash  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Pictionary   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Scattergories  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
