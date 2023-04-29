@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/28/2023 at 12:00 AM*
-### Which of these popular games relies on bluffing?
+*Updated 4/29/2023 at 12:00 AM*
+### What sport is known as 'The Sport of Kings'?
 <details>
 <summary>
-Outburst    
+polo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Balderdash  
+archery  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+yachting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+horse racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Pictionary   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scattergories  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
