@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/29/2023 at 12:00 AM*
-### What sport is known as 'The Sport of Kings'?
+*Updated 4/30/2023 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-polo    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-archery  
+barley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-yachting   
+chicken   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-horse racing  
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
