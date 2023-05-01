@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/30/2023 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 5/1/2023 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-citrus fruits    
+Michael Brown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barley  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shellfish  
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Malcolm Lincoln   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michael Lloyd  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
