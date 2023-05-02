@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/1/2023 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 5/2/2023 at 12:00 AM*
+### The majority of calcium in the human body is found where?
 <details>
 <summary>
-Michael Brown    
+hair    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+blood  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Malcolm Lincoln   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michael Lloyd  
+digestive tract  
 </summary>
 
 :x: *Wrong...*
