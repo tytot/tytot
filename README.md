@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/2/2023 at 12:00 AM*
-### The majority of calcium in the human body is found where?
+*Updated 5/3/2023 at 12:00 AM*
+### The American patriot Paul Revere was named for his father, whose original name was what?
 <details>
 <summary>
-hair    
+John Paul Revere    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blood  
+Paul Silver  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bones   
+Apollos Rivoire   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-digestive tract  
+Paolo Reverini  
 </summary>
 
 :x: *Wrong...*
