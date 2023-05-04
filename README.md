@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/3/2023 at 12:00 AM*
-### The American patriot Paul Revere was named for his father, whose original name was what?
+*Updated 5/4/2023 at 12:00 AM*
+### Which of these organs comes in a pair?
 <details>
 <summary>
-John Paul Revere    
+liver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Silver  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Apollos Rivoire   
+kidney  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paolo Reverini  
+stomach   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gallbladder  
 </summary>
 
 :x: *Wrong...*
