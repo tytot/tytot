@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/4/2023 at 12:00 AM*
-### Which of these organs comes in a pair?
+*Updated 5/5/2023 at 12:00 AM*
+### What kind of item is a ginsu?
 <details>
 <summary>
-liver    
+radio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-kidney  
+knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-stomach   
+toothbrush   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gallbladder  
+martial arts weapon  
 </summary>
 
 :x: *Wrong...*
