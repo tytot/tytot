@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/5/2023 at 12:00 AM*
-### What kind of item is a ginsu?
+*Updated 5/6/2023 at 12:00 AM*
+### Which of these television programs did not feature characters introduced on 'Happy Days'?
 <details>
 <summary>
-radio    
+'Mork & Mindy'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-knife  
+'Perfect Strangers'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-toothbrush   
+'Joanie Loves Chachi'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-martial arts weapon  
+'Laverne & Shirley'  
 </summary>
 
 :x: *Wrong...*
