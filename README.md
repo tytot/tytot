@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/6/2023 at 12:00 AM*
-### Which of these television programs did not feature characters introduced on 'Happy Days'?
+*Updated 5/7/2023 at 12:00 AM*
+### What native empire controlled Large areas of South African Territory during the 19th century?
 <details>
 <summary>
-'Mork & Mindy'    
+Hutu    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Perfect Strangers'  
+Zulu  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Joanie Loves Chachi'   
+Aztec   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Laverne & Shirley'  
+Masai  
 </summary>
 
 :x: *Wrong...*
