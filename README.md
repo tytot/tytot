@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/7/2023 at 12:00 AM*
-### What native empire controlled Large areas of South African Territory during the 19th century?
+*Updated 5/8/2023 at 12:00 AM*
+### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
 <details>
 <summary>
-Hutu    
+Stormfield    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Zulu  
+Fog City  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mudville   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aztec   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Masai  
+Waterlog  
 </summary>
 
 :x: *Wrong...*
