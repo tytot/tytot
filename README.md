@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/8/2023 at 12:00 AM*
-### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
+*Updated 5/9/2023 at 12:00 AM*
+### Which of the following is most commonly kept in a terrarium?
 <details>
 <summary>
-Stormfield    
+money    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fog City  
+books  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mudville   
+ice   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+plants  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Waterlog  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
