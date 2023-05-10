@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/9/2023 at 12:00 AM*
-### Which of the following is most commonly kept in a terrarium?
+*Updated 5/10/2023 at 12:00 AM*
+### What is Delta Burke's character's job on the sitcom 'Designing Women'?
 <details>
 <summary>
-money    
+fashion designer    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-books  
+graphic designer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ice   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-plants  
+interior designer   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+website designer  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
