@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/10/2023 at 12:00 AM*
-### What is Delta Burke's character's job on the sitcom 'Designing Women'?
+*Updated 5/11/2023 at 12:00 AM*
+### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
 <details>
 <summary>
-fashion designer    
+'Humpty Dumpty'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-graphic designer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-interior designer   
+'Mary Had a Little Lamb'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-website designer  
+'Jack Be Nimble'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Home, Sweet Home'  
 </summary>
 
 :x: *Wrong...*
