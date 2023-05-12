@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/11/2023 at 12:00 AM*
-### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
+*Updated 5/12/2023 at 12:00 AM*
+### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
 <details>
 <summary>
-'Humpty Dumpty'    
+Dolph Lundgren    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Mary Had a Little Lamb'  
+Hulk Hogan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Jack Be Nimble'   
+Andre the Giant   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Home, Sweet Home'  
+The Iron Sheik  
 </summary>
 
 :x: *Wrong...*
