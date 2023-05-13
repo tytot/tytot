@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/12/2023 at 12:00 AM*
-### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
+*Updated 5/13/2023 at 12:00 AM*
+### A student who earns a J.D. can begin his or her career as a what?
 <details>
 <summary>
-Dolph Lundgren    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hulk Hogan  
+lawyer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Andre the Giant   
+bricklayer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Iron Sheik  
+doctor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+accountant  
 </summary>
 
 :x: *Wrong...*
