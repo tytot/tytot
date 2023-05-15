@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/14/2023 at 12:00 AM*
-### Who co-founded Microsoft with Bill Gates?
+*Updated 5/15/2023 at 12:00 AM*
+### What term describes a tribe that has no set homeland and wanders from place to place?
 <details>
 <summary>
-Steve Jobs    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Steve Wozniak  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Paul Williams   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Paul Allen  
+Nomadic    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Pedantic  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Schematic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cathartic  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
