@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/15/2023 at 12:00 AM*
-### What term describes a tribe that has no set homeland and wanders from place to place?
+*Updated 5/16/2023 at 12:00 AM*
+### According to legend, if you give someone the 'evil eye' what are you doing?
 <details>
 <summary>
-Nomadic    
+cursing them    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Pedantic  
+blessing a child  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Schematic   
+counting money   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cathartic  
+passing time  
 </summary>
 
 :x: *Wrong...*
