@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/17/2023 at 12:00 AM*
-### In what decade was the Hula-Hoop invented?
+*Updated 5/18/2023 at 12:00 AM*
+### Which fast food chain used the advertising slogan, 'Where's the beef?'
 <details>
 <summary>
-1890s    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1920s  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1950s   
+Wendy's    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1970s  
+Kentucky Fried Chicken  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Burger King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+McDonald's  
 </summary>
 
 :x: *Wrong...*
