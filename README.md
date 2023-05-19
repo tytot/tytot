@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/18/2023 at 12:00 AM*
-### Which fast food chain used the advertising slogan, 'Where's the beef?'
+*Updated 5/19/2023 at 12:00 AM*
+### Who was the mother of the Greek god Zeus?
 <details>
 <summary>
-Wendy's    
+Gaia    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Phoebe  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rhea   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kentucky Fried Chicken  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-McDonald's  
+Hera  
 </summary>
 
 :x: *Wrong...*
