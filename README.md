@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/19/2023 at 12:00 AM*
-### Who was the mother of the Greek god Zeus?
+*Updated 5/20/2023 at 12:00 AM*
+### What kind of angle is formed where two perpendicular lines meet?
 <details>
 <summary>
-Gaia    
+obtuse    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Phoebe  
+acute  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhea   
+right   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hera  
+invisible  
 </summary>
 
 :x: *Wrong...*
