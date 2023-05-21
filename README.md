@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/20/2023 at 12:00 AM*
-### What kind of angle is formed where two perpendicular lines meet?
+*Updated 5/21/2023 at 12:00 AM*
+### What was the birth name of civil rights leader Malcolm X?
 <details>
 <summary>
-obtuse    
+Michael Brown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-acute  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-right   
+Malcolm Little  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-invisible  
+Malcolm Lincoln   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michael Lloyd  
 </summary>
 
 :x: *Wrong...*
