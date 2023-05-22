@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/21/2023 at 12:00 AM*
-### What was the birth name of civil rights leader Malcolm X?
+*Updated 5/22/2023 at 12:00 AM*
+### Which of these is a commonly-known investment account?
 <details>
 <summary>
-Michael Brown    
+CNN    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Malcolm Little  
+EMC  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+IRA   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Malcolm Lincoln   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michael Lloyd  
+IRS  
 </summary>
 
 :x: *Wrong...*
