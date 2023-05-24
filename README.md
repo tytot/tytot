@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/23/2023 at 12:00 AM*
-### In a game with no wild cards, what is the highest possible poker hand?
+*Updated 5/24/2023 at 12:00 AM*
+### What does the Yiddish word 'meshuga' mean?
 <details>
 <summary>
-straight flush    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-royal flush  
+crazy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full house   
+sacred  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four of a kind  
+stingy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sweet  
 </summary>
 
 :x: *Wrong...*
