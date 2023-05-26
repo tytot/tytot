@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/25/2023 at 12:00 AM*
-### How many $100 bills does it take to equal one million dollars?
+*Updated 5/26/2023 at 12:00 AM*
+### What professional sports team plays its home games in the Alamodome?
 <details>
 <summary>
-one thousand    
+New York Jets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five thousand  
+Detroit Tigers  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ten thousand   
+Boston Bruins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Antonio Spurs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-one hundred thousand  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
