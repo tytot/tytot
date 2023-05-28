@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/26/2023 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 5/28/2023 at 12:00 AM*
+### Which of these fashion designers was born in the United States?
 <details>
 <summary>
-New York Jets    
+Laura Ashley    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Detroit Tigers  
+Helmut Lang  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Bruins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Antonio Spurs  
+Donna Karan   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Christian Dior  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
