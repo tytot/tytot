@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/28/2023 at 12:00 AM*
-### Which of these fashion designers was born in the United States?
+*Updated 5/29/2023 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-Laura Ashley    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Helmut Lang  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Donna Karan   
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Christian Dior  
+beef   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pork  
 </summary>
 
 :x: *Wrong...*
