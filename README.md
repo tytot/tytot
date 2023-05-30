@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/29/2023 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 5/30/2023 at 12:00 AM*
+### In what war did Joan of Arc fight?
 <details>
 <summary>
-shrimp    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+Hundred Years' War    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
+Franco-Prussian War  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pork  
+French Revolution   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French and Indian War  
 </summary>
 
 :x: *Wrong...*
