@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/30/2023 at 12:00 AM*
-### In what war did Joan of Arc fight?
+*Updated 5/31/2023 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-Hundred Years' War    
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Franco-Prussian War  
+influenza  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French Revolution   
+emphysema   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French and Indian War  
+heart disease  
 </summary>
 
 :x: *Wrong...*
