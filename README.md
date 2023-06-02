@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/1/2023 at 12:00 AM*
-### Which of these games is not played with cards?
+*Updated 6/2/2023 at 12:00 AM*
+### At what age can someone first attend an R-rated movie without an accompanying adult?
 <details>
 <summary>
-baccarat    
+15    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rummy  
+17  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-craps   
+18   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-solitaire  
+21  
 </summary>
 
 :x: *Wrong...*
