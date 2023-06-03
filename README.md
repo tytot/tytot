@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/2/2023 at 12:00 AM*
-### At what age can someone first attend an R-rated movie without an accompanying adult?
+*Updated 6/3/2023 at 12:00 AM*
+### What is the final word of the Pledge of Allegiance?
 <details>
 <summary>
-15    
+America    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-17  
+stands  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-18   
+indivisible   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+all  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-21  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
