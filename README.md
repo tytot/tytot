@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/3/2023 at 12:00 AM*
-### What is the final word of the Pledge of Allegiance?
+*Updated 6/4/2023 at 12:00 AM*
+### The dance known as the 'fandango' is of what origin?
 <details>
 <summary>
-America    
+Australian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stands  
+African  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-indivisible   
+Native American   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-all  
+Spanish  
 </summary>
 
 :heavy_check_mark: *Correct!*
