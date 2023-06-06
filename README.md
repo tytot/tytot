@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/5/2023 at 12:00 AM*
-### Which of these would you most commonly find in a sconce?
+*Updated 6/6/2023 at 12:00 AM*
+### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
 <details>
 <summary>
-candle    
+Little Buddy    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mini-Me  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-food  
+Small Fry   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-birds   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books  
+Dr. Evil Jr  
 </summary>
 
 :x: *Wrong...*
