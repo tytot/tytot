@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/6/2023 at 12:00 AM*
-### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
+*Updated 6/7/2023 at 12:00 AM*
+### If you work as a 'dolly grip' what business are you in?
 <details>
 <summary>
-Little Buddy    
+sheep farming    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mini-Me  
+film production  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Small Fry   
+construction   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr. Evil Jr  
+moving  
 </summary>
 
 :x: *Wrong...*
