@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/7/2023 at 12:00 AM*
-### If you work as a 'dolly grip' what business are you in?
+*Updated 6/8/2023 at 12:00 AM*
+### The 'Arkansas toothpick' is better known by what name?
 <details>
 <summary>
-sheep farming    
+Scottie Pippen    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-film production  
+spare rib  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pinkie finger   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bowie knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-construction   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-moving  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
