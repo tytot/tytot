@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/8/2023 at 12:00 AM*
-### The 'Arkansas toothpick' is better known by what name?
+*Updated 6/9/2023 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-Scottie Pippen    
+Miss Jackie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-spare rib  
+Elizabeth Sanford  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pinkie finger   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bowie knife  
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Gladys Knight  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
