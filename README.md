@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/9/2023 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 6/10/2023 at 12:00 AM*
+### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
 <details>
 <summary>
-Miss Jackie    
+Abner Doubleday    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Sanford  
+Ty Cobb  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Geraldine Jones   
+Jackie Robinson   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+Billy Martin  
 </summary>
 
 :x: *Wrong...*
