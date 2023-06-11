@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/10/2023 at 12:00 AM*
-### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
+*Updated 6/11/2023 at 12:00 AM*
+### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
 <details>
 <summary>
-Abner Doubleday    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ty Cobb  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jackie Robinson   
+Law of Inertia    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Billy Martin  
+Law of Thermodynamics  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Relativity   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Gravitation  
 </summary>
 
 :x: *Wrong...*
