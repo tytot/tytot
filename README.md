@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/11/2023 at 12:00 AM*
-### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
+*Updated 6/12/2023 at 12:00 AM*
+### How many digits are in a standard Visa credit card number?
 <details>
 <summary>
-Law of Inertia    
+12    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+15  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+16   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Law of Thermodynamics  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Law of Relativity   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Law of Gravitation  
+20  
 </summary>
 
 :x: *Wrong...*
