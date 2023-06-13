@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/12/2023 at 12:00 AM*
-### How many digits are in a standard Visa credit card number?
+*Updated 6/13/2023 at 12:00 AM*
+### Which of the following is not a TV cartoon duo?
 <details>
 <summary>
-12    
+Chip and Dale    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-15  
+Beavis and Butt-head  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-16   
+Simon and Garfunkel   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-20  
+Tom and Jerry  
 </summary>
 
 :x: *Wrong...*
