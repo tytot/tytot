@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/13/2023 at 12:00 AM*
-### Which of the following is not a TV cartoon duo?
+*Updated 6/14/2023 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-Chip and Dale    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Beavis and Butt-head  
+Austin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Simon and Garfunkel   
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Tom and Jerry  
+Cleveland  
 </summary>
 
 :x: *Wrong...*
