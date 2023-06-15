@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/14/2023 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 6/15/2023 at 12:00 AM*
+### A student who earns a J.D. can begin his or her career as a what?
 <details>
 <summary>
-Chicago    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Austin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh   
+lawyer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+bricklayer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+doctor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+accountant  
 </summary>
 
 :x: *Wrong...*
