@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/15/2023 at 12:00 AM*
-### A student who earns a J.D. can begin his or her career as a what?
+*Updated 6/16/2023 at 12:00 AM*
+### In baseball, how many balls make a walk?
 <details>
 <summary>
-lawyer    
+one    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-bricklayer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-doctor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-accountant  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
