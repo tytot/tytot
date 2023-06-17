@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/16/2023 at 12:00 AM*
-### In baseball, how many balls make a walk?
+*Updated 6/17/2023 at 12:00 AM*
+### Who was the longest reigning monarch in French history?
 <details>
 <summary>
-one    
+Louis XIII     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+Louis XIV  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Louis XV   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Louis XVI  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
