@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/17/2023 at 12:00 AM*
-### Who was the longest reigning monarch in French history?
+*Updated 6/18/2023 at 12:00 AM*
+### Which of these is not one of Aesop's fables?
 <details>
 <summary>
-Louis XIII     
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Louis XIV  
+'The Dog and the Squirrel'    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Louis XV   
+'The Hare and the Tortoise'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Louis XVI  
+'The Eagle and the Beetle'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'The Ox and the Frogs'  
 </summary>
 
 :x: *Wrong...*
