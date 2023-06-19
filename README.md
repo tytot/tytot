@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/18/2023 at 12:00 AM*
-### Which of these is not one of Aesop's fables?
+*Updated 6/19/2023 at 12:00 AM*
+### What type of substance is 'terra-cotta'?
 <details>
 <summary>
-'The Dog and the Squirrel'    
+metal    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ceramic  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Hare and the Tortoise'  
+wood   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'The Eagle and the Beetle'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'The Ox and the Frogs'  
+glass  
 </summary>
 
 :x: *Wrong...*
