@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/19/2023 at 12:00 AM*
-### What type of substance is 'terra-cotta'?
+*Updated 6/20/2023 at 12:00 AM*
+### What is the name of Howard Stern's female on-air sidekick?
 <details>
 <summary>
-metal    
+Allison Norris    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ceramic  
+Jackie Reeses  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jackie Martling   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robin Quivers  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-wood   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-glass  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
