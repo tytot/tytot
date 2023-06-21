@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/20/2023 at 12:00 AM*
-### What is the name of Howard Stern's female on-air sidekick?
+*Updated 6/21/2023 at 12:00 AM*
+### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
 <details>
 <summary>
-Allison Norris    
+Dolph Lundgren    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Reeses  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jackie Martling   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robin Quivers  
+Hulk Hogan  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Andre the Giant   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Iron Sheik  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
