@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/21/2023 at 12:00 AM*
-### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
+*Updated 6/22/2023 at 12:00 AM*
+### Ada Lovelace is credited with being the first person to have made what?
 <details>
 <summary>
-Dolph Lundgren    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hulk Hogan  
+a computer program    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Andre the Giant   
+a souffle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Iron Sheik  
+a brassiere   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a mystery novel  
 </summary>
 
 :x: *Wrong...*
