@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/22/2023 at 12:00 AM*
-### Ada Lovelace is credited with being the first person to have made what?
+*Updated 6/23/2023 at 12:00 AM*
+### In what country did Magic Johnson play professional basketball during the 1999 season?
 <details>
 <summary>
-a computer program    
+United States    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sweden  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a souffle  
+Israel   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a brassiere   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a mystery novel  
+Turkey  
 </summary>
 
 :x: *Wrong...*
