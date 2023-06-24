@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/23/2023 at 12:00 AM*
-### In what country did Magic Johnson play professional basketball during the 1999 season?
+*Updated 6/24/2023 at 12:00 AM*
+### By what name is Bob Keeshan better known?
 <details>
 <summary>
-United States    
+Bozo the Clown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sweden  
+Pee Wee Herman  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Captain Kangaroo   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Israel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Turkey  
+Buffalo Bob  
 </summary>
 
 :x: *Wrong...*
