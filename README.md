@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/24/2023 at 12:00 AM*
-### By what name is Bob Keeshan better known?
+*Updated 6/25/2023 at 12:00 AM*
+### People are supposed to drive on the left-hand side of the road in which country?
 <details>
 <summary>
-Bozo the Clown    
+France    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pee Wee Herman  
+Italy  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Captain Kangaroo   
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Buffalo Bob  
+Germany  
 </summary>
 
 :x: *Wrong...*
