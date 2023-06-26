@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/25/2023 at 12:00 AM*
-### People are supposed to drive on the left-hand side of the road in which country?
+*Updated 6/26/2023 at 12:00 AM*
+### Which of the following candies is traditionally fruit flavored?
 <details>
 <summary>
-France    
+M&M's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Italy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-England   
+Skittles  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Germany  
+Reese's Pieces   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Junior Mints  
 </summary>
 
 :x: *Wrong...*
