@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/26/2023 at 12:00 AM*
-### Which of the following candies is traditionally fruit flavored?
+*Updated 6/27/2023 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-M&M's    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Skittles  
+Bovinity Divinity  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Reese's Pieces   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Junior Mints  
+Chubby Hubby  
 </summary>
 
 :x: *Wrong...*
