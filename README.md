@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/27/2023 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 6/28/2023 at 12:00 AM*
+### If you work as a 'dolly grip' what business are you in?
 <details>
 <summary>
-Wavy Gravy    
+sheep farming    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cutie Patootie   
+film production  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+construction   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+moving  
 </summary>
 
 :x: *Wrong...*
