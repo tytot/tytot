@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/28/2023 at 12:00 AM*
-### If you work as a 'dolly grip' what business are you in?
+*Updated 6/29/2023 at 12:00 AM*
+### How many states were in the Confederate States of America?
 <details>
 <summary>
-sheep farming    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-film production  
+11    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-construction   
+13  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-moving  
+16   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+22  
 </summary>
 
 :x: *Wrong...*
