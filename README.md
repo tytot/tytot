@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/29/2023 at 12:00 AM*
-### How many states were in the Confederate States of America?
+*Updated 7/15/2023 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-11    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-13  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-16   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-22  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
