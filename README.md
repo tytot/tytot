@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/15/2023 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 7/16/2023 at 12:00 AM*
+### What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?
 <details>
 <summary>
-Oberlin College    
+Lamborghini    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Camaro  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Corvette   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Trans Am  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
