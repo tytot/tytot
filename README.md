@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/16/2023 at 12:00 AM*
-### What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?
+*Updated 7/17/2023 at 12:00 AM*
+### What city's residents are known as 'Knickerbockers'?
 <details>
 <summary>
-Lamborghini    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Camaro  
+Philadelphia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Corvette   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Trans Am  
+New York City   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+London  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
