@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/17/2023 at 12:00 AM*
-### What city's residents are known as 'Knickerbockers'?
+*Updated 7/18/2023 at 12:00 AM*
+### Which of these is a member of the cucumber family?
 <details>
 <summary>
-Boston    
+green pepper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York City   
+watermelon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-London  
+potato   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green bean  
 </summary>
 
 :x: *Wrong...*
