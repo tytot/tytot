@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/18/2023 at 12:00 AM*
-### Which of these is a member of the cucumber family?
+*Updated 7/19/2023 at 12:00 AM*
+### Which of these is a slang term for 'police'?
 <details>
 <summary>
-green pepper    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-watermelon  
+fuzz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-potato   
+shrinks  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green bean  
+bean counters   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+aardvarks  
 </summary>
 
 :x: *Wrong...*
