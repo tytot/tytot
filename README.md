@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/19/2023 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated 7/20/2023 at 12:00 AM*
+### Backgammon is a how many player game?
 <details>
 <summary>
-fuzz    
+Two    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-shrinks  
+Three  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bean counters   
+Four   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-aardvarks  
+Six  
 </summary>
 
 :x: *Wrong...*
