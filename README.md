@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/20/2023 at 12:00 AM*
-### Backgammon is a how many player game?
+*Updated 7/21/2023 at 12:00 AM*
+### Which of the boys on the TV show 'My Three Sons' is adopted?
 <details>
 <summary>
-Two    
+Mike    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ernie  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Three  
+Chip   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Four   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Six  
+Robbie  
 </summary>
 
 :x: *Wrong...*
