@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/22/2023 at 12:00 AM*
-### During which war did US troops fight the Battle of New Orleans?
+*Updated 7/23/2023 at 12:00 AM*
+### Who co-founded Microsoft with Bill Gates?
 <details>
 <summary>
-American Revolution    
+Steve Jobs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Civil War  
+Steve Wozniak  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mexican War   
+Paul Williams   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+Paul Allen  
 </summary>
 
 :heavy_check_mark: *Correct!*
