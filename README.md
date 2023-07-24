@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/23/2023 at 12:00 AM*
-### Who co-founded Microsoft with Bill Gates?
+*Updated 7/24/2023 at 12:00 AM*
+### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
 <details>
 <summary>
-Steve Jobs    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Steve Wozniak  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Paul Williams   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Paul Allen  
+Law of Inertia    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Law of Thermodynamics  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Relativity   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Gravitation  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
