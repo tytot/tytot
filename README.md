@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/24/2023 at 12:00 AM*
-### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
+*Updated 7/25/2023 at 12:00 AM*
+### Which of these is not a type of rock?
 <details>
 <summary>
-Law of Inertia    
+metamorphic    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sedimentary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+igneous   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+deciduous  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Law of Thermodynamics  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Law of Relativity   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Law of Gravitation  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
