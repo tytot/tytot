@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/25/2023 at 12:00 AM*
-### Which of these is not a type of rock?
+*Updated 7/26/2023 at 12:00 AM*
+### What topic does Spin magazine primarily cover?
 <details>
 <summary>
-metamorphic    
+politics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sedimentary  
+washing machines  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-igneous   
+books   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-deciduous  
+music  
 </summary>
 
 :heavy_check_mark: *Correct!*
