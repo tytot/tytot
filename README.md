@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/26/2023 at 12:00 AM*
-### What topic does Spin magazine primarily cover?
+*Updated 7/27/2023 at 12:00 AM*
+### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
-politics    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-washing machines  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-music  
+Edward Estlin    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Edmund Earl  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ernest Eakins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Eugene Evan  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
