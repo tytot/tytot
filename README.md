@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/28/2023 at 12:00 AM*
-### What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?
+*Updated 7/29/2023 at 12:00 AM*
+### What is the technical term for someone who studies fish?
 <details>
 <summary>
-blossom on a shield    
+entomologist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eye of the archer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the lion's mane   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-armpit of the giant  
+ichthyologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+marinologist   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+herpetologist  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
