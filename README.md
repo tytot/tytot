@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/29/2023 at 12:00 AM*
-### What is the technical term for someone who studies fish?
+*Updated 7/30/2023 at 12:00 AM*
+### In the Arthurian legend, who is married to Guinevere?
 <details>
 <summary>
-entomologist    
+Merlin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ichthyologist  
+King Arthur  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-marinologist   
+Lancelot   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-herpetologist  
+Camelot  
 </summary>
 
 :x: *Wrong...*
