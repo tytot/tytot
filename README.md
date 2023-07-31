@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/30/2023 at 12:00 AM*
-### In the Arthurian legend, who is married to Guinevere?
+*Updated 7/31/2023 at 12:00 AM*
+### According to legend, in what country are you most likely to meet a leprechaun?
 <details>
 <summary>
-Merlin    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-King Arthur  
+Ireland    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lancelot   
+Poland  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Camelot  
+Greenland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Scotland  
 </summary>
 
 :x: *Wrong...*
