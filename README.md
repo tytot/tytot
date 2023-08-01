@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/31/2023 at 12:00 AM*
-### According to legend, in what country are you most likely to meet a leprechaun?
+*Updated 8/1/2023 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-Ireland    
+Miss Jackie    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Elizabeth Sanford  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Poland  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greenland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scotland  
+Gladys Knight  
 </summary>
 
 :x: *Wrong...*
