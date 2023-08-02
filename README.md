@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/1/2023 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 8/2/2023 at 12:00 AM*
+### How many $100 bills does it take to equal one million dollars?
 <details>
 <summary>
-Miss Jackie    
+one thousand    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Sanford  
+five thousand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Geraldine Jones   
+ten thousand   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+one hundred thousand  
 </summary>
 
 :x: *Wrong...*
