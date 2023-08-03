@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/2/2023 at 12:00 AM*
-### How many $100 bills does it take to equal one million dollars?
+*Updated 8/3/2023 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-one thousand    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five thousand  
+Austin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ten thousand   
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-one hundred thousand  
+Cleveland  
 </summary>
 
 :x: *Wrong...*
