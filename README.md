@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/3/2023 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 8/4/2023 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-Chicago    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Austin  
+Philadelphia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pittsburgh   
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+New York City  
 </summary>
 
 :x: *Wrong...*
