@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/4/2023 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 8/5/2023 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-Boston    
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chicago   
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New York City  
+Larry King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
