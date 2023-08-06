@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/5/2023 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 8/6/2023 at 12:00 AM*
+### Which of these is made from cacao seeds?
 <details>
 <summary>
-Rush Limbaugh    
+marzipan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Casey Kasem  
+soy sauce  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Howard Stern  
+anchovies  
 </summary>
 
 :x: *Wrong...*
