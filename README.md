@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/2023 at 12:00 AM*
-### Which of the Three Stooges was not related to the others?
+*Updated 8/8/2023 at 12:00 AM*
+### Which of these organs comes in a pair?
 <details>
 <summary>
-Moe    
+liver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Larry  
+kidney  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curly   
+stomach   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Shemp  
+gallbladder  
 </summary>
 
 :x: *Wrong...*
