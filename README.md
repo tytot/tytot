@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2023 at 12:00 AM*
-### Which of these organs comes in a pair?
+*Updated 8/9/2023 at 12:00 AM*
+### The process of drilling holes in the skull is called what?
 <details>
 <summary>
-liver    
+bifurcation    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-kidney  
+trepanation  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-stomach   
+aeronomy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gallbladder  
+skullduggery  
 </summary>
 
 :x: *Wrong...*
