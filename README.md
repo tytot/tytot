@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/9/2023 at 12:00 AM*
-### The process of drilling holes in the skull is called what?
+*Updated 8/10/2023 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-bifurcation    
+13    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-trepanation  
+48  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-aeronomy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-skullduggery  
+51  
 </summary>
 
 :x: *Wrong...*
