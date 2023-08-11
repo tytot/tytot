@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/10/2023 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 8/11/2023 at 12:00 AM*
+### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
 <details>
 <summary>
-13    
+'Sticks & Stones'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-48  
+'Pulsation'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-50   
+'Black & White'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Sensation'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-51  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
