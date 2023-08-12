@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/11/2023 at 12:00 AM*
-### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
+*Updated 8/12/2023 at 12:00 AM*
+### Which of these is a member of the cucumber family?
 <details>
 <summary>
-'Sticks & Stones'    
+green pepper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Pulsation'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Black & White'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Sensation'  
+watermelon  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+potato   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green bean  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
