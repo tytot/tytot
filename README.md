@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/12/2023 at 12:00 AM*
-### Which of these is a member of the cucumber family?
+*Updated 8/13/2023 at 12:00 AM*
+### Which of these would you most commonly find in a sconce?
 <details>
 <summary>
-green pepper    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-watermelon  
+candle    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-potato   
+food  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green bean  
+birds   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+books  
 </summary>
 
 :x: *Wrong...*
