@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/13/2023 at 12:00 AM*
-### Which of these would you most commonly find in a sconce?
+*Updated 8/14/2023 at 12:00 AM*
+### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
 <details>
 <summary>
-candle    
+Franky    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ponch  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-food  
+Chipper   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-birds   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books  
+Hot Dog  
 </summary>
 
 :x: *Wrong...*
