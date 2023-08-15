@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/14/2023 at 12:00 AM*
-### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
+*Updated 8/15/2023 at 12:00 AM*
+### In what country did Pokemon originate?
 <details>
 <summary>
-Franky    
+France    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ponch  
+Hungary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Japan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chipper   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hot Dog  
+Canada  
 </summary>
 
 :x: *Wrong...*
