@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/15/2023 at 12:00 AM*
-### In what country did Pokemon originate?
+*Updated 8/16/2023 at 12:00 AM*
+### Who was on the $500 bill?
 <details>
 <summary>
-France    
+Calvin Coolidge    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hungary  
+Andrew Jackson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan   
+Aaron Burr   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+William McKinley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Canada  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
