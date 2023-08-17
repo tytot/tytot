@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/16/2023 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 8/17/2023 at 12:00 AM*
+### If you are truly afraid of the dark, what do you suffer from?
 <details>
 <summary>
-Calvin Coolidge    
+hypnophobia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
+cryptophobia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aaron Burr   
+hadephobia   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-William McKinley  
+nyctophobia  
 </summary>
 
 :heavy_check_mark: *Correct!*
