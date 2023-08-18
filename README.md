@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/17/2023 at 12:00 AM*
-### If you are truly afraid of the dark, what do you suffer from?
+*Updated 8/18/2023 at 12:00 AM*
+### Which of these college football programs has produced the most Heisman Trophy winners?
 <details>
 <summary>
-hypnophobia    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cryptophobia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hadephobia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nyctophobia  
+Notre Dame    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+USC  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Oklahoma   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michigan  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
