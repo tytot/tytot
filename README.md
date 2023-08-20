@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/19/2023 at 12:00 AM*
-### Mohair is made from the fleece of what animal?
+*Updated 8/20/2023 at 12:00 AM*
+### Into what body of water does the Rhone River flow?
 <details>
 <summary>
-camel    
+Atlantic Ocean    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-llama  
+Caspian Sea  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-goat   
+North Sea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mediterranean Sea  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-mole  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
