@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/20/2023 at 12:00 AM*
-### Into what body of water does the Rhone River flow?
+*Updated 8/21/2023 at 12:00 AM*
+### When driving, which of the following gestures means 'left turn'?
 <details>
 <summary>
-Atlantic Ocean    
+arm bent upwards    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Caspian Sea  
+thumbs up  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-North Sea   
+closed fist   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mediterranean Sea  
+arm straight out  
 </summary>
 
 :heavy_check_mark: *Correct!*
