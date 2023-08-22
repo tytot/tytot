@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/21/2023 at 12:00 AM*
-### When driving, which of the following gestures means 'left turn'?
+*Updated 8/22/2023 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-arm bent upwards    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thumbs up  
+Philadelphia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-closed fist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-arm straight out  
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+New York City  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
