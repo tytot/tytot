@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/22/2023 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 8/23/2023 at 12:00 AM*
+### Which one of these world leaders was assassinated?
 <details>
 <summary>
-Boston    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chicago   
+Indira Gandhi    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New York City  
+Ferdinand Marcos  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Golda Meir   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Neville Chamberlain  
 </summary>
 
 :x: *Wrong...*
