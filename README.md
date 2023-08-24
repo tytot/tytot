@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/23/2023 at 12:00 AM*
-### Which one of these world leaders was assassinated?
+*Updated 8/24/2023 at 12:00 AM*
+### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
 <details>
 <summary>
-Indira Gandhi    
+Russell Westbrook    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kevin Love  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ferdinand Marcos  
+O.J. Mayo   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Golda Meir   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Neville Chamberlain  
+Ricky Rubio  
 </summary>
 
 :x: *Wrong...*
