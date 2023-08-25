@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/24/2023 at 12:00 AM*
-### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
+*Updated 8/25/2023 at 12:00 AM*
+### Who were the Know-Nothings?
 <details>
 <summary>
-Russell Westbrook    
+a '60's comedy troupe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kevin Love  
+computer designers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a political party   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-O.J. Mayo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ricky Rubio  
+a spy ring  
 </summary>
 
 :x: *Wrong...*
