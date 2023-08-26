@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/25/2023 at 12:00 AM*
-### Who were the Know-Nothings?
+*Updated 8/26/2023 at 12:00 AM*
+### What is the name of Raggedy Ann's doll brother?
 <details>
 <summary>
-a '60's comedy troupe    
+Red    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-computer designers  
+Freckles  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a political party   
+Randy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-a spy ring  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
