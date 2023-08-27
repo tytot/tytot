@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/26/2023 at 12:00 AM*
-### What is the name of Raggedy Ann's doll brother?
+*Updated 8/27/2023 at 12:00 AM*
+### What country is famous for making wooden shoes?
 <details>
 <summary>
-Red    
+Russia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Freckles  
+Thailand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Randy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Andy  
+The Netherlands   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Australia  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
