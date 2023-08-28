@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/27/2023 at 12:00 AM*
-### What country is famous for making wooden shoes?
+*Updated 8/28/2023 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-Russia    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Thailand  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Netherlands   
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Australia  
+Dartmouth College  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Grinnell College   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Antioch College  
 </summary>
 
 :x: *Wrong...*
