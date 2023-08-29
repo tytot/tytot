@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/28/2023 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 8/29/2023 at 12:00 AM*
+### If you are watching a Shavian play, who is the author?
 <details>
 <summary>
-Oberlin College    
+Shakespeare    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aeschylus  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+George Bernard Shaw   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
+Anton Chekhov  
 </summary>
 
 :x: *Wrong...*
