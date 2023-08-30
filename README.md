@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/29/2023 at 12:00 AM*
-### If you are watching a Shavian play, who is the author?
+*Updated 8/30/2023 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-Shakespeare    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aeschylus  
+Bovinity Divinity  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-George Bernard Shaw   
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Anton Chekhov  
+Chubby Hubby  
 </summary>
 
 :x: *Wrong...*
