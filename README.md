@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/30/2023 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 8/31/2023 at 12:00 AM*
+### Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?
 <details>
 <summary>
-Wavy Gravy    
+Sylvester Stallone    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
+Jack Nicholson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cutie Patootie   
+Jack Palance   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+Marisa Tomei  
 </summary>
 
 :x: *Wrong...*
