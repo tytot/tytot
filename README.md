@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/31/2023 at 12:00 AM*
-### Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?
+*Updated 9/1/2023 at 12:00 AM*
+### Who is the patron saint of animals?
 <details>
 <summary>
-Sylvester Stallone    
+St. Isidore of Seville    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jack Nicholson  
+St. Anthony of Padua  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jack Palance   
+St. Francis of Assisi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Marisa Tomei  
+St. Joan of Arc  
 </summary>
 
 :x: *Wrong...*
