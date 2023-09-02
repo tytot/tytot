@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/1/2023 at 12:00 AM*
-### Who is the patron saint of animals?
+*Updated 9/2/2023 at 12:00 AM*
+### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
 <details>
 <summary>
-St. Isidore of Seville    
+a lime    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-St. Anthony of Padua  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-St. Francis of Assisi   
+a shaker of salt  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-St. Joan of Arc  
+his car keys   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the bartender  
 </summary>
 
 :x: *Wrong...*
