@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/2/2023 at 12:00 AM*
-### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
+*Updated 9/3/2023 at 12:00 AM*
+### What country gave us the fashionable headgear called the beret?
 <details>
 <summary>
-a lime    
+Switzerland    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a shaker of salt  
+China  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mexico   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+France  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-his car keys   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the bartender  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
