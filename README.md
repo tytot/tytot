@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/3/2023 at 12:00 AM*
-### What country gave us the fashionable headgear called the beret?
+*Updated 9/4/2023 at 12:00 AM*
+### In computer terminology, what does the acronym 'FTP' stand for?
 <details>
 <summary>
-Switzerland    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-China  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mexico   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-France  
+file transfer protocol    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+full time portal  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+full text processor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+free to print  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
