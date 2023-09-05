@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/4/2023 at 12:00 AM*
-### In computer terminology, what does the acronym 'FTP' stand for?
+*Updated 9/5/2023 at 12:00 AM*
+### What part of the world was once known as Cathay?
 <details>
 <summary>
-file transfer protocol    
+China    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full time portal  
+India  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-full text processor   
+Iran   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-free to print  
+Indonesia  
 </summary>
 
 :x: *Wrong...*
