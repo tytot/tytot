@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/5/2023 at 12:00 AM*
-### What part of the world was once known as Cathay?
+*Updated 9/6/2023 at 12:00 AM*
+### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
 <details>
 <summary>
-China    
+Franky    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ponch  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-India  
+Chipper   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Iran   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Indonesia  
+Hot Dog  
 </summary>
 
 :x: *Wrong...*
