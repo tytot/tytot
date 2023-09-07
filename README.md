@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/6/2023 at 12:00 AM*
-### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
+*Updated 9/7/2023 at 12:00 AM*
+### What New Age musician released a 1998 album titled 'King of the Pan Flute'?
 <details>
 <summary>
-Franky    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ponch  
+Zamfir    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chipper   
+Yanni  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hot Dog  
+Vangelis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kenny G  
 </summary>
 
 :x: *Wrong...*
