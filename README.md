@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/7/2023 at 12:00 AM*
-### What New Age musician released a 1998 album titled 'King of the Pan Flute'?
+*Updated 9/8/2023 at 12:00 AM*
+### In what war did Joan of Arc fight?
 <details>
 <summary>
-Zamfir    
+Hundred Years' War    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Yanni  
+Franco-Prussian War  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vangelis   
+French Revolution   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kenny G  
+French and Indian War  
 </summary>
 
 :x: *Wrong...*
