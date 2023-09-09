@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/8/2023 at 12:00 AM*
-### In what war did Joan of Arc fight?
+*Updated 9/9/2023 at 12:00 AM*
+### Elephant tusks are made of what material?
 <details>
 <summary>
-Hundred Years' War    
+coral    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ivory  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Franco-Prussian War  
+bone   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French Revolution   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-French and Indian War  
+calcium  
 </summary>
 
 :x: *Wrong...*
