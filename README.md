@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/9/2023 at 12:00 AM*
-### Elephant tusks are made of what material?
+*Updated 9/10/2023 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-coral    
+sportswear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ivory  
+dishwashers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-bone   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-calcium  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
