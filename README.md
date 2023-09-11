@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/10/2023 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 9/11/2023 at 12:00 AM*
+### What is the name of the fruit that is half tangerine and half grapefruit?
 <details>
 <summary>
-sportswear    
+graperine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dishwashers  
+tangefruit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cigarettes   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bicycles  
+tangelo   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+kumquat  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
