@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/11/2023 at 12:00 AM*
-### What is the name of the fruit that is half tangerine and half grapefruit?
+*Updated 9/12/2023 at 12:00 AM*
+### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
 <details>
 <summary>
-graperine    
+'Sticks & Stones'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tangefruit  
+'Pulsation'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tangelo   
+'Black & White'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Sensation'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-kumquat  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
