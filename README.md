@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/12/2023 at 12:00 AM*
-### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
+*Updated 9/13/2023 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-'Sticks & Stones'    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Pulsation'  
+Austin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Black & White'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Sensation'  
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Cleveland  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
