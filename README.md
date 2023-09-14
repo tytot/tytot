@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/13/2023 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 9/14/2023 at 12:00 AM*
+### What is the name of the StarKist tuna mascot?
 <details>
 <summary>
-Chicago    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Austin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh   
+Charlie    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+Sam  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Al   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Morris  
 </summary>
 
 :x: *Wrong...*
