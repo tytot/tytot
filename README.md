@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/14/2023 at 12:00 AM*
-### What is the name of the StarKist tuna mascot?
+*Updated 9/15/2023 at 12:00 AM*
+### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
 <details>
 <summary>
-Charlie    
+visa    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sam  
+bill of landing  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Al   
+driver's license   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Morris  
+carte blanche  
 </summary>
 
 :x: *Wrong...*
