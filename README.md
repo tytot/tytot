@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/15/2023 at 12:00 AM*
-### Which of the following must be obtained by foreigners wishing to permanently reside in the US?
+*Updated 9/16/2023 at 12:00 AM*
+### People are supposed to drive on the left-hand side of the road in which country?
 <details>
 <summary>
-visa    
+France    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Italy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bill of landing  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-driver's license   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-carte blanche  
+Germany  
 </summary>
 
 :x: *Wrong...*
