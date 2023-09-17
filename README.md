@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/16/2023 at 12:00 AM*
-### People are supposed to drive on the left-hand side of the road in which country?
+*Updated 9/17/2023 at 12:00 AM*
+### Which of these vitamins was the first to be named?
 <details>
 <summary>
-France    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Italy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-England   
+Vitamin A    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Germany  
+Vitamin-12  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vitamin E   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vitameatavegimen  
 </summary>
 
 :x: *Wrong...*
