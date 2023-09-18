@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/17/2023 at 12:00 AM*
-### Which of these vitamins was the first to be named?
+*Updated 9/18/2023 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-Vitamin A    
+Rush Limbaugh    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vitamin-12  
+Larry King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vitamin E   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vitameatavegimen  
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
