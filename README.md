@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/18/2023 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 9/19/2023 at 12:00 AM*
+### According to legend, in what country are you most likely to meet a leprechaun?
 <details>
 <summary>
-Rush Limbaugh    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Casey Kasem  
+Ireland    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+Poland  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+Greenland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Scotland  
 </summary>
 
 :x: *Wrong...*
