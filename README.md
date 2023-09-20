@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/19/2023 at 12:00 AM*
-### According to legend, in what country are you most likely to meet a leprechaun?
+*Updated 9/20/2023 at 12:00 AM*
+### Which of these stores is not owned by Gap Inc?
 <details>
 <summary>
-Ireland    
+Gap    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Banana Republic  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Navy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+J Crew  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Poland  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greenland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scotland  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
