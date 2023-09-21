@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/20/2023 at 12:00 AM*
-### Which of these stores is not owned by Gap Inc?
+*Updated 9/21/2023 at 12:00 AM*
+### Which of the following candies is traditionally fruit flavored?
 <details>
 <summary>
-Gap    
+M&M's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Banana Republic  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Navy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-J Crew  
+Skittles  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Reese's Pieces   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Junior Mints  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
