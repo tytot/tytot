@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/21/2023 at 12:00 AM*
-### Which of the following candies is traditionally fruit flavored?
+*Updated 9/22/2023 at 12:00 AM*
+### In the 1960s 'Batman' TV series, who was not a guest villain?
 <details>
 <summary>
-M&M's    
+The Minstrel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Skittles  
+The Archer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Bookworm   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Squeegee Guy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Reese's Pieces   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Junior Mints  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
