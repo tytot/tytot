@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/22/2023 at 12:00 AM*
-### In the 1960s 'Batman' TV series, who was not a guest villain?
+*Updated 9/23/2023 at 12:00 AM*
+### To ward off bad luck, what do many people do to wood?
 <details>
 <summary>
-The Minstrel    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Archer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Bookworm   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Squeegee Guy  
+knock on it    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+kiss it  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+thank it   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+scratch it  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
