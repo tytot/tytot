@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/23/2023 at 12:00 AM*
-### To ward off bad luck, what do many people do to wood?
+*Updated 9/24/2023 at 12:00 AM*
+### In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?
 <details>
 <summary>
-knock on it    
+Sancho Panza    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Passepartout  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kiss it  
+Renfield   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thank it   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scratch it  
+Savoir Faire  
 </summary>
 
 :x: *Wrong...*
