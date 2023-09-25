@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/24/2023 at 12:00 AM*
-### In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?
+*Updated 9/25/2023 at 12:00 AM*
+### Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?
 <details>
 <summary>
-Sancho Panza    
+Sylvester Stallone    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Passepartout  
+Jack Nicholson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jack Palance   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Renfield   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Savoir Faire  
+Marisa Tomei  
 </summary>
 
 :x: *Wrong...*
