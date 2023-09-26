@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/25/2023 at 12:00 AM*
-### Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?
+*Updated 9/26/2023 at 12:00 AM*
+### How long is the time on an NBA shot clock?
 <details>
 <summary>
-Sylvester Stallone    
+18 seconds    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jack Nicholson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jack Palance   
+24 seconds  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Marisa Tomei  
+30 seconds   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+35 seconds  
 </summary>
 
 :x: *Wrong...*
