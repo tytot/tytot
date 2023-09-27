@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/26/2023 at 12:00 AM*
-### How long is the time on an NBA shot clock?
+*Updated 9/27/2023 at 12:00 AM*
+### What are the names of Donald Duck's three nephews?
 <details>
 <summary>
-18 seconds    
+Quick, Quack, Quock    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-24 seconds  
+Alvin, Simon, Theodore  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robbie, Chip, Ernie   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Huey, Dewey, Louie  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-30 seconds   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-35 seconds  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
