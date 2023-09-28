@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/27/2023 at 12:00 AM*
-### What are the names of Donald Duck's three nephews?
+*Updated 9/28/2023 at 12:00 AM*
+### What car company once manufactured and sold the 'Datsun' line of automobiles?
 <details>
 <summary>
-Quick, Quack, Quock    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Alvin, Simon, Theodore  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie, Chip, Ernie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Huey, Dewey, Louie  
+Nissan    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Mazda  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Toyota   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Daihatsu  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
