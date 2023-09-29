@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/28/2023 at 12:00 AM*
-### What car company once manufactured and sold the 'Datsun' line of automobiles?
+*Updated 9/29/2023 at 12:00 AM*
+### If you have a 'sawbuck' how much money do you have?
 <details>
 <summary>
-Nissan    
+$1    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$5  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mazda  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Toyota   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Daihatsu  
+$20  
 </summary>
 
 :x: *Wrong...*
