@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/29/2023 at 12:00 AM*
-### If you have a 'sawbuck' how much money do you have?
+*Updated 9/30/2023 at 12:00 AM*
+### Where would you typically find a bailiff?
 <details>
 <summary>
-$1    
+grocery store    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$5  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-$10   
+courtroom  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-$20  
+football stadium   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+doctor's office  
 </summary>
 
 :x: *Wrong...*
