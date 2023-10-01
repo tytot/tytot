@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/30/2023 at 12:00 AM*
-### Where would you typically find a bailiff?
+*Updated 10/1/2023 at 12:00 AM*
+### Modern computer microchips are primarily composed of what element?
 <details>
 <summary>
-grocery store    
+Sodium    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-courtroom  
+Silicon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-football stadium   
+Aluminum   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-doctor's office  
+Silver  
 </summary>
 
 :x: *Wrong...*
