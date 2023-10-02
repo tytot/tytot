@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/1/2023 at 12:00 AM*
-### Modern computer microchips are primarily composed of what element?
+*Updated 10/2/2023 at 12:00 AM*
+### What is varicella?
 <details>
 <summary>
-Sodium    
+a fancy pasta    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Silicon  
+a type of opera  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the chicken pox virus   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aluminum   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Silver  
+ancient Roman poetry  
 </summary>
 
 :x: *Wrong...*
