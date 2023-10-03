@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/2/2023 at 12:00 AM*
-### What is varicella?
+*Updated 10/3/2023 at 12:00 AM*
+### What is the normal playback speed of a 12" long-playing record?
 <details>
 <summary>
-a fancy pasta    
+12 1/2 rpm    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a type of opera  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the chicken pox virus   
+33 1/3 rpm  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ancient Roman poetry  
+45 rpm   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+100 rpm  
 </summary>
 
 :x: *Wrong...*
