@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/3/2023 at 12:00 AM*
-### What is the normal playback speed of a 12" long-playing record?
+*Updated 10/4/2023 at 12:00 AM*
+### Into what body of water does the Rhone River flow?
 <details>
 <summary>
-12 1/2 rpm    
+Atlantic Ocean    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-33 1/3 rpm  
+Caspian Sea  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Sea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mediterranean Sea  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-45 rpm   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-100 rpm  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
