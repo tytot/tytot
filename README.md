@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/4/2023 at 12:00 AM*
-### Into what body of water does the Rhone River flow?
+*Updated 10/5/2023 at 12:00 AM*
+### Who is the star of the movie 'Casablanca'?
 <details>
 <summary>
-Atlantic Ocean    
+Errol Flynn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Caspian Sea  
+Clark Gable  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-North Sea   
+Cary Grant   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mediterranean Sea  
+Humphrey Bogart  
 </summary>
 
 :heavy_check_mark: *Correct!*
