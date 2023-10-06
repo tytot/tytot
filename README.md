@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/5/2023 at 12:00 AM*
-### Who is the star of the movie 'Casablanca'?
+*Updated 10/6/2023 at 12:00 AM*
+### Which of these stores is not owned by Gap Inc?
 <details>
 <summary>
-Errol Flynn    
+Gap    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Clark Gable  
+Banana Republic  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cary Grant   
+Old Navy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Humphrey Bogart  
+J Crew  
 </summary>
 
 :heavy_check_mark: *Correct!*
