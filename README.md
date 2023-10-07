@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/6/2023 at 12:00 AM*
-### Which of these stores is not owned by Gap Inc?
+*Updated 10/7/2023 at 12:00 AM*
+### In computer terminology, what does the acronym 'FTP' stand for?
 <details>
 <summary>
-Gap    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Banana Republic  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Navy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-J Crew  
+file transfer protocol    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+full time portal  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+full text processor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+free to print  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
