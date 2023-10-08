@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/7/2023 at 12:00 AM*
-### In computer terminology, what does the acronym 'FTP' stand for?
+*Updated 10/8/2023 at 12:00 AM*
+### Which of these words is spelled correctly?
 <details>
 <summary>
-file transfer protocol    
+decieve    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+foriegn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hygiene   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full time portal  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-full text processor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-free to print  
+wierd  
 </summary>
 
 :x: *Wrong...*
