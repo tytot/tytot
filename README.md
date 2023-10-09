@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/8/2023 at 12:00 AM*
-### Which of these words is spelled correctly?
+*Updated 10/9/2023 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-decieve    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foriegn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hygiene   
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wierd  
+beef   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pork  
 </summary>
 
 :x: *Wrong...*
