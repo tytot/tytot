@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/9/2023 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 10/10/2023 at 12:00 AM*
+### What is the name of the mountain where the mythological Greek gods live?
 <details>
 <summary>
-shrimp    
+Jupiter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+Olympus  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
+Vesuvius   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pork  
+Valhalla  
 </summary>
 
 :x: *Wrong...*
