@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/10/2023 at 12:00 AM*
-### What is the name of the mountain where the mythological Greek gods live?
+*Updated 10/11/2023 at 12:00 AM*
+### When it first appeared on the Internet, amazon.com sold only what?
 <details>
 <summary>
-Jupiter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Olympus  
+books    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vesuvius   
+compact discs  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Valhalla  
+cars   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clothes  
 </summary>
 
 :x: *Wrong...*
