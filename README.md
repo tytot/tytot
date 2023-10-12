@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/11/2023 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 10/12/2023 at 12:00 AM*
+### In what U.S. city can you find the Basketball Hall of Fame?
 <details>
 <summary>
-books    
+Canton, Ohio    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cooperstown, New York  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Springfield, Massachusetts   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-compact discs  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cars   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clothes  
+Lawrence, Kansas  
 </summary>
 
 :x: *Wrong...*
