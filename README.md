@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/12/2023 at 12:00 AM*
-### In what U.S. city can you find the Basketball Hall of Fame?
+*Updated 10/13/2023 at 12:00 AM*
+### In what sport do you find 'steel cage' matches?
 <details>
 <summary>
-Canton, Ohio    
+boxing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cooperstown, New York  
+fencing  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Springfield, Massachusetts   
+pro wrestling   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lawrence, Kansas  
+college basketball  
 </summary>
 
 :x: *Wrong...*
