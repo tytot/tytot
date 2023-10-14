@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/13/2023 at 12:00 AM*
-### In what sport do you find 'steel cage' matches?
+*Updated 10/14/2023 at 12:00 AM*
+### Who is the creator of the comic strip 'The Far Side'?
 <details>
 <summary>
-boxing    
+Jim Davis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fencing  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pro wrestling   
+Gary Larson  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-college basketball  
+Garry Trudeau   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Charles Schulz  
 </summary>
 
 :x: *Wrong...*
