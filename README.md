@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/14/2023 at 12:00 AM*
-### Who is the creator of the comic strip 'The Far Side'?
+*Updated 10/15/2023 at 12:00 AM*
+### Which of these are not legumes?
 <details>
 <summary>
-Jim Davis    
+beans    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gary Larson  
+peas  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radishes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Garry Trudeau   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Charles Schulz  
+peanuts  
 </summary>
 
 :x: *Wrong...*
