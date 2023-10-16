@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/15/2023 at 12:00 AM*
-### Which of these are not legumes?
+*Updated 10/16/2023 at 12:00 AM*
+### What is the name for the thin board used to mix colors while painting?
 <details>
 <summary>
-beans    
+pestle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-peas  
+easel  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-radishes   
+shoe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+palette  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-peanuts  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
