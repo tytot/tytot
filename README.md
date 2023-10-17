@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/16/2023 at 12:00 AM*
-### What is the name for the thin board used to mix colors while painting?
+*Updated 10/17/2023 at 12:00 AM*
+### Who co-founded Microsoft with Bill Gates?
 <details>
 <summary>
-pestle    
+Steve Jobs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-easel  
+Steve Wozniak  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shoe   
+Paul Williams   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-palette  
+Paul Allen  
 </summary>
 
 :heavy_check_mark: *Correct!*
