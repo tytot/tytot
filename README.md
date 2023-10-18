@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/17/2023 at 12:00 AM*
-### Who co-founded Microsoft with Bill Gates?
+*Updated 10/18/2023 at 12:00 AM*
+### Which of these rocks will float in water?
 <details>
 <summary>
-Steve Jobs    
+granite    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Wozniak  
+limestone  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Williams   
+shale   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Allen  
+pumice  
 </summary>
 
 :heavy_check_mark: *Correct!*
