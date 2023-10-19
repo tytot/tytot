@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/18/2023 at 12:00 AM*
-### Which of these rocks will float in water?
+*Updated 10/19/2023 at 12:00 AM*
+### What is another name for the camelopard?
 <details>
 <summary>
-granite    
+circus    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-limestone  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shale   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pumice  
+giraffe  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cantaloupe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oasis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
