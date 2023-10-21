@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/20/2023 at 12:00 AM*
-### Which of these rocks will float in water?
+*Updated 10/21/2023 at 12:00 AM*
+### In what country are police officers referred to as 'bobbies'?
 <details>
 <summary>
-granite    
+Israel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-limestone  
+Greece  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shale   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pumice  
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+France  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
