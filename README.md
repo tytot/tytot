@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/21/2023 at 12:00 AM*
-### In what country are police officers referred to as 'bobbies'?
+*Updated 10/22/2023 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-Israel    
+America Over Lines    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-England   
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+Americans On Links   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
