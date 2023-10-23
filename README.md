@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/22/2023 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 10/23/2023 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-America Over Lines    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
+beef   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Americans On LOR  
+pork  
 </summary>
 
 :x: *Wrong...*
