@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/23/2023 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 10/24/2023 at 12:00 AM*
+### Which of these animals shares its name with a luxury car?
 <details>
 <summary>
-shrimp    
+yak    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+gazelle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sloth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+jaguar  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-beef   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pork  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
