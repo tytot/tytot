@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/24/2023 at 12:00 AM*
-### Which of these animals shares its name with a luxury car?
+*Updated 10/25/2023 at 12:00 AM*
+### What is the name of the StarKist tuna mascot?
 <details>
 <summary>
-yak    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gazelle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sloth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-jaguar  
+Charlie    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Sam  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Al   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Morris  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
