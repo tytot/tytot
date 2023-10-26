@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/25/2023 at 12:00 AM*
-### What is the name of the StarKist tuna mascot?
+*Updated 10/26/2023 at 12:00 AM*
+### What is the 7-Eleven company's trademarked name for its super-large sodas?
 <details>
 <summary>
-Charlie    
+Big Slurp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Big Gulp  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sam  
+Big Drink   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Al   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Morris  
+Big Sip  
 </summary>
 
 :x: *Wrong...*
