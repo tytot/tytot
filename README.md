@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/26/2023 at 12:00 AM*
-### What is the 7-Eleven company's trademarked name for its super-large sodas?
+*Updated 10/27/2023 at 12:00 AM*
+### What part of the human body does a gastroenterologist examine?
 <details>
 <summary>
-Big Slurp    
+brain    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Big Gulp  
+skeleton  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stomach   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Big Drink   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Big Sip  
+nose  
 </summary>
 
 :x: *Wrong...*
