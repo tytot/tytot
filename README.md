@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/27/2023 at 12:00 AM*
-### What part of the human body does a gastroenterologist examine?
+*Updated 10/28/2023 at 12:00 AM*
+### Which famed modeling agency shares its name with a top U.S. automaker?
 <details>
 <summary>
-brain    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-skeleton  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-stomach   
+Ford    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-nose  
+Chevrolet  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chrysler   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturn  
 </summary>
 
 :x: *Wrong...*
