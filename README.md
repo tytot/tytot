@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/28/2023 at 12:00 AM*
-### Which famed modeling agency shares its name with a top U.S. automaker?
+*Updated 10/29/2023 at 12:00 AM*
+### Which fast food chain used the advertising slogan, 'Where's the beef?'
 <details>
 <summary>
-Ford    
+Wendy's    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chevrolet  
+Kentucky Fried Chicken  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chrysler   
+Burger King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Saturn  
+McDonald's  
 </summary>
 
 :x: *Wrong...*
