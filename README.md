@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/29/2023 at 12:00 AM*
-### Which fast food chain used the advertising slogan, 'Where's the beef?'
+*Updated 10/30/2023 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-Wendy's    
+'All the King's Men'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the Pretty Horses'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kentucky Fried Chicken  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-McDonald's  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
