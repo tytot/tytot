@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/30/2023 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 10/31/2023 at 12:00 AM*
+### What new token was recently added to the Monopoly board game?
 <details>
 <summary>
-'All the King's Men'    
+piggybank    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the Pretty Horses'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'All the President's Men'   
+sack of money  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'All the Right Moves'  
+globe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+telephone  
 </summary>
 
 :x: *Wrong...*
