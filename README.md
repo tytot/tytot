@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/31/2023 at 12:00 AM*
-### What new token was recently added to the Monopoly board game?
+*Updated 11/1/2023 at 12:00 AM*
+### Where is Ghirardelli Square located?
 <details>
 <summary>
-piggybank    
+Milan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sack of money  
+Rome  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Washington DC   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Francisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-globe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-telephone  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
