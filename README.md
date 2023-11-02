@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/1/2023 at 12:00 AM*
-### Where is Ghirardelli Square located?
+*Updated 11/2/2023 at 12:00 AM*
+### The film 'Stand By Me' is based on a novel by what author?
 <details>
 <summary>
-Milan    
+Anne Proulx    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rome  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Washington DC   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Francisco  
+Stephen King  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Dean Koontz   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Frank McCourt  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
