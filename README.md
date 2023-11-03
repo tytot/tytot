@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/2/2023 at 12:00 AM*
-### The film 'Stand By Me' is based on a novel by what author?
+*Updated 11/3/2023 at 12:00 AM*
+### What country was once ruled by shoguns?
 <details>
 <summary>
-Anne Proulx    
+China    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Stephen King  
+Japan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dean Koontz   
+North Korea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frank McCourt  
+Taiwan  
 </summary>
 
 :x: *Wrong...*
