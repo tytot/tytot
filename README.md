@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/3/2023 at 12:00 AM*
-### What country was once ruled by shoguns?
+*Updated 11/4/2023 at 12:00 AM*
+### What sport is featured in the 1996 movie 'Kingpin'?
 <details>
 <summary>
-China    
+wrestling    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan  
+golf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chess   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-North Korea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Taiwan  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
