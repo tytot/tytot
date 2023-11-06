@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/5/2023 at 12:00 AM*
-### Which of these rivers flows through France?
+*Updated 11/6/2023 at 12:00 AM*
+### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
 <details>
 <summary>
-Volga    
+skiing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Seine  
+biking  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+snowboarding   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mekong   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Allegheny  
+surfing  
 </summary>
 
 :x: *Wrong...*
