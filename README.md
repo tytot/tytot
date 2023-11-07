@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/6/2023 at 12:00 AM*
-### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+*Updated 11/7/2023 at 12:00 AM*
+### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
 <details>
 <summary>
-skiing    
+Dolph Lundgren    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-biking  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snowboarding   
+Hulk Hogan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-surfing  
+Andre the Giant   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Iron Sheik  
 </summary>
 
 :x: *Wrong...*
