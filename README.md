@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/7/2023 at 12:00 AM*
-### What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?
+*Updated 11/8/2023 at 12:00 AM*
+### Which of these performers made her film debut in Spike Lee's 'Do the Right Thing'?
 <details>
 <summary>
-Dolph Lundgren    
+Jennifer Lopez    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hulk Hogan  
+Rosie Perez  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Andre the Giant   
+Paula Abdul   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Iron Sheik  
+Tisha Campbell  
 </summary>
 
 :x: *Wrong...*
