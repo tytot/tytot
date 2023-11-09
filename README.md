@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/8/2023 at 12:00 AM*
-### Which of these performers made her film debut in Spike Lee's 'Do the Right Thing'?
+*Updated 11/9/2023 at 12:00 AM*
+### What part of the world was once known as Cathay?
 <details>
 <summary>
-Jennifer Lopez    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rosie Perez  
+China    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paula Abdul   
+India  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tisha Campbell  
+Iran   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Indonesia  
 </summary>
 
 :x: *Wrong...*
