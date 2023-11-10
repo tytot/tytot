@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/9/2023 at 12:00 AM*
-### What part of the world was once known as Cathay?
+*Updated 11/10/2023 at 12:00 AM*
+### What is the technical term for someone who studies fish?
 <details>
 <summary>
-China    
+entomologist    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ichthyologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-India  
+marinologist   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Iran   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Indonesia  
+herpetologist  
 </summary>
 
 :x: *Wrong...*
