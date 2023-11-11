@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/10/2023 at 12:00 AM*
-### What is the technical term for someone who studies fish?
+*Updated 11/11/2023 at 12:00 AM*
+### Phoebe, Dione and Helene are moons of what planet?
 <details>
 <summary>
-entomologist    
+Jupiter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ichthyologist  
+Saturn  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-marinologist   
+Neptune   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-herpetologist  
+Pluto  
 </summary>
 
 :x: *Wrong...*
