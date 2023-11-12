@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/11/2023 at 12:00 AM*
-### Phoebe, Dione and Helene are moons of what planet?
+*Updated 11/12/2023 at 12:00 AM*
+### What were the first names of the early American explorers Lewis and Clark?
 <details>
 <summary>
-Jupiter    
+Morgan and Mason    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Saturn  
+Meriwether and William  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neptune   
+Cabot and Joseph   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pluto  
+Meredith and George  
 </summary>
 
 :x: *Wrong...*
