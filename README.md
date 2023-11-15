@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/14/2023 at 12:00 AM*
-### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
+*Updated 11/15/2023 at 12:00 AM*
+### What was the name of the first nuclear-powered submarine?
 <details>
 <summary>
-Abner Doubleday    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ty Cobb  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jackie Robinson   
+Nautilus    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Billy Martin  
+Neptune  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nordenfelt III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nicholas  
 </summary>
 
 :x: *Wrong...*
