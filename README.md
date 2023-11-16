@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/15/2023 at 12:00 AM*
-### What was the name of the first nuclear-powered submarine?
+*Updated 11/16/2023 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-Nautilus    
+sportswear    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dishwashers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Neptune  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nordenfelt III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nicholas  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
