@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/16/2023 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 11/17/2023 at 12:00 AM*
+### What was the name of Huey Lewis' band?
 <details>
 <summary>
-sportswear    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dishwashers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cigarettes   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bicycles  
+The News    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+The Attractions  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Silver Bullet Band   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Louie and Dewey  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
