@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/17/2023 at 12:00 AM*
-### What was the name of Huey Lewis' band?
+*Updated 11/18/2023 at 12:00 AM*
+### What kind of item is a ginsu?
 <details>
 <summary>
-The News    
+radio    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-The Attractions  
+toothbrush   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Silver Bullet Band   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Louie and Dewey  
+martial arts weapon  
 </summary>
 
 :x: *Wrong...*
