@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/18/2023 at 12:00 AM*
-### What kind of item is a ginsu?
+*Updated 11/19/2023 at 12:00 AM*
+### What is the name for the thin board used to mix colors while painting?
 <details>
 <summary>
-radio    
+pestle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-knife  
+easel  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shoe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+palette  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-toothbrush   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-martial arts weapon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
