@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/19/2023 at 12:00 AM*
-### What is the name for the thin board used to mix colors while painting?
+*Updated 11/20/2023 at 12:00 AM*
+### Which of these Hemingway characters is a newspaperman?
 <details>
 <summary>
-pestle    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-easel  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shoe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-palette  
+Jake Barnes    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Rogelio Gomez  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Frederic Henry   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John MacWalsey  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
