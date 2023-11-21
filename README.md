@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/20/2023 at 12:00 AM*
-### Which of these Hemingway characters is a newspaperman?
+*Updated 11/21/2023 at 12:00 AM*
+### Which of these is not a city in the state of New York?
 <details>
 <summary>
-Jake Barnes    
+Perskippity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rogelio Gomez  
+Kerhonkson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frederic Henry   
+Schenectady   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-John MacWalsey  
+Lackawanna  
 </summary>
 
 :x: *Wrong...*
