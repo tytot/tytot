@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/21/2023 at 12:00 AM*
-### Which of these is not a city in the state of New York?
+*Updated 11/22/2023 at 12:00 AM*
+### Who or what was Big Bertha?
 <details>
 <summary>
-Perskippity    
+a comet    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a World War I gun  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kerhonkson  
+a pro wrestling champion   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Schenectady   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lackawanna  
+a giant Muppet  
 </summary>
 
 :x: *Wrong...*
