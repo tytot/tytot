@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/22/2023 at 12:00 AM*
-### Who or what was Big Bertha?
+*Updated 11/23/2023 at 12:00 AM*
+### How many digits are in a standard Visa credit card number?
 <details>
 <summary>
-a comet    
+12    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a World War I gun  
+15  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+16   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a pro wrestling champion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a giant Muppet  
+20  
 </summary>
 
 :x: *Wrong...*
