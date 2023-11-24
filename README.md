@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/23/2023 at 12:00 AM*
-### How many digits are in a standard Visa credit card number?
+*Updated 11/24/2023 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-12    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-15  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-16   
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-20  
+influenza  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+emphysema   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+heart disease  
 </summary>
 
 :x: *Wrong...*
