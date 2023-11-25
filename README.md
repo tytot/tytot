@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/24/2023 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 11/25/2023 at 12:00 AM*
+### In the movie 'Star Wars' what kind of creature is Chewbacca?
 <details>
 <summary>
-cancer    
+Woolie    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boobie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Wookie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-influenza  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
+Klingon  
 </summary>
 
 :x: *Wrong...*
