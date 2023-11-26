@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/25/2023 at 12:00 AM*
-### In the movie 'Star Wars' what kind of creature is Chewbacca?
+*Updated 11/26/2023 at 12:00 AM*
+### Which of these is not a type of primate?
 <details>
 <summary>
-Woolie    
+baboon    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boobie  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Wookie   
+marmot  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Klingon  
+orangutan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chimpanzee  
 </summary>
 
 :x: *Wrong...*
