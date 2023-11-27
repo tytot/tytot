@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/26/2023 at 12:00 AM*
-### Which of these is not a type of primate?
+*Updated 11/27/2023 at 12:00 AM*
+### In what U.S. city can you find the Basketball Hall of Fame?
 <details>
 <summary>
-baboon    
+Canton, Ohio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-marmot  
+Cooperstown, New York  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Springfield, Massachusetts   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-orangutan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chimpanzee  
+Lawrence, Kansas  
 </summary>
 
 :x: *Wrong...*
