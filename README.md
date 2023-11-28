@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/27/2023 at 12:00 AM*
-### In what U.S. city can you find the Basketball Hall of Fame?
+*Updated 11/28/2023 at 12:00 AM*
+### What country is famous for making wooden shoes?
 <details>
 <summary>
-Canton, Ohio    
+Russia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cooperstown, New York  
+Thailand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Springfield, Massachusetts   
+The Netherlands   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lawrence, Kansas  
+Australia  
 </summary>
 
 :x: *Wrong...*
