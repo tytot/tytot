@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/28/2023 at 12:00 AM*
-### What country is famous for making wooden shoes?
+*Updated 11/29/2023 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-Russia    
+Miss Jackie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thailand  
+Elizabeth Sanford  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Netherlands   
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Australia  
+Gladys Knight  
 </summary>
 
 :x: *Wrong...*
