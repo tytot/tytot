@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/29/2023 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 11/30/2023 at 12:00 AM*
+### According to the Mother Goose nursery rhyme, which child is full of woe?
 <details>
 <summary>
-Miss Jackie    
+Monday's child    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Sanford  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Geraldine Jones   
+Wednesday's child  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+Thursday's child   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturday's child  
 </summary>
 
 :x: *Wrong...*
