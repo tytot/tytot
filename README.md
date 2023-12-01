@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/30/2023 at 12:00 AM*
-### According to the Mother Goose nursery rhyme, which child is full of woe?
+*Updated 12/1/2023 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-Monday's child    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wednesday's child  
+barley  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Thursday's child   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturday's child  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
