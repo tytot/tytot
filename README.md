@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/2/2023 at 12:00 AM*
-### According to legend, if you give someone the 'evil eye' what are you doing?
+*Updated 12/3/2023 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-cursing them    
+Boston    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Philadelphia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blessing a child  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-counting money   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-passing time  
+New York City  
 </summary>
 
 :x: *Wrong...*
