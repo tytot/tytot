@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/3/2023 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 12/4/2023 at 12:00 AM*
+### What part of the world was once known as Cathay?
 <details>
 <summary>
-Boston    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chicago   
+China    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New York City  
+India  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Iran   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Indonesia  
 </summary>
 
 :x: *Wrong...*
