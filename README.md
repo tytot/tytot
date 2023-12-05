@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/4/2023 at 12:00 AM*
-### What part of the world was once known as Cathay?
+*Updated 12/5/2023 at 12:00 AM*
+### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
-China    
+Edward Estlin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-India  
+Edmund Earl  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Iran   
+Ernest Eakins   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Indonesia  
+Eugene Evan  
 </summary>
 
 :x: *Wrong...*
