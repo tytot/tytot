@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/5/2023 at 12:00 AM*
-### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
+*Updated 12/6/2023 at 12:00 AM*
+### What place is named in the title of the 1979 live album by rock legends Cheap Trick?
 <details>
 <summary>
-Edward Estlin    
+Budapest    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Budokan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Edmund Earl  
+Bhutan   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernest Eakins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eugene Evan  
+Britain  
 </summary>
 
 :x: *Wrong...*
