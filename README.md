@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/6/2023 at 12:00 AM*
-### What place is named in the title of the 1979 live album by rock legends Cheap Trick?
+*Updated 12/7/2023 at 12:00 AM*
+### Gerry Adams is the president of what organization?
 <details>
 <summary>
-Budapest    
+Greenpeace    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Budokan  
+NASCAR  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sinn Fein   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Bhutan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Britain  
+PLO  
 </summary>
 
 :x: *Wrong...*
