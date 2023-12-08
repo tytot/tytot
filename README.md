@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/7/2023 at 12:00 AM*
-### Gerry Adams is the president of what organization?
+*Updated 12/8/2023 at 12:00 AM*
+### In America, what is the main ingredient in pepperoni?
 <details>
 <summary>
-Greenpeace    
+fish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-NASCAR  
+pepper  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sinn Fein   
+wheat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meat  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-PLO  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
