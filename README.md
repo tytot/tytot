@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/8/2023 at 12:00 AM*
-### In America, what is the main ingredient in pepperoni?
+*Updated 12/9/2023 at 12:00 AM*
+### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
 <details>
 <summary>
-fish    
+Pun'kin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pepper  
+Lamikins  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wheat   
+Suga'baby   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meat  
+Swee'pea  
 </summary>
 
 :heavy_check_mark: *Correct!*
