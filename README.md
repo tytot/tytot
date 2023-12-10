@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/9/2023 at 12:00 AM*
-### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
+*Updated 12/10/2023 at 12:00 AM*
+### Which of these foods could contain small amounts of naturally occurring opium?
 <details>
 <summary>
-Pun'kin    
+chocolate truffles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lamikins  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Suga'baby   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Swee'pea  
+poppy seed bagels  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+carbonated soda   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sesame chicken  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
