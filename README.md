@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/10/2023 at 12:00 AM*
-### Which of these foods could contain small amounts of naturally occurring opium?
+*Updated 12/11/2023 at 12:00 AM*
+### Which of these is another name for a golf course?
 <details>
 <summary>
-chocolate truffles    
+Pitch    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-poppy seed bagels  
+Links  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carbonated soda   
+Steps   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sesame chicken  
+Suite  
 </summary>
 
 :x: *Wrong...*
