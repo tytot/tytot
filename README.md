@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/11/2023 at 12:00 AM*
-### Which of these is another name for a golf course?
+*Updated 12/12/2023 at 12:00 AM*
+### Which of these rock guitarists designed a colorful line of men's neckties?
 <details>
 <summary>
-Pitch    
+Eric Clapton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Links  
+Jerry Garcia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Steps   
+Jeff Beck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Suite  
+Keith Richards  
 </summary>
 
 :x: *Wrong...*
