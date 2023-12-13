@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/12/2023 at 12:00 AM*
-### Which of these rock guitarists designed a colorful line of men's neckties?
+*Updated 12/13/2023 at 12:00 AM*
+### When it first appeared on the Internet, amazon.com sold only what?
 <details>
 <summary>
-Eric Clapton    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jerry Garcia  
+books    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Jeff Beck   
+compact discs  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Keith Richards  
+cars   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clothes  
 </summary>
 
 :x: *Wrong...*
