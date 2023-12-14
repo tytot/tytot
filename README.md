@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/13/2023 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 12/14/2023 at 12:00 AM*
+### In the movie 'Star Wars' what kind of creature is Chewbacca?
 <details>
 <summary>
-books    
+Woolie    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boobie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Wookie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-compact discs  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cars   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clothes  
+Klingon  
 </summary>
 
 :x: *Wrong...*
