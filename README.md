@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/14/2023 at 12:00 AM*
-### In the movie 'Star Wars' what kind of creature is Chewbacca?
+*Updated 12/15/2023 at 12:00 AM*
+### Which of the following candies is traditionally fruit flavored?
 <details>
 <summary>
-Woolie    
+M&M's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boobie  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Wookie   
+Skittles  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Klingon  
+Reese's Pieces   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Junior Mints  
 </summary>
 
 :x: *Wrong...*
