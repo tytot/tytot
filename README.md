@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/15/2023 at 12:00 AM*
-### Which of the following candies is traditionally fruit flavored?
+*Updated 12/16/2023 at 12:00 AM*
+### What company makes perfumes called 'Beautiful' and 'Pleasures'?
 <details>
 <summary>
-M&M's    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Skittles  
+Estee Lauder    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Reese's Pieces   
+Ralph Lauren  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Junior Mints  
+Elizabeth Arden   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Calvin Klein  
 </summary>
 
 :x: *Wrong...*
