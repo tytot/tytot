@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/16/2023 at 12:00 AM*
-### What company makes perfumes called 'Beautiful' and 'Pleasures'?
+*Updated 12/17/2023 at 12:00 AM*
+### By what name is Bob Keeshan better known?
 <details>
 <summary>
-Estee Lauder    
+Bozo the Clown    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pee Wee Herman  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Captain Kangaroo   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ralph Lauren  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth Arden   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Calvin Klein  
+Buffalo Bob  
 </summary>
 
 :x: *Wrong...*
