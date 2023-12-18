@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/17/2023 at 12:00 AM*
-### By what name is Bob Keeshan better known?
+*Updated 12/18/2023 at 12:00 AM*
+### What was the name of the first nuclear-powered submarine?
 <details>
 <summary>
-Bozo the Clown    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pee Wee Herman  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Captain Kangaroo   
+Nautilus    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Buffalo Bob  
+Neptune  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nordenfelt III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nicholas  
 </summary>
 
 :x: *Wrong...*
