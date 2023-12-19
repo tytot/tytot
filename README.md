@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/18/2023 at 12:00 AM*
-### What was the name of the first nuclear-powered submarine?
+*Updated 12/19/2023 at 12:00 AM*
+### What is the art of elegant handwriting called?
 <details>
 <summary>
-Nautilus    
+calligraphy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neptune  
+engraving  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nordenfelt III   
+decoupage   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nicholas  
+lithography  
 </summary>
 
 :x: *Wrong...*
