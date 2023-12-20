@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/19/2023 at 12:00 AM*
-### What is the art of elegant handwriting called?
+*Updated 12/20/2023 at 12:00 AM*
+### Which of the Three Stooges was not related to the others?
 <details>
 <summary>
-calligraphy    
+Moe    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Larry  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-engraving  
+Curly   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-decoupage   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-lithography  
+Shemp  
 </summary>
 
 :x: *Wrong...*
