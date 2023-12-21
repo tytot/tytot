@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/20/2023 at 12:00 AM*
-### Which of the Three Stooges was not related to the others?
+*Updated 12/21/2023 at 12:00 AM*
+### Whose profile can you see on the front of dimes that are currently in circulation?
 <details>
 <summary>
-Moe    
+George Washington    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Larry  
+Thomas Jefferson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Benjamin Franklin   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Franklin Roosevelt  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Curly   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Shemp  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
