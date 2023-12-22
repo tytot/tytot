@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/21/2023 at 12:00 AM*
-### Whose profile can you see on the front of dimes that are currently in circulation?
+*Updated 12/22/2023 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-George Washington    
+chirp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thomas Jefferson  
+bark  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Benjamin Franklin   
+growl   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Franklin Roosevelt  
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
