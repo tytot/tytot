@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/22/2023 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 12/23/2023 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-chirp    
+Michael    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Mortimer   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Matthew  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
