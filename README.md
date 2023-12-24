@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/23/2023 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 12/24/2023 at 12:00 AM*
+### Which of these horror films spawned the most sequels?
 <details>
 <summary>
-Michael    
+'Scream'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Milhous  
+'Jaws'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Halloween'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Friday the 13th'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Mortimer   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Matthew  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
