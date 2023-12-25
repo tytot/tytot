@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/24/2023 at 12:00 AM*
-### Which of these horror films spawned the most sequels?
+*Updated 12/25/2023 at 12:00 AM*
+### What type of meat is on a traditional Reuben sandwich?
 <details>
 <summary>
-'Scream'    
+turkey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Jaws'  
+bologna  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Halloween'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Friday the 13th'  
+corned beef   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+pepperoni  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
