@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/25/2023 at 12:00 AM*
-### What type of meat is on a traditional Reuben sandwich?
+*Updated 12/26/2023 at 12:00 AM*
+### Which of these items is useful for removing ink stains?
 <details>
 <summary>
-turkey    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bologna  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corned beef   
+baking soda    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-pepperoni  
+nail polish  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hair spray   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+butter  
 </summary>
 
 :x: *Wrong...*
