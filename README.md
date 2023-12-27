@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/26/2023 at 12:00 AM*
-### Which of these items is useful for removing ink stains?
+*Updated 12/27/2023 at 12:00 AM*
+### What nationality was Karl Marx?
 <details>
 <summary>
-baking soda    
+Russian    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+German  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-nail polish  
+Danish   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hair spray   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-butter  
+English  
 </summary>
 
 :x: *Wrong...*
