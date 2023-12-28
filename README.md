@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/27/2023 at 12:00 AM*
-### What nationality was Karl Marx?
+*Updated 12/28/2023 at 12:00 AM*
+### If a piece of music is in 'common time' how many quarter notes are there per measure?
 <details>
 <summary>
-Russian    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-German  
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Danish   
+five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-English  
+ten  
 </summary>
 
 :x: *Wrong...*
