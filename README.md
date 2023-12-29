@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/28/2023 at 12:00 AM*
-### If a piece of music is in 'common time' how many quarter notes are there per measure?
+*Updated 12/29/2023 at 12:00 AM*
+### Which of the following is not in Nevada?
 <details>
 <summary>
-one    
+Liberace Museum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+Pikes Peak  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-five   
+Lake Mead   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ten  
+Hoover Dam  
 </summary>
 
 :x: *Wrong...*
