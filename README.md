@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/29/2023 at 12:00 AM*
-### Which of the following is not in Nevada?
+*Updated 12/30/2023 at 12:00 AM*
+### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
 <details>
 <summary>
-Liberace Museum    
+one hour forward    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pikes Peak  
+one hour backward  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lake Mead   
+two hours forward   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hoover Dam  
+two hours backward  
 </summary>
 
 :x: *Wrong...*
