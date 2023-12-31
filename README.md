@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/30/2023 at 12:00 AM*
-### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
+*Updated 12/31/2023 at 12:00 AM*
+### Which of these is not a city in the state of New York?
 <details>
 <summary>
-one hour forward    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-one hour backward  
+Perskippity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two hours forward   
+Kerhonkson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two hours backward  
+Schenectady   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lackawanna  
 </summary>
 
 :x: *Wrong...*
