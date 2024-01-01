@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/31/2023 at 12:00 AM*
-### Which of these is not a city in the state of New York?
+*Updated 1/1/2024 at 12:00 AM*
+### Gerry Adams is the president of what organization?
 <details>
 <summary>
-Perskippity    
+Greenpeace    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+NASCAR  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sinn Fein   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kerhonkson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Schenectady   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lackawanna  
+PLO  
 </summary>
 
 :x: *Wrong...*
