@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/1/2024 at 12:00 AM*
-### Gerry Adams is the president of what organization?
+*Updated 1/3/2024 at 12:00 AM*
+### Who was president of the United States when Bill Clinton was born?
 <details>
 <summary>
-Greenpeace    
+Herbert Hoover    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-NASCAR  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sinn Fein   
+Harry S. Truman  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-PLO  
+Franklin Roosevelt   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dwight Eisenhower  
 </summary>
 
 :x: *Wrong...*
