@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/3/2024 at 12:00 AM*
-### Who was president of the United States when Bill Clinton was born?
+*Updated 1/4/2024 at 12:00 AM*
+### Which of these men has never been a head coach in the NFL?
 <details>
 <summary>
-Herbert Hoover    
+Dick Vermeil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Harry S. Truman  
+Bill Parcells  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck Noll   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pat Riley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Franklin Roosevelt   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dwight Eisenhower  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
