@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/4/2024 at 12:00 AM*
-### Which of these men has never been a head coach in the NFL?
+*Updated 1/5/2024 at 12:00 AM*
+### Which of these is not a style of shoe?
 <details>
 <summary>
-Dick Vermeil    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bill Parcells  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chuck Noll   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pat Riley  
+gingham    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+brogan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+espadrille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+docksider  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
