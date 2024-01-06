@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/5/2024 at 12:00 AM*
-### Which of these is not a style of shoe?
+*Updated 1/6/2024 at 12:00 AM*
+### What animal represents the year 2000 on the Chinese calendar?
 <details>
 <summary>
-gingham    
+dragon    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-brogan  
+rabbit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-espadrille   
+tiger   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-docksider  
+monkey  
 </summary>
 
 :x: *Wrong...*
