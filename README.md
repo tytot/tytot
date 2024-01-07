@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/6/2024 at 12:00 AM*
-### What animal represents the year 2000 on the Chinese calendar?
+*Updated 1/7/2024 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-dragon    
+Michael    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rabbit  
+Mortimer   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tiger   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-monkey  
+Matthew  
 </summary>
 
 :x: *Wrong...*
