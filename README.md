@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/7/2024 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 1/8/2024 at 12:00 AM*
+### On what continent can you find tigers in the wild?
 <details>
 <summary>
-Michael    
+Africa    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Milhous  
+Asia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mortimer   
+Europe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Matthew  
+South America  
 </summary>
 
 :x: *Wrong...*
