@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/8/2024 at 12:00 AM*
-### On what continent can you find tigers in the wild?
+*Updated 1/9/2024 at 12:00 AM*
+### If you are truly afraid of the dark, what do you suffer from?
 <details>
 <summary>
-Africa    
+hypnophobia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Asia  
+cryptophobia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hadephobia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nyctophobia  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Europe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-South America  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
