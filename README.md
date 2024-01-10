@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/9/2024 at 12:00 AM*
-### If you are truly afraid of the dark, what do you suffer from?
+*Updated 1/10/2024 at 12:00 AM*
+### What is the official language of The Netherlands?
 <details>
 <summary>
-hypnophobia    
+Danish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cryptophobia  
+Swedish  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hadephobia   
+German   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nyctophobia  
+Dutch  
 </summary>
 
 :heavy_check_mark: *Correct!*
