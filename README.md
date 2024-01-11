@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/10/2024 at 12:00 AM*
-### What is the official language of The Netherlands?
+*Updated 1/11/2024 at 12:00 AM*
+### Which Pope immediately preceded John Paul II?
 <details>
 <summary>
-Danish    
+John XXIII     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Swedish  
+Paul VI  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-German   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dutch  
+John Paul I   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Hank II  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
