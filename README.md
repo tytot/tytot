@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/14/2024 at 12:00 AM*
-### Who is the star of the movie 'Casablanca'?
+*Updated 1/15/2024 at 12:00 AM*
+### Which character on the TV show 'Friends' is a chef?
 <details>
 <summary>
-Errol Flynn    
+Joey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Clark Gable  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cary Grant   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Humphrey Bogart  
+Monica  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Ross   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rachel  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
