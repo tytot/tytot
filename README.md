@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/15/2024 at 12:00 AM*
-### Which character on the TV show 'Friends' is a chef?
+*Updated 1/16/2024 at 12:00 AM*
+### What is the approximate speed of light?
 <details>
 <summary>
-Joey    
+165 miles per hour    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Monica  
+122,000 miles per hour  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+186,000 miles per second   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ross   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rachel  
+293,000 miles per second  
 </summary>
 
 :x: *Wrong...*
