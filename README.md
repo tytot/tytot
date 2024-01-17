@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/16/2024 at 12:00 AM*
-### What is the approximate speed of light?
+*Updated 1/17/2024 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-165 miles per hour    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-122,000 miles per hour  
+barley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-186,000 miles per second   
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-293,000 miles per second  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
