@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/17/2024 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 1/18/2024 at 12:00 AM*
+### What Greek poet wrote 'The Iliad' and 'The Odyssey'?
 <details>
 <summary>
-citrus fruits    
+Sophocles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barley  
+Plato  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shellfish  
+Homer   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Socrates  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
