@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/18/2024 at 12:00 AM*
-### What Greek poet wrote 'The Iliad' and 'The Odyssey'?
+*Updated 1/19/2024 at 12:00 AM*
+### What metal device is used by police to immobilize the wheels of repeat parking offenders?
 <details>
 <summary>
-Sophocles    
+Brooklyn clamp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Plato  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Homer   
+Denver boot  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Socrates  
+LoJack   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Club  
 </summary>
 
 :x: *Wrong...*
