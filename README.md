@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/19/2024 at 12:00 AM*
-### What metal device is used by police to immobilize the wheels of repeat parking offenders?
+*Updated 1/20/2024 at 12:00 AM*
+### Gerry Adams is the president of what organization?
 <details>
 <summary>
-Brooklyn clamp    
+Greenpeace    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Denver boot  
+NASCAR  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sinn Fein   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-LoJack   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Club  
+PLO  
 </summary>
 
 :x: *Wrong...*
