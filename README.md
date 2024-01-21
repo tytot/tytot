@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/20/2024 at 12:00 AM*
-### Gerry Adams is the president of what organization?
+*Updated 1/21/2024 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-Greenpeace    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-NASCAR  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sinn Fein   
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-PLO  
+influenza  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+emphysema   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+heart disease  
 </summary>
 
 :x: *Wrong...*
