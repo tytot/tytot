@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/21/2024 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 1/22/2024 at 12:00 AM*
+### On average, what length of time passes between high tides?
 <details>
 <summary>
-cancer    
+3 hours, 25 minutes    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+6 hours, 25 minutes  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+12 hours, 25 minutes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-influenza  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
+24 hours, 25 minutes  
 </summary>
 
 :x: *Wrong...*
