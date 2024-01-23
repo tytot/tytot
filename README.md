@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/22/2024 at 12:00 AM*
-### On average, what length of time passes between high tides?
+*Updated 1/23/2024 at 12:00 AM*
+### What is the name of the StarKist tuna mascot?
 <details>
 <summary>
-3 hours, 25 minutes    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-6 hours, 25 minutes  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-12 hours, 25 minutes   
+Charlie    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-24 hours, 25 minutes  
+Sam  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Al   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Morris  
 </summary>
 
 :x: *Wrong...*
