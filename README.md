@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/23/2024 at 12:00 AM*
-### What is the name of the StarKist tuna mascot?
+*Updated 1/24/2024 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-Charlie    
+yahtzee    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+mulligan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sam  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Al   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Morris  
+ace  
 </summary>
 
 :x: *Wrong...*
