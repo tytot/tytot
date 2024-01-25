@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/24/2024 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 1/25/2024 at 12:00 AM*
+### What term is used to describe a group of fish?
 <details>
 <summary>
-yahtzee    
+knot    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mulligan  
+drape  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-turkey   
+school   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+gaggle  
 </summary>
 
 :x: *Wrong...*
