@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/25/2024 at 12:00 AM*
-### What term is used to describe a group of fish?
+*Updated 1/26/2024 at 12:00 AM*
+### In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?
 <details>
 <summary>
-knot    
+triple action    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-drape  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-school   
+trifecta  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-gaggle  
+exacta   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+triple crown  
 </summary>
 
 :x: *Wrong...*
