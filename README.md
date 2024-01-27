@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/26/2024 at 12:00 AM*
-### In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?
+*Updated 1/27/2024 at 12:00 AM*
+### What is the name of Howard Stern's female on-air sidekick?
 <details>
 <summary>
-triple action    
+Allison Norris    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-trifecta  
+Jackie Reeses  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jackie Martling   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robin Quivers  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-exacta   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-triple crown  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
