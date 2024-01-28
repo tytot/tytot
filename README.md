@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/27/2024 at 12:00 AM*
-### What is the name of Howard Stern's female on-air sidekick?
+*Updated 1/28/2024 at 12:00 AM*
+### What is produced during photosynthesis?
 <details>
 <summary>
-Allison Norris    
+hydrogen    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Reeses  
+nylon  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Martling   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robin Quivers  
+oxygen   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+light  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
