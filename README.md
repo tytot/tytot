@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/28/2024 at 12:00 AM*
-### What is produced during photosynthesis?
+*Updated 1/29/2024 at 12:00 AM*
+### The American patriot Paul Revere was named for his father, whose original name was what?
 <details>
 <summary>
-hydrogen    
+John Paul Revere    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nylon  
+Paul Silver  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oxygen   
+Apollos Rivoire   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-light  
+Paolo Reverini  
 </summary>
 
 :x: *Wrong...*
