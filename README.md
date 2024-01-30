@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/29/2024 at 12:00 AM*
-### The American patriot Paul Revere was named for his father, whose original name was what?
+*Updated 1/30/2024 at 12:00 AM*
+### On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?
 <details>
 <summary>
-John Paul Revere    
+Furry Monster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Silver  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Apollos Rivoire   
+Pizza Man  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paolo Reverini  
+Snookums   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Baby Cakes  
 </summary>
 
 :x: *Wrong...*
