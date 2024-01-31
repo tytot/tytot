@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/30/2024 at 12:00 AM*
-### On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?
+*Updated 1/31/2024 at 12:00 AM*
+### According to a famous line from the existentialist play 'No Exit' what is hell?
 <details>
 <summary>
-Furry Monster    
+oneself    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pizza Man  
+other people  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Snookums   
+little made large   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Baby Cakes  
+hued in green and blue  
 </summary>
 
 :x: *Wrong...*
