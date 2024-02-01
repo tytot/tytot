@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/31/2024 at 12:00 AM*
-### According to a famous line from the existentialist play 'No Exit' what is hell?
+*Updated 2/1/2024 at 12:00 AM*
+### If a business files under Chapter 11 what is it doing?
 <details>
 <summary>
-oneself    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-other people  
+declaring bankruptcy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-little made large   
+selling stock  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hued in green and blue  
+buying a smaller   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+company suing the government  
 </summary>
 
 :x: *Wrong...*
