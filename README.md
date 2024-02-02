@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/1/2024 at 12:00 AM*
-### If a business files under Chapter 11 what is it doing?
+*Updated 2/2/2024 at 12:00 AM*
+### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
 <details>
 <summary>
-declaring bankruptcy    
+one hour forward    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+one hour backward  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-selling stock  
+two hours forward   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-buying a smaller   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-company suing the government  
+two hours backward  
 </summary>
 
 :x: *Wrong...*
