@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/2/2024 at 12:00 AM*
-### When daylight-saving time arrives in the spring, how do most Americans turn their clocks?
+*Updated 2/3/2024 at 12:00 AM*
+### Which one of these world leaders was assassinated?
 <details>
 <summary>
-one hour forward    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-one hour backward  
+Indira Gandhi    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two hours forward   
+Ferdinand Marcos  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two hours backward  
+Golda Meir   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Neville Chamberlain  
 </summary>
 
 :x: *Wrong...*
