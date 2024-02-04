@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/3/2024 at 12:00 AM*
-### Which one of these world leaders was assassinated?
+*Updated 2/4/2024 at 12:00 AM*
+### What is the final word of the Pledge of Allegiance?
 <details>
 <summary>
-Indira Gandhi    
+America    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stands  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+indivisible   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+all  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ferdinand Marcos  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Golda Meir   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Neville Chamberlain  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
