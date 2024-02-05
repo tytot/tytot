@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/4/2024 at 12:00 AM*
-### What is the final word of the Pledge of Allegiance?
+*Updated 2/5/2024 at 12:00 AM*
+### What is Delta Burke's character's job on the sitcom 'Designing Women'?
 <details>
 <summary>
-America    
+fashion designer    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stands  
+graphic designer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-indivisible   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-all  
+interior designer   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+website designer  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
