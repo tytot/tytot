@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/5/2024 at 12:00 AM*
-### What is Delta Burke's character's job on the sitcom 'Designing Women'?
+*Updated 2/6/2024 at 12:00 AM*
+### Which of these candy bars was named for a baseball player?
 <details>
 <summary>
-fashion designer    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-graphic designer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-interior designer   
+Baby Ruth    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-website designer  
+Clark Bar  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Reggie Bar   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Butterfinger  
 </summary>
 
 :x: *Wrong...*
