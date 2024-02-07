@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/6/2024 at 12:00 AM*
-### Which of these candy bars was named for a baseball player?
+*Updated 2/7/2024 at 12:00 AM*
+### What is your astrological sign if you were born on Halloween?
 <details>
 <summary>
-Baby Ruth    
+Scorpio    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Clark Bar  
+Capricorn  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Reggie Bar   
+Libra   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Butterfinger  
+Cancer  
 </summary>
 
 :x: *Wrong...*
