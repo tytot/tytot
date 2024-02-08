@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/7/2024 at 12:00 AM*
-### What is your astrological sign if you were born on Halloween?
+*Updated 2/8/2024 at 12:00 AM*
+### What professional sports team plays its home games in the Alamodome?
 <details>
 <summary>
-Scorpio    
+New York Jets    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Detroit Tigers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boston Bruins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Antonio Spurs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Capricorn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Libra   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cancer  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
