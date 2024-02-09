@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/8/2024 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 2/9/2024 at 12:00 AM*
+### What is the chemical process wherein a solid is turned to a liquid via the application of heat?
 <details>
 <summary>
-New York Jets    
+distillation    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Detroit Tigers  
+photosynthesis  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Bruins   
+freezing   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-San Antonio Spurs  
+melting  
 </summary>
 
 :heavy_check_mark: *Correct!*
