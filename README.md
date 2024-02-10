@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/9/2024 at 12:00 AM*
-### What is the chemical process wherein a solid is turned to a liquid via the application of heat?
+*Updated 2/10/2024 at 12:00 AM*
+### What biological process replicates DNA?
 <details>
 <summary>
-distillation    
+molting    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-photosynthesis  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-freezing   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-melting  
+mitosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+diffusion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+peristalsis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
