@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/10/2024 at 12:00 AM*
-### What biological process replicates DNA?
+*Updated 2/11/2024 at 12:00 AM*
+### What was the name of the first nuclear-powered submarine?
 <details>
 <summary>
-molting    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-mitosis  
+Nautilus    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-diffusion   
+Neptune  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-peristalsis  
+Nordenfelt III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nicholas  
 </summary>
 
 :x: *Wrong...*
