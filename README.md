@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/11/2024 at 12:00 AM*
-### What was the name of the first nuclear-powered submarine?
+*Updated 2/12/2024 at 12:00 AM*
+### In the 1960s 'Batman' TV series, who was not a guest villain?
 <details>
 <summary>
-Nautilus    
+The Minstrel    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Archer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Bookworm   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Squeegee Guy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Neptune  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nordenfelt III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nicholas  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
