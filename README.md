@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/12/2024 at 12:00 AM*
-### In the 1960s 'Batman' TV series, who was not a guest villain?
+*Updated 2/13/2024 at 12:00 AM*
+### What native empire controlled Large areas of South African Territory during the 19th century?
 <details>
 <summary>
-The Minstrel    
+Hutu    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Archer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Bookworm   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Squeegee Guy  
+Zulu  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Aztec   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Masai  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
