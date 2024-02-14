@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/13/2024 at 12:00 AM*
-### What native empire controlled Large areas of South African Territory during the 19th century?
+*Updated 2/14/2024 at 12:00 AM*
+### A student who earns a J.D. can begin his or her career as a what?
 <details>
 <summary>
-Hutu    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Zulu  
+lawyer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aztec   
+bricklayer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Masai  
+doctor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+accountant  
 </summary>
 
 :x: *Wrong...*
