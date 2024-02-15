@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/14/2024 at 12:00 AM*
-### A student who earns a J.D. can begin his or her career as a what?
+*Updated 2/15/2024 at 12:00 AM*
+### What letters are on the '3' button of a touch-tone telephone?
 <details>
 <summary>
-lawyer    
+ABC    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+DEF  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bricklayer  
+GHI   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-doctor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-accountant  
+WXY  
 </summary>
 
 :x: *Wrong...*
