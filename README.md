@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/15/2024 at 12:00 AM*
-### What letters are on the '3' button of a touch-tone telephone?
+*Updated 2/16/2024 at 12:00 AM*
+### What does the 'ROM' in CD-ROM stand for?
 <details>
 <summary>
-ABC    
+Really Obscure Memory    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DEF  
+Run-Other Memory  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Random Object Memory   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Read-Only Memory  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-GHI   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-WXY  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
