@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/16/2024 at 12:00 AM*
-### What does the 'ROM' in CD-ROM stand for?
+*Updated 2/17/2024 at 12:00 AM*
+### The film 'Stand By Me' is based on a novel by what author?
 <details>
 <summary>
-Really Obscure Memory    
+Anne Proulx    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Run-Other Memory  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Random Object Memory   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Read-Only Memory  
+Stephen King  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Dean Koontz   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Frank McCourt  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
