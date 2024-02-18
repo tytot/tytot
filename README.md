@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/17/2024 at 12:00 AM*
-### The film 'Stand By Me' is based on a novel by what author?
+*Updated 2/18/2024 at 12:00 AM*
+### What city's residents are known as 'Knickerbockers'?
 <details>
 <summary>
-Anne Proulx    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Stephen King  
+Philadelphia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York City   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dean Koontz   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Frank McCourt  
+London  
 </summary>
 
 :x: *Wrong...*
