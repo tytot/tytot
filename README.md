@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/18/2024 at 12:00 AM*
-### What city's residents are known as 'Knickerbockers'?
+*Updated 2/19/2024 at 12:00 AM*
+### John D. Rockefeller made his fortune in what industry?
 <details>
 <summary>
-Boston    
+automobile     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York City   
+oil  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-London  
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+railroad  
 </summary>
 
 :x: *Wrong...*
