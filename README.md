@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/19/2024 at 12:00 AM*
-### John D. Rockefeller made his fortune in what industry?
+*Updated 2/20/2024 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-automobile     
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oil  
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-steel   
+Larry King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-railroad  
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
