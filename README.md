@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/21/2024 at 12:00 AM*
-### In what state is the 1999 movie 'Magnolia' set?
+*Updated 2/22/2024 at 12:00 AM*
+### The TV show 'House of Style' airs on what network?
 <details>
 <summary>
-California    
+E    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+WB  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+MTV   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-South Carolina  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Georgia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Texas  
+Home Shopping Network  
 </summary>
 
 :x: *Wrong...*
