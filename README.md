@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/22/2024 at 12:00 AM*
-### The TV show 'House of Style' airs on what network?
+*Updated 2/23/2024 at 12:00 AM*
+### What sport is known as 'The Sport of Kings'?
 <details>
 <summary>
-E    
+polo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-WB  
+archery  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-MTV   
+yachting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+horse racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Home Shopping Network  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
