@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/23/2024 at 12:00 AM*
-### What sport is known as 'The Sport of Kings'?
+*Updated 2/24/2024 at 12:00 AM*
+### How long is the time on an NBA shot clock?
 <details>
 <summary>
-polo    
+18 seconds    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-archery  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-yachting   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-horse racing  
+24 seconds  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+30 seconds   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+35 seconds  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
