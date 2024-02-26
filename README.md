@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/24/2024 at 12:00 AM*
-### How long is the time on an NBA shot clock?
+*Updated 2/26/2024 at 12:00 AM*
+### Which of these candy bars was named for a baseball player?
 <details>
 <summary>
-18 seconds    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-24 seconds  
+Baby Ruth    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-30 seconds   
+Clark Bar  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-35 seconds  
+Reggie Bar   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Butterfinger  
 </summary>
 
 :x: *Wrong...*
