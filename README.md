@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/27/2024 at 12:00 AM*
-### On average, what length of time passes between high tides?
+*Updated 2/28/2024 at 12:00 AM*
+### Which of these is not a style of shoe?
 <details>
 <summary>
-3 hours, 25 minutes    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-6 hours, 25 minutes  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-12 hours, 25 minutes   
+gingham    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-24 hours, 25 minutes  
+brogan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+espadrille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+docksider  
 </summary>
 
 :x: *Wrong...*
