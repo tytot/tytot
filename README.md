@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/28/2024 at 12:00 AM*
-### Which of these is not a style of shoe?
+*Updated 2/29/2024 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-gingham    
+shrimp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-brogan  
+beef   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-espadrille   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-docksider  
+pork  
 </summary>
 
 :x: *Wrong...*
