@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/29/2024 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 3/1/2024 at 12:00 AM*
+### What topic does Spin magazine primarily cover?
 <details>
 <summary>
-shrimp    
+politics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+washing machines  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+books   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+music  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-beef   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pork  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
