@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/1/2024 at 12:00 AM*
-### What topic does Spin magazine primarily cover?
+*Updated 3/2/2024 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-politics    
+Miss Jackie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-washing machines  
+Elizabeth Sanford  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-books   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-music  
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Gladys Knight  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
