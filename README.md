@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/2/2024 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 3/3/2024 at 12:00 AM*
+### How long is a single term in the US Senate?
 <details>
 <summary>
-Miss Jackie    
+two years    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Sanford  
+four years  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Geraldine Jones   
+six years   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+eight years  
 </summary>
 
 :x: *Wrong...*
