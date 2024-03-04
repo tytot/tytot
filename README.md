@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/3/2024 at 12:00 AM*
-### How long is a single term in the US Senate?
+*Updated 3/4/2024 at 12:00 AM*
+### What is the oldest continuously run sporting event in the United States?
 <details>
 <summary>
-two years    
+Westminster Dog Show    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four years  
+Boston Marathon  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-six years   
+Kentucky Derby   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-eight years  
+Indianapolis 500  
 </summary>
 
 :x: *Wrong...*
