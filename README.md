@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/4/2024 at 12:00 AM*
-### What is the oldest continuously run sporting event in the United States?
+*Updated 3/5/2024 at 12:00 AM*
+### Which of the following is a natural sugar found in most fruits?
 <details>
 <summary>
-Westminster Dog Show    
+necrose    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Marathon  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kentucky Derby   
+fructose  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Indianapolis 500  
+bellicose   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pantiose  
 </summary>
 
 :x: *Wrong...*
