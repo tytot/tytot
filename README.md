@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/5/2024 at 12:00 AM*
-### Which of the following is a natural sugar found in most fruits?
+*Updated 3/6/2024 at 12:00 AM*
+### Which 'Rocky' film features Mr. T?
 <details>
 <summary>
-necrose    
+'Rocky II'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fructose  
+'Rocky III'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bellicose   
+'Rocky IV'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pantiose  
+'Rocky '  
 </summary>
 
 :x: *Wrong...*
