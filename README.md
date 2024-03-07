@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/6/2024 at 12:00 AM*
-### Which 'Rocky' film features Mr. T?
+*Updated 3/7/2024 at 12:00 AM*
+### What popular toy is featured in the film 'The Hudsucker Proxy'?
 <details>
 <summary>
-'Rocky II'    
+Beanie Babies    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Rocky III'  
+Hula Hoop  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Rocky IV'   
+Lincoln Logs   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Rocky '  
+Lite Brite  
 </summary>
 
 :x: *Wrong...*
