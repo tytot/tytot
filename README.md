@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/7/2024 at 12:00 AM*
-### What popular toy is featured in the film 'The Hudsucker Proxy'?
+*Updated 3/8/2024 at 12:00 AM*
+### Which of these games is not played with cards?
 <details>
 <summary>
-Beanie Babies    
+baccarat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hula Hoop  
+rummy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+craps   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lincoln Logs   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lite Brite  
+solitaire  
 </summary>
 
 :x: *Wrong...*
