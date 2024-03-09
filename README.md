@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/8/2024 at 12:00 AM*
-### Which of these games is not played with cards?
+*Updated 3/9/2024 at 12:00 AM*
+### Which of these countries is not in Europe?
 <details>
 <summary>
-baccarat    
+Italy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rummy  
+Spain  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-craps   
+Greece   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Israel  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-solitaire  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
