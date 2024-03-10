@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/9/2024 at 12:00 AM*
-### Which of these countries is not in Europe?
+*Updated 3/10/2024 at 12:00 AM*
+### In what country did Magic Johnson play professional basketball during the 1999 season?
 <details>
 <summary>
-Italy    
+United States    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Spain  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greece   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Israel  
+Sweden  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Israel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Turkey  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
