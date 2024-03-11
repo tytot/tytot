@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/10/2024 at 12:00 AM*
-### In what country did Magic Johnson play professional basketball during the 1999 season?
+*Updated 3/11/2024 at 12:00 AM*
+### Which character on the TV show 'Friends' is a chef?
 <details>
 <summary>
-United States    
+Joey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sweden  
+Monica  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Israel   
+Ross   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Turkey  
+Rachel  
 </summary>
 
 :x: *Wrong...*
