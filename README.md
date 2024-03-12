@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/11/2024 at 12:00 AM*
-### Which character on the TV show 'Friends' is a chef?
+*Updated 3/12/2024 at 12:00 AM*
+### From whom does the Lutheran Church get its name?
 <details>
 <summary>
-Joey    
+Martin Luther King Jr    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Monica  
+Martin Luther  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ross   
+Luther Vandross   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rachel  
+Lex Luthor  
 </summary>
 
 :x: *Wrong...*
