@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/12/2024 at 12:00 AM*
-### From whom does the Lutheran Church get its name?
+*Updated 3/13/2024 at 12:00 AM*
+### At what age can someone first attend an R-rated movie without an accompanying adult?
 <details>
 <summary>
-Martin Luther King Jr    
+15    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Martin Luther  
+17  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+18   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Luther Vandross   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lex Luthor  
+21  
 </summary>
 
 :x: *Wrong...*
