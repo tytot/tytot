@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/13/2024 at 12:00 AM*
-### At what age can someone first attend an R-rated movie without an accompanying adult?
+*Updated 3/14/2024 at 12:00 AM*
+### What does a pH level measure?
 <details>
 <summary>
-15    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-17  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-18   
+acidity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-21  
+density  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+wavelength   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+humidity  
 </summary>
 
 :x: *Wrong...*
