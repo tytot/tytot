@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/14/2024 at 12:00 AM*
-### What does a pH level measure?
+*Updated 3/15/2024 at 12:00 AM*
+### Which of these college football programs has produced the most Heisman Trophy winners?
 <details>
 <summary>
-acidity    
+Notre Dame    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-density  
+USC  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wavelength   
+Oklahoma   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-humidity  
+Michigan  
 </summary>
 
 :x: *Wrong...*
