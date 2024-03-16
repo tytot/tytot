@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/15/2024 at 12:00 AM*
-### Which of these college football programs has produced the most Heisman Trophy winners?
+*Updated 3/16/2024 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-Notre Dame    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-USC  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Oklahoma   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Michigan  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
