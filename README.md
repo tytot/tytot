@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/16/2024 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 3/17/2024 at 12:00 AM*
+### Where are fireworks first known to have been developed?
 <details>
 <summary>
-Oberlin College    
+Italy    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+China  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
+Great Britain   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
+Greece  
 </summary>
 
 :x: *Wrong...*
