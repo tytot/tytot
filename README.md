@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/17/2024 at 12:00 AM*
-### Where are fireworks first known to have been developed?
+*Updated 3/18/2024 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-Italy    
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-China  
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Great Britain   
+Larry King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece  
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
