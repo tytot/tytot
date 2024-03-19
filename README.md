@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/18/2024 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 3/19/2024 at 12:00 AM*
+### What does a pH level measure?
 <details>
 <summary>
-Rush Limbaugh    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Casey Kasem  
+acidity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+density  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+wavelength   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+humidity  
 </summary>
 
 :x: *Wrong...*
