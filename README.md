@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/19/2024 at 12:00 AM*
-### What does a pH level measure?
+*Updated 3/20/2024 at 12:00 AM*
+### Modern computer microchips are primarily composed of what element?
 <details>
 <summary>
-acidity    
+Sodium    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Silicon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-density  
+Aluminum   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wavelength   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-humidity  
+Silver  
 </summary>
 
 :x: *Wrong...*
