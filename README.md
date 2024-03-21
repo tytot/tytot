@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/20/2024 at 12:00 AM*
-### Modern computer microchips are primarily composed of what element?
+*Updated 3/21/2024 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-Sodium    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Silicon  
+Austin  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Aluminum   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Silver  
+Cleveland  
 </summary>
 
 :x: *Wrong...*
