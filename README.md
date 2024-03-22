@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/21/2024 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 3/22/2024 at 12:00 AM*
+### On average, what length of time passes between high tides?
 <details>
 <summary>
-Chicago    
+3 hours, 25 minutes    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Austin  
+6 hours, 25 minutes  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pittsburgh   
+12 hours, 25 minutes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+24 hours, 25 minutes  
 </summary>
 
 :x: *Wrong...*
