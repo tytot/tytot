@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/23/2024 at 12:00 AM*
-### What is the name of the StarKist tuna mascot?
+*Updated 3/24/2024 at 12:00 AM*
+### According to legend, in what country are you most likely to meet a leprechaun?
 <details>
 <summary>
-Charlie    
+Ireland    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sam  
+Poland  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Al   
+Greenland   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Morris  
+Scotland  
 </summary>
 
 :x: *Wrong...*
