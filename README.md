@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/24/2024 at 12:00 AM*
-### According to legend, in what country are you most likely to meet a leprechaun?
+*Updated 3/25/2024 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-Ireland    
+'All the King's Men'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the Pretty Horses'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Poland  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greenland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scotland  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
