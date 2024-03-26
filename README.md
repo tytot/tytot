@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/25/2024 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 3/26/2024 at 12:00 AM*
+### What is the proper nautical use of an anchor?
 <details>
 <summary>
-'All the King's Men'    
+to catch large fish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the Pretty Horses'  
+to calculate water depth  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the President's Men'   
+to hold a ship in place   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'All the Right Moves'  
+to damage other boats  
 </summary>
 
 :x: *Wrong...*
