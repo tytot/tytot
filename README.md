@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/26/2024 at 12:00 AM*
-### What is the proper nautical use of an anchor?
+*Updated 3/27/2024 at 12:00 AM*
+### What professional sports team plays its home games in the Alamodome?
 <details>
 <summary>
-to catch large fish    
+New York Jets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to calculate water depth  
+Detroit Tigers  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to hold a ship in place   
+Boston Bruins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Antonio Spurs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-to damage other boats  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
