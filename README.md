@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/27/2024 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 3/28/2024 at 12:00 AM*
+### What singer appeared in the 1992 baseball film 'A League of Their Own'?
 <details>
 <summary>
-New York Jets    
+Brandy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Detroit Tigers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Boston Bruins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Antonio Spurs  
+Madonna  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Garth Brooks   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Whitney Houston  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
