@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/28/2024 at 12:00 AM*
-### What singer appeared in the 1992 baseball film 'A League of Their Own'?
+*Updated 3/29/2024 at 12:00 AM*
+### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
 <details>
 <summary>
-Brandy    
+Jerry Bailey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Madonna  
+Steve Cauthen  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Garth Brooks   
+Willie Shoemaker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Whitney Houston  
+Pasquale Devito  
 </summary>
 
 :x: *Wrong...*
