@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/29/2024 at 12:00 AM*
-### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+*Updated 3/30/2024 at 12:00 AM*
+### What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?
 <details>
 <summary>
-Jerry Bailey    
+blossom on a shield    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Cauthen  
+eye of the archer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the lion's mane   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+armpit of the giant  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Willie Shoemaker   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pasquale Devito  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
