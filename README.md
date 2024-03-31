@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/30/2024 at 12:00 AM*
-### What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?
+*Updated 3/31/2024 at 12:00 AM*
+### How many $100 bills does it take to equal one million dollars?
 <details>
 <summary>
-blossom on a shield    
+one thousand    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eye of the archer  
+five thousand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the lion's mane   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-armpit of the giant  
+ten thousand   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+one hundred thousand  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
