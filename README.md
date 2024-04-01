@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/31/2024 at 12:00 AM*
-### How many $100 bills does it take to equal one million dollars?
+*Updated 4/1/2024 at 12:00 AM*
+### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
 <details>
 <summary>
-one thousand    
+Dr. Evil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five thousand  
+Q  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ten thousand   
+Little Jimmy Bond   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-one hundred thousand  
+M  
 </summary>
 
 :x: *Wrong...*
