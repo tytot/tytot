@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/1/2024 at 12:00 AM*
-### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
+*Updated 4/2/2024 at 12:00 AM*
+### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
 <details>
 <summary>
-Dr. Evil    
+Mount Everest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Q  
+Bermuda Triangle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Little Jimmy Bond   
+Atlantis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Pole  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-M  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
