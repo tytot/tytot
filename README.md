@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/2/2024 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 4/3/2024 at 12:00 AM*
+### What is the approximate speed of light?
 <details>
 <summary>
-Mount Everest    
+165 miles per hour    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bermuda Triangle  
+122,000 miles per hour  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+186,000 miles per second   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+293,000 miles per second  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
