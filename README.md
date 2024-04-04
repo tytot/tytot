@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/3/2024 at 12:00 AM*
-### What is the approximate speed of light?
+*Updated 4/4/2024 at 12:00 AM*
+### Which of these is a commonly-known investment account?
 <details>
 <summary>
-165 miles per hour    
+CNN    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-122,000 miles per hour  
+EMC  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-186,000 miles per second   
+IRA   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-293,000 miles per second  
+IRS  
 </summary>
 
 :x: *Wrong...*
