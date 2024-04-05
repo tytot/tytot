@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/4/2024 at 12:00 AM*
-### Which of these is a commonly-known investment account?
+*Updated 4/5/2024 at 12:00 AM*
+### What tea is known for its distinctive bergamot flavor?
 <details>
 <summary>
-CNN    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-EMC  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-IRA   
+Earl Grey    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-IRS  
+Darjeeling  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+English Breakfast   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Prince of Wales  
 </summary>
 
 :x: *Wrong...*
