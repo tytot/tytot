@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/5/2024 at 12:00 AM*
-### What tea is known for its distinctive bergamot flavor?
+*Updated 4/6/2024 at 12:00 AM*
+### Which of these is not a type of primate?
 <details>
 <summary>
-Earl Grey    
+baboon    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+marmot  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Darjeeling  
+orangutan   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-English Breakfast   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Prince of Wales  
+chimpanzee  
 </summary>
 
 :x: *Wrong...*
