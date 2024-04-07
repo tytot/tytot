@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/6/2024 at 12:00 AM*
-### Which of these is not a type of primate?
+*Updated 4/7/2024 at 12:00 AM*
+### How long is Hanukkah?
 <details>
 <summary>
-baboon    
+one day    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-marmot  
+five days  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight days   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-orangutan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chimpanzee  
+two weeks  
 </summary>
 
 :x: *Wrong...*
