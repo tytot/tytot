@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/7/2024 at 12:00 AM*
-### How long is Hanukkah?
+*Updated 4/8/2024 at 12:00 AM*
+### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
 <details>
 <summary>
-one day    
+Polly Finn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five days  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight days   
+Becky Thatcher  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two weeks  
+Nancy Drew   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Emma Bovary  
 </summary>
 
 :x: *Wrong...*
