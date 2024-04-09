@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/8/2024 at 12:00 AM*
-### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
+*Updated 4/9/2024 at 12:00 AM*
+### Which of these animals shares its name with a luxury car?
 <details>
 <summary>
-Polly Finn    
+yak    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Becky Thatcher  
+gazelle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sloth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+jaguar  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Nancy Drew   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Emma Bovary  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
