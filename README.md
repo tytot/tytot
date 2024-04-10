@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/9/2024 at 12:00 AM*
-### Which of these animals shares its name with a luxury car?
+*Updated 4/10/2024 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-yak    
+Rocky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gazelle  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sloth   
+Underdog   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-jaguar  
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
