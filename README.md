@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/10/2024 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 4/11/2024 at 12:00 AM*
+### Each year in pro baseball, the player voted as the best fielder at his position wins what?
 <details>
 <summary>
-Rocky    
+a brand new car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jonny Quest  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Underdog   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sherman  
+the Gold Glove  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+the Silver Bat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Brass Baseball  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
