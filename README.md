@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/11/2024 at 12:00 AM*
-### Each year in pro baseball, the player voted as the best fielder at his position wins what?
+*Updated 4/12/2024 at 12:00 AM*
+### What does an animal produce when it lactates?
 <details>
 <summary>
-a brand new car    
+sweat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the Gold Glove  
+wool  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+milk   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-the Silver Bat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Brass Baseball  
+methane  
 </summary>
 
 :x: *Wrong...*
