@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/12/2024 at 12:00 AM*
-### What does an animal produce when it lactates?
+*Updated 4/13/2024 at 12:00 AM*
+### What is the most popular month for weddings in America?
 <details>
 <summary>
-sweat    
+January    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wool  
+May  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-milk   
+August   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-methane  
+November  
 </summary>
 
 :x: *Wrong...*
