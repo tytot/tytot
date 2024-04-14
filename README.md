@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/13/2024 at 12:00 AM*
-### What is the most popular month for weddings in America?
+*Updated 4/14/2024 at 12:00 AM*
+### If someone has cataracts, what part of their body might need an operation?
 <details>
 <summary>
-January    
+ear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-May  
+hand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-August   
+eye   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-November  
+knee  
 </summary>
 
 :x: *Wrong...*
