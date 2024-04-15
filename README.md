@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/14/2024 at 12:00 AM*
-### If someone has cataracts, what part of their body might need an operation?
+*Updated 4/15/2024 at 12:00 AM*
+### What are fans of the TV show 'Mystery Science Theater 3000' known as?
 <details>
 <summary>
-ear    
+Mysterians    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hand  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eye   
+MiSTies  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-knee  
+'Bot Brigade   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Gizmonics  
 </summary>
 
 :x: *Wrong...*
