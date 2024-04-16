@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/15/2024 at 12:00 AM*
-### What are fans of the TV show 'Mystery Science Theater 3000' known as?
+*Updated 4/16/2024 at 12:00 AM*
+### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
 <details>
 <summary>
-Mysterians    
+Jerry Bailey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-MiSTies  
+Steve Cauthen  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Bot Brigade   
+Willie Shoemaker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gizmonics  
+Pasquale Devito  
 </summary>
 
 :x: *Wrong...*
