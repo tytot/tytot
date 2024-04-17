@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/16/2024 at 12:00 AM*
-### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+*Updated 4/17/2024 at 12:00 AM*
+### Which of the boys on the TV show 'My Three Sons' is adopted?
 <details>
 <summary>
-Jerry Bailey    
+Mike    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Cauthen  
+Ernie  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Willie Shoemaker   
+Chip   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pasquale Devito  
+Robbie  
 </summary>
 
 :x: *Wrong...*
