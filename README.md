@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/17/2024 at 12:00 AM*
-### Which of the boys on the TV show 'My Three Sons' is adopted?
+*Updated 4/18/2024 at 12:00 AM*
+### What is the name for the thin board used to mix colors while painting?
 <details>
 <summary>
-Mike    
+pestle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernie  
+easel  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shoe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+palette  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Chip   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
