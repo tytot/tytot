@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/18/2024 at 12:00 AM*
-### What is the name for the thin board used to mix colors while painting?
+*Updated 4/19/2024 at 12:00 AM*
+### If a business files under Chapter 11 what is it doing?
 <details>
 <summary>
-pestle    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-easel  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shoe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-palette  
+declaring bankruptcy    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+selling stock  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+buying a smaller   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+company suing the government  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
