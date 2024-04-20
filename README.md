@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/19/2024 at 12:00 AM*
-### If a business files under Chapter 11 what is it doing?
+*Updated 4/20/2024 at 12:00 AM*
+### Who wrote musicals with Oscar Hammerstein II?
 <details>
 <summary>
-declaring bankruptcy    
+Richard Rodgers    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-selling stock  
+Rogers Hornsby  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-buying a smaller   
+Gilbert O' Sullivan   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-company suing the government  
+George Rogers Clark  
 </summary>
 
 :x: *Wrong...*
