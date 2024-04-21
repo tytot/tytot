@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/20/2024 at 12:00 AM*
-### Who wrote musicals with Oscar Hammerstein II?
+*Updated 4/21/2024 at 12:00 AM*
+### Which of these refers to an alcoholic drink laced with a knockout drug?
 <details>
 <summary>
-Richard Rodgers    
+Zombie    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kamikaze  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mickey Finn   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rogers Hornsby  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Gilbert O' Sullivan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-George Rogers Clark  
+Molotov cocktail  
 </summary>
 
 :x: *Wrong...*
