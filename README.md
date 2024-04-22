@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/21/2024 at 12:00 AM*
-### Which of these refers to an alcoholic drink laced with a knockout drug?
+*Updated 4/22/2024 at 12:00 AM*
+### The sport of judo comes from what Asian country?
 <details>
 <summary>
-Zombie    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kamikaze  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mickey Finn   
+Japan    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Molotov cocktail  
+Vietnam  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Laos   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Philippines  
 </summary>
 
 :x: *Wrong...*
