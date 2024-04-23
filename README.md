@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/22/2024 at 12:00 AM*
-### The sport of judo comes from what Asian country?
+*Updated 4/23/2024 at 12:00 AM*
+### A portrait that comically exaggerates a person's physical traits is called a what?
 <details>
 <summary>
-Japan    
+landscape    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+caricature  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vietnam  
+still life   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Laos   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philippines  
+Impressionism  
 </summary>
 
 :x: *Wrong...*
