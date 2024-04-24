@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/23/2024 at 12:00 AM*
-### A portrait that comically exaggerates a person's physical traits is called a what?
+*Updated 4/24/2024 at 12:00 AM*
+### Which of these words is spelled correctly?
 <details>
 <summary>
-landscape    
+decieve    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-caricature  
+foriegn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hygiene   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-still life   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Impressionism  
+wierd  
 </summary>
 
 :x: *Wrong...*
