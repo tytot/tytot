@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/24/2024 at 12:00 AM*
-### Which of these words is spelled correctly?
+*Updated 4/25/2024 at 12:00 AM*
+### Which of these organs comes in a pair?
 <details>
 <summary>
-decieve    
+liver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foriegn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hygiene   
+kidney  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wierd  
+stomach   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gallbladder  
 </summary>
 
 :x: *Wrong...*
