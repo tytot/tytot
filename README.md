@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/25/2024 at 12:00 AM*
-### Which of these organs comes in a pair?
+*Updated 4/26/2024 at 12:00 AM*
+### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
 <details>
 <summary>
-liver    
+Little Buddy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-kidney  
+Mini-Me  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-stomach   
+Small Fry   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gallbladder  
+Dr. Evil Jr  
 </summary>
 
 :x: *Wrong...*
