@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/26/2024 at 12:00 AM*
-### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
+*Updated 4/27/2024 at 12:00 AM*
+### What is called a 'lorry' in Britain?
 <details>
 <summary>
-Little Buddy    
+a toaster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mini-Me  
+a truck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Small Fry   
+a babysitter   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr. Evil Jr  
+an elevator  
 </summary>
 
 :x: *Wrong...*
