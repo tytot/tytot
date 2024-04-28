@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/27/2024 at 12:00 AM*
-### What is called a 'lorry' in Britain?
+*Updated 4/28/2024 at 12:00 AM*
+### According to a Yale University study, what smell is the most recognizable to American adults?
 <details>
 <summary>
-a toaster    
+tuna    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a truck  
+laundry  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+popcorn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+coffee  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-a babysitter   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-an elevator  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
