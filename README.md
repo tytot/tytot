@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/28/2024 at 12:00 AM*
-### According to a Yale University study, what smell is the most recognizable to American adults?
+*Updated 4/29/2024 at 12:00 AM*
+### Which of these foods could contain small amounts of naturally occurring opium?
 <details>
 <summary>
-tuna    
+chocolate truffles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-laundry  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-popcorn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-coffee  
+poppy seed bagels  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+carbonated soda   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sesame chicken  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
