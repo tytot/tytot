@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/29/2024 at 12:00 AM*
-### Which of these foods could contain small amounts of naturally occurring opium?
+*Updated 4/30/2024 at 12:00 AM*
+### What sport is featured in the 1996 movie 'Kingpin'?
 <details>
 <summary>
-chocolate truffles    
+wrestling    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-poppy seed bagels  
+golf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chess   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-carbonated soda   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sesame chicken  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
