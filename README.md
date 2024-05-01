@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/30/2024 at 12:00 AM*
-### What sport is featured in the 1996 movie 'Kingpin'?
+*Updated 5/1/2024 at 12:00 AM*
+### What is the name of the mountain where the mythological Greek gods live?
 <details>
 <summary>
-wrestling    
+Jupiter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-golf  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chess   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bowling  
+Olympus  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Vesuvius   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Valhalla  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
