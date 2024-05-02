@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/1/2024 at 12:00 AM*
-### What is the name of the mountain where the mythological Greek gods live?
+*Updated 5/2/2024 at 12:00 AM*
+### In what year did the United States last win an Olympic gold medal in men's ice hockey?
 <details>
 <summary>
-Jupiter    
+1976    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Olympus  
+1980  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vesuvius   
+1984   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Valhalla  
+1988  
 </summary>
 
 :x: *Wrong...*
