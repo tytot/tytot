@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/2/2024 at 12:00 AM*
-### In what year did the United States last win an Olympic gold medal in men's ice hockey?
+*Updated 5/3/2024 at 12:00 AM*
+### The American patriot Paul Revere was named for his father, whose original name was what?
 <details>
 <summary>
-1976    
+John Paul Revere    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1980  
+Paul Silver  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Apollos Rivoire   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1984   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1988  
+Paolo Reverini  
 </summary>
 
 :x: *Wrong...*
