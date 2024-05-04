@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/3/2024 at 12:00 AM*
-### The American patriot Paul Revere was named for his father, whose original name was what?
+*Updated 5/4/2024 at 12:00 AM*
+### Which of these people was buried in the Valley of the Kings?
 <details>
 <summary>
-John Paul Revere    
+Louis XIV    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Silver  
+Elvis Presley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Apollos Rivoire   
+Julius Caesar   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+King Tut  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Paolo Reverini  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
