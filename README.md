@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/4/2024 at 12:00 AM*
-### Which of these people was buried in the Valley of the Kings?
+*Updated 5/5/2024 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-Louis XIV    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elvis Presley  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Julius Caesar   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-King Tut  
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Dartmouth College  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Grinnell College   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Antioch College  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
