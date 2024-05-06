@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/5/2024 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 5/6/2024 at 12:00 AM*
+### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
 <details>
 <summary>
-Oberlin College    
+Whoopi Goldberg    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jennifer Grey  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kirstie Alley   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
+Helen Hunt  
 </summary>
 
 :x: *Wrong...*
