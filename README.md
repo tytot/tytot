@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/6/2024 at 12:00 AM*
-### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
+*Updated 5/7/2024 at 12:00 AM*
+### Excluding wisdom teeth, how many adult teeth do humans have?
 <details>
 <summary>
-Whoopi Goldberg    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jennifer Grey  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kirstie Alley   
+28    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Helen Hunt  
+32  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+35   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+40  
 </summary>
 
 :x: *Wrong...*
