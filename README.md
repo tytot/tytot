@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/7/2024 at 12:00 AM*
-### Excluding wisdom teeth, how many adult teeth do humans have?
+*Updated 5/8/2024 at 12:00 AM*
+### What professional sports team plays its home games in the Alamodome?
 <details>
 <summary>
-28    
+New York Jets    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Detroit Tigers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boston Bruins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Antonio Spurs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-32  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-35   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-40  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
