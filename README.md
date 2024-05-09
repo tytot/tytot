@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/8/2024 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 5/9/2024 at 12:00 AM*
+### Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?
 <details>
 <summary>
-New York Jets    
+Sylvester Stallone    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Detroit Tigers  
+Jack Nicholson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Bruins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Antonio Spurs  
+Jack Palance   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Marisa Tomei  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
