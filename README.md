@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/9/2024 at 12:00 AM*
-### Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?
+*Updated 5/10/2024 at 12:00 AM*
+### What is the capital of New Zealand?
 <details>
 <summary>
-Sylvester Stallone    
+Sydney    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jack Nicholson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jack Palance   
+Wellington  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Marisa Tomei  
+Auckland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Melbourne  
 </summary>
 
 :x: *Wrong...*
