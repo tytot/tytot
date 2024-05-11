@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/10/2024 at 12:00 AM*
-### What is the capital of New Zealand?
+*Updated 5/11/2024 at 12:00 AM*
+### Who originally proposed the idea of daylight-saving time?
 <details>
 <summary>
-Sydney    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Wellington  
+Benjamin Franklin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Auckland   
+Henry David Thoreau  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Melbourne  
+Galileo   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Albert Einstein  
 </summary>
 
 :x: *Wrong...*
