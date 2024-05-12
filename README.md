@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/11/2024 at 12:00 AM*
-### Who originally proposed the idea of daylight-saving time?
+*Updated 5/12/2024 at 12:00 AM*
+### Which of these is typically not used as a spice?
 <details>
 <summary>
-Benjamin Franklin    
+dill    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+thyme  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hemlock   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Henry David Thoreau  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Galileo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Albert Einstein  
+marjoram  
 </summary>
 
 :x: *Wrong...*
