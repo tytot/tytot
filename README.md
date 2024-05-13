@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/12/2024 at 12:00 AM*
-### Which of these is typically not used as a spice?
+*Updated 5/13/2024 at 12:00 AM*
+### How many digits are in a standard Visa credit card number?
 <details>
 <summary>
-dill    
+12    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thyme  
+15  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hemlock   
+16   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-marjoram  
+20  
 </summary>
 
 :x: *Wrong...*
