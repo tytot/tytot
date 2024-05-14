@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/13/2024 at 12:00 AM*
-### How many digits are in a standard Visa credit card number?
+*Updated 5/14/2024 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-12    
+Fancy Feast    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-15  
+Cat Chow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-16   
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-20  
+9-Lives  
 </summary>
 
 :x: *Wrong...*
