@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/14/2024 at 12:00 AM*
-### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
+*Updated 5/15/2024 at 12:00 AM*
+### What is the national animal of Australia?
 <details>
 <summary>
-Fancy Feast    
+koala    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cat Chow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Meow Mix   
+kangaroo  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-9-Lives  
+platypus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+alligator  
 </summary>
 
 :x: *Wrong...*
