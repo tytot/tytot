@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/15/2024 at 12:00 AM*
-### What is the national animal of Australia?
+*Updated 5/16/2024 at 12:00 AM*
+### Which of these plants is the national emblem of Scotland?
 <details>
 <summary>
-koala    
+ivy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-kangaroo  
+thistle  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-platypus   
+rose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-alligator  
+linden  
 </summary>
 
 :x: *Wrong...*
