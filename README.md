@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/16/2024 at 12:00 AM*
-### Which of these plants is the national emblem of Scotland?
+*Updated 5/17/2024 at 12:00 AM*
+### Which of these is not a fabric?
 <details>
 <summary>
-ivy    
+Velveteen    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thistle  
+Celotex  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rose   
+Seersucker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-linden  
+Tencel  
 </summary>
 
 :x: *Wrong...*
