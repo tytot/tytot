@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/17/2024 at 12:00 AM*
-### Which of these is not a fabric?
+*Updated 5/18/2024 at 12:00 AM*
+### According to folklore, the 'jackalope' is an antlered version of what animal?
 <details>
 <summary>
-Velveteen    
+chicken    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Celotex  
+rabbit  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Seersucker   
+moose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tencel  
+snake  
 </summary>
 
 :x: *Wrong...*
