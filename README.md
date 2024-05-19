@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/18/2024 at 12:00 AM*
-### According to folklore, the 'jackalope' is an antlered version of what animal?
+*Updated 5/19/2024 at 12:00 AM*
+### An airplane's black box is usually what color?
 <details>
 <summary>
-chicken    
+black    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rabbit  
+white  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+orange   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-moose   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snake  
+purple  
 </summary>
 
 :x: *Wrong...*
