@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/19/2024 at 12:00 AM*
-### An airplane's black box is usually what color?
+*Updated 5/20/2024 at 12:00 AM*
+### What kind of animal is a peregrine?
 <details>
 <summary>
-black    
+moose    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-white  
+cat  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-orange   
+bird   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-purple  
+fish  
 </summary>
 
 :x: *Wrong...*
