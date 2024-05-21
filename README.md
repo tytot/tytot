@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/20/2024 at 12:00 AM*
-### What kind of animal is a peregrine?
+*Updated 5/21/2024 at 12:00 AM*
+### What is the name of the POW camp where 'Hogan's Heroes' are held?
 <details>
 <summary>
-moose    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cat  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bird   
+Stalag 13    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-fish  
+Alcatraz 17  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Devil's Island   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Leavenworth  
 </summary>
 
 :x: *Wrong...*
