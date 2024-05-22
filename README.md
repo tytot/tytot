@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/21/2024 at 12:00 AM*
-### What is the name of the POW camp where 'Hogan's Heroes' are held?
+*Updated 5/22/2024 at 12:00 AM*
+### What newspaper do Lois Lane and Clark Kent work for?
 <details>
 <summary>
-Stalag 13    
+The Bugle    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Daily Planet  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Alcatraz 17  
+The Metropolis Tribune   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Devil's Island   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leavenworth  
+The New York Times  
 </summary>
 
 :x: *Wrong...*
