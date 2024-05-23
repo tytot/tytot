@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/22/2024 at 12:00 AM*
-### What newspaper do Lois Lane and Clark Kent work for?
+*Updated 5/23/2024 at 12:00 AM*
+### During which war did US troops fight the Battle of New Orleans?
 <details>
 <summary>
-The Bugle    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Daily Planet  
+Civil War  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mexican War   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-The Metropolis Tribune   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The New York Times  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
