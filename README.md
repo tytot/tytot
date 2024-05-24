@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/23/2024 at 12:00 AM*
-### During which war did US troops fight the Battle of New Orleans?
+*Updated 5/24/2024 at 12:00 AM*
+### What sport is featured in the 1996 movie 'Kingpin'?
 <details>
 <summary>
-American Revolution    
+wrestling    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Civil War  
+golf  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mexican War   
+chess   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+bowling  
 </summary>
 
 :heavy_check_mark: *Correct!*
