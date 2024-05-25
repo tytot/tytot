@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/24/2024 at 12:00 AM*
-### What sport is featured in the 1996 movie 'Kingpin'?
+*Updated 5/25/2024 at 12:00 AM*
+### Which fast food chain used the advertising slogan, 'Where's the beef?'
 <details>
 <summary>
-wrestling    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-golf  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chess   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bowling  
+Wendy's    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Kentucky Fried Chicken  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Burger King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+McDonald's  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
