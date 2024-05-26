@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/25/2024 at 12:00 AM*
-### Which fast food chain used the advertising slogan, 'Where's the beef?'
+*Updated 5/26/2024 at 12:00 AM*
+### Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?
 <details>
 <summary>
-Wendy's    
+Michael Dukakis    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Walter Mondale  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kentucky Fried Chicken  
+Gary Hart   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-McDonald's  
+Jimmy Carter  
 </summary>
 
 :x: *Wrong...*
