@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/26/2024 at 12:00 AM*
-### Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?
+*Updated 5/27/2024 at 12:00 AM*
+### What color is the masthead of USA Today's 'Life' section?
 <details>
 <summary>
-Michael Dukakis    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Walter Mondale  
+purple  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gary Hart   
+red   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jimmy Carter  
+blue  
 </summary>
 
 :x: *Wrong...*
