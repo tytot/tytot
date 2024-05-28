@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/27/2024 at 12:00 AM*
-### What color is the masthead of USA Today's 'Life' section?
+*Updated 5/28/2024 at 12:00 AM*
+### Which of these fashion designers was born in the United States?
 <details>
 <summary>
-green    
+Laura Ashley    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple  
+Helmut Lang  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Donna Karan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+Christian Dior  
 </summary>
 
 :x: *Wrong...*
