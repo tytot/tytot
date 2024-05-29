@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/28/2024 at 12:00 AM*
-### Which of these fashion designers was born in the United States?
+*Updated 5/29/2024 at 12:00 AM*
+### The majority of calcium in the human body is found where?
 <details>
 <summary>
-Laura Ashley    
+hair    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Helmut Lang  
+blood  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Donna Karan   
+bones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Christian Dior  
+digestive tract  
 </summary>
 
 :x: *Wrong...*
