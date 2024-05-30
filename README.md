@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/29/2024 at 12:00 AM*
-### The majority of calcium in the human body is found where?
+*Updated 5/30/2024 at 12:00 AM*
+### Ada Lovelace is credited with being the first person to have made what?
 <details>
 <summary>
-hair    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blood  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bones   
+a computer program    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-digestive tract  
+a souffle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a brassiere   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a mystery novel  
 </summary>
 
 :x: *Wrong...*
