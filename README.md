@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/30/2024 at 12:00 AM*
-### Ada Lovelace is credited with being the first person to have made what?
+*Updated 5/31/2024 at 12:00 AM*
+### In which of these sports do competitors use a 'funny car'?
 <details>
 <summary>
-a computer program    
+supercross    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dogsledding  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gymnastics   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+drag racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-a souffle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a brassiere   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a mystery novel  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
