@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/31/2024 at 12:00 AM*
-### In which of these sports do competitors use a 'funny car'?
+*Updated 6/1/2024 at 12:00 AM*
+### To ward off bad luck, what do many people do to wood?
 <details>
 <summary>
-supercross    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dogsledding  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gymnastics   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-drag racing  
+knock on it    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+kiss it  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+thank it   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+scratch it  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
