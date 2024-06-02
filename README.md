@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/1/2024 at 12:00 AM*
-### To ward off bad luck, what do many people do to wood?
+*Updated 6/2/2024 at 12:00 AM*
+### Which of these is not a type of primate?
 <details>
 <summary>
-knock on it    
+baboon    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+marmot  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kiss it  
+orangutan   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thank it   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scratch it  
+chimpanzee  
 </summary>
 
 :x: *Wrong...*
