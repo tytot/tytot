@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/2/2024 at 12:00 AM*
-### Which of these is not a type of primate?
+*Updated 6/3/2024 at 12:00 AM*
+### Which of these is not a 'lock' function on a standard desktop computer keyboard?
 <details>
 <summary>
-baboon    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-marmot  
+print lock    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-orangutan   
+number lock  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chimpanzee  
+scroll lock   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+caps lock  
 </summary>
 
 :x: *Wrong...*
