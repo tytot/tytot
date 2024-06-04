@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/3/2024 at 12:00 AM*
-### Which of these is not a 'lock' function on a standard desktop computer keyboard?
+*Updated 6/4/2024 at 12:00 AM*
+### What animated character has a crush on the Little Red Haired Girl?
 <details>
 <summary>
-print lock    
+Richie Rich    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Charlie Brown  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-number lock  
+Bugs Bunny   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-scroll lock   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-caps lock  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
