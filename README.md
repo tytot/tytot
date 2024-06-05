@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/4/2024 at 12:00 AM*
-### What animated character has a crush on the Little Red Haired Girl?
+*Updated 6/5/2024 at 12:00 AM*
+### What type of substance is 'terra-cotta'?
 <details>
 <summary>
-Richie Rich    
+metal    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Charlie Brown  
+ceramic  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Bugs Bunny   
+wood   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jonny Quest  
+glass  
 </summary>
 
 :x: *Wrong...*
