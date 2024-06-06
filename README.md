@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/5/2024 at 12:00 AM*
-### What type of substance is 'terra-cotta'?
+*Updated 6/6/2024 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-metal    
+Rocky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ceramic  
+Jonny Quest  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Underdog   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-wood   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-glass  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
