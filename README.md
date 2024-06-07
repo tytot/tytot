@@ -7,32 +7,32 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/6/2024 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 6/7/2024 at 12:00 AM*
+### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
 <details>
 <summary>
-Rocky    
+Mount Everest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jonny Quest  
+Bermuda Triangle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Underdog   
+Atlantis   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sherman  
+North Pole  
 </summary>
 
 :heavy_check_mark: *Correct!*
