@@ -4,31 +4,31 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 6/8/2024 at 12:00 AM*
-### Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-Michael Dukakis    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Walter Mondale  
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gary Hart   
+Civil War   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jimmy Carter  
+World War I  
 </summary>
 
 :x: *Wrong...*
@@ -43,8 +43,8 @@ Jimmy Carter
 [![Attendance for Google Meet by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=attendance-for-google-meet&title_color=ffb81c&text_color=ffffff&icon_color=ffb81c&bg_color=6f263d)](https://github.com/tytot/attendance-for-google-meet)
 [![tytot.github.io by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=tytot.github.io&title_color=ff3c00&text_color=ffffff&icon_color=ff3c00&bg_color=311d00)](https://github.com/tytot/tytot.github.io)
 [![Minecraft Proximity Discord Chat by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=minecraft-proximity-discord-chat&title_color=7289da&text_color=ffffff&icon_color=7289da&bg_color=2c2f33)](https://github.com/tytot/minecraft-proximity-discord-chat)
-[![Medical Record Blockchain by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=medical-record-blockchain&title_color=96bb7c&text_color=ffffff&icon_color=96bb7c&bg_color=184d47)](https://github.com/tytot/medical-record-blockchain) -->
+[![Medical Record Blockchain by tytot](https://github-readme-stats.vercel.app/api/pin/?username=tytot&repo=medical-record-blockchain&title_color=96bb7c&text_color=ffffff&icon_color=96bb7c&bg_color=184d47)](https://github.com/tytot/medical-record-blockchain)
 
 ## :scroll: My Most Used Languages
 
-![tytot's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytot&hide_title=true&layout=compact&text_color=ffffff&bg_color=241773)
+![tytot's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytot&hide_title=true&layout=compact&text_color=ffffff&bg_color=241773) -->
