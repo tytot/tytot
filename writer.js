@@ -19,7 +19,7 @@ const dateString = new Intl.DateTimeFormat(undefined, {
 }).format(new Date())
 
 const data = fs.readFileSync('README-template.md', 'utf8')
-
+console.log(data)
 const newData = data.replace('_Question Here_', 
 `*Updated ${dateString} at 12:00 AM*
 ### ${question.question}
