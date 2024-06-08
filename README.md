@@ -7,35 +7,35 @@
 </p>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/7/2024 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 6/8/2024 at 12:00 AM*
+### In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?
 <details>
 <summary>
-Mount Everest    
+Statue of Liberty    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bermuda Triangle  
+Empire State Building  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+World Trade Center   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Chrysler Building  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 ## :bar_chart: My Stats
