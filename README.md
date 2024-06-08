@@ -8,31 +8,31 @@
 
 ## :mortar_board: Daily Trivia!
 *Updated 6/8/2024 at 12:00 AM*
-### In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?
+### A triptych is a work of art that is painted on how many panels?
 <details>
 <summary>
-Statue of Liberty    
+two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Empire State Building  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-World Trade Center   
+three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chrysler Building  
+five   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
 </summary>
 
 :x: *Wrong...*
