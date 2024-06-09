@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/8/2024 at 12:00 AM*
-### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+*Updated 6/9/2024 at 12:00 AM*
+### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
 <details>
 <summary>
-American Revolution    
+ducks in a pond    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+pigs in a blanket  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Civil War   
+cows in a pasture   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-World War I  
+dogs in the oven  
 </summary>
 
 :x: *Wrong...*
