@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/9/2024 at 12:00 AM*
-### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
+*Updated 6/10/2024 at 12:00 AM*
+### The majority of calcium in the human body is found where?
 <details>
 <summary>
-ducks in a pond    
+hair    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pigs in a blanket  
+blood  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cows in a pasture   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dogs in the oven  
+digestive tract  
 </summary>
 
 :x: *Wrong...*
