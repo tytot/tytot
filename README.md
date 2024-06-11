@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/10/2024 at 12:00 AM*
-### The majority of calcium in the human body is found where?
+*Updated 6/11/2024 at 12:00 AM*
+### What liqueur is used to make a Pink Lady cocktail pink?
 <details>
 <summary>
-hair    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blood  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bones   
+grenadine    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-digestive tract  
+schnapps  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+triple sec   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pernod  
 </summary>
 
 :x: *Wrong...*
