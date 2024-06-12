@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/11/2024 at 12:00 AM*
-### What liqueur is used to make a Pink Lady cocktail pink?
+*Updated 6/12/2024 at 12:00 AM*
+### The Original Apple iMac computer was available in all of the following colors except which?
 <details>
 <summary>
-grenadine    
+Tangerine    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Strawberry  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kiwi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-schnapps  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-triple sec   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pernod  
+Grape  
 </summary>
 
 :x: *Wrong...*
