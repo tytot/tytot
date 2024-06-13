@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/12/2024 at 12:00 AM*
-### The Original Apple iMac computer was available in all of the following colors except which?
+*Updated 6/13/2024 at 12:00 AM*
+### Which of the boys on the TV show 'My Three Sons' is adopted?
 <details>
 <summary>
-Tangerine    
+Mike    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Strawberry  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kiwi   
+Ernie  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Grape  
+Chip   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robbie  
 </summary>
 
 :x: *Wrong...*
