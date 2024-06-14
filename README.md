@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/13/2024 at 12:00 AM*
-### Which of the boys on the TV show 'My Three Sons' is adopted?
+*Updated 6/14/2024 at 12:00 AM*
+### Which of these states is not the birthplace of a US president?
 <details>
 <summary>
-Mike    
+New Jersey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernie  
+Nebraska  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kansas   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chip   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie  
+California  
 </summary>
 
 :x: *Wrong...*
