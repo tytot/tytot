@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/14/2024 at 12:00 AM*
-### Which of these states is not the birthplace of a US president?
+*Updated 6/15/2024 at 12:00 AM*
+### What French city is home to a famous international film festival each spring?
 <details>
 <summary>
-New Jersey    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nebraska  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kansas   
+Cannes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-California  
+Marseille  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dijon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lyon  
 </summary>
 
 :x: *Wrong...*
