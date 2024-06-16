@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/15/2024 at 12:00 AM*
-### What French city is home to a famous international film festival each spring?
+*Updated 6/16/2024 at 12:00 AM*
+### How much does Peanuts character Lucy charge for her psychiatric advice?
 <details>
 <summary>
-Cannes    
+5 cents    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Marseille  
+10 cents  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dijon   
+75 cents   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lyon  
+$125  
 </summary>
 
 :x: *Wrong...*
