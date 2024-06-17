@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/16/2024 at 12:00 AM*
-### How much does Peanuts character Lucy charge for her psychiatric advice?
+*Updated 6/17/2024 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-5 cents    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-10 cents  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-75 cents   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$125  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
