@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/17/2024 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 6/18/2024 at 12:00 AM*
+### Which of these is not an ingredient in Yorkshire pudding?
 <details>
 <summary>
-Oberlin College    
+eggs    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+milk  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
+meat drippings  
 </summary>
 
 :x: *Wrong...*
