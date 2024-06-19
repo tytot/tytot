@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/18/2024 at 12:00 AM*
-### Which of these is not an ingredient in Yorkshire pudding?
+*Updated 6/19/2024 at 12:00 AM*
+### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
 <details>
 <summary>
-eggs    
+Abner Doubleday    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-milk  
+Ty Cobb  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chocolate   
+Jackie Robinson   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-meat drippings  
+Billy Martin  
 </summary>
 
 :x: *Wrong...*
