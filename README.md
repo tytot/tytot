@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/19/2024 at 12:00 AM*
-### Which of these famous baseball figures was once acquitted at court-martial for insubordination?
+*Updated 6/20/2024 at 12:00 AM*
+### What is the colored part of the eye called?
 <details>
 <summary>
-Abner Doubleday    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ty Cobb  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jackie Robinson   
+iris    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Billy Martin  
+pupil  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+retina   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cochlea  
 </summary>
 
 :x: *Wrong...*
