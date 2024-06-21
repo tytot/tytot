@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/20/2024 at 12:00 AM*
-### What is the colored part of the eye called?
+*Updated 6/21/2024 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-iris    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-pupil  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-retina   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cochlea  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
