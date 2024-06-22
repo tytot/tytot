@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/21/2024 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 6/22/2024 at 12:00 AM*
+### What is the name of the Swedish company that specializes in affordable furniture?
 <details>
 <summary>
-Oberlin College    
+Gambro    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Electrolux  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saab   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+IKEA  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
