@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/22/2024 at 12:00 AM*
-### What is the name of the Swedish company that specializes in affordable furniture?
+*Updated 6/23/2024 at 12:00 AM*
+### What animal is considered sacred in India?
 <details>
 <summary>
-Gambro    
+sheep    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Electrolux  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saab   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-IKEA  
+cow  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dog  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
