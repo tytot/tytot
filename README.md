@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/23/2024 at 12:00 AM*
-### What animal is considered sacred in India?
+*Updated 6/24/2024 at 12:00 AM*
+### An airplane's black box is usually what color?
 <details>
 <summary>
-sheep    
+black    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cow  
+white  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+orange   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dog  
+purple  
 </summary>
 
 :x: *Wrong...*
