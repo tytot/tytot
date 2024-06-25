@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/24/2024 at 12:00 AM*
-### An airplane's black box is usually what color?
+*Updated 6/25/2024 at 12:00 AM*
+### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
 <details>
 <summary>
-black    
+'Humpty Dumpty'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-white  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-orange   
+'Mary Had a Little Lamb'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-purple  
+'Jack Be Nimble'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Home, Sweet Home'  
 </summary>
 
 :x: *Wrong...*
