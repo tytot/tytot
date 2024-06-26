@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/25/2024 at 12:00 AM*
-### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
+*Updated 6/26/2024 at 12:00 AM*
+### What force causes an ice cream cone to fly off of a spinning merry-go-round?
 <details>
 <summary>
-'Humpty Dumpty'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Mary Had a Little Lamb'  
+centrifugal    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Jack Be Nimble'   
+vehicular  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Home, Sweet Home'  
+gravitational   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+torsal  
 </summary>
 
 :x: *Wrong...*
