@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/26/2024 at 12:00 AM*
-### What force causes an ice cream cone to fly off of a spinning merry-go-round?
+*Updated 6/27/2024 at 12:00 AM*
+### Which famed modeling agency shares its name with a top U.S. automaker?
 <details>
 <summary>
-centrifugal    
+Ford    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-vehicular  
+Chevrolet  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravitational   
+Chrysler   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-torsal  
+Saturn  
 </summary>
 
 :x: *Wrong...*
