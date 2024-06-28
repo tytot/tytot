@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/27/2024 at 12:00 AM*
-### Which famed modeling agency shares its name with a top U.S. automaker?
+*Updated 6/28/2024 at 12:00 AM*
+### Which of these is an Italian Design firm?
 <details>
 <summary>
-Ford    
+Escada    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Fendi  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chevrolet  
+Ghost   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chrysler   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturn  
+Mainbocher  
 </summary>
 
 :x: *Wrong...*
