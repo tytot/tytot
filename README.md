@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/28/2024 at 12:00 AM*
-### Which of these is an Italian Design firm?
+*Updated 6/29/2024 at 12:00 AM*
+### On a set of jumper cables, what color designates the negative connector?
 <details>
 <summary>
-Escada    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Fendi  
+black    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ghost   
+red  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mainbocher  
+orange   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :x: *Wrong...*
