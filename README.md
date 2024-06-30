@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/29/2024 at 12:00 AM*
-### On a set of jumper cables, what color designates the negative connector?
+*Updated 6/30/2024 at 12:00 AM*
+### Which of these words means 'yes' in French?
 <details>
 <summary>
-black    
+qui    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oui  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red  
+ja   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-orange   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+okey-dokey  
 </summary>
 
 :x: *Wrong...*
