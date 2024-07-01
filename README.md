@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/30/2024 at 12:00 AM*
-### Which of these words means 'yes' in French?
+*Updated 7/1/2024 at 12:00 AM*
+### What's the third letter of the Greek alphabet?
 <details>
 <summary>
-qui    
+delta    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oui  
+gamma  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ja   
+phi   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-okey-dokey  
+theta  
 </summary>
 
 :x: *Wrong...*
