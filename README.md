@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/1/2024 at 12:00 AM*
-### What's the third letter of the Greek alphabet?
+*Updated 7/2/2024 at 12:00 AM*
+### According to the Bible, Moses and Aaron had a sister named what?
 <details>
 <summary>
-delta    
+Jochebed    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gamma  
+Ruth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Leah   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Miriam  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-phi   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-theta  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
