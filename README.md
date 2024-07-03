@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/2/2024 at 12:00 AM*
-### According to the Bible, Moses and Aaron had a sister named what?
+*Updated 7/3/2024 at 12:00 AM*
+### Cheddar cheese got its name from a village in what country?
 <details>
 <summary>
-Jochebed    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ruth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leah   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Miriam  
+England    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+France  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Switzerland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Denmark  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
