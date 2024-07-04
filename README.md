@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/3/2024 at 12:00 AM*
-### Cheddar cheese got its name from a village in what country?
+*Updated 7/4/2024 at 12:00 AM*
+### In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?
 <details>
 <summary>
-England    
+Sancho Panza    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Passepartout  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+Renfield   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Switzerland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Denmark  
+Savoir Faire  
 </summary>
 
 :x: *Wrong...*
