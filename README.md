@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/4/2024 at 12:00 AM*
-### In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?
+*Updated 7/5/2024 at 12:00 AM*
+### Who led the 1831 slave insurrection in Southampton, Virginia?
 <details>
 <summary>
-Sancho Panza    
+John Brown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Passepartout  
+Dred Scott  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nat Turner   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Renfield   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Savoir Faire  
+Harriet Tubman  
 </summary>
 
 :x: *Wrong...*
