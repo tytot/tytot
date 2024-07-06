@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/5/2024 at 12:00 AM*
-### Who led the 1831 slave insurrection in Southampton, Virginia?
+*Updated 7/6/2024 at 12:00 AM*
+### Where did Lewis and Clark begin their famous expedition in 1804?
 <details>
 <summary>
-John Brown    
+Seattle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dred Scott  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nat Turner   
+St. Louis  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Harriet Tubman  
+New Orleans   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Washington, DC  
 </summary>
 
 :x: *Wrong...*
