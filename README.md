@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/6/2024 at 12:00 AM*
-### Where did Lewis and Clark begin their famous expedition in 1804?
+*Updated 7/7/2024 at 12:00 AM*
+### What type of substance is 'terra-cotta'?
 <details>
 <summary>
-Seattle    
+metal    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-St. Louis  
+ceramic  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New Orleans   
+wood   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Washington, DC  
+glass  
 </summary>
 
 :x: *Wrong...*
