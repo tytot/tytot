@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/7/2024 at 12:00 AM*
-### What type of substance is 'terra-cotta'?
+*Updated 7/8/2024 at 12:00 AM*
+### What is the nickname of Florida's controversial death row electric chair?
 <details>
 <summary>
-metal    
+Old Yeller    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ceramic  
+Old Geezer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Smoky   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Sparky  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-wood   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-glass  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
