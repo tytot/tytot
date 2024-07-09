@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/8/2024 at 12:00 AM*
-### What is the nickname of Florida's controversial death row electric chair?
+*Updated 7/9/2024 at 12:00 AM*
+### Which of these colors is a shade of blue?
 <details>
 <summary>
-Old Yeller    
+ochre    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Geezer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Smoky   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Sparky  
+periwinkle  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+mauve   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ecru  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
