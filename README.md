@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/9/2024 at 12:00 AM*
-### Which of these colors is a shade of blue?
+*Updated 7/10/2024 at 12:00 AM*
+### Which of these companies is not an online stock brokerage?
 <details>
 <summary>
-ochre    
+E*Trade    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-periwinkle  
+EDigital  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-mauve   
+Datek Online   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ecru  
+DLJ Direct  
 </summary>
 
 :x: *Wrong...*
