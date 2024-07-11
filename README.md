@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/10/2024 at 12:00 AM*
-### Which of these companies is not an online stock brokerage?
+*Updated 7/11/2024 at 12:00 AM*
+### Who is the career hit leader among players never elected to Baseball's Hall of Fame?
 <details>
 <summary>
-E*Trade    
+Steve Garvey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-EDigital  
+Jim Rice  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pete Rose   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Datek Online   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-DLJ Direct  
+Ken Griffey Jr  
 </summary>
 
 :x: *Wrong...*
