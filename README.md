@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/11/2024 at 12:00 AM*
-### Who is the career hit leader among players never elected to Baseball's Hall of Fame?
+*Updated 7/12/2024 at 12:00 AM*
+### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
 <details>
 <summary>
-Steve Garvey    
+skiing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jim Rice  
+biking  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pete Rose   
+snowboarding   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ken Griffey Jr  
+surfing  
 </summary>
 
 :x: *Wrong...*
