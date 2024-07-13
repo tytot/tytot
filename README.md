@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/12/2024 at 12:00 AM*
-### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+*Updated 7/13/2024 at 12:00 AM*
+### Which famed modeling agency shares its name with a top U.S. automaker?
 <details>
 <summary>
-skiing    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-biking  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snowboarding   
+Ford    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-surfing  
+Chevrolet  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chrysler   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturn  
 </summary>
 
 :x: *Wrong...*
