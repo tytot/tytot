@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/13/2024 at 12:00 AM*
-### Which famed modeling agency shares its name with a top U.S. automaker?
+*Updated 7/14/2024 at 12:00 AM*
+### Paper will burn at approximately what temperature, in Fahrenheit?
 <details>
 <summary>
-Ford    
+98.6 degrees    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+212.5 degrees  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+398.5 degrees   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+451 degrees  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Chevrolet  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chrysler   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturn  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
