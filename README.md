@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/14/2024 at 12:00 AM*
-### Paper will burn at approximately what temperature, in Fahrenheit?
+*Updated 7/15/2024 at 12:00 AM*
+### If you dial '411' on a telephone, who are you calling?
 <details>
 <summary>
-98.6 degrees    
+the police    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-212.5 degrees  
+the White House  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-398.5 degrees   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-451 degrees  
+directory assistance   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Moviefone  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
