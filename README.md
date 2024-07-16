@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/15/2024 at 12:00 AM*
-### If you dial '411' on a telephone, who are you calling?
+*Updated 7/16/2024 at 12:00 AM*
+### Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?
 <details>
 <summary>
-the police    
+Michael Dukakis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the White House  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-directory assistance   
+Walter Mondale  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Moviefone  
+Gary Hart   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jimmy Carter  
 </summary>
 
 :x: *Wrong...*
