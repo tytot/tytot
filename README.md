@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/16/2024 at 12:00 AM*
-### Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?
+*Updated 7/17/2024 at 12:00 AM*
+### In which of these sports do competitors use a 'funny car'?
 <details>
 <summary>
-Michael Dukakis    
+supercross    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Walter Mondale  
+dogsledding  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gymnastics   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+drag racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Gary Hart   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jimmy Carter  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
