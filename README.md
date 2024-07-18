@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/17/2024 at 12:00 AM*
-### In which of these sports do competitors use a 'funny car'?
+*Updated 7/18/2024 at 12:00 AM*
+### In what sport do you find 'steel cage' matches?
 <details>
 <summary>
-supercross    
+boxing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dogsledding  
+fencing  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gymnastics   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-drag racing  
+pro wrestling   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+college basketball  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
