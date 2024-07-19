@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/18/2024 at 12:00 AM*
-### In what sport do you find 'steel cage' matches?
+*Updated 7/19/2024 at 12:00 AM*
+### What is the proper nautical use of an anchor?
 <details>
 <summary>
-boxing    
+to catch large fish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fencing  
+to calculate water depth  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pro wrestling   
+to hold a ship in place   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-college basketball  
+to damage other boats  
 </summary>
 
 :x: *Wrong...*
