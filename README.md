@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/19/2024 at 12:00 AM*
-### What is the proper nautical use of an anchor?
+*Updated 7/20/2024 at 12:00 AM*
+### If you are watching a Shavian play, who is the author?
 <details>
 <summary>
-to catch large fish    
+Shakespeare    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to calculate water depth  
+Aeschylus  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to hold a ship in place   
+George Bernard Shaw   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to damage other boats  
+Anton Chekhov  
 </summary>
 
 :x: *Wrong...*
