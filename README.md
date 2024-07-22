@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/21/2024 at 12:00 AM*
-### What type of substance is 'terra-cotta'?
+*Updated 7/22/2024 at 12:00 AM*
+### What was the name of the first nuclear-powered submarine?
 <details>
 <summary>
-metal    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ceramic  
+Nautilus    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wood   
+Neptune  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-glass  
+Nordenfelt III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nicholas  
 </summary>
 
 :x: *Wrong...*
