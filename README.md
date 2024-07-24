@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/22/2024 at 12:00 AM*
-### What was the name of the first nuclear-powered submarine?
+*Updated 7/24/2024 at 12:00 AM*
+### How many innings are there in a regular Major League Baseball game?
 <details>
 <summary>
-Nautilus    
+seven    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nine   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neptune  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nordenfelt III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nicholas  
+ten  
 </summary>
 
 :x: *Wrong...*
