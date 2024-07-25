@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/24/2024 at 12:00 AM*
-### How many innings are there in a regular Major League Baseball game?
+*Updated 7/25/2024 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-seven    
+Michael    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nine   
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ten  
+Mortimer   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Matthew  
 </summary>
 
 :x: *Wrong...*
