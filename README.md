@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/25/2024 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 7/26/2024 at 12:00 AM*
+### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
 <details>
 <summary>
-Michael    
+skiing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Milhous  
+biking  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+snowboarding   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mortimer   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Matthew  
+surfing  
 </summary>
 
 :x: *Wrong...*
