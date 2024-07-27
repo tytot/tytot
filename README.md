@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/26/2024 at 12:00 AM*
-### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+*Updated 7/27/2024 at 12:00 AM*
+### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
 <details>
 <summary>
-skiing    
+Franky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-biking  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snowboarding   
+Ponch  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-surfing  
+Chipper   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hot Dog  
 </summary>
 
 :x: *Wrong...*
