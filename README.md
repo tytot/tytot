@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/27/2024 at 12:00 AM*
-### On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?
+*Updated 7/28/2024 at 12:00 AM*
+### Which of these college football programs has produced the most Heisman Trophy winners?
 <details>
 <summary>
-Franky    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ponch  
+Notre Dame    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chipper   
+USC  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hot Dog  
+Oklahoma   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michigan  
 </summary>
 
 :x: *Wrong...*
