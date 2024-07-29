@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/28/2024 at 12:00 AM*
-### Which of these college football programs has produced the most Heisman Trophy winners?
+*Updated 7/29/2024 at 12:00 AM*
+### In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
 <details>
 <summary>
-Notre Dame    
+Little Buddy    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mini-Me  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-USC  
+Small Fry   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Oklahoma   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michigan  
+Dr. Evil Jr  
 </summary>
 
 :x: *Wrong...*
