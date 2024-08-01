@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/31/2024 at 12:00 AM*
-### In what state is the 1999 movie 'Magnolia' set?
+*Updated 8/1/2024 at 12:00 AM*
+### Which of these months has 31 days?
 <details>
 <summary>
-California    
+March    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-South Carolina  
+April  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Georgia   
+June   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Texas  
+September  
 </summary>
 
 :x: *Wrong...*
