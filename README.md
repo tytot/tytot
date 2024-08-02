@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/1/2024 at 12:00 AM*
-### Which of these months has 31 days?
+*Updated 8/2/2024 at 12:00 AM*
+### Which of these organizations is not part of the U.S. government?
 <details>
 <summary>
-March    
+NAACP    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-April  
+NASA  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-June   
+CIA   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-September  
+FBI  
 </summary>
 
 :x: *Wrong...*
