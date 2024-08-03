@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/2/2024 at 12:00 AM*
-### Which of these organizations is not part of the U.S. government?
+*Updated 8/3/2024 at 12:00 AM*
+### According to the proverb, necessity is the mother of what?
 <details>
 <summary>
-NAACP    
+Invention    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-NASA  
+Luck  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-CIA   
+Problems   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-FBI  
+Procrastination  
 </summary>
 
 :x: *Wrong...*
