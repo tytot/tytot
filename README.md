@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/3/2024 at 12:00 AM*
-### According to the proverb, necessity is the mother of what?
+*Updated 8/4/2024 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-Invention    
+3 1/2 x 5 inches    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+5 x 10 inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Luck  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Problems   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Procrastination  
+11 x 17 inches  
 </summary>
 
 :x: *Wrong...*
