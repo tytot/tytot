@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/4/2024 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 8/5/2024 at 12:00 AM*
+### What is the medical term for a doctor's identification of a disease?
 <details>
 <summary>
-3 1/2 x 5 inches    
+Hypnosis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
+Prognosis  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8 1/2 x 11 inches   
+Trichinosis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Diagnosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-11 x 17 inches  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
