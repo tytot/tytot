@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/5/2024 at 12:00 AM*
-### What is the medical term for a doctor's identification of a disease?
+*Updated 8/6/2024 at 12:00 AM*
+### What fictional character claims to be 'smarter than the average bear'?
 <details>
 <summary>
-Hypnosis    
+Paddington Bear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Prognosis  
+Fozzie Bear  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Trichinosis   
+Smokey Bear   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Diagnosis  
+Yogi Bear  
 </summary>
 
 :heavy_check_mark: *Correct!*
