@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/6/2024 at 12:00 AM*
-### What fictional character claims to be 'smarter than the average bear'?
+*Updated 8/7/2024 at 12:00 AM*
+### What is the name of Raggedy Ann's doll brother?
 <details>
 <summary>
-Paddington Bear    
+Red    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fozzie Bear  
+Freckles  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Smokey Bear   
+Randy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Yogi Bear  
+Andy  
 </summary>
 
 :heavy_check_mark: *Correct!*
