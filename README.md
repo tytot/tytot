@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/2024 at 12:00 AM*
-### What is the name of Raggedy Ann's doll brother?
+*Updated 8/8/2024 at 12:00 AM*
+### According to the proverb, necessity is the mother of what?
 <details>
 <summary>
-Red    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Freckles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Randy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Andy  
+Invention    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Luck  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Problems   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Procrastination  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
