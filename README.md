@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2024 at 12:00 AM*
-### According to the proverb, necessity is the mother of what?
+*Updated 8/9/2024 at 12:00 AM*
+### What part of the world was once known as Cathay?
 <details>
 <summary>
-Invention    
+China    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Luck  
+India  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Problems   
+Iran   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Procrastination  
+Indonesia  
 </summary>
 
 :x: *Wrong...*
