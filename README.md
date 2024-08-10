@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/9/2024 at 12:00 AM*
-### What part of the world was once known as Cathay?
+*Updated 8/10/2024 at 12:00 AM*
+### In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?
 <details>
 <summary>
-China    
+Gulf of Sidra    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-India  
+Gulf of Oman  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Iran   
+Red Sea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Indonesia  
+Persian Gulf  
 </summary>
 
 :x: *Wrong...*
