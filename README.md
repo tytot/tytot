@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/10/2024 at 12:00 AM*
-### In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?
+*Updated 8/11/2024 at 12:00 AM*
+### In American football, how many points is a touchdown worth?
 <details>
 <summary>
-Gulf of Sidra    
+two    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+six   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gulf of Oman  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Red Sea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Persian Gulf  
+seven  
 </summary>
 
 :x: *Wrong...*
