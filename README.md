@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/11/2024 at 12:00 AM*
-### In American football, how many points is a touchdown worth?
+*Updated 8/12/2024 at 12:00 AM*
+### Who or what was Big Bertha?
 <details>
 <summary>
-two    
+a comet    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-six   
+a World War I gun  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
+a pro wrestling champion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a giant Muppet  
 </summary>
 
 :x: *Wrong...*
