@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/12/2024 at 12:00 AM*
-### Who or what was Big Bertha?
+*Updated 8/13/2024 at 12:00 AM*
+### Whose profile can you see on the front of dimes that are currently in circulation?
 <details>
 <summary>
-a comet    
+George Washington    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a World War I gun  
+Thomas Jefferson  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Benjamin Franklin   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Franklin Roosevelt  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-a pro wrestling champion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a giant Muppet  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
