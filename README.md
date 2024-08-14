@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/13/2024 at 12:00 AM*
-### Whose profile can you see on the front of dimes that are currently in circulation?
+*Updated 8/14/2024 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-George Washington    
+in French    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thomas Jefferson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Benjamin Franklin   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Franklin Roosevelt  
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+in braille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+in gibberish  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
