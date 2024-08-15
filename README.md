@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/14/2024 at 12:00 AM*
-### How is the word 'ambulance' normally written on the front of American ambulances?
+*Updated 8/15/2024 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-in French    
+13    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in reverse  
+48  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in braille   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-in gibberish  
+51  
 </summary>
 
 :x: *Wrong...*
