@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/15/2024 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 8/16/2024 at 12:00 AM*
+### What term is used to describe a group of fish?
 <details>
 <summary>
-13    
+knot    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-48  
+drape  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-50   
+school   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-51  
+gaggle  
 </summary>
 
 :x: *Wrong...*
