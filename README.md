@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/16/2024 at 12:00 AM*
-### What term is used to describe a group of fish?
+*Updated 8/17/2024 at 12:00 AM*
+### Which of these measurements is equal to one square foot?
 <details>
 <summary>
-knot    
+50 square inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-drape  
+77 square inches  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-school   
+100 square inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+144 square inches  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-gaggle  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
