@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/17/2024 at 12:00 AM*
-### Which of these measurements is equal to one square foot?
+*Updated 8/18/2024 at 12:00 AM*
+### Which of these refers to an alcoholic drink laced with a knockout drug?
 <details>
 <summary>
-50 square inches    
+Zombie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-77 square inches  
+Kamikaze  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-100 square inches   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-144 square inches  
+Mickey Finn   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Molotov cocktail  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
