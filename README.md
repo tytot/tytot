@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/18/2024 at 12:00 AM*
-### Which of these refers to an alcoholic drink laced with a knockout drug?
+*Updated 8/19/2024 at 12:00 AM*
+### On average, what length of time passes between high tides?
 <details>
 <summary>
-Zombie    
+3 hours, 25 minutes    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kamikaze  
+6 hours, 25 minutes  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mickey Finn   
+12 hours, 25 minutes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Molotov cocktail  
+24 hours, 25 minutes  
 </summary>
 
 :x: *Wrong...*
