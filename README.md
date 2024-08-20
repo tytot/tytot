@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/19/2024 at 12:00 AM*
-### On average, what length of time passes between high tides?
+*Updated 8/20/2024 at 12:00 AM*
+### What is Delta Burke's character's job on the sitcom 'Designing Women'?
 <details>
 <summary>
-3 hours, 25 minutes    
+fashion designer    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-6 hours, 25 minutes  
+graphic designer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-12 hours, 25 minutes   
+interior designer   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-24 hours, 25 minutes  
+website designer  
 </summary>
 
 :x: *Wrong...*
