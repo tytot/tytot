@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/21/2024 at 12:00 AM*
-### What is an alternate name for the food dish 'Beijing duck'?
+*Updated 8/22/2024 at 12:00 AM*
+### After Prince Charles, who is next in line to be the king of England?
 <details>
 <summary>
-Shanghai duck    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Peking duck  
+Prince William    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hong Kong duck   
+Prince Andrew  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Brooklyn duck  
+Prince Edward   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Fresh Prince  
 </summary>
 
 :x: *Wrong...*
