@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/22/2024 at 12:00 AM*
-### After Prince Charles, who is next in line to be the king of England?
+*Updated 8/23/2024 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-Prince William    
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Prince Andrew  
+influenza  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Prince Edward   
+emphysema   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fresh Prince  
+heart disease  
 </summary>
 
 :x: *Wrong...*
