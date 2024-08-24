@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/23/2024 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 8/24/2024 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-cancer    
+battery    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+engine  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-influenza  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
