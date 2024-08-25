@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/24/2024 at 12:00 AM*
-### On which part of a car would you find the 'caliper'?
+*Updated 8/25/2024 at 12:00 AM*
+### Elephant tusks are made of what material?
 <details>
 <summary>
-battery    
+coral    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-engine  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-radiator   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-brakes  
+ivory  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+bone   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+calcium  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
