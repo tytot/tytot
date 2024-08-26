@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/25/2024 at 12:00 AM*
-### Elephant tusks are made of what material?
+*Updated 8/26/2024 at 12:00 AM*
+### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
 <details>
 <summary>
-coral    
+Boston Celtics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ivory  
+Los Angeles Lakers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York Knicks   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bone   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-calcium  
+Philadelphia 76ers  
 </summary>
 
 :x: *Wrong...*
