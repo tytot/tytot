@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/26/2024 at 12:00 AM*
-### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
+*Updated 8/27/2024 at 12:00 AM*
+### What is the final word of the Pledge of Allegiance?
 <details>
 <summary>
-Boston Celtics    
+America    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Los Angeles Lakers  
+stands  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York Knicks   
+indivisible   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+all  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Philadelphia 76ers  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
