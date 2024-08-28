@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/27/2024 at 12:00 AM*
-### What is the final word of the Pledge of Allegiance?
+*Updated 8/28/2024 at 12:00 AM*
+### What is the traditional 20th wedding anniversary gift?
 <details>
 <summary>
-America    
+paper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stands  
+leather  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-indivisible   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-all  
+china   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+silver  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
