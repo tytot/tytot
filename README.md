@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/28/2024 at 12:00 AM*
-### What is the traditional 20th wedding anniversary gift?
+*Updated 8/29/2024 at 12:00 AM*
+### Which of the following is most commonly kept in a terrarium?
 <details>
 <summary>
-paper    
+money    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-leather  
+books  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-china   
+ice   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+plants  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-silver  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
