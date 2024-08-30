@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/29/2024 at 12:00 AM*
-### Which of the following is most commonly kept in a terrarium?
+*Updated 8/30/2024 at 12:00 AM*
+### Which of these places is known for art auctions?
 <details>
 <summary>
-money    
+Shelby's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-books  
+Nickleby's  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ice   
+Gatsby's   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-plants  
+Sotheby's  
 </summary>
 
 :heavy_check_mark: *Correct!*
