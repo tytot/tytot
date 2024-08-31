@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/30/2024 at 12:00 AM*
-### Which of these places is known for art auctions?
+*Updated 8/31/2024 at 12:00 AM*
+### What is the capital of North Dakota?
 <details>
 <summary>
-Shelby's    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nickleby's  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Gatsby's   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sotheby's  
+Bismarck    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Fargo  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sioux Falls   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pierre  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
