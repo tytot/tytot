@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/31/2024 at 12:00 AM*
-### What is the capital of North Dakota?
+*Updated 9/1/2024 at 12:00 AM*
+### According to Greek mythology, who was Apollo's twin sister?
 <details>
 <summary>
-Bismarck    
+Aphrodite    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Artemis  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Fargo  
+Venus   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sioux Falls   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pierre  
+Athena  
 </summary>
 
 :x: *Wrong...*
