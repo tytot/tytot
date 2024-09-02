@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/1/2024 at 12:00 AM*
-### According to Greek mythology, who was Apollo's twin sister?
+*Updated 9/2/2024 at 12:00 AM*
+### What condition is caused by malfunctioning sebaceous glands?
 <details>
 <summary>
-Aphrodite    
+bad breath    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Artemis  
+shingles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+acne   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Venus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Athena  
+carpal tunnel syndrome  
 </summary>
 
 :x: *Wrong...*
