@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/2/2024 at 12:00 AM*
-### What condition is caused by malfunctioning sebaceous glands?
+*Updated 9/3/2024 at 12:00 AM*
+### In American football, how many points is a touchdown worth?
 <details>
 <summary>
-bad breath    
+two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shingles  
+three  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-acne   
+six   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carpal tunnel syndrome  
+seven  
 </summary>
 
 :x: *Wrong...*
