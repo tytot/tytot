@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/3/2024 at 12:00 AM*
-### In American football, how many points is a touchdown worth?
+*Updated 9/4/2024 at 12:00 AM*
+### In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?
 <details>
 <summary>
-two    
+peace symbol    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-six   
+American flag  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
+two white doves   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harley-Davidson logo  
 </summary>
 
 :x: *Wrong...*
