@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/4/2024 at 12:00 AM*
-### In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?
+*Updated 9/5/2024 at 12:00 AM*
+### From what language does the term 'R.S.V.P.' originate?
 <details>
 <summary>
-peace symbol    
+Russian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-American flag  
+Italian  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Portuguese   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-two white doves   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harley-Davidson logo  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
