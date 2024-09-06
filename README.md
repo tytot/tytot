@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/5/2024 at 12:00 AM*
-### From what language does the term 'R.S.V.P.' originate?
+*Updated 9/6/2024 at 12:00 AM*
+### What children's storybook character believes that the sky is falling?
 <details>
 <summary>
-Russian    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Italian  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Portuguese   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-French  
+Chicken Little    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Curious George  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jack Sprat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tom Thumb  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
