@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/7/2024 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 9/8/2024 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-wheat    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rye  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+influenza  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+emphysema   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+heart disease  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
