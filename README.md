@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/8/2024 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 9/9/2024 at 12:00 AM*
+### Which of these is a member of the cucumber family?
 <details>
 <summary>
-cancer    
+green pepper    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+watermelon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-influenza  
+potato   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
+green bean  
 </summary>
 
 :x: *Wrong...*
