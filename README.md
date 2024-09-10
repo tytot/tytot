@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/9/2024 at 12:00 AM*
-### Which of these is a member of the cucumber family?
+*Updated 9/10/2024 at 12:00 AM*
+### What biological process replicates DNA?
 <details>
 <summary>
-green pepper    
+molting    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-watermelon  
+mitosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-potato   
+diffusion   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-green bean  
+peristalsis  
 </summary>
 
 :x: *Wrong...*
