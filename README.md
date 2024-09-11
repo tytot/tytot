@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/10/2024 at 12:00 AM*
-### What biological process replicates DNA?
+*Updated 9/11/2024 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-molting    
+yahtzee    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mitosis  
+mulligan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-diffusion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-peristalsis  
+ace  
 </summary>
 
 :x: *Wrong...*
