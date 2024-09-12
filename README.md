@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/11/2024 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 9/12/2024 at 12:00 AM*
+### According to legend, if you give someone the 'evil eye' what are you doing?
 <details>
 <summary>
-yahtzee    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-mulligan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-turkey   
+cursing them    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+blessing a child  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+counting money   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+passing time  
 </summary>
 
 :x: *Wrong...*
