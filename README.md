@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/12/2024 at 12:00 AM*
-### According to legend, if you give someone the 'evil eye' what are you doing?
+*Updated 9/13/2024 at 12:00 AM*
+### Who is an archenemy of the cartoon superhero Underdog?
 <details>
 <summary>
-cursing them    
+OverCat    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blessing a child  
+Muttley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-counting money   
+Mr. Whoopie   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-passing time  
+Dick Dastardly  
 </summary>
 
 :x: *Wrong...*
