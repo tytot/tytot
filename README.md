@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/13/2024 at 12:00 AM*
-### Who is an archenemy of the cartoon superhero Underdog?
+*Updated 9/14/2024 at 12:00 AM*
+### What is the last letter of the Greek alphabet?
 <details>
 <summary>
-OverCat    
+omicron    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+omega  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Muttley  
+upsilon   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mr. Whoopie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dick Dastardly  
+zeta  
 </summary>
 
 :x: *Wrong...*
