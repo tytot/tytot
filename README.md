@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/14/2024 at 12:00 AM*
-### What is the last letter of the Greek alphabet?
+*Updated 9/15/2024 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-omicron    
+chirp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-omega  
+bark  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+growl   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-upsilon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-zeta  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
