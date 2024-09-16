@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/15/2024 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 9/16/2024 at 12:00 AM*
+### What force causes an ice cream cone to fly off of a spinning merry-go-round?
 <details>
 <summary>
-chirp    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bark  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+centrifugal    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+vehicular  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gravitational   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+torsal  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
