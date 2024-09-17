@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/16/2024 at 12:00 AM*
-### What force causes an ice cream cone to fly off of a spinning merry-go-round?
+*Updated 9/17/2024 at 12:00 AM*
+### How many keys are on a standard piano?
 <details>
 <summary>
-centrifugal    
+20    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+54  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+88   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-vehicular  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravitational   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-torsal  
+100  
 </summary>
 
 :x: *Wrong...*
