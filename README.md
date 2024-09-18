@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/17/2024 at 12:00 AM*
-### How many keys are on a standard piano?
+*Updated 9/18/2024 at 12:00 AM*
+### In what year did the United States last win an Olympic gold medal in men's ice hockey?
 <details>
 <summary>
-20    
+1976    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-54  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-88   
+1980  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-100  
+1984   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1988  
 </summary>
 
 :x: *Wrong...*
