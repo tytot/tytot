@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/18/2024 at 12:00 AM*
-### In what year did the United States last win an Olympic gold medal in men's ice hockey?
+*Updated 9/19/2024 at 12:00 AM*
+### According to a famous line from the existentialist play 'No Exit' what is hell?
 <details>
 <summary>
-1976    
+oneself    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1980  
+other people  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1984   
+little made large   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1988  
+hued in green and blue  
 </summary>
 
 :x: *Wrong...*
