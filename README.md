@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/19/2024 at 12:00 AM*
-### According to a famous line from the existentialist play 'No Exit' what is hell?
+*Updated 9/20/2024 at 12:00 AM*
+### Which of these companies is not an online stock brokerage?
 <details>
 <summary>
-oneself    
+E*Trade    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-other people  
+EDigital  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-little made large   
+Datek Online   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hued in green and blue  
+DLJ Direct  
 </summary>
 
 :x: *Wrong...*
