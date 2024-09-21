@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/20/2024 at 12:00 AM*
-### Which of these companies is not an online stock brokerage?
+*Updated 9/21/2024 at 12:00 AM*
+### What term describes someone who does not believe in the existence of God?
 <details>
 <summary>
-E*Trade    
+hedonist    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-EDigital  
+deist  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+agnostic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+atheist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Datek Online   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-DLJ Direct  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
