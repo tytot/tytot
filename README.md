@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/21/2024 at 12:00 AM*
-### What term describes someone who does not believe in the existence of God?
+*Updated 9/22/2024 at 12:00 AM*
+### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
 <details>
 <summary>
-hedonist    
+talking car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-deist  
+winged horse  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-agnostic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-atheist  
+magic carpet   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+hot air balloon  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
