@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/22/2024 at 12:00 AM*
-### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
+*Updated 9/23/2024 at 12:00 AM*
+### If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?
 <details>
 <summary>
-talking car    
+Sunday    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-winged horse  
+Monday  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-magic carpet   
+Friday   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturday  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-hot air balloon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
