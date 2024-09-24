@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/23/2024 at 12:00 AM*
-### If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?
+*Updated 9/24/2024 at 12:00 AM*
+### Which of these is not one of the official languages of the United Nations?
 <details>
 <summary>
-Sunday    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Monday  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Friday   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturday  
+Japanese    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+English  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Russian   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
