@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/25/2024 at 12:00 AM*
-### Which of these countries does not participate in NAFTA?
+*Updated 9/26/2024 at 12:00 AM*
+### Which of these animals lays eggs?
 <details>
 <summary>
-United States    
+cow    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Canada  
+gerbil  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mexico   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Guatemala  
+frog   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+elephant  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
