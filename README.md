@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/26/2024 at 12:00 AM*
-### Which of these animals lays eggs?
+*Updated 9/27/2024 at 12:00 AM*
+### What is New Mexico's nickname?
 <details>
 <summary>
-cow    
+'The Desert State'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gerbil  
+'Gateway to Paradise'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-frog   
+'Land of Enchantment'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-elephant  
+'The Garden State'  
 </summary>
 
 :x: *Wrong...*
