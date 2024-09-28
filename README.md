@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/27/2024 at 12:00 AM*
-### What is New Mexico's nickname?
+*Updated 9/28/2024 at 12:00 AM*
+### When it comes to measuring horses, how long is a 'hand'?
 <details>
 <summary>
-'The Desert State'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Gateway to Paradise'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Land of Enchantment'   
+four inches    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Garden State'  
+seven inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two feet  
 </summary>
 
 :x: *Wrong...*
