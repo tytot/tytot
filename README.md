@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/28/2024 at 12:00 AM*
-### When it comes to measuring horses, how long is a 'hand'?
+*Updated 9/29/2024 at 12:00 AM*
+### On a set of jumper cables, what color designates the negative connector?
 <details>
 <summary>
-four inches    
+black    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven inches  
+red  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ten inches   
+orange   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two feet  
+blue  
 </summary>
 
 :x: *Wrong...*
