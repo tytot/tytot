@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/29/2024 at 12:00 AM*
-### On a set of jumper cables, what color designates the negative connector?
+*Updated 9/30/2024 at 12:00 AM*
+### The term 'chili con carne' refers to chili with what?
 <details>
 <summary>
-black    
+beans     
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meat  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red  
+cheese   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-orange   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+chili peppers  
 </summary>
 
 :x: *Wrong...*
