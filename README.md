@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/30/2024 at 12:00 AM*
-### The term 'chili con carne' refers to chili with what?
+*Updated 10/1/2024 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-beans     
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-meat  
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cheese   
+II  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chili peppers  
+I   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ii  
 </summary>
 
 :x: *Wrong...*
