@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/1/2024 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 10/2/2024 at 12:00 AM*
+### How many ribs are there in the human body?
 <details>
 <summary>
-2    
+18    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+24  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-II  
+30   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-I   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ii  
+42  
 </summary>
 
 :x: *Wrong...*
