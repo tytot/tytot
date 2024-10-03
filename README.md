@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/2/2024 at 12:00 AM*
-### How many ribs are there in the human body?
+*Updated 10/3/2024 at 12:00 AM*
+### Which one of these world leaders was assassinated?
 <details>
 <summary>
-18    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-24  
+Indira Gandhi    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-30   
+Ferdinand Marcos  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-42  
+Golda Meir   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Neville Chamberlain  
 </summary>
 
 :x: *Wrong...*
