@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/3/2024 at 12:00 AM*
-### Which one of these world leaders was assassinated?
+*Updated 10/4/2024 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-Indira Gandhi    
+13    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+48  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ferdinand Marcos  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Golda Meir   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Neville Chamberlain  
+51  
 </summary>
 
 :x: *Wrong...*
