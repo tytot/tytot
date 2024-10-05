@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/4/2024 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 10/5/2024 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-13    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-48  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-50   
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-51  
+giant squid  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+woolly mammoth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
