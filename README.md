@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/5/2024 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 10/6/2024 at 12:00 AM*
+### What term describes someone who does not believe in the existence of God?
 <details>
 <summary>
-blue whale    
+hedonist    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+deist  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+agnostic   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+atheist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-giant squid  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
