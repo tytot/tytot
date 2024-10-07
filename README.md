@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/6/2024 at 12:00 AM*
-### What term describes someone who does not believe in the existence of God?
+*Updated 10/7/2024 at 12:00 AM*
+### Who was president of the United States when Bill Clinton was born?
 <details>
 <summary>
-hedonist    
+Herbert Hoover    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-deist  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-agnostic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-atheist  
+Harry S. Truman  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Franklin Roosevelt   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dwight Eisenhower  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
