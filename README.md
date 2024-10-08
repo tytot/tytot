@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/7/2024 at 12:00 AM*
-### Who was president of the United States when Bill Clinton was born?
+*Updated 10/8/2024 at 12:00 AM*
+### In ice hockey, which of the following is not a penalty?
 <details>
 <summary>
-Herbert Hoover    
+hooking    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Harry S. Truman  
+charging  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+carving   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Franklin Roosevelt   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dwight Eisenhower  
+butt-ending  
 </summary>
 
 :x: *Wrong...*
