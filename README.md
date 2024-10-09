@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/8/2024 at 12:00 AM*
-### In ice hockey, which of the following is not a penalty?
+*Updated 10/9/2024 at 12:00 AM*
+### Which character on the TV show 'Friends' is a chef?
 <details>
 <summary>
-hooking    
+Joey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-charging  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-carving   
+Monica  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-butt-ending  
+Ross   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rachel  
 </summary>
 
 :x: *Wrong...*
