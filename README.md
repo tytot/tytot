@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/9/2024 at 12:00 AM*
-### Which character on the TV show 'Friends' is a chef?
+*Updated 10/10/2024 at 12:00 AM*
+### If you are truly afraid of the dark, what do you suffer from?
 <details>
 <summary>
-Joey    
+hypnophobia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Monica  
+cryptophobia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hadephobia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nyctophobia  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ross   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rachel  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
