@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/10/2024 at 12:00 AM*
-### If you are truly afraid of the dark, what do you suffer from?
+*Updated 10/11/2024 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-hypnophobia    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cryptophobia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hadephobia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nyctophobia  
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+II  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+I   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ii  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
