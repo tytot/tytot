@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/11/2024 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 10/12/2024 at 12:00 AM*
+### According to the Bible, Moses and Aaron had a sister named what?
 <details>
 <summary>
-2    
+Jochebed    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ruth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Leah   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Miriam  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-II  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-I   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ii  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
