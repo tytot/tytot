@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/13/2024 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 10/14/2024 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-America Over Lines    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-America Online  
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Americans On LOR  
+Grinnell College   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Antioch College  
 </summary>
 
 :x: *Wrong...*
