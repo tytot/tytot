@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/14/2024 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 10/15/2024 at 12:00 AM*
+### What is the technical term for someone who studies fish?
 <details>
 <summary>
-Oberlin College    
+entomologist    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ichthyologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
+marinologist   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
+herpetologist  
 </summary>
 
 :x: *Wrong...*
