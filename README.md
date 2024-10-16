@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/15/2024 at 12:00 AM*
-### What is the technical term for someone who studies fish?
+*Updated 10/16/2024 at 12:00 AM*
+### Which of these organs comes in a pair?
 <details>
 <summary>
-entomologist    
+liver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ichthyologist  
+kidney  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-marinologist   
+stomach   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-herpetologist  
+gallbladder  
 </summary>
 
 :x: *Wrong...*
