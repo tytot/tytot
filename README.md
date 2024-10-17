@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/16/2024 at 12:00 AM*
-### Which of these organs comes in a pair?
+*Updated 10/17/2024 at 12:00 AM*
+### Which of the following requires the use of at least two needles?
 <details>
 <summary>
-liver    
+macrame    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-kidney  
+braiding  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+crocheting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hand knitting  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-stomach   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gallbladder  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
