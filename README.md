@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/17/2024 at 12:00 AM*
-### Which of the following requires the use of at least two needles?
+*Updated 10/18/2024 at 12:00 AM*
+### What biological process replicates DNA?
 <details>
 <summary>
-macrame    
+molting    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-braiding  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-crocheting   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hand knitting  
+mitosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+diffusion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+peristalsis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
