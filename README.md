@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/18/2024 at 12:00 AM*
-### What biological process replicates DNA?
+*Updated 10/19/2024 at 12:00 AM*
+### Which of these painting tools has bristles on it?
 <details>
 <summary>
-molting    
+easel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mitosis  
+knife  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brush   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-diffusion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-peristalsis  
+palette  
 </summary>
 
 :x: *Wrong...*
