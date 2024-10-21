@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/20/2024 at 12:00 AM*
-### The film 'Stand By Me' is based on a novel by what author?
+*Updated 10/21/2024 at 12:00 AM*
+### 'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?
 <details>
 <summary>
-Anne Proulx    
+'Citizen Kane'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Stephen King  
+'The African Queen'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dean Koontz   
+'The Deer Hunter'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frank McCourt  
+'Adam's Rib'  
 </summary>
 
 :x: *Wrong...*
