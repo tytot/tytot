@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/21/2024 at 12:00 AM*
-### 'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?
+*Updated 10/22/2024 at 12:00 AM*
+### Which of these foods is poisonous to dogs?
 <details>
 <summary>
-'Citizen Kane'    
+peanut butter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'The African Queen'  
+bananas  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Deer Hunter'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Adam's Rib'  
+olives  
 </summary>
 
 :x: *Wrong...*
