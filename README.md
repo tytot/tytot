@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/22/2024 at 12:00 AM*
-### Which of these foods is poisonous to dogs?
+*Updated 10/23/2024 at 12:00 AM*
+### Who is considered the owner of a 'publicly held' company?
 <details>
 <summary>
-peanut butter    
+the CEO    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bananas  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chocolate   
+the stockholders  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-olives  
+the president   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the government  
 </summary>
 
 :x: *Wrong...*
