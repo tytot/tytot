@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/23/2024 at 12:00 AM*
-### Who is considered the owner of a 'publicly held' company?
+*Updated 10/24/2024 at 12:00 AM*
+### Which of these vitamins was the first to be named?
 <details>
 <summary>
-the CEO    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the stockholders  
+Vitamin A    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-the president   
+Vitamin-12  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the government  
+Vitamin E   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vitameatavegimen  
 </summary>
 
 :x: *Wrong...*
