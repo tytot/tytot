@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/24/2024 at 12:00 AM*
-### Which of these vitamins was the first to be named?
+*Updated 10/25/2024 at 12:00 AM*
+### What is the technical term for the offspring of a female donkey and a male horse?
 <details>
 <summary>
-Vitamin A    
+burro    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dorse  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hinny   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vitamin-12  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vitamin E   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vitameatavegimen  
+honker  
 </summary>
 
 :x: *Wrong...*
