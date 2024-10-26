@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/25/2024 at 12:00 AM*
-### What is the technical term for the offspring of a female donkey and a male horse?
+*Updated 10/26/2024 at 12:00 AM*
+### What actress starred on 'Charlie's Angels' for the show's entire run?
 <details>
 <summary>
-burro    
+Cheryl Ladd    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dorse  
+Farrah Fawcett  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hinny   
+Jaclyn Smith   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-honker  
+Kate Jackson  
 </summary>
 
 :x: *Wrong...*
