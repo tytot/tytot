@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/26/2024 at 12:00 AM*
-### What actress starred on 'Charlie's Angels' for the show's entire run?
+*Updated 10/27/2024 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-Cheryl Ladd    
+Fancy Feast    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Farrah Fawcett  
+Cat Chow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jaclyn Smith   
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kate Jackson  
+9-Lives  
 </summary>
 
 :x: *Wrong...*
