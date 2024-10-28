@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/27/2024 at 12:00 AM*
-### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
+*Updated 10/28/2024 at 12:00 AM*
+### What is the oldest continuously run sporting event in the United States?
 <details>
 <summary>
-Fancy Feast    
+Westminster Dog Show    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cat Chow  
+Boston Marathon  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meow Mix   
+Kentucky Derby   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-9-Lives  
+Indianapolis 500  
 </summary>
 
 :x: *Wrong...*
