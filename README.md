@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/28/2024 at 12:00 AM*
-### What is the oldest continuously run sporting event in the United States?
+*Updated 10/29/2024 at 12:00 AM*
+### What animal is considered sacred in India?
 <details>
 <summary>
-Westminster Dog Show    
+sheep    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Marathon  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kentucky Derby   
+cow  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Indianapolis 500  
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dog  
 </summary>
 
 :x: *Wrong...*
