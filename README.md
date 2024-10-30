@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/29/2024 at 12:00 AM*
-### What animal is considered sacred in India?
+*Updated 10/30/2024 at 12:00 AM*
+### The film 'Stand By Me' is based on a novel by what author?
 <details>
 <summary>
-sheep    
+Anne Proulx    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cow  
+Stephen King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken   
+Dean Koontz   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dog  
+Frank McCourt  
 </summary>
 
 :x: *Wrong...*
