@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/30/2024 at 12:00 AM*
-### The film 'Stand By Me' is based on a novel by what author?
+*Updated 10/31/2024 at 12:00 AM*
+### What recording artist claims that sportscaster Marv Albert was a major influence on his sound?
 <details>
 <summary>
-Anne Proulx    
+David Lee Roth    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Stephen King  
+Meat Loaf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Axl Rose   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck D  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Dean Koontz   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Frank McCourt  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
