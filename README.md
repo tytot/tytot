@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/31/2024 at 12:00 AM*
-### What recording artist claims that sportscaster Marv Albert was a major influence on his sound?
+*Updated 11/1/2024 at 12:00 AM*
+### By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
 <details>
 <summary>
-David Lee Roth    
+the Trio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meat Loaf  
+the Troika  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Axl Rose   
+the Triumvirate   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chuck D  
+the Trinity  
 </summary>
 
 :heavy_check_mark: *Correct!*
