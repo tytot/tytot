@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/1/2024 at 12:00 AM*
-### By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
+*Updated 11/2/2024 at 12:00 AM*
+### Which of these organizations is not part of the U.S. government?
 <details>
 <summary>
-the Trio    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Troika  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Triumvirate   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Trinity  
+NAACP    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+NASA  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+CIA   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+FBI  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
