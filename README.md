@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/2/2024 at 12:00 AM*
-### Which of these organizations is not part of the U.S. government?
+*Updated 11/3/2024 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-NAACP    
+chirp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bark  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+growl   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-NASA  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-CIA   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-FBI  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
