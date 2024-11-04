@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/3/2024 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 11/4/2024 at 12:00 AM*
+### What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?
 <details>
 <summary>
-chirp    
+Jane Pauley    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+Willard Scott  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Deborah Norville   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Joe Garagiola  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
