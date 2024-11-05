@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/4/2024 at 12:00 AM*
-### What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?
+*Updated 11/5/2024 at 12:00 AM*
+### Which of these is not a city in the state of New York?
 <details>
 <summary>
-Jane Pauley    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Willard Scott  
+Perskippity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Deborah Norville   
+Kerhonkson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Joe Garagiola  
+Schenectady   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lackawanna  
 </summary>
 
 :x: *Wrong...*
