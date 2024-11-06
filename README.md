@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/5/2024 at 12:00 AM*
-### Which of these is not a city in the state of New York?
+*Updated 11/6/2024 at 12:00 AM*
+### What animal is used to make lard?
 <details>
 <summary>
-Perskippity    
+pig    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kerhonkson  
+cow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Schenectady   
+snake   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lackawanna  
+chicken  
 </summary>
 
 :x: *Wrong...*
