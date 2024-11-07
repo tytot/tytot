@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/6/2024 at 12:00 AM*
-### What animal is used to make lard?
+*Updated 11/7/2024 at 12:00 AM*
+### Which 'Rocky' film features Mr. T?
 <details>
 <summary>
-pig    
+'Rocky II'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Rocky III'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cow  
+'Rocky IV'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-snake   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+'Rocky '  
 </summary>
 
 :x: *Wrong...*
