@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/7/2024 at 12:00 AM*
-### Which 'Rocky' film features Mr. T?
+*Updated 11/8/2024 at 12:00 AM*
+### What country was once ruled by shoguns?
 <details>
 <summary>
-'Rocky II'    
+China    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Rocky III'  
+Japan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Rocky IV'   
+North Korea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Rocky '  
+Taiwan  
 </summary>
 
 :x: *Wrong...*
