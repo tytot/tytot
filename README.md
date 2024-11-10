@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/9/2024 at 12:00 AM*
-### Which of these pastas is spiral shaped?
+*Updated 11/10/2024 at 12:00 AM*
+### What Greek poet wrote 'The Iliad' and 'The Odyssey'?
 <details>
 <summary>
-fettuccine    
+Sophocles    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rigatoni  
+Plato  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tortellini   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rotini  
+Homer   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Socrates  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
