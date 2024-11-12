@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/11/2024 at 12:00 AM*
-### Who is the shortest man to ever win an NBA slam dunk competition?
+*Updated 11/12/2024 at 12:00 AM*
+### If you have a 'sawbuck' how much money do you have?
 <details>
 <summary>
-Anthony 'Spud' Webb    
+$1    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$5  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Michael 'Air' Jordan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrone 'Muggsy' Bogues   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Julius 'Dr. J' Erving  
+$20  
 </summary>
 
 :x: *Wrong...*
