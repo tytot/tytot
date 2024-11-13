@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/12/2024 at 12:00 AM*
-### If you have a 'sawbuck' how much money do you have?
+*Updated 11/13/2024 at 12:00 AM*
+### What is the name for the thin board used to mix colors while painting?
 <details>
 <summary>
-$1    
+pestle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$5  
+easel  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$10   
+shoe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+palette  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-$20  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
