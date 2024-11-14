@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/13/2024 at 12:00 AM*
-### What is the name for the thin board used to mix colors while painting?
+*Updated 11/14/2024 at 12:00 AM*
+### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
 <details>
 <summary>
-pestle    
+Brazil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-easel  
+East Germany  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shoe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-palette  
+Argentina   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Paraguay  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
