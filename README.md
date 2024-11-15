@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/14/2024 at 12:00 AM*
-### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
+*Updated 11/15/2024 at 12:00 AM*
+### Where is Ghirardelli Square located?
 <details>
 <summary>
-Brazil    
+Milan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-East Germany  
+Rome  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Argentina   
+Washington DC   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Francisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Paraguay  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
