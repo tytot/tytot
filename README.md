@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/15/2024 at 12:00 AM*
-### Where is Ghirardelli Square located?
+*Updated 11/16/2024 at 12:00 AM*
+### Whose profile can you see on the front of dimes that are currently in circulation?
 <details>
 <summary>
-Milan    
+George Washington    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rome  
+Thomas Jefferson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Washington DC   
+Benjamin Franklin   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-San Francisco  
+Franklin Roosevelt  
 </summary>
 
 :heavy_check_mark: *Correct!*
