@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/16/2024 at 12:00 AM*
-### Whose profile can you see on the front of dimes that are currently in circulation?
+*Updated 11/17/2024 at 12:00 AM*
+### What is a Dutch oven?
 <details>
 <summary>
-George Washington    
+a toaster oven    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thomas Jefferson  
+a microwave  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Benjamin Franklin   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Franklin Roosevelt  
+a kettle pot   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+a sauna  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
