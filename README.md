@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/17/2024 at 12:00 AM*
-### What is a Dutch oven?
+*Updated 11/18/2024 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-a toaster oven    
+Fancy Feast    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a microwave  
+Cat Chow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a kettle pot   
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a sauna  
+9-Lives  
 </summary>
 
 :x: *Wrong...*
