@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/18/2024 at 12:00 AM*
-### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
+*Updated 11/19/2024 at 12:00 AM*
+### What disease is sometimes referred to as the 'royal disease'?
 <details>
 <summary>
-Fancy Feast    
+rickets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cat Chow  
+measles  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meow Mix   
+hemophilia   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-9-Lives  
+tuberculosis  
 </summary>
 
 :x: *Wrong...*
