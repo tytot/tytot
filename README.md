@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/19/2024 at 12:00 AM*
-### What disease is sometimes referred to as the 'royal disease'?
+*Updated 11/20/2024 at 12:00 AM*
+### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
 <details>
 <summary>
-rickets    
+skiing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-measles  
+biking  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hemophilia   
+snowboarding   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tuberculosis  
+surfing  
 </summary>
 
 :x: *Wrong...*
