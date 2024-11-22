@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/20/2024 at 12:00 AM*
-### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+*Updated 11/22/2024 at 12:00 AM*
+### Which of these is not one of the official languages of the United Nations?
 <details>
 <summary>
-skiing    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-biking  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-snowboarding   
+Japanese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-surfing  
+English  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Russian   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
 </summary>
 
 :x: *Wrong...*
