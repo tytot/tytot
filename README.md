@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/22/2024 at 12:00 AM*
-### Which of these is not one of the official languages of the United Nations?
+*Updated 11/23/2024 at 12:00 AM*
+### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
 <details>
 <summary>
-Japanese    
+Jerry Bailey    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Steve Cauthen  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-English  
+Willie Shoemaker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Russian   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Spanish  
+Pasquale Devito  
 </summary>
 
 :x: *Wrong...*
