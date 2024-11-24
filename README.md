@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/23/2024 at 12:00 AM*
-### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+*Updated 11/24/2024 at 12:00 AM*
+### Which of the following is a sports award?
 <details>
 <summary>
-Jerry Bailey    
+Oscar    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Cauthen  
+Emmy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nobel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Espy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Willie Shoemaker   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pasquale Devito  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
