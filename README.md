@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/26/2024 at 12:00 AM*
-### Which of these is not one of the four basic forces in nature?
+*Updated 11/27/2024 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-electromagnetic    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravitational  
+Austin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nuclear   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-centrifugal  
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Cleveland  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
