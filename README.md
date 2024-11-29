@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/27/2024 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 11/29/2024 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-Chicago    
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Austin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh   
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+Larry King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
