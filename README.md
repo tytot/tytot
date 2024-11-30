@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/29/2024 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 11/30/2024 at 12:00 AM*
+### In what restaurant can you order a Grand Slam breakfast?
 <details>
 <summary>
-Rush Limbaugh    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Casey Kasem  
+Denny's    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+McDonald's  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+Burger King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hardee's  
 </summary>
 
 :x: *Wrong...*
