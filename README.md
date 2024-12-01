@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/30/2024 at 12:00 AM*
-### In what restaurant can you order a Grand Slam breakfast?
+*Updated 12/1/2024 at 12:00 AM*
+### What does the Latin phrase 'e pluribus unum' mean?
 <details>
 <summary>
-Denny's    
+What a crazy life.    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+In God we trust.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+from many, one   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-McDonald's  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hardee's  
+for the greater good  
 </summary>
 
 :x: *Wrong...*
