@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/1/2024 at 12:00 AM*
-### What does the Latin phrase 'e pluribus unum' mean?
+*Updated 12/2/2024 at 12:00 AM*
+### After Prince Charles, who is next in line to be the king of England?
 <details>
 <summary>
-What a crazy life.    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-In God we trust.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-from many, one   
+Prince William    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-for the greater good  
+Prince Andrew  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Prince Edward   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Fresh Prince  
 </summary>
 
 :x: *Wrong...*
