@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/2/2024 at 12:00 AM*
-### After Prince Charles, who is next in line to be the king of England?
+*Updated 12/3/2024 at 12:00 AM*
+### Which of these Hemingway characters is a newspaperman?
 <details>
 <summary>
-Prince William    
+Jake Barnes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Prince Andrew  
+Rogelio Gomez  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Prince Edward   
+Frederic Henry   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fresh Prince  
+John MacWalsey  
 </summary>
 
 :x: *Wrong...*
