@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/3/2024 at 12:00 AM*
-### Which of these Hemingway characters is a newspaperman?
+*Updated 12/4/2024 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-Jake Barnes    
+battery    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+engine  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Rogelio Gomez  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Frederic Henry   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John MacWalsey  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
