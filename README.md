@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/4/2024 at 12:00 AM*
-### On which part of a car would you find the 'caliper'?
+*Updated 12/5/2024 at 12:00 AM*
+### Which of these movies does not star Jim Carrey?
 <details>
 <summary>
-battery    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-engine  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-radiator   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-brakes  
+'Patch Adams'    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+'The Truman Show'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Dumb and Dumber'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'The Mask'  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
