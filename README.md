@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/5/2024 at 12:00 AM*
-### Which of these movies does not star Jim Carrey?
+*Updated 12/8/2024 at 12:00 AM*
+### In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?
 <details>
 <summary>
-'Patch Adams'    
+triple action    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+trifecta  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Truman Show'  
+exacta   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Dumb and Dumber'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'The Mask'  
+triple crown  
 </summary>
 
 :x: *Wrong...*
