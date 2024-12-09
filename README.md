@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/8/2024 at 12:00 AM*
-### In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?
+*Updated 12/9/2024 at 12:00 AM*
+### According to Greek mythology, who was Apollo's twin sister?
 <details>
 <summary>
-triple action    
+Aphrodite    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-trifecta  
+Artemis  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-exacta   
+Venus   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-triple crown  
+Athena  
 </summary>
 
 :x: *Wrong...*
