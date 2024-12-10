@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/9/2024 at 12:00 AM*
-### According to Greek mythology, who was Apollo's twin sister?
+*Updated 12/10/2024 at 12:00 AM*
+### Which of these is a slang term for 'police'?
 <details>
 <summary>
-Aphrodite    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Artemis  
+fuzz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Venus   
+shrinks  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Athena  
+bean counters   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+aardvarks  
 </summary>
 
 :x: *Wrong...*
