@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/10/2024 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated 12/11/2024 at 12:00 AM*
+### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
 <details>
 <summary>
-fuzz    
+skiing    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+biking  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+snowboarding   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-shrinks  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bean counters   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-aardvarks  
+surfing  
 </summary>
 
 :x: *Wrong...*
