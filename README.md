@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/11/2024 at 12:00 AM*
-### If you are 'riding fakie' inside a 'half pipe' what are you probably doing?
+*Updated 12/12/2024 at 12:00 AM*
+### In baseball, how many balls make a walk?
 <details>
 <summary>
-skiing    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-biking  
+two  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-snowboarding   
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-surfing  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
