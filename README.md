@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/12/2024 at 12:00 AM*
-### In baseball, how many balls make a walk?
+*Updated 12/13/2024 at 12:00 AM*
+### What is the last letter of the Greek alphabet?
 <details>
 <summary>
-one    
+omicron    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+omega  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+upsilon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+zeta  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
