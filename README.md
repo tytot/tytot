@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/13/2024 at 12:00 AM*
-### What is the last letter of the Greek alphabet?
+*Updated 12/14/2024 at 12:00 AM*
+### Which of these stores is not owned by Gap Inc?
 <details>
 <summary>
-omicron    
+Gap    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-omega  
+Banana Republic  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Navy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+J Crew  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-upsilon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-zeta  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
