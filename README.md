@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/14/2024 at 12:00 AM*
-### Which of these stores is not owned by Gap Inc?
+*Updated 12/15/2024 at 12:00 AM*
+### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
 <details>
 <summary>
-Gap    
+Brazil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Banana Republic  
+East Germany  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Navy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-J Crew  
+Argentina   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Paraguay  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
