@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/15/2024 at 12:00 AM*
-### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
+*Updated 12/16/2024 at 12:00 AM*
+### According to legend, in what country are you most likely to meet a leprechaun?
 <details>
 <summary>
-Brazil    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-East Germany  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Argentina   
+Ireland    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paraguay  
+Poland  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Greenland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Scotland  
 </summary>
 
 :x: *Wrong...*
