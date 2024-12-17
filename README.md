@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/16/2024 at 12:00 AM*
-### According to legend, in what country are you most likely to meet a leprechaun?
+*Updated 12/17/2024 at 12:00 AM*
+### Which of the following is most commonly kept in a terrarium?
 <details>
 <summary>
-Ireland    
+money    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+books  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ice   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+plants  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Poland  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greenland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scotland  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
