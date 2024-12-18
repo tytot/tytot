@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/17/2024 at 12:00 AM*
-### Which of the following is most commonly kept in a terrarium?
+*Updated 12/18/2024 at 12:00 AM*
+### Which of these college football programs has produced the most Heisman Trophy winners?
 <details>
 <summary>
-money    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ice   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-plants  
+Notre Dame    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+USC  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Oklahoma   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Michigan  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
