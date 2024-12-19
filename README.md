@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/18/2024 at 12:00 AM*
-### Which of these college football programs has produced the most Heisman Trophy winners?
+*Updated 12/19/2024 at 12:00 AM*
+### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
-Notre Dame    
+Edward Estlin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-USC  
+Edmund Earl  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Oklahoma   
+Ernest Eakins   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Michigan  
+Eugene Evan  
 </summary>
 
 :x: *Wrong...*
