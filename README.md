@@ -3,7 +3,7 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/19/2024 at 12:00 AM*
+*Updated 12/20/2024 at 12:00 AM*
 ### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
