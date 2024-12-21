@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/20/2024 at 12:00 AM*
-### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
+*Updated 12/21/2024 at 12:00 AM*
+### In the children's game, what color is 'Rover'?
 <details>
 <summary>
-Edward Estlin    
+green    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+black  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+red   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Edmund Earl  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ernest Eakins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eugene Evan  
+blue  
 </summary>
 
 :x: *Wrong...*
