@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/21/2024 at 12:00 AM*
-### In the children's game, what color is 'Rover'?
+*Updated 12/22/2024 at 12:00 AM*
+### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
 <details>
 <summary>
-green    
+Martha Stewart    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-black  
+Dr Ruth Westheimer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-red   
+Ann Landers   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+Miss Manners  
 </summary>
 
 :x: *Wrong...*
