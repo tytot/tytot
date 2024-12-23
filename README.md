@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/22/2024 at 12:00 AM*
-### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
+*Updated 12/23/2024 at 12:00 AM*
+### In what country did Pokemon originate?
 <details>
 <summary>
-Martha Stewart    
+France    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr Ruth Westheimer  
+Hungary  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ann Landers   
+Japan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Miss Manners  
+Canada  
 </summary>
 
 :x: *Wrong...*
