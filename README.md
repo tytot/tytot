@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/23/2024 at 12:00 AM*
-### In what country did Pokemon originate?
+*Updated 12/24/2024 at 12:00 AM*
+### Which of these measurements is equal to one square foot?
 <details>
 <summary>
-France    
+50 square inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hungary  
+77 square inches  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan   
+100 square inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+144 square inches  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Canada  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
