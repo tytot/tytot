@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/25/2024 at 12:00 AM*
-### Which of these is a fish?
+*Updated 12/26/2024 at 12:00 AM*
+### In the comic strip 'Peanuts' what is Schroeder known for doing?
 <details>
 <summary>
-sea horse    
+Dancing    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+playing football  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+playing the piano   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sea cow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sea snake   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sea lion  
+Flying an imaginary plane  
 </summary>
 
 :x: *Wrong...*
