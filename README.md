@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/26/2024 at 12:00 AM*
-### In the comic strip 'Peanuts' what is Schroeder known for doing?
+*Updated 12/27/2024 at 12:00 AM*
+### Who is the mythological Roman goddess of flowers?
 <details>
 <summary>
-Dancing    
+Diana    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-playing football  
+Echo  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-playing the piano   
+Flora   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Flying an imaginary plane  
+Niobe  
 </summary>
 
 :x: *Wrong...*
