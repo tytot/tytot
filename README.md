@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/27/2024 at 12:00 AM*
-### Who is the mythological Roman goddess of flowers?
+*Updated 12/28/2024 at 12:00 AM*
+### What company makes perfumes called 'Beautiful' and 'Pleasures'?
 <details>
 <summary>
-Diana    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Echo  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Flora   
+Estee Lauder    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Niobe  
+Ralph Lauren  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Elizabeth Arden   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Calvin Klein  
 </summary>
 
 :x: *Wrong...*
