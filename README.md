@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/28/2024 at 12:00 AM*
-### What company makes perfumes called 'Beautiful' and 'Pleasures'?
+*Updated 12/29/2024 at 12:00 AM*
+### What is the proletariat?
 <details>
 <summary>
-Estee Lauder    
+the homeless    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the royalty  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the upper class   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the working class  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ralph Lauren  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth Arden   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Calvin Klein  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
