@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/29/2024 at 12:00 AM*
-### What is the proletariat?
+*Updated 12/30/2024 at 12:00 AM*
+### What color is the masthead of USA Today's 'Life' section?
 <details>
 <summary>
-the homeless    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the royalty  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the upper class   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the working class  
+purple  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+red   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
