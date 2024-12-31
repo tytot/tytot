@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/30/2024 at 12:00 AM*
-### What color is the masthead of USA Today's 'Life' section?
+*Updated 12/31/2024 at 12:00 AM*
+### What country is the rock group U2 from?
 <details>
 <summary>
-green    
+England    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple  
+Ireland  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red   
+Belgium   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue  
+Germany  
 </summary>
 
 :x: *Wrong...*
