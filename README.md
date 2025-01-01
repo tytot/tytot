@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/31/2024 at 12:00 AM*
-### What country is the rock group U2 from?
+*Updated 1/1/2025 at 12:00 AM*
+### With what would you use a wah-wah pedal?
 <details>
 <summary>
-England    
+bicycle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ireland  
+stock car  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+electric guitar   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Belgium   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Germany  
+baby  
 </summary>
 
 :x: *Wrong...*
