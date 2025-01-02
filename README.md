@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/1/2025 at 12:00 AM*
-### With what would you use a wah-wah pedal?
+*Updated 1/2/2025 at 12:00 AM*
+### Where did jazz great Sun Ra claim he was born?
 <details>
 <summary>
-bicycle    
+Atlantis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stock car  
+Mount Olympus  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-electric guitar   
+Saturn   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-baby  
+in a saxophone  
 </summary>
 
 :x: *Wrong...*
