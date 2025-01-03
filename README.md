@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/2/2025 at 12:00 AM*
-### Where did jazz great Sun Ra claim he was born?
+*Updated 1/3/2025 at 12:00 AM*
+### If a piece of music is in 'common time' how many quarter notes are there per measure?
 <details>
 <summary>
-Atlantis    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mount Olympus  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturn   
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in a saxophone  
+five   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten  
 </summary>
 
 :x: *Wrong...*
