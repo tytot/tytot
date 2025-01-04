@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/3/2025 at 12:00 AM*
-### If a piece of music is in 'common time' how many quarter notes are there per measure?
+*Updated 1/4/2025 at 12:00 AM*
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-one    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-five   
+Civil War   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ten  
+World War I  
 </summary>
 
 :x: *Wrong...*
