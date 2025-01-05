@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/4/2025 at 12:00 AM*
-### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+*Updated 1/5/2025 at 12:00 AM*
+### What letters are on the '3' button of a touch-tone telephone?
 <details>
 <summary>
-American Revolution    
+ABC    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+DEF  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Civil War   
+GHI   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-World War I  
+WXY  
 </summary>
 
 :x: *Wrong...*
