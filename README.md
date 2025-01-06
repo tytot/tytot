@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/5/2025 at 12:00 AM*
-### What letters are on the '3' button of a touch-tone telephone?
+*Updated 1/6/2025 at 12:00 AM*
+### What is the proper nautical use of an anchor?
 <details>
 <summary>
-ABC    
+to catch large fish    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DEF  
+to calculate water depth  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to hold a ship in place   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-GHI   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-WXY  
+to damage other boats  
 </summary>
 
 :x: *Wrong...*
