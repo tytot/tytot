@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/6/2025 at 12:00 AM*
-### What is the proper nautical use of an anchor?
+*Updated 1/7/2025 at 12:00 AM*
+### In Mister Rogers' theme song, what does he ask you to be?
 <details>
 <summary>
-to catch large fish    
+his cook    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to calculate water depth  
+his student  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to hold a ship in place   
+his neighbor   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to damage other boats  
+all you can be  
 </summary>
 
 :x: *Wrong...*
