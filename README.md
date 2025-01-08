@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/7/2025 at 12:00 AM*
-### In Mister Rogers' theme song, what does he ask you to be?
+*Updated 1/8/2025 at 12:00 AM*
+### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
 <details>
 <summary>
-his cook    
+'Humpty Dumpty'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-his student  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-his neighbor   
+'Mary Had a Little Lamb'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-all you can be  
+'Jack Be Nimble'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Home, Sweet Home'  
 </summary>
 
 :x: *Wrong...*
