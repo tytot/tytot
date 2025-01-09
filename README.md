@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/8/2025 at 12:00 AM*
-### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
+*Updated 1/9/2025 at 12:00 AM*
+### From 1971 to 1997, the Democratic Republic of Congo was known as what?
 <details>
 <summary>
-'Humpty Dumpty'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Mary Had a Little Lamb'  
+Zaire    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Jack Be Nimble'   
+Angola  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Home, Sweet Home'  
+Rhodesia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Belgian Congo  
 </summary>
 
 :x: *Wrong...*
