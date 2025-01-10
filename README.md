@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/9/2025 at 12:00 AM*
-### From 1971 to 1997, the Democratic Republic of Congo was known as what?
+*Updated 1/10/2025 at 12:00 AM*
+### What popular toy is featured in the film 'The Hudsucker Proxy'?
 <details>
 <summary>
-Zaire    
+Beanie Babies    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hula Hoop  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Angola  
+Lincoln Logs   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhodesia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Belgian Congo  
+Lite Brite  
 </summary>
 
 :x: *Wrong...*
