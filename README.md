@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/10/2025 at 12:00 AM*
-### What popular toy is featured in the film 'The Hudsucker Proxy'?
+*Updated 1/11/2025 at 12:00 AM*
+### What French city is home to a famous international film festival each spring?
 <details>
 <summary>
-Beanie Babies    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hula Hoop  
+Cannes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lincoln Logs   
+Marseille  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lite Brite  
+Dijon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lyon  
 </summary>
 
 :x: *Wrong...*
