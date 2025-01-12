@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/11/2025 at 12:00 AM*
-### What French city is home to a famous international film festival each spring?
+*Updated 1/12/2025 at 12:00 AM*
+### In what country did Pokemon originate?
 <details>
 <summary>
-Cannes    
+France    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hungary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Japan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Marseille  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dijon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lyon  
+Canada  
 </summary>
 
 :x: *Wrong...*
