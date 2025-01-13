@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/12/2025 at 12:00 AM*
-### In what country did Pokemon originate?
+*Updated 1/13/2025 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-France    
+Rocky    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hungary  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan   
+Underdog   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Canada  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
