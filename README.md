@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/13/2025 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 1/14/2025 at 12:00 AM*
+### Who composed the 'Moonlight Sonata'?
 <details>
 <summary>
-Rocky    
+Mozart    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jonny Quest  
+Handel  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Underdog   
+Bach   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sherman  
+Beethoven  
 </summary>
 
 :heavy_check_mark: *Correct!*
