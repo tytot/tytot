@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/14/2025 at 12:00 AM*
-### Who composed the 'Moonlight Sonata'?
+*Updated 1/15/2025 at 12:00 AM*
+### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
 <details>
 <summary>
-Mozart    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Handel  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bach   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Beethoven  
+cheese    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+fruit  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gravy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+whipped cream  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
