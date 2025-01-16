@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/15/2025 at 12:00 AM*
-### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
+*Updated 1/16/2025 at 12:00 AM*
+### What is the name of Raggedy Ann's doll brother?
 <details>
 <summary>
-cheese    
+Red    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Freckles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Randy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-fruit  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-whipped cream  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
