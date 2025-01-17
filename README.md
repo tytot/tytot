@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/16/2025 at 12:00 AM*
-### What is the name of Raggedy Ann's doll brother?
+*Updated 1/17/2025 at 12:00 AM*
+### What is the baseball term for a batter who substitutes for another batter?
 <details>
 <summary>
-Red    
+switchhitter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Freckles  
+shadow hitter  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Randy   
+clip hitter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andy  
+pinch hitter  
 </summary>
 
 :heavy_check_mark: *Correct!*
