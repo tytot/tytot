@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/17/2025 at 12:00 AM*
-### What is the baseball term for a batter who substitutes for another batter?
+*Updated 1/18/2025 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-switchhitter    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shadow hitter  
+Philadelphia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-clip hitter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pinch hitter  
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+New York City  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
