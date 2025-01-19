@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/18/2025 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 1/19/2025 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-Boston    
+3 1/2 x 5 inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
+5 x 10 inches  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chicago   
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-New York City  
+11 x 17 inches  
 </summary>
 
 :x: *Wrong...*
