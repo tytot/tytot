@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/19/2025 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 1/20/2025 at 12:00 AM*
+### Which of these words means 'yes' in French?
 <details>
 <summary>
-3 1/2 x 5 inches    
+qui    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-8 1/2 x 11 inches   
+oui  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-11 x 17 inches  
+ja   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+okey-dokey  
 </summary>
 
 :x: *Wrong...*
