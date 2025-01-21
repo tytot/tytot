@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/20/2025 at 12:00 AM*
-### Which of these words means 'yes' in French?
+*Updated 1/21/2025 at 12:00 AM*
+### What kind of item is a ginsu?
 <details>
 <summary>
-qui    
+radio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oui  
+knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ja   
+toothbrush   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-okey-dokey  
+martial arts weapon  
 </summary>
 
 :x: *Wrong...*
