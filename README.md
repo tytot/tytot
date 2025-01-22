@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/21/2025 at 12:00 AM*
-### What kind of item is a ginsu?
+*Updated 1/22/2025 at 12:00 AM*
+### In what year did the Great Depression begin?
 <details>
 <summary>
-radio    
+1884    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-knife  
+1929  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-toothbrush   
+1953   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-martial arts weapon  
+1975  
 </summary>
 
 :x: *Wrong...*
