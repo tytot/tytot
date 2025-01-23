@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/22/2025 at 12:00 AM*
-### In what year did the Great Depression begin?
+*Updated 1/23/2025 at 12:00 AM*
+### Who kills Tony at the end of the film 'West Side Story'?
 <details>
 <summary>
-1884    
+Riff    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1929  
+Chino  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1953   
+Bernardo   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1975  
+He kills himself.  
 </summary>
 
 :x: *Wrong...*
