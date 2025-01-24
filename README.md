@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/23/2025 at 12:00 AM*
-### Who kills Tony at the end of the film 'West Side Story'?
+*Updated 1/24/2025 at 12:00 AM*
+### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
 <details>
 <summary>
-Riff    
+Billy Graham    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chino  
+Oral Roberts  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jerry Falwell   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jimmy Swaggart  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Bernardo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-He kills himself.  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
