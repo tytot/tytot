@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/26/2025 at 12:00 AM*
-### What is an alternate name for the food dish 'Beijing duck'?
+*Updated 1/27/2025 at 12:00 AM*
+### From 1971 to 1997, the Democratic Republic of Congo was known as what?
 <details>
 <summary>
-Shanghai duck    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Peking duck  
+Zaire    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hong Kong duck   
+Angola  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Brooklyn duck  
+Rhodesia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Belgian Congo  
 </summary>
 
 :x: *Wrong...*
