@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/27/2025 at 12:00 AM*
-### From 1971 to 1997, the Democratic Republic of Congo was known as what?
+*Updated 1/28/2025 at 12:00 AM*
+### Who kills Tony at the end of the film 'West Side Story'?
 <details>
 <summary>
-Zaire    
+Riff    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chino  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Angola  
+Bernardo   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhodesia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Belgian Congo  
+He kills himself.  
 </summary>
 
 :x: *Wrong...*
