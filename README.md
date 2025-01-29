@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/28/2025 at 12:00 AM*
-### Who kills Tony at the end of the film 'West Side Story'?
+*Updated 1/29/2025 at 12:00 AM*
+### What is produced during photosynthesis?
 <details>
 <summary>
-Riff    
+hydrogen    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chino  
+nylon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oxygen   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Bernardo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-He kills himself.  
+light  
 </summary>
 
 :x: *Wrong...*
