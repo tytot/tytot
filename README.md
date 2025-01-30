@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/29/2025 at 12:00 AM*
-### What is produced during photosynthesis?
+*Updated 1/30/2025 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-hydrogen    
+'All the King's Men'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nylon  
+'All the Pretty Horses'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oxygen   
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-light  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
