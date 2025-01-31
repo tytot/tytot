@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/30/2025 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 1/31/2025 at 12:00 AM*
+### In 1926, the Harlem Globetrotters basketball team was formed in what city?
 <details>
 <summary>
-'All the King's Men'    
+Boston    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the Pretty Horses'  
+Philadelphia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the President's Men'   
+Chicago   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'All the Right Moves'  
+New York City  
 </summary>
 
 :x: *Wrong...*
