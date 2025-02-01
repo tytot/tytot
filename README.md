@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/31/2025 at 12:00 AM*
-### In 1926, the Harlem Globetrotters basketball team was formed in what city?
+*Updated 2/1/2025 at 12:00 AM*
+### Which of these is not the name of one of rock musician Frank Zappa's children?
 <details>
 <summary>
-Boston    
+Dweezil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
+Ahmet  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chicago   
+Moon Unit   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lumpy Gravy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-New York City  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
