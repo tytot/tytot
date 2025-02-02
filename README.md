@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/1/2025 at 12:00 AM*
-### Which of these is not the name of one of rock musician Frank Zappa's children?
+*Updated 2/2/2025 at 12:00 AM*
+### What is the normal playback speed of a 12" long-playing record?
 <details>
 <summary>
-Dweezil    
+12 1/2 rpm    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ahmet  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Moon Unit   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lumpy Gravy  
+33 1/3 rpm  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+45 rpm   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+100 rpm  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
