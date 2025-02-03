@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/2/2025 at 12:00 AM*
-### What is the normal playback speed of a 12" long-playing record?
+*Updated 2/3/2025 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-12 1/2 rpm    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-33 1/3 rpm  
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-45 rpm   
+influenza  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-100 rpm  
+emphysema   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+heart disease  
 </summary>
 
 :x: *Wrong...*
