@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/3/2025 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 2/4/2025 at 12:00 AM*
+### Which of these words is a synonym for 'perambulate'?
 <details>
 <summary>
-cancer    
+kiss    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shout  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stroll   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-influenza  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
+heal  
 </summary>
 
 :x: *Wrong...*
