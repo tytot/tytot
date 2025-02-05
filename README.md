@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/4/2025 at 12:00 AM*
-### Which of these words is a synonym for 'perambulate'?
+*Updated 2/5/2025 at 12:00 AM*
+### What color is the masthead of USA Today's 'Life' section?
 <details>
 <summary>
-kiss    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shout  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-stroll   
+purple  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-heal  
+red   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :x: *Wrong...*
