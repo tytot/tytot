@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/5/2025 at 12:00 AM*
-### What color is the masthead of USA Today's 'Life' section?
+*Updated 2/6/2025 at 12:00 AM*
+### Which of the following requires the use of at least two needles?
 <details>
 <summary>
-green    
+macrame    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple  
+braiding  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+crocheting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hand knitting  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-red   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
