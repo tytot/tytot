@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/6/2025 at 12:00 AM*
-### Which of the following requires the use of at least two needles?
+*Updated 2/7/2025 at 12:00 AM*
+### Who is the patron saint of animals?
 <details>
 <summary>
-macrame    
+St. Isidore of Seville    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-braiding  
+St. Anthony of Padua  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-crocheting   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hand knitting  
+St. Francis of Assisi   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+St. Joan of Arc  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
