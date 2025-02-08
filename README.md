@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/7/2025 at 12:00 AM*
-### Who is the patron saint of animals?
+*Updated 2/8/2025 at 12:00 AM*
+### What is the more common name for the disease 'pertussis'?
 <details>
 <summary>
-St. Isidore of Seville    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-St. Anthony of Padua  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-St. Francis of Assisi   
+whooping cough    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-St. Joan of Arc  
+tennis elbow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+black lung   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+German measles  
 </summary>
 
 :x: *Wrong...*
