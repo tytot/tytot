@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/8/2025 at 12:00 AM*
-### What is the more common name for the disease 'pertussis'?
+*Updated 2/9/2025 at 12:00 AM*
+### A second-year college student is usually called a what?
 <details>
 <summary>
-whooping cough    
+sophomore    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tennis elbow  
+senior  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-black lung   
+freshman    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-German measles  
+junior   
 </summary>
 
 :x: *Wrong...*
