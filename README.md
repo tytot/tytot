@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/9/2025 at 12:00 AM*
-### A second-year college student is usually called a what?
+*Updated 2/10/2025 at 12:00 AM*
+### To ward off bad luck, what do many people do to wood?
 <details>
 <summary>
-sophomore    
+knock on it    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-senior  
+kiss it  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-freshman    
+thank it   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-junior   
+scratch it  
 </summary>
 
 :x: *Wrong...*
