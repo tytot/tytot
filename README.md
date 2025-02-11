@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/10/2025 at 12:00 AM*
-### To ward off bad luck, what do many people do to wood?
+*Updated 2/11/2025 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-knock on it    
+America Over Lines    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kiss it  
+Americans On Links   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thank it   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scratch it  
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
