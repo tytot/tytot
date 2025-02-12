@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/11/2025 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 2/12/2025 at 12:00 AM*
+### What is the birthstone for the month of January?
 <details>
 <summary>
-America Over Lines    
+topaz    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+garnet  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
+opal   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Americans On LOR  
+diamond  
 </summary>
 
 :x: *Wrong...*
