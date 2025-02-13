@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/12/2025 at 12:00 AM*
-### What is the birthstone for the month of January?
+*Updated 2/13/2025 at 12:00 AM*
+### What condition is caused by malfunctioning sebaceous glands?
 <details>
 <summary>
-topaz    
+bad breath    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-garnet  
+shingles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+acne   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-opal   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-diamond  
+carpal tunnel syndrome  
 </summary>
 
 :x: *Wrong...*
