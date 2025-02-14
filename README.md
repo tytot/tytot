@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/13/2025 at 12:00 AM*
-### What condition is caused by malfunctioning sebaceous glands?
+*Updated 2/14/2025 at 12:00 AM*
+### What children's storybook character believes that the sky is falling?
 <details>
 <summary>
-bad breath    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shingles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-acne   
+Chicken Little    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-carpal tunnel syndrome  
+Curious George  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jack Sprat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tom Thumb  
 </summary>
 
 :x: *Wrong...*
