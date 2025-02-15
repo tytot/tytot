@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/14/2025 at 12:00 AM*
-### What children's storybook character believes that the sky is falling?
+*Updated 2/15/2025 at 12:00 AM*
+### What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?
 <details>
 <summary>
-Chicken Little    
+Calvin Coolidge    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harry Truman  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Herbert Hoover   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curious George  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jack Sprat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tom Thumb  
+Richard Nixon  
 </summary>
 
 :x: *Wrong...*
