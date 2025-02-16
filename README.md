@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/15/2025 at 12:00 AM*
-### What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?
+*Updated 2/16/2025 at 12:00 AM*
+### When it comes to measuring horses, how long is a 'hand'?
 <details>
 <summary>
-Calvin Coolidge    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harry Truman  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Herbert Hoover   
+four inches    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Richard Nixon  
+seven inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two feet  
 </summary>
 
 :x: *Wrong...*
