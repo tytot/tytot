@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/16/2025 at 12:00 AM*
-### When it comes to measuring horses, how long is a 'hand'?
+*Updated 2/17/2025 at 12:00 AM*
+### What actress starred on 'Charlie's Angels' for the show's entire run?
 <details>
 <summary>
-four inches    
+Cheryl Ladd    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Farrah Fawcett  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jaclyn Smith   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten inches   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two feet  
+Kate Jackson  
 </summary>
 
 :x: *Wrong...*
