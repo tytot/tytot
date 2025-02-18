@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/17/2025 at 12:00 AM*
-### What actress starred on 'Charlie's Angels' for the show's entire run?
+*Updated 2/18/2025 at 12:00 AM*
+### Which of these is an Italian Design firm?
 <details>
 <summary>
-Cheryl Ladd    
+Escada    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Farrah Fawcett  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jaclyn Smith   
+Fendi  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kate Jackson  
+Ghost   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mainbocher  
 </summary>
 
 :x: *Wrong...*
