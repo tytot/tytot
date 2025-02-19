@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/18/2025 at 12:00 AM*
-### Which of these is an Italian Design firm?
+*Updated 2/19/2025 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-Escada    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fendi  
+barley  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ghost   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mainbocher  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
