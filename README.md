@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/19/2025 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 2/20/2025 at 12:00 AM*
+### What liqueur is used to make a Pink Lady cocktail pink?
 <details>
 <summary>
-citrus fruits    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-barley  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shellfish  
+grenadine    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+schnapps  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+triple sec   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pernod  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
