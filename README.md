@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/20/2025 at 12:00 AM*
-### What liqueur is used to make a Pink Lady cocktail pink?
+*Updated 2/21/2025 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-grenadine    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-schnapps  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-triple sec   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pernod  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
