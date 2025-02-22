@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/21/2025 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 2/22/2025 at 12:00 AM*
+### What is the name of Howard Stern's female on-air sidekick?
 <details>
 <summary>
-Oberlin College    
+Allison Norris    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jackie Reeses  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jackie Martling   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robin Quivers  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
