@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/22/2025 at 12:00 AM*
-### What is the name of Howard Stern's female on-air sidekick?
+*Updated 2/23/2025 at 12:00 AM*
+### What liqueur is used to make a Pink Lady cocktail pink?
 <details>
 <summary>
-Allison Norris    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jackie Reeses  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jackie Martling   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robin Quivers  
+grenadine    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+schnapps  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+triple sec   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pernod  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
