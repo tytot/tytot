@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/23/2025 at 12:00 AM*
-### What liqueur is used to make a Pink Lady cocktail pink?
+*Updated 2/24/2025 at 12:00 AM*
+### What is actor Antonio Banderas native language?
 <details>
 <summary>
-grenadine    
+Spanish    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-schnapps  
+Russian  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-triple sec   
+German   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pernod  
+French  
 </summary>
 
 :x: *Wrong...*
