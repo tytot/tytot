@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/24/2025 at 12:00 AM*
-### What is actor Antonio Banderas native language?
+*Updated 2/25/2025 at 12:00 AM*
+### What disease is characterized by a body's inability to properly metabolize glucose?
 <details>
 <summary>
-Spanish    
+Influenza    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Septicemia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Diabetes   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Russian  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-French  
+Arthritis  
 </summary>
 
 :x: *Wrong...*
