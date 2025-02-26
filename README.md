@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/25/2025 at 12:00 AM*
-### What disease is characterized by a body's inability to properly metabolize glucose?
+*Updated 2/26/2025 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-Influenza    
+chirp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Septicemia  
+bark  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Diabetes   
+growl   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Arthritis  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
