@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/26/2025 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 2/27/2025 at 12:00 AM*
+### What city did the Beatles originally call home?
 <details>
 <summary>
-chirp    
+London    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
+Leeds  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+Liverpool   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Manchester  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
