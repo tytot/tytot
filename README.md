@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/27/2025 at 12:00 AM*
-### What city did the Beatles originally call home?
+*Updated 2/28/2025 at 12:00 AM*
+### If you are watching a Shavian play, who is the author?
 <details>
 <summary>
-London    
+Shakespeare    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Leeds  
+Aeschylus  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Liverpool   
+George Bernard Shaw   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Manchester  
+Anton Chekhov  
 </summary>
 
 :x: *Wrong...*
