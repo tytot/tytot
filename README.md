@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/28/2025 at 12:00 AM*
-### If you are watching a Shavian play, who is the author?
+*Updated 3/1/2025 at 12:00 AM*
+### What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?
 <details>
 <summary>
-Shakespeare    
+Calvin Coolidge    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aeschylus  
+Harry Truman  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-George Bernard Shaw   
+Herbert Hoover   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Anton Chekhov  
+Richard Nixon  
 </summary>
 
 :x: *Wrong...*
