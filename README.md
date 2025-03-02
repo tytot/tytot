@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/1/2025 at 12:00 AM*
-### What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?
+*Updated 3/2/2025 at 12:00 AM*
+### What letters are on the '3' button of a touch-tone telephone?
 <details>
 <summary>
-Calvin Coolidge    
+ABC    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Harry Truman  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Herbert Hoover   
+DEF  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Richard Nixon  
+GHI   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+WXY  
 </summary>
 
 :x: *Wrong...*
