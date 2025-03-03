@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/2/2025 at 12:00 AM*
-### What letters are on the '3' button of a touch-tone telephone?
+*Updated 3/3/2025 at 12:00 AM*
+### What actress starred on 'Charlie's Angels' for the show's entire run?
 <details>
 <summary>
-ABC    
+Cheryl Ladd    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DEF  
+Farrah Fawcett  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jaclyn Smith   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-GHI   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-WXY  
+Kate Jackson  
 </summary>
 
 :x: *Wrong...*
