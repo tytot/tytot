@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/3/2025 at 12:00 AM*
-### What actress starred on 'Charlie's Angels' for the show's entire run?
+*Updated 3/4/2025 at 12:00 AM*
+### Which of these places is known for art auctions?
 <details>
 <summary>
-Cheryl Ladd    
+Shelby's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Farrah Fawcett  
+Nickleby's  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jaclyn Smith   
+Gatsby's   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sotheby's  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Kate Jackson  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
