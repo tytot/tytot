@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/4/2025 at 12:00 AM*
-### Which of these places is known for art auctions?
+*Updated 3/5/2025 at 12:00 AM*
+### In the phrase 'Y2K' what does 'K' stand for?
 <details>
 <summary>
-Shelby's    
+millennium    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nickleby's  
+computer code  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gatsby's   
+catastrophe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sotheby's  
+thousand  
 </summary>
 
 :heavy_check_mark: *Correct!*
