@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/5/2025 at 12:00 AM*
-### In the phrase 'Y2K' what does 'K' stand for?
+*Updated 3/6/2025 at 12:00 AM*
+### How many axles does a standard automobile have?
 <details>
 <summary>
-millennium    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-computer code  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-catastrophe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-thousand  
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+four   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
