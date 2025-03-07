@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/6/2025 at 12:00 AM*
-### How many axles does a standard automobile have?
+*Updated 3/7/2025 at 12:00 AM*
+### What is New Mexico's nickname?
 <details>
 <summary>
-one    
+'The Desert State'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+'Gateway to Paradise'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Land of Enchantment'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-four   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight  
+'The Garden State'  
 </summary>
 
 :x: *Wrong...*
