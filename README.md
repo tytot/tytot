@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/7/2025 at 12:00 AM*
-### What is New Mexico's nickname?
+*Updated 3/8/2025 at 12:00 AM*
+### Which of these words means 'yes' in French?
 <details>
 <summary>
-'The Desert State'    
+qui    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Gateway to Paradise'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Land of Enchantment'   
+oui  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Garden State'  
+ja   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+okey-dokey  
 </summary>
 
 :x: *Wrong...*
