@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/8/2025 at 12:00 AM*
-### Which of these words means 'yes' in French?
+*Updated 3/9/2025 at 12:00 AM*
+### Which of these rivers flows through France?
 <details>
 <summary>
-qui    
+Volga    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oui  
+Seine  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ja   
+Mekong   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-okey-dokey  
+Allegheny  
 </summary>
 
 :x: *Wrong...*
