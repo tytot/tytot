@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/9/2025 at 12:00 AM*
-### Which of these rivers flows through France?
+*Updated 3/10/2025 at 12:00 AM*
+### Which of these organizations is not part of the U.S. government?
 <details>
 <summary>
-Volga    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Seine  
+NAACP    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mekong   
+NASA  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Allegheny  
+CIA   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+FBI  
 </summary>
 
 :x: *Wrong...*
