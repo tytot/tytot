@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/10/2025 at 12:00 AM*
-### Which of these organizations is not part of the U.S. government?
+*Updated 3/11/2025 at 12:00 AM*
+### Which of these words is spelled correctly?
 <details>
 <summary>
-NAACP    
+decieve    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+foriegn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hygiene   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-NASA  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-CIA   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-FBI  
+wierd  
 </summary>
 
 :x: *Wrong...*
