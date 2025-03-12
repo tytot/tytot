@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/11/2025 at 12:00 AM*
-### Which of these words is spelled correctly?
+*Updated 3/12/2025 at 12:00 AM*
+### In ice hockey, which of the following is not a penalty?
 <details>
 <summary>
-decieve    
+hooking    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foriegn  
+charging  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hygiene   
+carving   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wierd  
+butt-ending  
 </summary>
 
 :x: *Wrong...*
