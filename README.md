@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/12/2025 at 12:00 AM*
-### In ice hockey, which of the following is not a penalty?
+*Updated 3/13/2025 at 12:00 AM*
+### According to a Yale University study, what smell is the most recognizable to American adults?
 <details>
 <summary>
-hooking    
+tuna    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-charging  
+laundry  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-carving   
+popcorn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+coffee  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-butt-ending  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
