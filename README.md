@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/13/2025 at 12:00 AM*
-### According to a Yale University study, what smell is the most recognizable to American adults?
+*Updated 3/14/2025 at 12:00 AM*
+### At the equator, how fast is the earth's surface turning?
 <details>
 <summary>
-tuna    
+about 100 miles per hour    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-laundry  
+about 500 miles per hour  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-popcorn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-coffee  
+about 1000 miles per hour   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+about 2000 miles per hour  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
