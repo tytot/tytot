@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/14/2025 at 12:00 AM*
-### At the equator, how fast is the earth's surface turning?
+*Updated 3/15/2025 at 12:00 AM*
+### What car company once manufactured and sold the 'Datsun' line of automobiles?
 <details>
 <summary>
-about 100 miles per hour    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-about 500 miles per hour  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-about 1000 miles per hour   
+Nissan    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-about 2000 miles per hour  
+Mazda  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Toyota   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Daihatsu  
 </summary>
 
 :x: *Wrong...*
