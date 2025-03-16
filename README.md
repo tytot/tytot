@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/15/2025 at 12:00 AM*
-### What car company once manufactured and sold the 'Datsun' line of automobiles?
+*Updated 3/16/2025 at 12:00 AM*
+### Which of these television series was not set in the United States?
 <details>
 <summary>
-Nissan    
+'Picket Fences'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'M*A*S*H'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mazda  
+'Northern Exposure'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Toyota   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Daihatsu  
+'The Paper Chase'  
 </summary>
 
 :x: *Wrong...*
