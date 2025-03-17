@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/16/2025 at 12:00 AM*
-### Which of these television series was not set in the United States?
+*Updated 3/17/2025 at 12:00 AM*
+### In the card game blackjack, how much are a queen and a king worth-together?
 <details>
 <summary>
-'Picket Fences'    
+11    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'M*A*S*H'  
+15  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+20   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Northern Exposure'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'The Paper Chase'  
+21  
 </summary>
 
 :x: *Wrong...*
