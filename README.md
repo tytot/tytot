@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/17/2025 at 12:00 AM*
-### In the card game blackjack, how much are a queen and a king worth-together?
+*Updated 3/18/2025 at 12:00 AM*
+### A knish is traditionally stuffed with what filling?
 <details>
 <summary>
-11    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-15  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-20   
+potato    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-21  
+creamed corn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+lemon custard   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+raspberry jelly  
 </summary>
 
 :x: *Wrong...*
