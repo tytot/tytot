@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/18/2025 at 12:00 AM*
-### A knish is traditionally stuffed with what filling?
+*Updated 3/19/2025 at 12:00 AM*
+### The sport of judo comes from what Asian country?
 <details>
 <summary>
-potato    
+Japan    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-creamed corn  
+Vietnam  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-lemon custard   
+Laos   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-raspberry jelly  
+Philippines  
 </summary>
 
 :x: *Wrong...*
