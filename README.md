@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/19/2025 at 12:00 AM*
-### The sport of judo comes from what Asian country?
+*Updated 3/20/2025 at 12:00 AM*
+### According to the USDA, which food group should you eat the most servings of per day?
 <details>
 <summary>
-Japan    
+vegetables    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dairy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meats   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breads  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Vietnam  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Laos   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philippines  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
