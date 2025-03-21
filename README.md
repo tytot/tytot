@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/20/2025 at 12:00 AM*
-### According to the USDA, which food group should you eat the most servings of per day?
+*Updated 3/21/2025 at 12:00 AM*
+### How is 4:00 pm expressed in military time?
 <details>
 <summary>
-vegetables    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dairy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-meats   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-breads  
+1600    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+004  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+0400    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+4:00  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
