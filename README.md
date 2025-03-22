@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/21/2025 at 12:00 AM*
-### How is 4:00 pm expressed in military time?
+*Updated 3/22/2025 at 12:00 AM*
+### Which of these is another name for a golf course?
 <details>
 <summary>
-1600    
+Pitch    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Links  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-004  
+Steps   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-0400    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-4:00  
+Suite  
 </summary>
 
 :x: *Wrong...*
