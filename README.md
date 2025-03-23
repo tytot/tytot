@@ -3,7 +3,7 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/22/2025 at 12:00 AM*
+*Updated 3/23/2025 at 12:00 AM*
 ### Which of these is another name for a golf course?
 <details>
 <summary>
