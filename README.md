@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/23/2025 at 12:00 AM*
-### Which of these is another name for a golf course?
+*Updated 3/24/2025 at 12:00 AM*
+### What professional sports team plays its home games in the Alamodome?
 <details>
 <summary>
-Pitch    
+New York Jets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Links  
+Detroit Tigers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boston Bruins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Antonio Spurs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Steps   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Suite  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
