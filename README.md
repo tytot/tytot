@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/24/2025 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 3/25/2025 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-New York Jets    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Detroit Tigers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Boston Bruins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Antonio Spurs  
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+beef   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pork  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
