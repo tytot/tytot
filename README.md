@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/25/2025 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 3/26/2025 at 12:00 AM*
+### According to legend, in what country are you most likely to meet a leprechaun?
 <details>
 <summary>
-shrimp    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+Ireland    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
+Poland  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pork  
+Greenland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Scotland  
 </summary>
 
 :x: *Wrong...*
