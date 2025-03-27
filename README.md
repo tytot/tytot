@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/26/2025 at 12:00 AM*
-### According to legend, in what country are you most likely to meet a leprechaun?
+*Updated 3/27/2025 at 12:00 AM*
+### What singer appeared in the 1992 baseball film 'A League of Their Own'?
 <details>
 <summary>
-Ireland    
+Brandy    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Madonna  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Poland  
+Garth Brooks   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greenland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scotland  
+Whitney Houston  
 </summary>
 
 :x: *Wrong...*
