@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/27/2025 at 12:00 AM*
-### What singer appeared in the 1992 baseball film 'A League of Their Own'?
+*Updated 3/28/2025 at 12:00 AM*
+### What important food crop is grown in fields called paddies?
 <details>
 <summary>
-Brandy    
+wheat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Madonna  
+rye  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rice  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Garth Brooks   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Whitney Houston  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
