@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/28/2025 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 3/29/2025 at 12:00 AM*
+### According to the Mother Goose nursery rhyme, which child is full of woe?
 <details>
 <summary>
-wheat    
+Monday's child    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rye  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+Wednesday's child  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Thursday's child   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturday's child  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
