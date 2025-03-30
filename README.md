@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/29/2025 at 12:00 AM*
-### According to the Mother Goose nursery rhyme, which child is full of woe?
+*Updated 3/30/2025 at 12:00 AM*
+### As of 1999, which state has the most Girl Scouts?
 <details>
 <summary>
-Monday's child    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Wednesday's child  
+California    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Thursday's child   
+Illinois  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Saturday's child  
+New York   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pennsylvania  
 </summary>
 
 :x: *Wrong...*
