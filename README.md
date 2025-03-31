@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/30/2025 at 12:00 AM*
-### As of 1999, which state has the most Girl Scouts?
+*Updated 3/31/2025 at 12:00 AM*
+### What is the 7-Eleven company's trademarked name for its super-large sodas?
 <details>
 <summary>
-California    
+Big Slurp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Big Gulp  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Illinois  
+Big Drink   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pennsylvania  
+Big Sip  
 </summary>
 
 :x: *Wrong...*
