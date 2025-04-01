@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/31/2025 at 12:00 AM*
-### What is the 7-Eleven company's trademarked name for its super-large sodas?
+*Updated 4/1/2025 at 12:00 AM*
+### What recording artist claims that sportscaster Marv Albert was a major influence on his sound?
 <details>
 <summary>
-Big Slurp    
+David Lee Roth    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Big Gulp  
+Meat Loaf  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Axl Rose   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck D  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Big Drink   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Big Sip  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
