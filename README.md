@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/1/2025 at 12:00 AM*
-### What recording artist claims that sportscaster Marv Albert was a major influence on his sound?
+*Updated 4/3/2025 at 12:00 AM*
+### Which of these are not legumes?
 <details>
 <summary>
-David Lee Roth    
+beans    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meat Loaf  
+peas  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Axl Rose   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chuck D  
+radishes   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+peanuts  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
