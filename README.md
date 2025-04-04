@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/3/2025 at 12:00 AM*
-### Which of these are not legumes?
+*Updated 4/4/2025 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-beans    
+13    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-peas  
+48  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-radishes   
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-peanuts  
+51  
 </summary>
 
 :x: *Wrong...*
