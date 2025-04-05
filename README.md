@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/4/2025 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 4/5/2025 at 12:00 AM*
+### In soccer, which player is allowed to use his or her hands in the field of play?
 <details>
 <summary>
-13    
+midfielder    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-48  
+center  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-50   
+sweeper   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+goalkeeper  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-51  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
