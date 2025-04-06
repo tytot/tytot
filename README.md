@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/5/2025 at 12:00 AM*
-### In soccer, which player is allowed to use his or her hands in the field of play?
+*Updated 4/6/2025 at 12:00 AM*
+### Which of these countries is not in Europe?
 <details>
 <summary>
-midfielder    
+Italy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-center  
+Spain  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sweeper   
+Greece   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-goalkeeper  
+Israel  
 </summary>
 
 :heavy_check_mark: *Correct!*
