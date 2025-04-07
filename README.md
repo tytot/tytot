@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/6/2025 at 12:00 AM*
-### Which of these countries is not in Europe?
+*Updated 4/7/2025 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-Italy    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Spain  
+Bovinity Divinity  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Israel  
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Chubby Hubby  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
