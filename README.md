@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/7/2025 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 4/8/2025 at 12:00 AM*
+### What place is named in the title of the 1979 live album by rock legends Cheap Trick?
 <details>
 <summary>
-Wavy Gravy    
+Budapest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cutie Patootie   
+Budokan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+Bhutan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Britain  
 </summary>
 
 :x: *Wrong...*
