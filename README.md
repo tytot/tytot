@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/8/2025 at 12:00 AM*
-### What place is named in the title of the 1979 live album by rock legends Cheap Trick?
+*Updated 4/9/2025 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-Budapest    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Budokan  
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Bhutan   
+It's made of bone.  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Britain  
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
