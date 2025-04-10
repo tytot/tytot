@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/9/2025 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 4/10/2025 at 12:00 AM*
+### According to the title of a popular children's TV show, what color is Bear's big house?
 <details>
 <summary>
-It opens many locks.    
+red    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+purple   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-It's made of bone.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
