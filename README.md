@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/10/2025 at 12:00 AM*
-### According to the title of a popular children's TV show, what color is Bear's big house?
+*Updated 4/11/2025 at 12:00 AM*
+### What is actor Antonio Banderas native language?
 <details>
 <summary>
-red    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-green  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-purple   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+Spanish    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Russian  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+German   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
