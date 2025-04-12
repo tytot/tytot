@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/11/2025 at 12:00 AM*
-### What is actor Antonio Banderas native language?
+*Updated 4/12/2025 at 12:00 AM*
+### Which of these words is an adverb?
 <details>
 <summary>
-Spanish    
+hurried    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+fast  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+speedy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+quickly  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Russian  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-German   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-French  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
