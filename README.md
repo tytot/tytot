@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/12/2025 at 12:00 AM*
-### Which of these words is an adverb?
+*Updated 4/13/2025 at 12:00 AM*
+### Which of these is not one of the official languages of the United Nations?
 <details>
 <summary>
-hurried    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-fast  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-speedy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-quickly  
+Japanese    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+English  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Russian   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
