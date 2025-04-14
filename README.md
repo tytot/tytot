@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/13/2025 at 12:00 AM*
-### Which of these is not one of the official languages of the United Nations?
+*Updated 4/14/2025 at 12:00 AM*
+### Phoebe, Dione and Helene are moons of what planet?
 <details>
 <summary>
-Japanese    
+Jupiter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturn  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-English  
+Neptune   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Russian   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Spanish  
+Pluto  
 </summary>
 
 :x: *Wrong...*
