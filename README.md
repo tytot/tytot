@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/14/2025 at 12:00 AM*
-### Phoebe, Dione and Helene are moons of what planet?
+*Updated 4/15/2025 at 12:00 AM*
+### What part of the human body does a gastroenterologist examine?
 <details>
 <summary>
-Jupiter    
+brain    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Saturn  
+skeleton  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+stomach   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neptune   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pluto  
+nose  
 </summary>
 
 :x: *Wrong...*
