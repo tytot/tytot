@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/15/2025 at 12:00 AM*
-### What part of the human body does a gastroenterologist examine?
+*Updated 4/16/2025 at 12:00 AM*
+### For a man and woman on a date, 'dutch treat' means what?
 <details>
 <summary>
-brain    
+the man pays    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-skeleton  
+the woman pays  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stomach   
+the Dutch pay   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+each pays their own way  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-nose  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
