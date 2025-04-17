@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/16/2025 at 12:00 AM*
-### For a man and woman on a date, 'dutch treat' means what?
+*Updated 4/17/2025 at 12:00 AM*
+### What letters are on the '3' button of a touch-tone telephone?
 <details>
 <summary>
-the man pays    
+ABC    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the woman pays  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Dutch pay   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-each pays their own way  
+DEF  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+GHI   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+WXY  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
