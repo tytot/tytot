@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/17/2025 at 12:00 AM*
-### What letters are on the '3' button of a touch-tone telephone?
+*Updated 4/18/2025 at 12:00 AM*
+### What popular toy is featured in the film 'The Hudsucker Proxy'?
 <details>
 <summary>
-ABC    
+Beanie Babies    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DEF  
+Hula Hoop  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-GHI   
+Lincoln Logs   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-WXY  
+Lite Brite  
 </summary>
 
 :x: *Wrong...*
