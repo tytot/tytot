@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/18/2025 at 12:00 AM*
-### What popular toy is featured in the film 'The Hudsucker Proxy'?
+*Updated 4/19/2025 at 12:00 AM*
+### According to a famous line from the existentialist play 'No Exit' what is hell?
 <details>
 <summary>
-Beanie Babies    
+oneself    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hula Hoop  
+other people  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lincoln Logs   
+little made large   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lite Brite  
+hued in green and blue  
 </summary>
 
 :x: *Wrong...*
