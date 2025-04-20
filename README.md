@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/19/2025 at 12:00 AM*
-### According to a famous line from the existentialist play 'No Exit' what is hell?
+*Updated 4/20/2025 at 12:00 AM*
+### On what continent can you find tigers in the wild?
 <details>
 <summary>
-oneself    
+Africa    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-other people  
+Asia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-little made large   
+Europe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hued in green and blue  
+South America  
 </summary>
 
 :x: *Wrong...*
