@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/20/2025 at 12:00 AM*
-### On what continent can you find tigers in the wild?
+*Updated 4/21/2025 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-Africa    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Asia  
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Europe   
+giant squid  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-South America  
+woolly mammoth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
