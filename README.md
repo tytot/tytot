@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/21/2025 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 4/22/2025 at 12:00 AM*
+### In golf, what is one stroke over par called?
 <details>
 <summary>
-blue whale    
+eagle    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bogey  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
+dormy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
+birdie  
 </summary>
 
 :x: *Wrong...*
