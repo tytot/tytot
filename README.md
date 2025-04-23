@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/22/2025 at 12:00 AM*
-### In golf, what is one stroke over par called?
+*Updated 4/23/2025 at 12:00 AM*
+### How many men has actress Elizabeth Taylor been divorced from?
 <details>
 <summary>
-eagle    
+five    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bogey  
+six  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+seven   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-dormy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-birdie  
+eight  
 </summary>
 
 :x: *Wrong...*
