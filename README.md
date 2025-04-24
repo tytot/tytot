@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/23/2025 at 12:00 AM*
-### How many men has actress Elizabeth Taylor been divorced from?
+*Updated 4/24/2025 at 12:00 AM*
+### If you dial '411' on a telephone, who are you calling?
 <details>
 <summary>
-five    
+the police    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-six  
+the White House  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-seven   
+directory assistance   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-eight  
+Moviefone  
 </summary>
 
 :x: *Wrong...*
