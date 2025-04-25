@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/24/2025 at 12:00 AM*
-### If you dial '411' on a telephone, who are you calling?
+*Updated 4/25/2025 at 12:00 AM*
+### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
 <details>
 <summary>
-the police    
+'Sticks & Stones'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the White House  
+'Pulsation'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-directory assistance   
+'Black & White'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Sensation'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Moviefone  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
