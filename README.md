@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/25/2025 at 12:00 AM*
-### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
+*Updated 4/26/2025 at 12:00 AM*
+### What is the birthstone for the month of January?
 <details>
 <summary>
-'Sticks & Stones'    
+topaz    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Pulsation'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Black & White'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Sensation'  
+garnet  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+opal   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+diamond  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
