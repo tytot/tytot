@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/26/2025 at 12:00 AM*
-### What is the birthstone for the month of January?
+*Updated 4/27/2025 at 12:00 AM*
+### How many eyes does a Giraffe have?
 <details>
 <summary>
-topaz    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-garnet  
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-opal   
+three   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-diamond  
+four  
 </summary>
 
 :x: *Wrong...*
