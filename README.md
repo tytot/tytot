@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/27/2025 at 12:00 AM*
-### How many eyes does a Giraffe have?
+*Updated 4/28/2025 at 12:00 AM*
+### The Strauss family of composers popularized what dance?
 <details>
 <summary>
-one    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two  
+waltz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-three   
+tango  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+fox-trot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+square dance  
 </summary>
 
 :x: *Wrong...*
