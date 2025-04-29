@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/28/2025 at 12:00 AM*
-### The Strauss family of composers popularized what dance?
+*Updated 4/29/2025 at 12:00 AM*
+### In what state is the 1999 movie 'Magnolia' set?
 <details>
 <summary>
-waltz    
+California    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tango  
+South Carolina  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fox-trot   
+Georgia   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-square dance  
+Texas  
 </summary>
 
 :x: *Wrong...*
