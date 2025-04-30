@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/29/2025 at 12:00 AM*
-### In what state is the 1999 movie 'Magnolia' set?
+*Updated 4/30/2025 at 12:00 AM*
+### Which famed modeling agency shares its name with a top U.S. automaker?
 <details>
 <summary>
-California    
+Ford    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-South Carolina  
+Chevrolet  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Georgia   
+Chrysler   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Texas  
+Saturn  
 </summary>
 
 :x: *Wrong...*
