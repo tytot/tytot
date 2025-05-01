@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/30/2025 at 12:00 AM*
-### Which famed modeling agency shares its name with a top U.S. automaker?
+*Updated 5/1/2025 at 12:00 AM*
+### What is another name for the camelopard?
 <details>
 <summary>
-Ford    
+circus    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+giraffe  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chevrolet  
+cantaloupe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chrysler   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturn  
+oasis  
 </summary>
 
 :x: *Wrong...*
