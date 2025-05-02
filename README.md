@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/1/2025 at 12:00 AM*
-### What is another name for the camelopard?
+*Updated 5/2/2025 at 12:00 AM*
+### What rank entitles a general in the US Army to wear three stars?
 <details>
 <summary>
-circus    
+brigadier general    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-giraffe  
+corporal general  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+lieutenant general   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cantaloupe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-oasis  
+major general  
 </summary>
 
 :x: *Wrong...*
