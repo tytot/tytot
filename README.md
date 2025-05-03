@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/2/2025 at 12:00 AM*
-### What rank entitles a general in the US Army to wear three stars?
+*Updated 5/3/2025 at 12:00 AM*
+### The British dish 'bangers and mash' is made up of sausage and what?
 <details>
 <summary>
-brigadier general    
+eggs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-corporal general  
+bacon  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-lieutenant general   
+liver   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+potatoes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-major general  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
