@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/3/2025 at 12:00 AM*
-### The British dish 'bangers and mash' is made up of sausage and what?
+*Updated 5/4/2025 at 12:00 AM*
+### What type of substance is 'terra-cotta'?
 <details>
 <summary>
-eggs    
+metal    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bacon  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-liver   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-potatoes  
+ceramic  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+wood   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+glass  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
