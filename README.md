@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/4/2025 at 12:00 AM*
-### What type of substance is 'terra-cotta'?
+*Updated 5/5/2025 at 12:00 AM*
+### Which of these words is spelled correctly?
 <details>
 <summary>
-metal    
+decieve    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-ceramic  
+foriegn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hygiene   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wood   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-glass  
+wierd  
 </summary>
 
 :x: *Wrong...*
