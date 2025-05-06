@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/5/2025 at 12:00 AM*
-### Which of these words is spelled correctly?
+*Updated 5/6/2025 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-decieve    
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foriegn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hygiene   
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wierd  
+Larry King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
