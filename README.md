@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/6/2025 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 5/7/2025 at 12:00 AM*
+### What animal represents the year 2000 on the Chinese calendar?
 <details>
 <summary>
-Rush Limbaugh    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Casey Kasem  
+dragon    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+rabbit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+tiger   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+monkey  
 </summary>
 
 :x: *Wrong...*
