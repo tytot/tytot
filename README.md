@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/8/2025 at 12:00 AM*
-### In what decade was the Hula-Hoop invented?
+*Updated 5/9/2025 at 12:00 AM*
+### What is the capital of New Zealand?
 <details>
 <summary>
-1890s    
+Sydney    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1920s  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1950s   
+Wellington  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1970s  
+Auckland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Melbourne  
 </summary>
 
 :x: *Wrong...*
