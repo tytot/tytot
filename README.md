@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/9/2025 at 12:00 AM*
-### What is the capital of New Zealand?
+*Updated 5/10/2025 at 12:00 AM*
+### The film 'Stand By Me' is based on a novel by what author?
 <details>
 <summary>
-Sydney    
+Anne Proulx    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wellington  
+Stephen King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Auckland   
+Dean Koontz   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Melbourne  
+Frank McCourt  
 </summary>
 
 :x: *Wrong...*
