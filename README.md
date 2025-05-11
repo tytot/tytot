@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/10/2025 at 12:00 AM*
-### The film 'Stand By Me' is based on a novel by what author?
+*Updated 5/11/2025 at 12:00 AM*
+### Where is the Frank Lloyd Wright-designed house known as Falling Water?
 <details>
 <summary>
-Anne Proulx    
+Connecticut    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Stephen King  
+Pennsylvania  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dean Koontz   
+Illinois   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frank McCourt  
+New York  
 </summary>
 
 :x: *Wrong...*
