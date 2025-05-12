@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/11/2025 at 12:00 AM*
-### Where is the Frank Lloyd Wright-designed house known as Falling Water?
+*Updated 5/12/2025 at 12:00 AM*
+### Who is the patron saint of animals?
 <details>
 <summary>
-Connecticut    
+St. Isidore of Seville    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pennsylvania  
+St. Anthony of Padua  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+St. Francis of Assisi   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Illinois   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York  
+St. Joan of Arc  
 </summary>
 
 :x: *Wrong...*
