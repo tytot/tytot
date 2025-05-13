@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/12/2025 at 12:00 AM*
-### Who is the patron saint of animals?
+*Updated 5/13/2025 at 12:00 AM*
+### What is the name of the mountain where the mythological Greek gods live?
 <details>
 <summary>
-St. Isidore of Seville    
+Jupiter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-St. Anthony of Padua  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-St. Francis of Assisi   
+Olympus  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-St. Joan of Arc  
+Vesuvius   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Valhalla  
 </summary>
 
 :x: *Wrong...*
