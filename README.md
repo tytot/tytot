@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/13/2025 at 12:00 AM*
-### What is the name of the mountain where the mythological Greek gods live?
+*Updated 5/14/2025 at 12:00 AM*
+### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
 <details>
 <summary>
-Jupiter    
+Rush Limbaugh    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Olympus  
+Casey Kasem  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vesuvius   
+Larry King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Valhalla  
+Howard Stern  
 </summary>
 
 :x: *Wrong...*
