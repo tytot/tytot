@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/14/2025 at 12:00 AM*
-### What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?
+*Updated 5/15/2025 at 12:00 AM*
+### In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?
 <details>
 <summary>
-Rush Limbaugh    
+Jude Law    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Casey Kasem  
+Matt Damon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Larry King   
+Dustin Hoffman   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Howard Stern  
+Ben Affleck  
 </summary>
 
 :x: *Wrong...*
