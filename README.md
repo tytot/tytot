@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/15/2025 at 12:00 AM*
-### In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?
+*Updated 5/16/2025 at 12:00 AM*
+### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
 <details>
 <summary>
-Jude Law    
+Stormfield    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Matt Damon  
+Fog City  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mudville   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dustin Hoffman   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ben Affleck  
+Waterlog  
 </summary>
 
 :x: *Wrong...*
