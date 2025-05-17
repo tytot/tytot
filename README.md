@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/16/2025 at 12:00 AM*
-### In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
+*Updated 5/17/2025 at 12:00 AM*
+### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
 <details>
 <summary>
-Stormfield    
+Pun'kin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Fog City  
+Lamikins  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mudville   
+Suga'baby   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Swee'pea  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Waterlog  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
