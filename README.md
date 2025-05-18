@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/17/2025 at 12:00 AM*
-### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
+*Updated 5/18/2025 at 12:00 AM*
+### Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?
 <details>
 <summary>
-Pun'kin    
+Jimmy Connors    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lamikins  
+Pete Sampras  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Suga'baby   
+John McEnroe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Swee'pea  
+Bobby Riggs  
 </summary>
 
 :heavy_check_mark: *Correct!*
