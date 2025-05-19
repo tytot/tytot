@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/18/2025 at 12:00 AM*
-### Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?
+*Updated 5/19/2025 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-Jimmy Connors    
+3 1/2 x 5 inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pete Sampras  
+5 x 10 inches  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-John McEnroe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bobby Riggs  
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+11 x 17 inches  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
