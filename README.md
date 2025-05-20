@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/19/2025 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 5/20/2025 at 12:00 AM*
+### How many spikes are on the Statue of Liberty's crown?
 <details>
 <summary>
-3 1/2 x 5 inches    
+five    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-8 1/2 x 11 inches   
+seven  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-11 x 17 inches  
+nine   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+thirteen  
 </summary>
 
 :x: *Wrong...*
