@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/20/2025 at 12:00 AM*
-### How many spikes are on the Statue of Liberty's crown?
+*Updated 5/21/2025 at 12:00 AM*
+### What force causes an ice cream cone to fly off of a spinning merry-go-round?
 <details>
 <summary>
-five    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-seven  
+centrifugal    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-nine   
+vehicular  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thirteen  
+gravitational   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+torsal  
 </summary>
 
 :x: *Wrong...*
