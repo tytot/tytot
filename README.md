@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/21/2025 at 12:00 AM*
-### What force causes an ice cream cone to fly off of a spinning merry-go-round?
+*Updated 5/22/2025 at 12:00 AM*
+### In the card game blackjack, how much are a queen and a king worth-together?
 <details>
 <summary>
-centrifugal    
+11    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+15  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+20   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-vehicular  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravitational   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-torsal  
+21  
 </summary>
 
 :x: *Wrong...*
