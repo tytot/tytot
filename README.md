@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/22/2025 at 12:00 AM*
-### In the card game blackjack, how much are a queen and a king worth-together?
+*Updated 5/23/2025 at 12:00 AM*
+### Which of these refers to an alcoholic drink laced with a knockout drug?
 <details>
 <summary>
-11    
+Zombie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-15  
+Kamikaze  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-20   
+Mickey Finn   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-21  
+Molotov cocktail  
 </summary>
 
 :x: *Wrong...*
