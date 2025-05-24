@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/23/2025 at 12:00 AM*
-### Which of these refers to an alcoholic drink laced with a knockout drug?
+*Updated 5/24/2025 at 12:00 AM*
+### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
 <details>
 <summary>
-Zombie    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kamikaze  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mickey Finn   
+cheese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Molotov cocktail  
+fruit  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gravy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+whipped cream  
 </summary>
 
 :x: *Wrong...*
