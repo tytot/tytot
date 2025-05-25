@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/24/2025 at 12:00 AM*
-### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
+*Updated 5/25/2025 at 12:00 AM*
+### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
 <details>
 <summary>
-cheese    
+ducks in a pond    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pigs in a blanket  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-fruit  
+cows in a pasture   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-whipped cream  
+dogs in the oven  
 </summary>
 
 :x: *Wrong...*
