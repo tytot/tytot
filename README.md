@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/25/2025 at 12:00 AM*
-### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
+*Updated 5/26/2025 at 12:00 AM*
+### What is another name for the camelopard?
 <details>
 <summary>
-ducks in a pond    
+circus    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pigs in a blanket  
+giraffe  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cows in a pasture   
+cantaloupe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dogs in the oven  
+oasis  
 </summary>
 
 :x: *Wrong...*
