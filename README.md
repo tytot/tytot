@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/26/2025 at 12:00 AM*
-### What is another name for the camelopard?
+*Updated 5/27/2025 at 12:00 AM*
+### By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
 <details>
 <summary>
-circus    
+the Trio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-giraffe  
+the Troika  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Triumvirate   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Trinity  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-cantaloupe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-oasis  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
