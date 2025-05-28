@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/27/2025 at 12:00 AM*
-### By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?
+*Updated 5/28/2025 at 12:00 AM*
+### What company makes Oreo cookies?
 <details>
 <summary>
-the Trio    
+General Mills    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the Troika  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Triumvirate   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Trinity  
+Nabisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Keebler   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kraft  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
