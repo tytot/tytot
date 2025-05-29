@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/28/2025 at 12:00 AM*
-### What company makes Oreo cookies?
+*Updated 5/29/2025 at 12:00 AM*
+### Which of the Three Stooges was not related to the others?
 <details>
 <summary>
-General Mills    
+Moe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nabisco  
+Larry  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Keebler   
+Curly   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kraft  
+Shemp  
 </summary>
 
 :x: *Wrong...*
