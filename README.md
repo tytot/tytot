@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/29/2025 at 12:00 AM*
-### Which of the Three Stooges was not related to the others?
+*Updated 5/30/2025 at 12:00 AM*
+### From whom does the Lutheran Church get its name?
 <details>
 <summary>
-Moe    
+Martin Luther King Jr    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Larry  
+Martin Luther  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curly   
+Luther Vandross   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Shemp  
+Lex Luthor  
 </summary>
 
 :x: *Wrong...*
