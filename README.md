@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/30/2025 at 12:00 AM*
-### From whom does the Lutheran Church get its name?
+*Updated 5/31/2025 at 12:00 AM*
+### What biological process replicates DNA?
 <details>
 <summary>
-Martin Luther King Jr    
+molting    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Martin Luther  
+mitosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Luther Vandross   
+diffusion   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lex Luthor  
+peristalsis  
 </summary>
 
 :x: *Wrong...*
