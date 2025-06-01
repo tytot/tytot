@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/31/2025 at 12:00 AM*
-### What biological process replicates DNA?
+*Updated 6/1/2025 at 12:00 AM*
+### Which of the following is about the Watergate scandal?
 <details>
 <summary>
-molting    
+'All the King's Men'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mitosis  
+'All the Pretty Horses'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'All the President's Men'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-diffusion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-peristalsis  
+'All the Right Moves'  
 </summary>
 
 :x: *Wrong...*
