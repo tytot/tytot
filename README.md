@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/1/2025 at 12:00 AM*
-### Which of the following is about the Watergate scandal?
+*Updated 6/2/2025 at 12:00 AM*
+### If someone has cataracts, what part of their body might need an operation?
 <details>
 <summary>
-'All the King's Men'    
+ear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the Pretty Horses'  
+hand  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'All the President's Men'   
+eye   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'All the Right Moves'  
+knee  
 </summary>
 
 :x: *Wrong...*
