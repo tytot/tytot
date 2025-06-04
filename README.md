@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/3/2025 at 12:00 AM*
-### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
+*Updated 6/4/2025 at 12:00 AM*
+### Which of the following is a sports award?
 <details>
 <summary>
-Polly Finn    
+Oscar    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Becky Thatcher  
+Emmy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nobel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Espy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Nancy Drew   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Emma Bovary  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
