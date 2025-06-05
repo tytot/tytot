@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/4/2025 at 12:00 AM*
-### Which of the following is a sports award?
+*Updated 6/5/2025 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-Oscar    
+yahtzee    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Emmy  
+mulligan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nobel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Espy  
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+ace  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
