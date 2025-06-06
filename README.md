@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/5/2025 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 6/6/2025 at 12:00 AM*
+### What metal device is used by police to immobilize the wheels of repeat parking offenders?
 <details>
 <summary>
-yahtzee    
+Brooklyn clamp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mulligan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-turkey   
+Denver boot  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+LoJack   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Club  
 </summary>
 
 :x: *Wrong...*
