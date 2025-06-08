@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/6/2025 at 12:00 AM*
-### What metal device is used by police to immobilize the wheels of repeat parking offenders?
+*Updated 6/8/2025 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-Brooklyn clamp    
+battery    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Denver boot  
+engine  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-LoJack   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Club  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
