@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/8/2025 at 12:00 AM*
-### On which part of a car would you find the 'caliper'?
+*Updated 6/9/2025 at 12:00 AM*
+### Where is Ghirardelli Square located?
 <details>
 <summary>
-battery    
+Milan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-engine  
+Rome  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-radiator   
+Washington DC   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-brakes  
+San Francisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
