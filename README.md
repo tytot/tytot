@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/9/2025 at 12:00 AM*
-### Where is Ghirardelli Square located?
+*Updated 6/10/2025 at 12:00 AM*
+### What kind of animal is a peregrine?
 <details>
 <summary>
-Milan    
+moose    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rome  
+cat  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Washington DC   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Francisco  
+bird   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+fish  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
