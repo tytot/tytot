@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/10/2025 at 12:00 AM*
-### What kind of animal is a peregrine?
+*Updated 6/11/2025 at 12:00 AM*
+### The TV show 'House of Style' airs on what network?
 <details>
 <summary>
-moose    
+E    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cat  
+WB  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bird   
+MTV   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-fish  
+Home Shopping Network  
 </summary>
 
 :x: *Wrong...*
