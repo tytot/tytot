@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/11/2025 at 12:00 AM*
-### The TV show 'House of Style' airs on what network?
+*Updated 6/12/2025 at 12:00 AM*
+### What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?
 <details>
 <summary>
-E    
+Lamborghini    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-WB  
+Camaro  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-MTV   
+Corvette   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Trans Am  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Home Shopping Network  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
