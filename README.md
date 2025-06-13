@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/12/2025 at 12:00 AM*
-### What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?
+*Updated 6/13/2025 at 12:00 AM*
+### In the famous ballet 'The Nutcracker' who does the hero defeat?
 <details>
 <summary>
-Lamborghini    
+Sugar Plum Fairy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Camaro  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Corvette   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Trans Am  
+Rat King  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Snow Queen   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Marzipan  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
