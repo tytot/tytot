@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/13/2025 at 12:00 AM*
-### In the famous ballet 'The Nutcracker' who does the hero defeat?
+*Updated 6/14/2025 at 12:00 AM*
+### What is the singular form of the word 'graffiti'?
 <details>
 <summary>
-Sugar Plum Fairy    
+graffita    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rat King  
+graffitem  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+graffito   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Snow Queen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Marzipan  
+graffitus  
 </summary>
 
 :x: *Wrong...*
