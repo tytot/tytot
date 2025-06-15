@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/14/2025 at 12:00 AM*
-### What is the singular form of the word 'graffiti'?
+*Updated 6/15/2025 at 12:00 AM*
+### Which of these pastas is spiral shaped?
 <details>
 <summary>
-graffita    
+fettuccine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-graffitem  
+rigatoni  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-graffito   
+tortellini   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rotini  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-graffitus  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
