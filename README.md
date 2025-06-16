@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/15/2025 at 12:00 AM*
-### Which of these pastas is spiral shaped?
+*Updated 6/16/2025 at 12:00 AM*
+### The phrase 'hospital corners' refers to what?
 <details>
 <summary>
-fettuccine    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rigatoni  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-tortellini   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rotini  
+bed sheets    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+paint  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+landscaping   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+scissors  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
