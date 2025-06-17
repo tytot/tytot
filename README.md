@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/16/2025 at 12:00 AM*
-### The phrase 'hospital corners' refers to what?
+*Updated 6/17/2025 at 12:00 AM*
+### What animal represents the year 2000 on the Chinese calendar?
 <details>
 <summary>
-bed sheets    
+dragon    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-paint  
+rabbit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-landscaping   
+tiger   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-scissors  
+monkey  
 </summary>
 
 :x: *Wrong...*
