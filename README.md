@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/17/2025 at 12:00 AM*
-### What animal represents the year 2000 on the Chinese calendar?
+*Updated 6/18/2025 at 12:00 AM*
+### Which fast food chain used the advertising slogan, 'Where's the beef?'
 <details>
 <summary>
-dragon    
+Wendy's    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-rabbit  
+Kentucky Fried Chicken  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tiger   
+Burger King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-monkey  
+McDonald's  
 </summary>
 
 :x: *Wrong...*
