@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/18/2025 at 12:00 AM*
-### Which fast food chain used the advertising slogan, 'Where's the beef?'
+*Updated 6/19/2025 at 12:00 AM*
+### What does the Latin phrase 'e pluribus unum' mean?
 <details>
 <summary>
-Wendy's    
+What a crazy life.    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+In God we trust.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+from many, one   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kentucky Fried Chicken  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-McDonald's  
+for the greater good  
 </summary>
 
 :x: *Wrong...*
