@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/19/2025 at 12:00 AM*
-### What does the Latin phrase 'e pluribus unum' mean?
+*Updated 6/20/2025 at 12:00 AM*
+### What does an animal produce when it lactates?
 <details>
 <summary>
-What a crazy life.    
+sweat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-In God we trust.  
+wool  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-from many, one   
+milk   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-for the greater good  
+methane  
 </summary>
 
 :x: *Wrong...*
