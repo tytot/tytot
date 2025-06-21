@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/20/2025 at 12:00 AM*
-### What does an animal produce when it lactates?
+*Updated 6/21/2025 at 12:00 AM*
+### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
-sweat    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-wool  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-milk   
+Edward Estlin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-methane  
+Edmund Earl  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ernest Eakins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Eugene Evan  
 </summary>
 
 :x: *Wrong...*
