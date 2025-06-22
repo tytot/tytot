@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/21/2025 at 12:00 AM*
-### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
+*Updated 6/22/2025 at 12:00 AM*
+### After Prince Charles, who is next in line to be the king of England?
 <details>
 <summary>
-Edward Estlin    
+Prince William    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Edmund Earl  
+Prince Andrew  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernest Eakins   
+Prince Edward   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Eugene Evan  
+Fresh Prince  
 </summary>
 
 :x: *Wrong...*
