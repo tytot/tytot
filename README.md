@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/22/2025 at 12:00 AM*
-### After Prince Charles, who is next in line to be the king of England?
+*Updated 6/23/2025 at 12:00 AM*
+### What sport is known as 'The Sport of Kings'?
 <details>
 <summary>
-Prince William    
+polo    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+archery  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+yachting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+horse racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Prince Andrew  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Prince Edward   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Fresh Prince  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
