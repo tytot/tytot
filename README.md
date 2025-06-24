@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/23/2025 at 12:00 AM*
-### What sport is known as 'The Sport of Kings'?
+*Updated 6/24/2025 at 12:00 AM*
+### For what purpose would you use an awl?
 <details>
 <summary>
-polo    
+to shoot ducks    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-archery  
+to polish floors  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-yachting   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-horse racing  
+to make holes   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+to weigh fruit  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
