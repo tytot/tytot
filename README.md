@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/24/2025 at 12:00 AM*
-### For what purpose would you use an awl?
+*Updated 6/25/2025 at 12:00 AM*
+### What is the most popular month for weddings in America?
 <details>
 <summary>
-to shoot ducks    
+January    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to polish floors  
+May  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to make holes   
+August   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to weigh fruit  
+November  
 </summary>
 
 :x: *Wrong...*
