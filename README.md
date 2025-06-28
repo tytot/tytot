@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/27/2025 at 12:00 AM*
-### On a set of jumper cables, what color designates the negative connector?
+*Updated 6/28/2025 at 12:00 AM*
+### How many keys are on a standard piano?
 <details>
 <summary>
-black    
+20    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+54  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+88   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-orange   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+100  
 </summary>
 
 :x: *Wrong...*
