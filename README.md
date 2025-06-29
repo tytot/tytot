@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/28/2025 at 12:00 AM*
-### How many keys are on a standard piano?
+*Updated 6/29/2025 at 12:00 AM*
+### What color is Pepto-Bismol liquid?
 <details>
 <summary>
-20    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-54  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-88   
+pink    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-100  
+blue  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clear   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+green  
 </summary>
 
 :x: *Wrong...*
