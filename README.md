@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/29/2025 at 12:00 AM*
-### What color is Pepto-Bismol liquid?
+*Updated 6/30/2025 at 12:00 AM*
+### In the famous ballet 'The Nutcracker' who does the hero defeat?
 <details>
 <summary>
-pink    
+Sugar Plum Fairy    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rat King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+Snow Queen   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-clear   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-green  
+Marzipan  
 </summary>
 
 :x: *Wrong...*
