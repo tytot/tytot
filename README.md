@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/30/2025 at 12:00 AM*
-### In the famous ballet 'The Nutcracker' who does the hero defeat?
+*Updated 7/1/2025 at 12:00 AM*
+### With what would you use a wah-wah pedal?
 <details>
 <summary>
-Sugar Plum Fairy    
+bicycle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rat King  
+stock car  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+electric guitar   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Snow Queen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Marzipan  
+baby  
 </summary>
 
 :x: *Wrong...*
