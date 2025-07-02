@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/1/2025 at 12:00 AM*
-### With what would you use a wah-wah pedal?
+*Updated 7/2/2025 at 12:00 AM*
+### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
 <details>
 <summary>
-bicycle    
+Billy Graham    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stock car  
+Oral Roberts  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-electric guitar   
+Jerry Falwell   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jimmy Swaggart  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-baby  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
