@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/3/2025 at 12:00 AM*
-### Which of these college football programs has produced the most Heisman Trophy winners?
+*Updated 7/4/2025 at 12:00 AM*
+### What is the name of the fruit that is half tangerine and half grapefruit?
 <details>
 <summary>
-Notre Dame    
+graperine    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+tangefruit  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+tangelo   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-USC  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Oklahoma   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Michigan  
+kumquat  
 </summary>
 
 :x: *Wrong...*
