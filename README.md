@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/4/2025 at 12:00 AM*
-### What is the name of the fruit that is half tangerine and half grapefruit?
+*Updated 7/5/2025 at 12:00 AM*
+### Which famed modeling agency shares its name with a top U.S. automaker?
 <details>
 <summary>
-graperine    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-tangefruit  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-tangelo   
+Ford    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kumquat  
+Chevrolet  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chrysler   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Saturn  
 </summary>
 
 :x: *Wrong...*
