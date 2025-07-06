@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/5/2025 at 12:00 AM*
-### Which famed modeling agency shares its name with a top U.S. automaker?
+*Updated 7/6/2025 at 12:00 AM*
+### In mobster lingo, if you 'sing like a canary' what are you doing?
 <details>
 <summary>
-Ford    
+impersonating Sinatra    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+talking to the cops  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chevrolet  
+killing an enemy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chrysler   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturn  
+betting on horses  
 </summary>
 
 :x: *Wrong...*
