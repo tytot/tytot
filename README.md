@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/6/2025 at 12:00 AM*
-### In mobster lingo, if you 'sing like a canary' what are you doing?
+*Updated 7/7/2025 at 12:00 AM*
+### In computer terminology, what does the acronym 'ISP' stand for?
 <details>
 <summary>
-impersonating Sinatra    
+Individual Site Privacy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-talking to the cops  
+Investment Stability Plan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Internal Security Position   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Internet Service Provider  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-killing an enemy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-betting on horses  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
