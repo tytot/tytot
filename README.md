@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/7/2025 at 12:00 AM*
-### In computer terminology, what does the acronym 'ISP' stand for?
+*Updated 7/8/2025 at 12:00 AM*
+### What is your astrological sign if you were born on Halloween?
 <details>
 <summary>
-Individual Site Privacy    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Investment Stability Plan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Internal Security Position   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Internet Service Provider  
+Scorpio    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Capricorn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Libra   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cancer  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
