@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/8/2025 at 12:00 AM*
-### What is your astrological sign if you were born on Halloween?
+*Updated 7/9/2025 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-Scorpio    
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Capricorn  
+II  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Libra   
+I   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cancer  
+ii  
 </summary>
 
 :x: *Wrong...*
