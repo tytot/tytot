@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/9/2025 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 7/10/2025 at 12:00 AM*
+### In American football, how many points is a touchdown worth?
 <details>
 <summary>
-2    
+two    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+six   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-II  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-I   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ii  
+seven  
 </summary>
 
 :x: *Wrong...*
