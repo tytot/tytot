@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/10/2025 at 12:00 AM*
-### In American football, how many points is a touchdown worth?
+*Updated 7/11/2025 at 12:00 AM*
+### Which of these pastas is spiral shaped?
 <details>
 <summary>
-two    
+fettuccine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
+rigatoni  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-six   
+tortellini   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rotini  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-seven  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
