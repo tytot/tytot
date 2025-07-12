@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/11/2025 at 12:00 AM*
-### Which of these pastas is spiral shaped?
+*Updated 7/12/2025 at 12:00 AM*
+### In what decade was the Hula-Hoop invented?
 <details>
 <summary>
-fettuccine    
+1890s    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rigatoni  
+1920s  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tortellini   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rotini  
+1950s   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+1970s  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
