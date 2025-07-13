@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/12/2025 at 12:00 AM*
-### In what decade was the Hula-Hoop invented?
+*Updated 7/13/2025 at 12:00 AM*
+### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
 <details>
 <summary>
-1890s    
+Dr. Evil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1920s  
+Q  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1950s   
+Little Jimmy Bond   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1970s  
+M  
 </summary>
 
 :x: *Wrong...*
