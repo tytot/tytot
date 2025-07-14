@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/13/2025 at 12:00 AM*
-### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
+*Updated 7/14/2025 at 12:00 AM*
+### What is the principal ingredient in traditional cole slaw?
 <details>
 <summary>
-Dr. Evil    
+lettuce    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Q  
+spinach   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Little Jimmy Bond   
+cabbage   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-M  
+chicory  
 </summary>
 
 :x: *Wrong...*
