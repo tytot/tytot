@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/14/2025 at 12:00 AM*
-### What is the principal ingredient in traditional cole slaw?
+*Updated 7/15/2025 at 12:00 AM*
+### On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?
 <details>
 <summary>
-lettuce    
+Furry Monster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-spinach   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cabbage   
+Pizza Man  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicory  
+Snookums   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Baby Cakes  
 </summary>
 
 :x: *Wrong...*
