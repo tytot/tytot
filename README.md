@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/15/2025 at 12:00 AM*
-### On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?
+*Updated 7/16/2025 at 12:00 AM*
+### In golf, what is one stroke over par called?
 <details>
 <summary>
-Furry Monster    
+eagle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pizza Man  
+bogey  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Snookums   
+dormy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Baby Cakes  
+birdie  
 </summary>
 
 :x: *Wrong...*
