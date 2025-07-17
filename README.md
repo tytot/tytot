@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/16/2025 at 12:00 AM*
-### In golf, what is one stroke over par called?
+*Updated 7/17/2025 at 12:00 AM*
+### Where was the chicken first domesticated?
 <details>
 <summary>
-eagle    
+France    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bogey  
+India  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-dormy   
+Peru   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-birdie  
+Zaire  
 </summary>
 
 :x: *Wrong...*
