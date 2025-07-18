@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/17/2025 at 12:00 AM*
-### Where was the chicken first domesticated?
+*Updated 7/18/2025 at 12:00 AM*
+### In the original 'Get Smart' TV series, what is agent Maxwell Smart's code name?
 <details>
 <summary>
-France    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-India  
+Agent 86    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Peru   
+Agent 99  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Zaire  
+Larrabee   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Chief  
 </summary>
 
 :x: *Wrong...*
