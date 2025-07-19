@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/18/2025 at 12:00 AM*
-### In the original 'Get Smart' TV series, what is agent Maxwell Smart's code name?
+*Updated 7/19/2025 at 12:00 AM*
+### Which of these countries does not participate in NAFTA?
 <details>
 <summary>
-Agent 86    
+United States    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Canada  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mexico   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Guatemala  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Agent 99  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Larrabee   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Chief  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
