@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/19/2025 at 12:00 AM*
-### Which of these countries does not participate in NAFTA?
+*Updated 7/20/2025 at 12:00 AM*
+### Which of these dishes is made from pig intestines?
 <details>
 <summary>
-United States    
+haggis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Canada  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mexico   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Guatemala  
+chitlins  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+grits   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chop suey  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
