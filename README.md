@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/20/2025 at 12:00 AM*
-### Which of these dishes is made from pig intestines?
+*Updated 7/21/2025 at 12:00 AM*
+### Which of these men has never been a head coach in the NFL?
 <details>
 <summary>
-haggis    
+Dick Vermeil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chitlins  
+Bill Parcells  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck Noll   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pat Riley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-grits   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chop suey  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
