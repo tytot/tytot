@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/22/2025 at 12:00 AM*
-### What term is used to describe a group of geese?
+*Updated 7/23/2025 at 12:00 AM*
+### What important food crop is grown in fields called paddies?
 <details>
 <summary>
-gaggle    
+wheat    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rye  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rice  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-gang  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gander   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-grist  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
