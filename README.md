@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/23/2025 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 7/24/2025 at 12:00 AM*
+### What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?
 <details>
 <summary>
-wheat    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rye  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+Law of Inertia    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Law of Thermodynamics  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Relativity   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Law of Gravitation  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
