@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/25/2025 at 12:00 AM*
-### If you are truly afraid of the dark, what do you suffer from?
+*Updated 7/26/2025 at 12:00 AM*
+### What part of the world was once known as Cathay?
 <details>
 <summary>
-hypnophobia    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cryptophobia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hadephobia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nyctophobia  
+China    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+India  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Iran   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Indonesia  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
