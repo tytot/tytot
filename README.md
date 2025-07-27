@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/26/2025 at 12:00 AM*
-### What part of the world was once known as Cathay?
+*Updated 7/27/2025 at 12:00 AM*
+### From whom does the Lutheran Church get its name?
 <details>
 <summary>
-China    
+Martin Luther King Jr    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Martin Luther  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-India  
+Luther Vandross   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Iran   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Indonesia  
+Lex Luthor  
 </summary>
 
 :x: *Wrong...*
