@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/27/2025 at 12:00 AM*
-### From whom does the Lutheran Church get its name?
+*Updated 7/28/2025 at 12:00 AM*
+### Which of these is not a type of rock?
 <details>
 <summary>
-Martin Luther King Jr    
+metamorphic    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Martin Luther  
+sedimentary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+igneous   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+deciduous  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Luther Vandross   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lex Luthor  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
