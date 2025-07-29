@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/28/2025 at 12:00 AM*
-### Which of these is not a type of rock?
+*Updated 7/29/2025 at 12:00 AM*
+### In Greek mythology, what is the name of Zeus' father?
 <details>
 <summary>
-metamorphic    
+Apollo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sedimentary  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-igneous   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-deciduous  
+Cronus  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Prometheus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hercules  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
