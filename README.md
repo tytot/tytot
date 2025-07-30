@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/29/2025 at 12:00 AM*
-### In Greek mythology, what is the name of Zeus' father?
+*Updated 7/30/2025 at 12:00 AM*
+### During which war did US troops fight the Battle of New Orleans?
 <details>
 <summary>
-Apollo    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cronus  
+Civil War  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mexican War   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Prometheus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hercules  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
