@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/30/2025 at 12:00 AM*
-### During which war did US troops fight the Battle of New Orleans?
+*Updated 7/31/2025 at 12:00 AM*
+### In what city is TV's 'The Mary Tyler Moore Show' set?
 <details>
 <summary>
-American Revolution    
+Dallas    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Civil War  
+Chicago  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mexican War   
+New York   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+Minneapolis  
 </summary>
 
 :heavy_check_mark: *Correct!*
