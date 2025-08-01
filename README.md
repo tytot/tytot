@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/31/2025 at 12:00 AM*
-### In what city is TV's 'The Mary Tyler Moore Show' set?
+*Updated 8/1/2025 at 12:00 AM*
+### Ada Lovelace is credited with being the first person to have made what?
 <details>
 <summary>
-Dallas    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Chicago  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Minneapolis  
+a computer program    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+a souffle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a brassiere   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a mystery novel  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
