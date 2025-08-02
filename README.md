@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/1/2025 at 12:00 AM*
-### Ada Lovelace is credited with being the first person to have made what?
+*Updated 8/2/2025 at 12:00 AM*
+### What famous folksinger founded the Institute for the Study of Non-Violence in 1965?
 <details>
 <summary>
-a computer program    
+Bob Dylan    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Woody Guthrie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Joan Baez   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a souffle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a brassiere   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a mystery novel  
+Peter Yarrow  
 </summary>
 
 :x: *Wrong...*
