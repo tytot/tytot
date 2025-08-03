@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/2/2025 at 12:00 AM*
-### What famous folksinger founded the Institute for the Study of Non-Violence in 1965?
+*Updated 8/3/2025 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-Bob Dylan    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Woody Guthrie  
+Austin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Joan Baez   
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Peter Yarrow  
+Cleveland  
 </summary>
 
 :x: *Wrong...*
