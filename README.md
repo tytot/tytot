@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/3/2025 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 8/4/2025 at 12:00 AM*
+### What color is the masthead of USA Today's 'Life' section?
 <details>
 <summary>
-Chicago    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Austin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh   
+purple  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+red   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :x: *Wrong...*
