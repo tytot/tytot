@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/4/2025 at 12:00 AM*
-### What color is the masthead of USA Today's 'Life' section?
+*Updated 8/5/2025 at 12:00 AM*
+### Who is the career hit leader among players never elected to Baseball's Hall of Fame?
 <details>
 <summary>
-green    
+Steve Garvey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-purple  
+Jim Rice  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pete Rose   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-red   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+Ken Griffey Jr  
 </summary>
 
 :x: *Wrong...*
