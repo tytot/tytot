@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/5/2025 at 12:00 AM*
-### Who is the career hit leader among players never elected to Baseball's Hall of Fame?
+*Updated 8/6/2025 at 12:00 AM*
+### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
 <details>
 <summary>
-Steve Garvey    
+ducks in a pond    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jim Rice  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pete Rose   
+pigs in a blanket  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Ken Griffey Jr  
+cows in a pasture   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dogs in the oven  
 </summary>
 
 :x: *Wrong...*
