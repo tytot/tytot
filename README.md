@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/6/2025 at 12:00 AM*
-### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
+*Updated 8/7/2025 at 12:00 AM*
+### What native empire controlled Large areas of South African Territory during the 19th century?
 <details>
 <summary>
-ducks in a pond    
+Hutu    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pigs in a blanket  
+Zulu  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cows in a pasture   
+Aztec   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dogs in the oven  
+Masai  
 </summary>
 
 :x: *Wrong...*
