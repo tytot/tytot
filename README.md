@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/2025 at 12:00 AM*
-### What native empire controlled Large areas of South African Territory during the 19th century?
+*Updated 8/8/2025 at 12:00 AM*
+### What colors are the two circles in the MasterCard logo?
 <details>
 <summary>
-Hutu    
+pink and orange    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Zulu  
+blue and green  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+black and white   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+red and yellow  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Aztec   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Masai  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
