@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2025 at 12:00 AM*
-### What colors are the two circles in the MasterCard logo?
+*Updated 8/9/2025 at 12:00 AM*
+### What is the birthstone for the month of January?
 <details>
 <summary>
-pink and orange    
+topaz    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue and green  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-black and white   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-red and yellow  
+garnet  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+opal   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+diamond  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
