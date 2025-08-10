@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/9/2025 at 12:00 AM*
-### What is the birthstone for the month of January?
+*Updated 8/10/2025 at 12:00 AM*
+### What football player was known as 'The Galloping Ghost'?
 <details>
 <summary>
-topaz    
+Jim Thorpe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-garnet  
+Dick Butkus  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Red Grange   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-opal   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-diamond  
+George Halas  
 </summary>
 
 :x: *Wrong...*
