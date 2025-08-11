@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/10/2025 at 12:00 AM*
-### What football player was known as 'The Galloping Ghost'?
+*Updated 8/11/2025 at 12:00 AM*
+### In American football, how many points is a touchdown worth?
 <details>
 <summary>
-Jim Thorpe    
+two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dick Butkus  
+three  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Red Grange   
+six   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-George Halas  
+seven  
 </summary>
 
 :x: *Wrong...*
