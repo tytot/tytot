@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/11/2025 at 12:00 AM*
-### In American football, how many points is a touchdown worth?
+*Updated 8/12/2025 at 12:00 AM*
+### Which American colony, known for its religious tolerance, did Roger Williams found in 1636?
 <details>
 <summary>
-two    
+Massachusetts    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-six   
+Rhode Island  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
+Virginia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vermont  
 </summary>
 
 :x: *Wrong...*
