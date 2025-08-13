@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/12/2025 at 12:00 AM*
-### Which American colony, known for its religious tolerance, did Roger Williams found in 1636?
+*Updated 8/13/2025 at 12:00 AM*
+### What French city is home to a famous international film festival each spring?
 <details>
 <summary>
-Massachusetts    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rhode Island  
+Cannes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Virginia   
+Marseille  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vermont  
+Dijon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lyon  
 </summary>
 
 :x: *Wrong...*
