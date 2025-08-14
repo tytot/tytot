@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/13/2025 at 12:00 AM*
-### What French city is home to a famous international film festival each spring?
+*Updated 8/14/2025 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-Cannes    
+chirp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bark  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+growl   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Marseille  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Dijon   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lyon  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
