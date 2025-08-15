@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/14/2025 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 8/15/2025 at 12:00 AM*
+### In what decade was the Hula-Hoop invented?
 <details>
 <summary>
-chirp    
+1890s    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
+1920s  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+1950s   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+1970s  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
