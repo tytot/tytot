@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/15/2025 at 12:00 AM*
-### In what decade was the Hula-Hoop invented?
+*Updated 8/16/2025 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-1890s    
+America Over Lines    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1920s  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1950s   
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1970s  
+Americans On Links   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
