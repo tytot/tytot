@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/16/2025 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 8/17/2025 at 12:00 AM*
+### The majority of calcium in the human body is found where?
 <details>
 <summary>
-America Over Lines    
+hair    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+blood  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Americans On LOR  
+digestive tract  
 </summary>
 
 :x: *Wrong...*
