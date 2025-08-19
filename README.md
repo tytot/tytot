@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/17/2025 at 12:00 AM*
-### The majority of calcium in the human body is found where?
+*Updated 8/19/2025 at 12:00 AM*
+### What animated character has a crush on the Little Red Haired Girl?
 <details>
 <summary>
-hair    
+Richie Rich    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blood  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bones   
+Charlie Brown  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-digestive tract  
+Bugs Bunny   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
