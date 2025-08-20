@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/19/2025 at 12:00 AM*
-### What animated character has a crush on the Little Red Haired Girl?
+*Updated 8/20/2025 at 12:00 AM*
+### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
 <details>
 <summary>
-Richie Rich    
+'Sticks & Stones'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Charlie Brown  
+'Pulsation'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Black & White'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Sensation'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Bugs Bunny   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jonny Quest  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
