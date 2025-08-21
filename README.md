@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/20/2025 at 12:00 AM*
-### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
+*Updated 8/21/2025 at 12:00 AM*
+### In what war did Joan of Arc fight?
 <details>
 <summary>
-'Sticks & Stones'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Pulsation'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Black & White'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Sensation'  
+Hundred Years' War    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Franco-Prussian War  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French Revolution   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French and Indian War  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
