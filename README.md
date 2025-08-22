@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/21/2025 at 12:00 AM*
-### In what war did Joan of Arc fight?
+*Updated 8/22/2025 at 12:00 AM*
+### What is a balalaika?
 <details>
 <summary>
-Hundred Years' War    
+musical instrument    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Franco-Prussian War  
+Russian peasant  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French Revolution   
+type of hat   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French and Indian War  
+breed of shark  
 </summary>
 
 :x: *Wrong...*
