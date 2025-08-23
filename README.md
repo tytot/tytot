@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/22/2025 at 12:00 AM*
-### What is a balalaika?
+*Updated 8/23/2025 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-musical instrument    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Russian peasant  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-type of hat   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-breed of shark  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
