@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/23/2025 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 8/24/2025 at 12:00 AM*
+### The 'Arkansas toothpick' is better known by what name?
 <details>
 <summary>
-Oberlin College    
+Scottie Pippen    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+spare rib  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pinkie finger   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bowie knife  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Dartmouth College  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
