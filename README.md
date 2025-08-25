@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/24/2025 at 12:00 AM*
-### The 'Arkansas toothpick' is better known by what name?
+*Updated 8/25/2025 at 12:00 AM*
+### Who is the creator of the comic strip 'The Far Side'?
 <details>
 <summary>
-Scottie Pippen    
+Jim Davis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-spare rib  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pinkie finger   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bowie knife  
+Gary Larson  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Garry Trudeau   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Charles Schulz  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
