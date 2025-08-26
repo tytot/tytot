@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/25/2025 at 12:00 AM*
-### Who is the creator of the comic strip 'The Far Side'?
+*Updated 8/26/2025 at 12:00 AM*
+### A knish is traditionally stuffed with what filling?
 <details>
 <summary>
-Jim Davis    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Gary Larson  
+potato    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Garry Trudeau   
+creamed corn  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Charles Schulz  
+lemon custard   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+raspberry jelly  
 </summary>
 
 :x: *Wrong...*
