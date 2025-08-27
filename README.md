@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/26/2025 at 12:00 AM*
-### A knish is traditionally stuffed with what filling?
+*Updated 8/27/2025 at 12:00 AM*
+### Which of these is a slang term for 'police'?
 <details>
 <summary>
-potato    
+fuzz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-creamed corn  
+shrinks  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-lemon custard   
+bean counters   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-raspberry jelly  
+aardvarks  
 </summary>
 
 :x: *Wrong...*
