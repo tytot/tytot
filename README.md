@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/27/2025 at 12:00 AM*
-### Which of these is a slang term for 'police'?
+*Updated 8/28/2025 at 12:00 AM*
+### In what country are police officers referred to as 'bobbies'?
 <details>
 <summary>
-fuzz    
+Israel    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Greece  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-shrinks  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bean counters   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-aardvarks  
+France  
 </summary>
 
 :x: *Wrong...*
