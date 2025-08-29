@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/28/2025 at 12:00 AM*
-### In what country are police officers referred to as 'bobbies'?
+*Updated 8/29/2025 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-Israel    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Greece  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-England   
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+II  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+I   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ii  
 </summary>
 
 :x: *Wrong...*
