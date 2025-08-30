@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/29/2025 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 8/30/2025 at 12:00 AM*
+### What kind of animal is cartoon character Tennessee Tuxedo?
 <details>
 <summary>
-2    
+cat    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+skunk  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+walrus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+penguin  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-II  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-I   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ii  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
