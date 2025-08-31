@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/30/2025 at 12:00 AM*
-### What kind of animal is cartoon character Tennessee Tuxedo?
+*Updated 8/31/2025 at 12:00 AM*
+### Where is Ghirardelli Square located?
 <details>
 <summary>
-cat    
+Milan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-skunk  
+Rome  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-walrus   
+Washington DC   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-penguin  
+San Francisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
