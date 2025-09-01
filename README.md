@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/31/2025 at 12:00 AM*
-### Where is Ghirardelli Square located?
+*Updated 9/1/2025 at 12:00 AM*
+### With what would you use a wah-wah pedal?
 <details>
 <summary>
-Milan    
+bicycle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rome  
+stock car  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Washington DC   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Francisco  
+electric guitar   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+baby  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
