@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/1/2025 at 12:00 AM*
-### With what would you use a wah-wah pedal?
+*Updated 9/2/2025 at 12:00 AM*
+### Which one of these World War II leaders was not at the Yalta Conference?
 <details>
 <summary>
-bicycle    
+Stalin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-stock car  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-electric guitar   
+Mussolini  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-baby  
+Churchill   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Roosevelt  
 </summary>
 
 :x: *Wrong...*
