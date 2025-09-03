@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/2/2025 at 12:00 AM*
-### Which one of these World War II leaders was not at the Yalta Conference?
+*Updated 9/3/2025 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-Stalin    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mussolini  
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Churchill   
+It's made of bone.  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Roosevelt  
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
