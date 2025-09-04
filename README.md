@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/3/2025 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 9/4/2025 at 12:00 AM*
+### What is the singular form of the word 'graffiti'?
 <details>
 <summary>
-It opens many locks.    
+graffita    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+graffitem  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+graffito   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-It's made of bone.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
+graffitus  
 </summary>
 
 :x: *Wrong...*
