@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/4/2025 at 12:00 AM*
-### What is the singular form of the word 'graffiti'?
+*Updated 9/5/2025 at 12:00 AM*
+### What children's storybook character believes that the sky is falling?
 <details>
 <summary>
-graffita    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-graffitem  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-graffito   
+Chicken Little    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-graffitus  
+Curious George  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jack Sprat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tom Thumb  
 </summary>
 
 :x: *Wrong...*
