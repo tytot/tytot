@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/5/2025 at 12:00 AM*
-### What children's storybook character believes that the sky is falling?
+*Updated 9/6/2025 at 12:00 AM*
+### According to a popular slogan, what state should people not 'mess with'?
 <details>
 <summary>
-Chicken Little    
+New York    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Texas  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curious George  
+Montana   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jack Sprat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tom Thumb  
+Rhode Island  
 </summary>
 
 :x: *Wrong...*
