@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/6/2025 at 12:00 AM*
-### According to a popular slogan, what state should people not 'mess with'?
+*Updated 9/7/2025 at 12:00 AM*
+### Which of these is not one of the official languages of the United Nations?
 <details>
 <summary>
-New York    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Texas  
+Japanese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Montana   
+English  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhode Island  
+Russian   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
 </summary>
 
 :x: *Wrong...*
