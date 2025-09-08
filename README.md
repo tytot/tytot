@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/7/2025 at 12:00 AM*
-### Which of these is not one of the official languages of the United Nations?
+*Updated 9/8/2025 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-Japanese    
+sportswear    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dishwashers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-English  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Russian   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Spanish  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
