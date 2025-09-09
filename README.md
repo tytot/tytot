@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/8/2025 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 9/9/2025 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-sportswear    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dishwashers  
+barley  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cigarettes   
+chicken   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bicycles  
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
