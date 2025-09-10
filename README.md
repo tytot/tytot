@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/9/2025 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 9/10/2025 at 12:00 AM*
+### Which of these is not one of the three branches of the US government?
 <details>
 <summary>
-citrus fruits    
+Judicial    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barley  
+Executive  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shellfish  
+Parliamentary   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Legislative  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
