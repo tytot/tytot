@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/11/2025 at 12:00 AM*
-### What is the capital of New Zealand?
+*Updated 9/12/2025 at 12:00 AM*
+### From 1971 to 1997, the Democratic Republic of Congo was known as what?
 <details>
 <summary>
-Sydney    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Wellington  
+Zaire    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Auckland   
+Angola  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Melbourne  
+Rhodesia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Belgian Congo  
 </summary>
 
 :x: *Wrong...*
