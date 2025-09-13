@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/12/2025 at 12:00 AM*
-### From 1971 to 1997, the Democratic Republic of Congo was known as what?
+*Updated 9/13/2025 at 12:00 AM*
+### Which of these Hemingway characters is a newspaperman?
 <details>
 <summary>
-Zaire    
+Jake Barnes    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Angola  
+Rogelio Gomez  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhodesia   
+Frederic Henry   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Belgian Congo  
+John MacWalsey  
 </summary>
 
 :x: *Wrong...*
