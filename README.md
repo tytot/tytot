@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/13/2025 at 12:00 AM*
-### Which of these Hemingway characters is a newspaperman?
+*Updated 9/14/2025 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-Jake Barnes    
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rogelio Gomez  
+influenza  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frederic Henry   
+emphysema   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-John MacWalsey  
+heart disease  
 </summary>
 
 :x: *Wrong...*
