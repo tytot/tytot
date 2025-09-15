@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/14/2025 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 9/15/2025 at 12:00 AM*
+### Which of these words is an adverb?
 <details>
 <summary>
-cancer    
+hurried    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+fast  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+speedy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+quickly  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-influenza  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
