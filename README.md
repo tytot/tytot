@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/15/2025 at 12:00 AM*
-### Which of these words is an adverb?
+*Updated 9/16/2025 at 12:00 AM*
+### What disease is sometimes referred to as the 'royal disease'?
 <details>
 <summary>
-hurried    
+rickets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fast  
+measles  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-speedy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-quickly  
+hemophilia   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+tuberculosis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
