@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/16/2025 at 12:00 AM*
-### What disease is sometimes referred to as the 'royal disease'?
+*Updated 9/17/2025 at 12:00 AM*
+### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
 <details>
 <summary>
-rickets    
+Polly Finn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-measles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hemophilia   
+Becky Thatcher  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tuberculosis  
+Nancy Drew   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Emma Bovary  
 </summary>
 
 :x: *Wrong...*
