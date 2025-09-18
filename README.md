@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/17/2025 at 12:00 AM*
-### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
+*Updated 9/18/2025 at 12:00 AM*
+### What singer appeared in the 1992 baseball film 'A League of Their Own'?
 <details>
 <summary>
-Polly Finn    
+Brandy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Becky Thatcher  
+Madonna  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Nancy Drew   
+Garth Brooks   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Emma Bovary  
+Whitney Houston  
 </summary>
 
 :x: *Wrong...*
