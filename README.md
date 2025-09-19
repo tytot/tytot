@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/18/2025 at 12:00 AM*
-### What singer appeared in the 1992 baseball film 'A League of Their Own'?
+*Updated 9/19/2025 at 12:00 AM*
+### From what language does the term 'R.S.V.P.' originate?
 <details>
 <summary>
-Brandy    
+Russian    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Madonna  
+Italian  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Portuguese   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Garth Brooks   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Whitney Houston  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
