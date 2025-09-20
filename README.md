@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/19/2025 at 12:00 AM*
-### From what language does the term 'R.S.V.P.' originate?
+*Updated 9/20/2025 at 12:00 AM*
+### In ice hockey, which of the following is not a penalty?
 <details>
 <summary>
-Russian    
+hooking    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Italian  
+charging  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Portuguese   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-French  
+carving   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+butt-ending  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
