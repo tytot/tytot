@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/20/2025 at 12:00 AM*
-### In ice hockey, which of the following is not a penalty?
+*Updated 9/21/2025 at 12:00 AM*
+### Cheese is a necessary ingredient in which of these dishes?
 <details>
 <summary>
-hooking    
+sushi    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-charging  
+french fries  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-carving   
+veal parmigiano   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-butt-ending  
+chicken pot pie  
 </summary>
 
 :x: *Wrong...*
