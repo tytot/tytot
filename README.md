@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/21/2025 at 12:00 AM*
-### Cheese is a necessary ingredient in which of these dishes?
+*Updated 9/22/2025 at 12:00 AM*
+### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
 <details>
 <summary>
-sushi    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-french fries  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-veal parmigiano   
+Edward Estlin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken pot pie  
+Edmund Earl  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ernest Eakins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Eugene Evan  
 </summary>
 
 :x: *Wrong...*
