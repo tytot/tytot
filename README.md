@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/22/2025 at 12:00 AM*
-### What do the initials 'E. E.' in poet E. E. Cummings' name stand for?
+*Updated 9/23/2025 at 12:00 AM*
+### What color is a ruby?
 <details>
 <summary>
-Edward Estlin    
+red    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Edmund Earl  
+black  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernest Eakins   
+yellow   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Eugene Evan  
+blue  
 </summary>
 
 :x: *Wrong...*
