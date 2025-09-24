@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/23/2025 at 12:00 AM*
-### What color is a ruby?
+*Updated 9/24/2025 at 12:00 AM*
+### Which of these stores is not owned by Gap Inc?
 <details>
 <summary>
-red    
+Gap    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Banana Republic  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Navy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+J Crew  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-black  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-yellow   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
