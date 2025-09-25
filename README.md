@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/24/2025 at 12:00 AM*
-### Which of these stores is not owned by Gap Inc?
+*Updated 9/25/2025 at 12:00 AM*
+### What topic does Spin magazine primarily cover?
 <details>
 <summary>
-Gap    
+politics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Banana Republic  
+washing machines  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Old Navy   
+books   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-J Crew  
+music  
 </summary>
 
 :heavy_check_mark: *Correct!*
