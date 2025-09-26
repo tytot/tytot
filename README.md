@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/25/2025 at 12:00 AM*
-### What topic does Spin magazine primarily cover?
+*Updated 9/26/2025 at 12:00 AM*
+### How many eyes does a Giraffe have?
 <details>
 <summary>
-politics    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-washing machines  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-music  
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
