@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/26/2025 at 12:00 AM*
-### How many eyes does a Giraffe have?
+*Updated 9/27/2025 at 12:00 AM*
+### To make an international telephone call from within the US, what are the first numbers you should dial?
 <details>
 <summary>
-one    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two  
+011    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-three   
+101  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+888   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+911  
 </summary>
 
 :x: *Wrong...*
