@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/27/2025 at 12:00 AM*
-### To make an international telephone call from within the US, what are the first numbers you should dial?
+*Updated 9/28/2025 at 12:00 AM*
+### People are supposed to drive on the left-hand side of the road in which country?
 <details>
 <summary>
-011    
+France    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Italy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-101  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-888   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-911  
+Germany  
 </summary>
 
 :x: *Wrong...*
