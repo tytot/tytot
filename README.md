@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/28/2025 at 12:00 AM*
-### People are supposed to drive on the left-hand side of the road in which country?
+*Updated 9/29/2025 at 12:00 AM*
+### What disease is sometimes referred to as the 'royal disease'?
 <details>
 <summary>
-France    
+rickets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Italy  
+measles  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-England   
+hemophilia   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Germany  
+tuberculosis  
 </summary>
 
 :x: *Wrong...*
