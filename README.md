@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/29/2025 at 12:00 AM*
-### What disease is sometimes referred to as the 'royal disease'?
+*Updated 9/30/2025 at 12:00 AM*
+### How many axles does a standard automobile have?
 <details>
 <summary>
-rickets    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-measles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hemophilia   
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tuberculosis  
+four   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
 </summary>
 
 :x: *Wrong...*
