@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/30/2025 at 12:00 AM*
-### How many axles does a standard automobile have?
+*Updated 10/1/2025 at 12:00 AM*
+### How many ships did Columbus set sail with on his initial voyage to the New World?
 <details>
 <summary>
-one    
+Two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+Three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-four   
+Five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight  
+Ten  
 </summary>
 
 :x: *Wrong...*
