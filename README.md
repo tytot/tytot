@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/1/2025 at 12:00 AM*
-### How many ships did Columbus set sail with on his initial voyage to the New World?
+*Updated 10/2/2025 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-Two    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Three  
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Five   
+giant squid  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ten  
+woolly mammoth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
