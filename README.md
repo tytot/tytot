@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/2/2025 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 10/3/2025 at 12:00 AM*
+### The majority of calcium in the human body is found where?
 <details>
 <summary>
-blue whale    
+hair    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blood  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
+digestive tract  
 </summary>
 
 :x: *Wrong...*
