@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/3/2025 at 12:00 AM*
-### The majority of calcium in the human body is found where?
+*Updated 10/4/2025 at 12:00 AM*
+### Which of the Three Stooges was not related to the others?
 <details>
 <summary>
-hair    
+Moe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blood  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bones   
+Larry  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-digestive tract  
+Curly   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Shemp  
 </summary>
 
 :x: *Wrong...*
