@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/4/2025 at 12:00 AM*
-### Which of the Three Stooges was not related to the others?
+*Updated 10/5/2025 at 12:00 AM*
+### If a business files under Chapter 11 what is it doing?
 <details>
 <summary>
-Moe    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Larry  
+declaring bankruptcy    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curly   
+selling stock  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Shemp  
+buying a smaller   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+company suing the government  
 </summary>
 
 :x: *Wrong...*
