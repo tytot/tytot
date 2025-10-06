@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/5/2025 at 12:00 AM*
-### If a business files under Chapter 11 what is it doing?
+*Updated 10/6/2025 at 12:00 AM*
+### According to the USDA, which food group should you eat the most servings of per day?
 <details>
 <summary>
-declaring bankruptcy    
+vegetables    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dairy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meats   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breads  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-selling stock  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-buying a smaller   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-company suing the government  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
