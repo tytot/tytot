@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/7/2025 at 12:00 AM*
-### The sport of judo comes from what Asian country?
+*Updated 10/8/2025 at 12:00 AM*
+### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
 <details>
 <summary>
-Japan    
+cheese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vietnam  
+fruit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Laos   
+gravy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philippines  
+whipped cream  
 </summary>
 
 :x: *Wrong...*
