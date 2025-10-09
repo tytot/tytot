@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/8/2025 at 12:00 AM*
-### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
+*Updated 10/9/2025 at 12:00 AM*
+### According to the USDA, which food group should you eat the most servings of per day?
 <details>
 <summary>
-cheese    
+vegetables    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dairy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meats   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breads  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-fruit  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-whipped cream  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
