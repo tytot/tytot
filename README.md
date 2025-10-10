@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/9/2025 at 12:00 AM*
-### According to the USDA, which food group should you eat the most servings of per day?
+*Updated 10/10/2025 at 12:00 AM*
+### Who was the English king at the time of the American Revolution?
 <details>
 <summary>
-vegetables    
+Charles I    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dairy  
+James I  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meats   
+Edward III   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-breads  
+George III  
 </summary>
 
 :heavy_check_mark: *Correct!*
