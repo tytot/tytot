@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/10/2025 at 12:00 AM*
-### Who was the English king at the time of the American Revolution?
+*Updated 10/11/2025 at 12:00 AM*
+### What does the 'ROM' in CD-ROM stand for?
 <details>
 <summary>
-Charles I    
+Really Obscure Memory    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-James I  
+Run-Other Memory  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Edward III   
+Random Object Memory   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-George III  
+Read-Only Memory  
 </summary>
 
 :heavy_check_mark: *Correct!*
