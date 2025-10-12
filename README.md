@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/11/2025 at 12:00 AM*
-### What does the 'ROM' in CD-ROM stand for?
+*Updated 10/12/2025 at 12:00 AM*
+### Which of these states is not the birthplace of a US president?
 <details>
 <summary>
-Really Obscure Memory    
+New Jersey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Run-Other Memory  
+Nebraska  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Random Object Memory   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Read-Only Memory  
+Kansas   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+California  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
