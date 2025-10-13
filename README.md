@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/12/2025 at 12:00 AM*
-### Which of these states is not the birthplace of a US president?
+*Updated 10/13/2025 at 12:00 AM*
+### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
 <details>
 <summary>
-New Jersey    
+Russell Westbrook    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nebraska  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kansas   
+Kevin Love  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-California  
+O.J. Mayo   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ricky Rubio  
 </summary>
 
 :x: *Wrong...*
