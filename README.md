@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/13/2025 at 12:00 AM*
-### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
+*Updated 10/14/2025 at 12:00 AM*
+### On what continent can you find tigers in the wild?
 <details>
 <summary>
-Russell Westbrook    
+Africa    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kevin Love  
+Asia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-O.J. Mayo   
+Europe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ricky Rubio  
+South America  
 </summary>
 
 :x: *Wrong...*
