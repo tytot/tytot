@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/14/2025 at 12:00 AM*
-### On what continent can you find tigers in the wild?
+*Updated 10/15/2025 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-Africa    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Asia  
+Bovinity Divinity  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Europe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-South America  
+Chubby Hubby  
 </summary>
 
 :x: *Wrong...*
