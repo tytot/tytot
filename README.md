@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/15/2025 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 10/16/2025 at 12:00 AM*
+### Which of these words is an adverb?
 <details>
 <summary>
-Wavy Gravy    
+hurried    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
+fast  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cutie Patootie   
+speedy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+quickly  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Chubby Hubby  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
