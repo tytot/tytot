@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/16/2025 at 12:00 AM*
-### Which of these words is an adverb?
+*Updated 10/17/2025 at 12:00 AM*
+### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
 <details>
 <summary>
-hurried    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-fast  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-speedy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-quickly  
+six    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+seven  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
