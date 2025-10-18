@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/17/2025 at 12:00 AM*
-### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
+*Updated 10/18/2025 at 12:00 AM*
+### What type of meat is on a traditional Reuben sandwich?
 <details>
 <summary>
-six    
+turkey    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bologna  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corned beef   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten  
+pepperoni  
 </summary>
 
 :x: *Wrong...*
