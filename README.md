@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/18/2025 at 12:00 AM*
-### What type of meat is on a traditional Reuben sandwich?
+*Updated 10/19/2025 at 12:00 AM*
+### In the comic strip 'Peanuts' what is Schroeder known for doing?
 <details>
 <summary>
-turkey    
+Dancing    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bologna  
+playing football  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-corned beef   
+playing the piano   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-pepperoni  
+Flying an imaginary plane  
 </summary>
 
 :x: *Wrong...*
