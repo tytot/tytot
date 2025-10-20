@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/19/2025 at 12:00 AM*
-### In the comic strip 'Peanuts' what is Schroeder known for doing?
+*Updated 10/20/2025 at 12:00 AM*
+### How many ships did Columbus set sail with on his initial voyage to the New World?
 <details>
 <summary>
-Dancing    
+Two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-playing football  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-playing the piano   
+Three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Flying an imaginary plane  
+Five   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ten  
 </summary>
 
 :x: *Wrong...*
