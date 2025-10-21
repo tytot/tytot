@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/20/2025 at 12:00 AM*
-### How many ships did Columbus set sail with on his initial voyage to the New World?
+*Updated 10/21/2025 at 12:00 AM*
+### If you dial '411' on a telephone, who are you calling?
 <details>
 <summary>
-Two    
+the police    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three  
+the White House  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+directory assistance   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ten  
+Moviefone  
 </summary>
 
 :x: *Wrong...*
