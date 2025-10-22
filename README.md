@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/21/2025 at 12:00 AM*
-### If you dial '411' on a telephone, who are you calling?
+*Updated 10/22/2025 at 12:00 AM*
+### According to the title of a popular children's TV show, what color is Bear's big house?
 <details>
 <summary>
-the police    
+red    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the White House  
+green  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-directory assistance   
+purple   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Moviefone  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
