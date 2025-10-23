@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/22/2025 at 12:00 AM*
-### According to the title of a popular children's TV show, what color is Bear's big house?
+*Updated 10/23/2025 at 12:00 AM*
+### Which of the following articles of clothing has a hood?
 <details>
 <summary>
-red    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-green  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-purple   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+parka    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+kilt  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+lederhosen   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sarong  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
