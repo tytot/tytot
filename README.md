@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/23/2025 at 12:00 AM*
-### Which of the following articles of clothing has a hood?
+*Updated 10/24/2025 at 12:00 AM*
+### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
 <details>
 <summary>
-parka    
+through outer space    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+through a human body  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kilt  
+to the ocean floor   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-lederhosen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sarong  
+to the center of the earth  
 </summary>
 
 :x: *Wrong...*
