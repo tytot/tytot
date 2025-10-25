@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/24/2025 at 12:00 AM*
-### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
+*Updated 10/25/2025 at 12:00 AM*
+### According to the USDA, which food group should you eat the most servings of per day?
 <details>
 <summary>
-through outer space    
+vegetables    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-through a human body  
+dairy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meats   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breads  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-to the ocean floor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to the center of the earth  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
