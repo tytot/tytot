@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/25/2025 at 12:00 AM*
-### According to the USDA, which food group should you eat the most servings of per day?
+*Updated 10/26/2025 at 12:00 AM*
+### What company makes Oreo cookies?
 <details>
 <summary>
-vegetables    
+General Mills    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dairy  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-meats   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-breads  
+Nabisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Keebler   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kraft  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
