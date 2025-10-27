@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/26/2025 at 12:00 AM*
-### What company makes Oreo cookies?
+*Updated 10/27/2025 at 12:00 AM*
+### What country does Bordeaux wine come from?
 <details>
 <summary>
-General Mills    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nabisco  
+France    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Keebler   
+Spain  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kraft  
+Australia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+United States  
 </summary>
 
 :x: *Wrong...*
