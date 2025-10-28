@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/27/2025 at 12:00 AM*
-### What country does Bordeaux wine come from?
+*Updated 10/28/2025 at 12:00 AM*
+### What tea is known for its distinctive bergamot flavor?
 <details>
 <summary>
-France    
+Earl Grey    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Spain  
+Darjeeling  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Australia   
+English Breakfast   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-United States  
+Prince of Wales  
 </summary>
 
 :x: *Wrong...*
