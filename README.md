@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/28/2025 at 12:00 AM*
-### What tea is known for its distinctive bergamot flavor?
+*Updated 10/29/2025 at 12:00 AM*
+### How many eyes does a Giraffe have?
 <details>
 <summary>
-Earl Grey    
+one    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Darjeeling  
+three   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-English Breakfast   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Prince of Wales  
+four  
 </summary>
 
 :x: *Wrong...*
