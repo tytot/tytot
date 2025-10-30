@@ -3,8 +3,8 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/29/2025 at 12:00 AM*
-### How many eyes does a Giraffe have?
+*Updated 10/30/2025 at 12:00 AM*
+### In baseball, how many balls make a walk?
 <details>
 <summary>
 one    
@@ -17,7 +17,7 @@ one
 two  
 </summary>
 
-:heavy_check_mark: *Correct!*
+:x: *Wrong...*
 </details>
 <details>
 <summary>
@@ -31,7 +31,7 @@ three
 four  
 </summary>
 
-:x: *Wrong...*
+:heavy_check_mark: *Correct!*
 </details>
 
 <!-- ## :bar_chart: My Stats
