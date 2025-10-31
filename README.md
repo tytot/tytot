@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/30/2025 at 12:00 AM*
-### In baseball, how many balls make a walk?
+*Updated 10/31/2025 at 12:00 AM*
+### What is another name for the camelopard?
 <details>
 <summary>
-one    
+circus    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+giraffe  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+cantaloupe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oasis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
