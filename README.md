@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/31/2025 at 12:00 AM*
-### What is another name for the camelopard?
+*Updated 11/1/2025 at 12:00 AM*
+### According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?
 <details>
 <summary>
-circus    
+calm    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-giraffe  
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cantaloupe   
+windy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oasis  
+really big  
 </summary>
 
 :x: *Wrong...*
