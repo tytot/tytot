@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/1/2025 at 12:00 AM*
-### According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?
+*Updated 11/2/2025 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-calm    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-blue  
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-windy   
+giant squid  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-really big  
+woolly mammoth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
