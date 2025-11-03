@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/2/2025 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 11/3/2025 at 12:00 AM*
+### In traditional English puppet shows, who is married to the character Punch?
 <details>
 <summary>
-blue whale    
+Debbie    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Victoria  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Judy   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
+Barbara  
 </summary>
 
 :x: *Wrong...*
