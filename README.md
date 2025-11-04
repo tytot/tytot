@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/3/2025 at 12:00 AM*
-### In traditional English puppet shows, who is married to the character Punch?
+*Updated 11/4/2025 at 12:00 AM*
+### In baseball, how many balls make a walk?
 <details>
 <summary>
-Debbie    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Victoria  
+two  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Judy   
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Barbara  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
