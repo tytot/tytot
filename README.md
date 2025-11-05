@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/4/2025 at 12:00 AM*
-### In baseball, how many balls make a walk?
+*Updated 11/5/2025 at 12:00 AM*
+### Cheddar cheese got its name from a village in what country?
 <details>
 <summary>
-one    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+England    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+France  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Switzerland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Denmark  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
