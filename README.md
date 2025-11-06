@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/5/2025 at 12:00 AM*
-### Cheddar cheese got its name from a village in what country?
+*Updated 11/6/2025 at 12:00 AM*
+### How many periods are there in an ice hockey game?
 <details>
 <summary>
-England    
+One    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Three   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Switzerland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Denmark  
+Four  
 </summary>
 
 :x: *Wrong...*
