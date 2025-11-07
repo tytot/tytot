@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/6/2025 at 12:00 AM*
-### How many periods are there in an ice hockey game?
+*Updated 11/7/2025 at 12:00 AM*
+### Which of these is a government agency established to protect investors?
 <details>
 <summary>
-One    
+AAA    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Two  
+NBA  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three   
+SEC   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Four  
+MADD  
 </summary>
 
 :x: *Wrong...*
