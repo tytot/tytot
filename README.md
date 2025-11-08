@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/7/2025 at 12:00 AM*
-### Which of these is a government agency established to protect investors?
+*Updated 11/8/2025 at 12:00 AM*
+### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
 <details>
 <summary>
-AAA    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-NBA  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-SEC   
+cheese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-MADD  
+fruit  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gravy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+whipped cream  
 </summary>
 
 :x: *Wrong...*
