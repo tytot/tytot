@@ -3,7 +3,7 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/8/2025 at 12:00 AM*
+*Updated 11/9/2025 at 12:00 AM*
 ### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
 <details>
 <summary>
