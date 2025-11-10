@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/9/2025 at 12:00 AM*
-### In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?
+*Updated 11/10/2025 at 12:00 AM*
+### Which of these toys answers questions?
 <details>
 <summary>
-cheese    
+Magic 8 Ball    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-fruit  
+Barbie  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gravy   
+Frisbee   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-whipped cream  
+Slinky  
 </summary>
 
 :x: *Wrong...*
