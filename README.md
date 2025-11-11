@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/10/2025 at 12:00 AM*
-### Which of these toys answers questions?
+*Updated 11/11/2025 at 12:00 AM*
+### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
 <details>
 <summary>
-Magic 8 Ball    
+Brazil    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+East Germany  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Argentina   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Barbie  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Frisbee   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Slinky  
+Paraguay  
 </summary>
 
 :x: *Wrong...*
