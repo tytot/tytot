@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/11/2025 at 12:00 AM*
-### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
+*Updated 11/12/2025 at 12:00 AM*
+### The Strauss family of composers popularized what dance?
 <details>
 <summary>
-Brazil    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-East Germany  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Argentina   
+waltz    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paraguay  
+tango  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+fox-trot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+square dance  
 </summary>
 
 :x: *Wrong...*
