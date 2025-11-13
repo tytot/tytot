@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/12/2025 at 12:00 AM*
-### The Strauss family of composers popularized what dance?
+*Updated 11/13/2025 at 12:00 AM*
+### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
 <details>
 <summary>
-waltz    
+a cow    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tango  
+a hat  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fox-trot   
+a harp   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-square dance  
+a goose  
 </summary>
 
 :x: *Wrong...*
