@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/13/2025 at 12:00 AM*
-### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
+*Updated 11/14/2025 at 12:00 AM*
+### What is the nickname of Florida's controversial death row electric chair?
 <details>
 <summary>
-a cow    
+Old Yeller    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Geezer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Smoky   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Old Sparky  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-a hat  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a harp   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a goose  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
