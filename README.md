@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/14/2025 at 12:00 AM*
-### What is the nickname of Florida's controversial death row electric chair?
+*Updated 11/15/2025 at 12:00 AM*
+### Which of these would you most commonly find in a sconce?
 <details>
 <summary>
-Old Yeller    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Geezer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Smoky   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Old Sparky  
+candle    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+food  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+birds   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+books  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
