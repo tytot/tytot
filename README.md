@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/15/2025 at 12:00 AM*
-### Which of these would you most commonly find in a sconce?
+*Updated 11/16/2025 at 12:00 AM*
+### Which of the following is a natural sugar found in most fruits?
 <details>
 <summary>
-candle    
+necrose    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+fructose  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-food  
+bellicose   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-birds   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-books  
+pantiose  
 </summary>
 
 :x: *Wrong...*
