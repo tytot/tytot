@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/16/2025 at 12:00 AM*
-### Which of the following is a natural sugar found in most fruits?
+*Updated 11/17/2025 at 12:00 AM*
+### In what U.S. city can you find the Basketball Hall of Fame?
 <details>
 <summary>
-necrose    
+Canton, Ohio    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fructose  
+Cooperstown, New York  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Springfield, Massachusetts   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bellicose   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pantiose  
+Lawrence, Kansas  
 </summary>
 
 :x: *Wrong...*
