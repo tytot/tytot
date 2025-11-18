@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/17/2025 at 12:00 AM*
-### In what U.S. city can you find the Basketball Hall of Fame?
+*Updated 11/18/2025 at 12:00 AM*
+### A triptych is a work of art that is painted on how many panels?
 <details>
 <summary>
-Canton, Ohio    
+two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cooperstown, New York  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Springfield, Massachusetts   
+three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lawrence, Kansas  
+five   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eight  
 </summary>
 
 :x: *Wrong...*
