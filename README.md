@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/18/2025 at 12:00 AM*
-### A triptych is a work of art that is painted on how many panels?
+*Updated 11/19/2025 at 12:00 AM*
+### How many stars are on the American flag?
 <details>
 <summary>
-two    
+13    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
+48  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+50   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight  
+51  
 </summary>
 
 :x: *Wrong...*
