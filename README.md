@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/19/2025 at 12:00 AM*
-### How many stars are on the American flag?
+*Updated 11/20/2025 at 12:00 AM*
+### The disco band ABBA comes from what country?
 <details>
 <summary>
-13    
+Norway    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-48  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-50   
+Sweden  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-51  
+Switzerland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Netherlands  
 </summary>
 
 :x: *Wrong...*
