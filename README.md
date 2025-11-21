@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/20/2025 at 12:00 AM*
-### The disco band ABBA comes from what country?
+*Updated 11/21/2025 at 12:00 AM*
+### Which of these men has never been a head coach in the NFL?
 <details>
 <summary>
-Norway    
+Dick Vermeil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sweden  
+Bill Parcells  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Chuck Noll   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pat Riley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Switzerland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Netherlands  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
