@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/21/2025 at 12:00 AM*
-### Which of these men has never been a head coach in the NFL?
+*Updated 11/22/2025 at 12:00 AM*
+### What disease is characterized by a body's inability to properly metabolize glucose?
 <details>
 <summary>
-Dick Vermeil    
+Influenza    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bill Parcells  
+Septicemia  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Chuck Noll   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pat Riley  
+Diabetes   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Arthritis  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
