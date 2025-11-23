@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/22/2025 at 12:00 AM*
-### What disease is characterized by a body's inability to properly metabolize glucose?
+*Updated 11/23/2025 at 12:00 AM*
+### The phrase 'hospital corners' refers to what?
 <details>
 <summary>
-Influenza    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Septicemia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Diabetes   
+bed sheets    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Arthritis  
+paint  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+landscaping   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+scissors  
 </summary>
 
 :x: *Wrong...*
