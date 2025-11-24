@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/23/2025 at 12:00 AM*
-### The phrase 'hospital corners' refers to what?
+*Updated 11/24/2025 at 12:00 AM*
+### In what year did the United States last win an Olympic gold medal in men's ice hockey?
 <details>
 <summary>
-bed sheets    
+1976    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1980  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-paint  
+1984   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-landscaping   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-scissors  
+1988  
 </summary>
 
 :x: *Wrong...*
