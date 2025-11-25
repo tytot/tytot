@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/24/2025 at 12:00 AM*
-### In what year did the United States last win an Olympic gold medal in men's ice hockey?
+*Updated 11/25/2025 at 12:00 AM*
+### Who was the English king at the time of the American Revolution?
 <details>
 <summary>
-1976    
+Charles I    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1980  
+James I  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Edward III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+George III  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-1984   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1988  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
