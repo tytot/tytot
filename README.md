@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/25/2025 at 12:00 AM*
-### Who was the English king at the time of the American Revolution?
+*Updated 11/26/2025 at 12:00 AM*
+### How are actors Charlie Sheen and Emilio Estevez related?
 <details>
 <summary>
-Charles I    
+they're cousins    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-James I  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Edward III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-George III  
+they're brothers  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+they're father and son   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+they're uncle and nephew  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
