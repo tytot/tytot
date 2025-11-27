@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/26/2025 at 12:00 AM*
-### How are actors Charlie Sheen and Emilio Estevez related?
+*Updated 11/27/2025 at 12:00 AM*
+### Which of these is not one of the official languages of the United Nations?
 <details>
 <summary>
-they're cousins    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-they're brothers  
+Japanese    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-they're father and son   
+English  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-they're uncle and nephew  
+Russian   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Spanish  
 </summary>
 
 :x: *Wrong...*
