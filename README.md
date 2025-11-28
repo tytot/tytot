@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/27/2025 at 12:00 AM*
-### Which of these is not one of the official languages of the United Nations?
+*Updated 11/28/2025 at 12:00 AM*
+### Which of these words is spelled correctly?
 <details>
 <summary>
-Japanese    
+decieve    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+foriegn  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hygiene   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-English  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Russian   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Spanish  
+wierd  
 </summary>
 
 :x: *Wrong...*
