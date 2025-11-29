@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/28/2025 at 12:00 AM*
-### Which of these words is spelled correctly?
+*Updated 11/29/2025 at 12:00 AM*
+### What kind of animal is cartoon character Tennessee Tuxedo?
 <details>
 <summary>
-decieve    
+cat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foriegn  
+skunk  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hygiene   
+walrus   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+penguin  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-wierd  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
