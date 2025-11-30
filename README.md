@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/29/2025 at 12:00 AM*
-### What kind of animal is cartoon character Tennessee Tuxedo?
+*Updated 11/30/2025 at 12:00 AM*
+### What is the capital of New Zealand?
 <details>
 <summary>
-cat    
+Sydney    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-skunk  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-walrus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-penguin  
+Wellington  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Auckland   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Melbourne  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
