@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/30/2025 at 12:00 AM*
-### What is the capital of New Zealand?
+*Updated 12/1/2025 at 12:00 AM*
+### The process of drilling holes in the skull is called what?
 <details>
 <summary>
-Sydney    
+bifurcation    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wellington  
+trepanation  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Auckland   
+aeronomy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Melbourne  
+skullduggery  
 </summary>
 
 :x: *Wrong...*
