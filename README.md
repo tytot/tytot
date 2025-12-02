@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/1/2025 at 12:00 AM*
-### The process of drilling holes in the skull is called what?
+*Updated 12/2/2025 at 12:00 AM*
+### What color is a ruby?
 <details>
 <summary>
-bifurcation    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-trepanation  
+red    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-aeronomy   
+black  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-skullduggery  
+yellow   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+blue  
 </summary>
 
 :x: *Wrong...*
