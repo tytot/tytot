@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/2/2025 at 12:00 AM*
-### What color is a ruby?
+*Updated 12/3/2025 at 12:00 AM*
+### As of 1999, which state has the most Girl Scouts?
 <details>
 <summary>
-red    
+California    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-black  
+Illinois  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-yellow   
+New York   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue  
+Pennsylvania  
 </summary>
 
 :x: *Wrong...*
