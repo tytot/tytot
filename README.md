@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/4/2025 at 12:00 AM*
-### Which American colony, known for its religious tolerance, did Roger Williams found in 1636?
+*Updated 12/5/2025 at 12:00 AM*
+### In what restaurant can you order a Grand Slam breakfast?
 <details>
 <summary>
-Massachusetts    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Rhode Island  
+Denny's    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Virginia   
+McDonald's  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vermont  
+Burger King   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hardee's  
 </summary>
 
 :x: *Wrong...*
