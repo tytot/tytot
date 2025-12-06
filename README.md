@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/5/2025 at 12:00 AM*
-### In what restaurant can you order a Grand Slam breakfast?
+*Updated 12/6/2025 at 12:00 AM*
+### In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?
 <details>
 <summary>
-Denny's    
+peace symbol    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+American flag  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-McDonald's  
+two white doves   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Hardee's  
+Harley-Davidson logo  
 </summary>
 
 :x: *Wrong...*
