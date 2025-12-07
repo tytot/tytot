@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/6/2025 at 12:00 AM*
-### In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?
+*Updated 12/7/2025 at 12:00 AM*
+### Who originally proposed the idea of daylight-saving time?
 <details>
 <summary>
-peace symbol    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-American flag  
+Benjamin Franklin    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-two white doves   
+Henry David Thoreau  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Harley-Davidson logo  
+Galileo   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Albert Einstein  
 </summary>
 
 :x: *Wrong...*
