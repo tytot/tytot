@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/7/2025 at 12:00 AM*
-### Who originally proposed the idea of daylight-saving time?
+*Updated 12/8/2025 at 12:00 AM*
+### What term is used to describe a group of fish?
 <details>
 <summary>
-Benjamin Franklin    
+knot    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+drape  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+school   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Henry David Thoreau  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Galileo   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Albert Einstein  
+gaggle  
 </summary>
 
 :x: *Wrong...*
