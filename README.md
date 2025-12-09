@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/8/2025 at 12:00 AM*
-### What term is used to describe a group of fish?
+*Updated 12/9/2025 at 12:00 AM*
+### In what country did Pokemon originate?
 <details>
 <summary>
-knot    
+France    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-drape  
+Hungary  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-school   
+Japan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-gaggle  
+Canada  
 </summary>
 
 :x: *Wrong...*
