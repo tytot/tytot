@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/9/2025 at 12:00 AM*
-### In what country did Pokemon originate?
+*Updated 12/10/2025 at 12:00 AM*
+### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
 <details>
 <summary>
-France    
+Russell Westbrook    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hungary  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Japan   
+Kevin Love  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Canada  
+O.J. Mayo   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ricky Rubio  
 </summary>
 
 :x: *Wrong...*
