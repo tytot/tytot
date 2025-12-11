@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/10/2025 at 12:00 AM*
-### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
+*Updated 12/11/2025 at 12:00 AM*
+### What corporation was founded by a candlemaker and a soapmaker?
 <details>
 <summary>
-Russell Westbrook    
+Simon & Schuster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kevin Love  
+Procter & Gamble  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-O.J. Mayo   
+Johnson & Johnson   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ricky Rubio  
+Smith & Wesson  
 </summary>
 
 :x: *Wrong...*
