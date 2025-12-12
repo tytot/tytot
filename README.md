@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/11/2025 at 12:00 AM*
-### What corporation was founded by a candlemaker and a soapmaker?
+*Updated 12/12/2025 at 12:00 AM*
+### In American football, how many points is a touchdown worth?
 <details>
 <summary>
-Simon & Schuster    
+two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Procter & Gamble  
+three  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+six   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Johnson & Johnson   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Smith & Wesson  
+seven  
 </summary>
 
 :x: *Wrong...*
