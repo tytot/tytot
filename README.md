@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/12/2025 at 12:00 AM*
-### In American football, how many points is a touchdown worth?
+*Updated 12/13/2025 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-two    
+platinum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-three  
+gold  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-six   
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-seven  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
