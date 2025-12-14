@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/13/2025 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 12/14/2025 at 12:00 AM*
+### What was the name of the first ship to sail around the world?
 <details>
 <summary>
-platinum    
+Triton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gold  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-steel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-silver  
+Victoria  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Magellan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Elizabeth II  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
