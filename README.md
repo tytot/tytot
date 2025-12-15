@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/14/2025 at 12:00 AM*
-### What was the name of the first ship to sail around the world?
+*Updated 12/15/2025 at 12:00 AM*
+### What are the names of Donald Duck's three nephews?
 <details>
 <summary>
-Triton    
+Quick, Quack, Quock    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Victoria  
+Alvin, Simon, Theodore  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robbie, Chip, Ernie   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Huey, Dewey, Louie  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Magellan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth II  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
