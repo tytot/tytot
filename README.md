@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/15/2025 at 12:00 AM*
-### What are the names of Donald Duck's three nephews?
+*Updated 12/16/2025 at 12:00 AM*
+### A second-year college student is usually called a what?
 <details>
 <summary>
-Quick, Quack, Quock    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Alvin, Simon, Theodore  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie, Chip, Ernie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Huey, Dewey, Louie  
+sophomore    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+senior  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+freshman    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+junior   
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
