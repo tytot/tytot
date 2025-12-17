@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/16/2025 at 12:00 AM*
-### A second-year college student is usually called a what?
+*Updated 12/17/2025 at 12:00 AM*
+### What force causes an ice cream cone to fly off of a spinning merry-go-round?
 <details>
 <summary>
-sophomore    
+centrifugal    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-senior  
+vehicular  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-freshman    
+gravitational   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-junior   
+torsal  
 </summary>
 
 :x: *Wrong...*
