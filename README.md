@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/17/2025 at 12:00 AM*
-### What force causes an ice cream cone to fly off of a spinning merry-go-round?
+*Updated 12/18/2025 at 12:00 AM*
+### What city is known as 'the rubber capital of the world'?
 <details>
 <summary>
-centrifugal    
+Omaha, Nebraska    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rockford, Illinois  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Grand Rapids, Michigan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Akron, Ohio  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-vehicular  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-gravitational   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-torsal  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
