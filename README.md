@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/18/2025 at 12:00 AM*
-### What city is known as 'the rubber capital of the world'?
+*Updated 12/19/2025 at 12:00 AM*
+### How many ships did Columbus set sail with on his initial voyage to the New World?
 <details>
 <summary>
-Omaha, Nebraska    
+Two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rockford, Illinois  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Grand Rapids, Michigan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Akron, Ohio  
+Three  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Five   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ten  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
