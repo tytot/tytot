@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/19/2025 at 12:00 AM*
-### How many ships did Columbus set sail with on his initial voyage to the New World?
+*Updated 12/20/2025 at 12:00 AM*
+### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
 <details>
 <summary>
-Two    
+Mount Everest    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three  
+Bermuda Triangle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Atlantis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Pole  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ten  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
