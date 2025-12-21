@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/20/2025 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 12/21/2025 at 12:00 AM*
+### What is the largest city in Pennsylvania?
 <details>
 <summary>
-Mount Everest    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bermuda Triangle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+Philadelphia    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Stewartsville  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Harrisburg   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pittsburgh  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
