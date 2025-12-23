@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/21/2025 at 12:00 AM*
-### What is the largest city in Pennsylvania?
+*Updated 12/23/2025 at 12:00 AM*
+### Which of these songs was a Top 10 hit for the rock band The Police?
 <details>
 <summary>
-Philadelphia    
+'Radio Ga-Ga'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Ob-la-di, Ob-la-da'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'De Do Do Do, De Da Da Da'   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Stewartsville  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Harrisburg   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh  
+'In-a-Gadda-Da-Vida'  
 </summary>
 
 :x: *Wrong...*
