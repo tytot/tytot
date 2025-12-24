@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/23/2025 at 12:00 AM*
-### Which of these songs was a Top 10 hit for the rock band The Police?
+*Updated 12/24/2025 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-'Radio Ga-Ga'    
+America Over Lines    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Ob-la-di, Ob-la-da'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'De Do Do Do, De Da Da Da'   
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'In-a-Gadda-Da-Vida'  
+Americans On Links   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
