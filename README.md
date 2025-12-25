@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/24/2025 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 12/25/2025 at 12:00 AM*
+### In computer terminology, what does the acronym 'FTP' stand for?
 <details>
 <summary>
-America Over Lines    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-America Online  
+file transfer protocol    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
+full time portal  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Americans On LOR  
+full text processor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+free to print  
 </summary>
 
 :x: *Wrong...*
