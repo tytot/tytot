@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/25/2025 at 12:00 AM*
-### In computer terminology, what does the acronym 'FTP' stand for?
+*Updated 12/26/2025 at 12:00 AM*
+### Who is considered the owner of a 'publicly held' company?
 <details>
 <summary>
-file transfer protocol    
+the CEO    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the stockholders  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-full time portal  
+the president   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-full text processor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-free to print  
+the government  
 </summary>
 
 :x: *Wrong...*
