@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/26/2025 at 12:00 AM*
-### Who is considered the owner of a 'publicly held' company?
+*Updated 12/27/2025 at 12:00 AM*
+### What are the dimensions of a 'letter size' piece of paper?
 <details>
 <summary>
-the CEO    
+3 1/2 x 5 inches    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the stockholders  
+5 x 10 inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8 1/2 x 11 inches   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-the president   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the government  
+11 x 17 inches  
 </summary>
 
 :x: *Wrong...*
