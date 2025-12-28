@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/27/2025 at 12:00 AM*
-### What are the dimensions of a 'letter size' piece of paper?
+*Updated 12/28/2025 at 12:00 AM*
+### On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?
 <details>
 <summary>
-3 1/2 x 5 inches    
+Furry Monster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-5 x 10 inches  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-8 1/2 x 11 inches   
+Pizza Man  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-11 x 17 inches  
+Snookums   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Baby Cakes  
 </summary>
 
 :x: *Wrong...*
