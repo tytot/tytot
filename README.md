@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/28/2025 at 12:00 AM*
-### On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?
+*Updated 12/29/2025 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-Furry Monster    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pizza Man  
+barley  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Snookums   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Baby Cakes  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
