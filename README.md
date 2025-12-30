@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/29/2025 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 12/30/2025 at 12:00 AM*
+### What city did the Beatles originally call home?
 <details>
 <summary>
-citrus fruits    
+London    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barley  
+Leeds  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-shellfish  
+Liverpool   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Manchester  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
