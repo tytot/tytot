@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 12/30/2025 at 12:00 AM*
-### What city did the Beatles originally call home?
+*Updated 12/31/2025 at 12:00 AM*
+### In bowling, how many pins must you knock down to get a strike?
 <details>
 <summary>
-London    
+zero    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Leeds  
+8  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Liverpool   
+10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Manchester  
+12  
 </summary>
 
 :x: *Wrong...*
