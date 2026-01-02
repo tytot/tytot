@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/1/2026 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 1/2/2026 at 12:00 AM*
+### Who led the 1831 slave insurrection in Southampton, Virginia?
 <details>
 <summary>
-books    
+John Brown    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Dred Scott  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Nat Turner   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-compact discs  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cars   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clothes  
+Harriet Tubman  
 </summary>
 
 :x: *Wrong...*
