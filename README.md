@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/2/2026 at 12:00 AM*
-### Who led the 1831 slave insurrection in Southampton, Virginia?
+*Updated 1/3/2026 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-John Brown    
+Miss Jackie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dred Scott  
+Elizabeth Sanford  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nat Turner   
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Harriet Tubman  
+Gladys Knight  
 </summary>
 
 :x: *Wrong...*
