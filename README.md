@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/3/2026 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 1/4/2026 at 12:00 AM*
+### In what state is the 1999 movie 'Magnolia' set?
 <details>
 <summary>
-Miss Jackie    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth Sanford  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Geraldine Jones   
+California    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+South Carolina  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Georgia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Texas  
 </summary>
 
 :x: *Wrong...*
