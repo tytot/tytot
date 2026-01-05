@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/4/2026 at 12:00 AM*
-### In what state is the 1999 movie 'Magnolia' set?
+*Updated 1/5/2026 at 12:00 AM*
+### What country is the rock group U2 from?
 <details>
 <summary>
-California    
+England    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ireland  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-South Carolina  
+Belgium   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Georgia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Texas  
+Germany  
 </summary>
 
 :x: *Wrong...*
