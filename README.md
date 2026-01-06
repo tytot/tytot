@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/5/2026 at 12:00 AM*
-### What country is the rock group U2 from?
+*Updated 1/6/2026 at 12:00 AM*
+### Gerry Adams is the president of what organization?
 <details>
 <summary>
-England    
+Greenpeace    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ireland  
+NASCAR  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sinn Fein   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Belgium   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Germany  
+PLO  
 </summary>
 
 :x: *Wrong...*
