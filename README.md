@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/6/2026 at 12:00 AM*
-### Gerry Adams is the president of what organization?
+*Updated 1/7/2026 at 12:00 AM*
+### Which of these holidays is not attached to a specific date?
 <details>
 <summary>
-Greenpeace    
+Independence Day    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-NASCAR  
+New Year's Day  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sinn Fein   
+Thanksgiving   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-PLO  
+Christmas  
 </summary>
 
 :x: *Wrong...*
