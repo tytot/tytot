@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/7/2026 at 12:00 AM*
-### Which of these holidays is not attached to a specific date?
+*Updated 1/8/2026 at 12:00 AM*
+### Who sang lead vocals for the band Big Brother and the Holding Company?
 <details>
 <summary>
-Independence Day    
+Grace Slick    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New Year's Day  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Thanksgiving   
+Janis Joplin  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Christmas  
+Mama Cass   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Karen Carpenter  
 </summary>
 
 :x: *Wrong...*
