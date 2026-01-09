@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/8/2026 at 12:00 AM*
-### Who sang lead vocals for the band Big Brother and the Holding Company?
+*Updated 1/9/2026 at 12:00 AM*
+### Which of these is not a 'lock' function on a standard desktop computer keyboard?
 <details>
 <summary>
-Grace Slick    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Janis Joplin  
+print lock    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mama Cass   
+number lock  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Karen Carpenter  
+scroll lock   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+caps lock  
 </summary>
 
 :x: *Wrong...*
