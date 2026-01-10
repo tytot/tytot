@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/9/2026 at 12:00 AM*
-### Which of these is not a 'lock' function on a standard desktop computer keyboard?
+*Updated 1/10/2026 at 12:00 AM*
+### What is called a 'lorry' in Britain?
 <details>
 <summary>
-print lock    
+a toaster    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a truck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-number lock  
+a babysitter   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-scroll lock   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-caps lock  
+an elevator  
 </summary>
 
 :x: *Wrong...*
