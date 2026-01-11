@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/10/2026 at 12:00 AM*
-### What is called a 'lorry' in Britain?
+*Updated 1/11/2026 at 12:00 AM*
+### What exercise apparatus is used during a 'Spinning' class?
 <details>
 <summary>
-a toaster    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a truck  
+stationary bicycle    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a babysitter   
+treadmill  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-an elevator  
+rowing machine   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+barbells  
 </summary>
 
 :x: *Wrong...*
