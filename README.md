@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/11/2026 at 12:00 AM*
-### What exercise apparatus is used during a 'Spinning' class?
+*Updated 1/12/2026 at 12:00 AM*
+### A knish is traditionally stuffed with what filling?
 <details>
 <summary>
-stationary bicycle    
+potato    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-treadmill  
+creamed corn  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rowing machine   
+lemon custard   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barbells  
+raspberry jelly  
 </summary>
 
 :x: *Wrong...*
