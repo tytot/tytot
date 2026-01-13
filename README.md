@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/12/2026 at 12:00 AM*
-### A knish is traditionally stuffed with what filling?
+*Updated 1/13/2026 at 12:00 AM*
+### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
 <details>
 <summary>
-potato    
+six    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-creamed corn  
+seven  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-lemon custard   
+eight   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-raspberry jelly  
+ten  
 </summary>
 
 :x: *Wrong...*
