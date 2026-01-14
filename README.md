@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/13/2026 at 12:00 AM*
-### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
+*Updated 1/14/2026 at 12:00 AM*
+### In the children's game, what color is 'Rover'?
 <details>
 <summary>
-six    
+green    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+black  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+red   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eight   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten  
+blue  
 </summary>
 
 :x: *Wrong...*
