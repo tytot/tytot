@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/14/2026 at 12:00 AM*
-### In the children's game, what color is 'Rover'?
+*Updated 1/15/2026 at 12:00 AM*
+### What biological process replicates DNA?
 <details>
 <summary>
-green    
+molting    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-black  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-red   
+mitosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blue  
+diffusion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+peristalsis  
 </summary>
 
 :x: *Wrong...*
