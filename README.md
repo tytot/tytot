@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/15/2026 at 12:00 AM*
-### What biological process replicates DNA?
+*Updated 1/16/2026 at 12:00 AM*
+### What was the name of the first ship to sail around the world?
 <details>
 <summary>
-molting    
+Triton    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mitosis  
+Victoria  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-diffusion   
+Magellan   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-peristalsis  
+Elizabeth II  
 </summary>
 
 :x: *Wrong...*
