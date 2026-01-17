@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/16/2026 at 12:00 AM*
-### What was the name of the first ship to sail around the world?
+*Updated 1/17/2026 at 12:00 AM*
+### Who is considered the owner of a 'publicly held' company?
 <details>
 <summary>
-Triton    
+the CEO    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Victoria  
+the stockholders  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Magellan   
+the president   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth II  
+the government  
 </summary>
 
 :x: *Wrong...*
