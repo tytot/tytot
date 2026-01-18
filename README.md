@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/17/2026 at 12:00 AM*
-### Who is considered the owner of a 'publicly held' company?
+*Updated 1/18/2026 at 12:00 AM*
+### Where are fireworks first known to have been developed?
 <details>
 <summary>
-the CEO    
+Italy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the stockholders  
+China  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-the president   
+Great Britain   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the government  
+Greece  
 </summary>
 
 :x: *Wrong...*
