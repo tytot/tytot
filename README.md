@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/18/2026 at 12:00 AM*
-### Where are fireworks first known to have been developed?
+*Updated 1/19/2026 at 12:00 AM*
+### How many ribs are there in the human body?
 <details>
 <summary>
-Italy    
+18    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-China  
+24  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Great Britain   
+30   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece  
+42  
 </summary>
 
 :x: *Wrong...*
