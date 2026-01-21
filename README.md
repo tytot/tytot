@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/20/2026 at 12:00 AM*
-### Which of these pastas is spiral shaped?
+*Updated 1/21/2026 at 12:00 AM*
+### How many eyes does a Giraffe have?
 <details>
 <summary>
-fettuccine    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rigatoni  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-tortellini   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rotini  
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
