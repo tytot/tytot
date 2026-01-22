@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/21/2026 at 12:00 AM*
-### How many eyes does a Giraffe have?
+*Updated 1/22/2026 at 12:00 AM*
+### What important food crop is grown in fields called paddies?
 <details>
 <summary>
-one    
+wheat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+rye  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rice  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
