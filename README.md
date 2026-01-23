@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/22/2026 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 1/23/2026 at 12:00 AM*
+### When it's noon in New York during daylight-saving time, what time is it in Honolulu?
 <details>
 <summary>
-wheat    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rye  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+6:00 a.m.    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+6:30 a.m.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+7:00 a.m.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8:00 a.m.  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
