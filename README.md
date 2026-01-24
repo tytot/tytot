@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/23/2026 at 12:00 AM*
-### When it's noon in New York during daylight-saving time, what time is it in Honolulu?
+*Updated 1/24/2026 at 12:00 AM*
+### Which of these is a government agency established to protect investors?
 <details>
 <summary>
-6:00 a.m.    
+AAA    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+NBA  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+SEC   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-6:30 a.m.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-7:00 a.m.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-8:00 a.m.  
+MADD  
 </summary>
 
 :x: *Wrong...*
