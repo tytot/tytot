@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/24/2026 at 12:00 AM*
-### Which of these is a government agency established to protect investors?
+*Updated 1/25/2026 at 12:00 AM*
+### Who was the first American in space?
 <details>
 <summary>
-AAA    
+John Glenn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-NBA  
+Buzz Aldrin  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-SEC   
+Alan Shepard   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-MADD  
+Neil Armstrong  
 </summary>
 
 :x: *Wrong...*
