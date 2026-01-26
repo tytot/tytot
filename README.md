@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/25/2026 at 12:00 AM*
-### Who was the first American in space?
+*Updated 1/26/2026 at 12:00 AM*
+### Which of these states is not the birthplace of a US president?
 <details>
 <summary>
-John Glenn    
+New Jersey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Buzz Aldrin  
+Nebraska  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Alan Shepard   
+Kansas   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neil Armstrong  
+California  
 </summary>
 
 :x: *Wrong...*
