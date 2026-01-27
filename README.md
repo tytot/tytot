@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/26/2026 at 12:00 AM*
-### Which of these states is not the birthplace of a US president?
+*Updated 1/27/2026 at 12:00 AM*
+### What New Age musician released a 1998 album titled 'King of the Pan Flute'?
 <details>
 <summary>
-New Jersey    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nebraska  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kansas   
+Zamfir    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-California  
+Yanni  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vangelis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Kenny G  
 </summary>
 
 :x: *Wrong...*
