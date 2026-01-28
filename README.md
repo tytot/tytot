@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/27/2026 at 12:00 AM*
-### What New Age musician released a 1998 album titled 'King of the Pan Flute'?
+*Updated 1/28/2026 at 12:00 AM*
+### Which of these is not an ingredient in Yorkshire pudding?
 <details>
 <summary>
-Zamfir    
+eggs    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+milk  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Yanni  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vangelis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kenny G  
+meat drippings  
 </summary>
 
 :x: *Wrong...*
