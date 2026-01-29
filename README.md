@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/28/2026 at 12:00 AM*
-### Which of these is not an ingredient in Yorkshire pudding?
+*Updated 1/29/2026 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-eggs    
+Fancy Feast    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-milk  
+Cat Chow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chocolate   
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-meat drippings  
+9-Lives  
 </summary>
 
 :x: *Wrong...*
