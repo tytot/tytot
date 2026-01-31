@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/30/2026 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 1/31/2026 at 12:00 AM*
+### Who is considered the owner of a 'publicly held' company?
 <details>
 <summary>
-Calvin Coolidge    
+the CEO    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aaron Burr   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-William McKinley  
+the stockholders  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+the president   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the government  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
