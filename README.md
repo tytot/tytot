@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 1/31/2026 at 12:00 AM*
-### Who is considered the owner of a 'publicly held' company?
+*Updated 2/1/2026 at 12:00 AM*
+### What professional sports team plays its home games in the Alamodome?
 <details>
 <summary>
-the CEO    
+New York Jets    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the stockholders  
+Detroit Tigers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Boston Bruins   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+San Antonio Spurs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-the president   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the government  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
