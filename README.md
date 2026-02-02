@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/1/2026 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 2/2/2026 at 12:00 AM*
+### According to legend, if you give someone the 'evil eye' what are you doing?
 <details>
 <summary>
-New York Jets    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Detroit Tigers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Boston Bruins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Antonio Spurs  
+cursing them    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+blessing a child  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+counting money   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+passing time  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
