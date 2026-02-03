@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/2/2026 at 12:00 AM*
-### According to legend, if you give someone the 'evil eye' what are you doing?
+*Updated 2/3/2026 at 12:00 AM*
+### What chemical do people frequently use to bleach hair?
 <details>
 <summary>
-cursing them    
+folic acid    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hydrogen peroxide  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-blessing a child  
+sodium chloride   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-counting money   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-passing time  
+nitrous oxide  
 </summary>
 
 :x: *Wrong...*
