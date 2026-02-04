@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/3/2026 at 12:00 AM*
-### What chemical do people frequently use to bleach hair?
+*Updated 2/4/2026 at 12:00 AM*
+### Which of these is not a style of shoe?
 <details>
 <summary>
-folic acid    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hydrogen peroxide  
+gingham    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sodium chloride   
+brogan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nitrous oxide  
+espadrille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+docksider  
 </summary>
 
 :x: *Wrong...*
