@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/4/2026 at 12:00 AM*
-### Which of these is not a style of shoe?
+*Updated 2/5/2026 at 12:00 AM*
+### How many axles does a standard automobile have?
 <details>
 <summary>
-gingham    
+one    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-brogan  
+four   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-espadrille   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-docksider  
+eight  
 </summary>
 
 :x: *Wrong...*
