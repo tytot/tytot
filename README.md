@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/5/2026 at 12:00 AM*
-### How many axles does a standard automobile have?
+*Updated 2/6/2026 at 12:00 AM*
+### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
 <details>
 <summary>
-one    
+'Humpty Dumpty'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+'Mary Had a Little Lamb'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-four   
+'Jack Be Nimble'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight  
+'Home, Sweet Home'  
 </summary>
 
 :x: *Wrong...*
