@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/6/2026 at 12:00 AM*
-### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
+*Updated 2/7/2026 at 12:00 AM*
+### What animal is considered sacred in India?
 <details>
 <summary>
-'Humpty Dumpty'    
+sheep    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Mary Had a Little Lamb'  
+cow  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'Jack Be Nimble'   
+chicken   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Home, Sweet Home'  
+dog  
 </summary>
 
 :x: *Wrong...*
