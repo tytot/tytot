@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/7/2026 at 12:00 AM*
-### What animal is considered sacred in India?
+*Updated 2/8/2026 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-sheep    
+Fancy Feast    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cow  
+Cat Chow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chicken   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dog  
+9-Lives  
 </summary>
 
 :x: *Wrong...*
