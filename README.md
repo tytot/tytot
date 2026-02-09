@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/8/2026 at 12:00 AM*
-### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
+*Updated 2/9/2026 at 12:00 AM*
+### Who was on the $500 bill?
 <details>
 <summary>
-Fancy Feast    
+Calvin Coolidge    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cat Chow  
+Andrew Jackson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Meow Mix   
+Aaron Burr   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+William McKinley  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-9-Lives  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
