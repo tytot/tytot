@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/9/2026 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 2/10/2026 at 12:00 AM*
+### What children's TV character is known as 'Da Niao' in China?
 <details>
 <summary>
-Calvin Coolidge    
+Barney    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aaron Burr   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-William McKinley  
+Big Bird  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Mickey Mouse   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tinky Winky  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
