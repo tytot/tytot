@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/10/2026 at 12:00 AM*
-### What children's TV character is known as 'Da Niao' in China?
+*Updated 2/11/2026 at 12:00 AM*
+### Someone would most likely contract salmonella poisoning from eating which of the following?
 <details>
 <summary>
-Barney    
+carrots    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Big Bird  
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mickey Mouse   
+tofu   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tinky Winky  
+rice  
 </summary>
 
 :x: *Wrong...*
