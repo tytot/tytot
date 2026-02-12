@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/11/2026 at 12:00 AM*
-### Someone would most likely contract salmonella poisoning from eating which of the following?
+*Updated 2/12/2026 at 12:00 AM*
+### Excluding wisdom teeth, how many adult teeth do humans have?
 <details>
 <summary>
-carrots    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chicken  
+28    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tofu   
+32  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rice  
+35   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+40  
 </summary>
 
 :x: *Wrong...*
