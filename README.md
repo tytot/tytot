@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/12/2026 at 12:00 AM*
-### Excluding wisdom teeth, how many adult teeth do humans have?
+*Updated 2/13/2026 at 12:00 AM*
+### Astronaut John Glenn served as a pilot in what branch of the military?
 <details>
 <summary>
-28    
+Army    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Air Force  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Marines   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-32  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-35   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-40  
+Navy  
 </summary>
 
 :x: *Wrong...*
