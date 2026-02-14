@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/13/2026 at 12:00 AM*
-### Astronaut John Glenn served as a pilot in what branch of the military?
+*Updated 2/14/2026 at 12:00 AM*
+### What are the names of Donald Duck's three nephews?
 <details>
 <summary>
-Army    
+Quick, Quack, Quock    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Air Force  
+Alvin, Simon, Theodore  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Marines   
+Robbie, Chip, Ernie   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Huey, Dewey, Louie  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Navy  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
