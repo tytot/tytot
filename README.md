@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/14/2026 at 12:00 AM*
-### What are the names of Donald Duck's three nephews?
+*Updated 2/15/2026 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-Quick, Quack, Quock    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Alvin, Simon, Theodore  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie, Chip, Ernie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Huey, Dewey, Louie  
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+It's made of bone.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
