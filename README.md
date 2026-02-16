@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/15/2026 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 2/16/2026 at 12:00 AM*
+### What is considered the proper way to address a duke?
 <details>
 <summary>
-It opens many locks.    
+'Your Majesty'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Your Eminence'  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Your Excellency'   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Your Grace'  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-It's made of bone.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
