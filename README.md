@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/16/2026 at 12:00 AM*
-### What is considered the proper way to address a duke?
+*Updated 2/17/2026 at 12:00 AM*
+### How many eyes does a Giraffe have?
 <details>
 <summary>
-'Your Majesty'    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Your Eminence'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Your Excellency'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Your Grace'  
+two  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
