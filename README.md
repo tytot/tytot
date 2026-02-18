@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/17/2026 at 12:00 AM*
-### How many eyes does a Giraffe have?
+*Updated 2/18/2026 at 12:00 AM*
+### What country is the rock group U2 from?
 <details>
 <summary>
-one    
+England    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
+Ireland  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-three   
+Belgium   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+Germany  
 </summary>
 
 :x: *Wrong...*
