@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/18/2026 at 12:00 AM*
-### What country is the rock group U2 from?
+*Updated 2/19/2026 at 12:00 AM*
+### According to a popular slogan, what state should people not 'mess with'?
 <details>
 <summary>
-England    
+New York    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ireland  
+Texas  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Belgium   
+Montana   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Germany  
+Rhode Island  
 </summary>
 
 :x: *Wrong...*
