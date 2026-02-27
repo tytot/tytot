@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/19/2026 at 12:00 AM*
-### According to a popular slogan, what state should people not 'mess with'?
+*Updated 2/27/2026 at 12:00 AM*
+### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
 <details>
 <summary>
-New York    
+through outer space    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Texas  
+through a human body  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Montana   
+to the ocean floor   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhode Island  
+to the center of the earth  
 </summary>
 
 :x: *Wrong...*
