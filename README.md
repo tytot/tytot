@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/27/2026 at 12:00 AM*
-### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
+*Updated 2/28/2026 at 12:00 AM*
+### In what country did Pokemon originate?
 <details>
 <summary>
-through outer space    
+France    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-through a human body  
+Hungary  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Japan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to the ocean floor   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-to the center of the earth  
+Canada  
 </summary>
 
 :x: *Wrong...*
