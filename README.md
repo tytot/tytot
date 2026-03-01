@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 2/28/2026 at 12:00 AM*
-### In what country did Pokemon originate?
+*Updated 3/1/2026 at 12:00 AM*
+### Which of these animals shares its name with a luxury car?
 <details>
 <summary>
-France    
+yak    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Hungary  
+gazelle  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan   
+sloth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+jaguar  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Canada  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
