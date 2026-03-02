@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/1/2026 at 12:00 AM*
-### Which of these animals shares its name with a luxury car?
+*Updated 3/2/2026 at 12:00 AM*
+### What was the title of Beethoven's only completed opera?
 <details>
 <summary>
-yak    
+'Faust'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gazelle  
+'The Silence'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sloth   
+'Immortal Beloved'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-jaguar  
+'Fidelio'  
 </summary>
 
 :heavy_check_mark: *Correct!*
