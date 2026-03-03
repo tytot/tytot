@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/2/2026 at 12:00 AM*
-### What was the title of Beethoven's only completed opera?
+*Updated 3/3/2026 at 12:00 AM*
+### In what country did Magic Johnson play professional basketball during the 1999 season?
 <details>
 <summary>
-'Faust'    
+United States    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'The Silence'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Immortal Beloved'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Fidelio'  
+Sweden  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Israel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Turkey  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
