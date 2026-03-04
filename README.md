@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/3/2026 at 12:00 AM*
-### In what country did Magic Johnson play professional basketball during the 1999 season?
+*Updated 3/4/2026 at 12:00 AM*
+### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
 <details>
 <summary>
-United States    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sweden  
+six    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Israel   
+seven  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Turkey  
+eight   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ten  
 </summary>
 
 :x: *Wrong...*
