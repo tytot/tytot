@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/4/2026 at 12:00 AM*
-### In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?
+*Updated 3/5/2026 at 12:00 AM*
+### Which one of these World War II leaders was not at the Yalta Conference?
 <details>
 <summary>
-six    
+Stalin    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mussolini  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-seven  
+Churchill   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eight   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten  
+Roosevelt  
 </summary>
 
 :x: *Wrong...*
