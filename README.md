@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/5/2026 at 12:00 AM*
-### Which one of these World War II leaders was not at the Yalta Conference?
+*Updated 3/6/2026 at 12:00 AM*
+### What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?
 <details>
 <summary>
-Stalin    
+Jane Pauley    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Mussolini  
+Willard Scott  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Churchill   
+Deborah Norville   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Roosevelt  
+Joe Garagiola  
 </summary>
 
 :x: *Wrong...*
