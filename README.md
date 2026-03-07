@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/6/2026 at 12:00 AM*
-### What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?
+*Updated 3/7/2026 at 12:00 AM*
+### What is the correct spelling of New Mexico's largest city?
 <details>
 <summary>
-Jane Pauley    
+Albuqerque    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Willard Scott  
+Albuquerque  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Deborah Norville   
+Albequerque   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Joe Garagiola  
+Santa Fe  
 </summary>
 
 :x: *Wrong...*
