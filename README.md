@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/7/2026 at 12:00 AM*
-### What is the correct spelling of New Mexico's largest city?
+*Updated 3/8/2026 at 12:00 AM*
+### Pop icon Tiny Tim was famous for playing what musical instrument?
 <details>
 <summary>
-Albuqerque    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Albuquerque  
+ukulele    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Albequerque   
+kazoo  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Santa Fe  
+accordion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+fiddle  
 </summary>
 
 :x: *Wrong...*
