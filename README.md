@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/8/2026 at 12:00 AM*
-### Pop icon Tiny Tim was famous for playing what musical instrument?
+*Updated 3/9/2026 at 12:00 AM*
+### Which fast food chain used the advertising slogan, 'Where's the beef?'
 <details>
 <summary>
-ukulele    
+Wendy's    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kazoo  
+Kentucky Fried Chicken  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-accordion   
+Burger King   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fiddle  
+McDonald's  
 </summary>
 
 :x: *Wrong...*
