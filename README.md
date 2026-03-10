@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/9/2026 at 12:00 AM*
-### Which fast food chain used the advertising slogan, 'Where's the beef?'
+*Updated 3/10/2026 at 12:00 AM*
+### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
 <details>
 <summary>
-Wendy's    
+Mount Everest    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bermuda Triangle  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Atlantis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+North Pole  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Kentucky Fried Chicken  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Burger King   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-McDonald's  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
