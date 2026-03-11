@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/10/2026 at 12:00 AM*
-### In 1909, Frederick Cook claimed to be the first explorer to reach what location?
+*Updated 3/11/2026 at 12:00 AM*
+### What are the plastic boxes that hold compact discs called?
 <details>
 <summary>
-Mount Everest    
+frame cases    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bermuda Triangle  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Atlantis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-North Pole  
+jewel cases  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+slip cases   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+wafer boxes  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
