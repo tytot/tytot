@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/11/2026 at 12:00 AM*
-### What are the plastic boxes that hold compact discs called?
+*Updated 3/12/2026 at 12:00 AM*
+### Which of these is made from cacao seeds?
 <details>
 <summary>
-frame cases    
+marzipan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-jewel cases  
+soy sauce  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-slip cases   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-wafer boxes  
+anchovies  
 </summary>
 
 :x: *Wrong...*
