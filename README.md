@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/12/2026 at 12:00 AM*
-### Which of these is made from cacao seeds?
+*Updated 3/13/2026 at 12:00 AM*
+### What is the 7-Eleven company's trademarked name for its super-large sodas?
 <details>
 <summary>
-marzipan    
+Big Slurp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-soy sauce  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chocolate   
+Big Gulp  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-anchovies  
+Big Drink   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Big Sip  
 </summary>
 
 :x: *Wrong...*
