@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/13/2026 at 12:00 AM*
-### What is the 7-Eleven company's trademarked name for its super-large sodas?
+*Updated 3/14/2026 at 12:00 AM*
+### What chemical do people frequently use to bleach hair?
 <details>
 <summary>
-Big Slurp    
+folic acid    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Big Gulp  
+hydrogen peroxide  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Big Drink   
+sodium chloride   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Big Sip  
+nitrous oxide  
 </summary>
 
 :x: *Wrong...*
