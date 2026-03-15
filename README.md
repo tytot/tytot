@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/14/2026 at 12:00 AM*
-### What chemical do people frequently use to bleach hair?
+*Updated 3/15/2026 at 12:00 AM*
+### What animal represents the year 2000 on the Chinese calendar?
 <details>
 <summary>
-folic acid    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hydrogen peroxide  
+dragon    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sodium chloride   
+rabbit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nitrous oxide  
+tiger   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+monkey  
 </summary>
 
 :x: *Wrong...*
