@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/16/2026 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 3/17/2026 at 12:00 AM*
+### By what name is Bob Keeshan better known?
 <details>
 <summary>
-Miss Jackie    
+Bozo the Clown    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Sanford  
+Pee Wee Herman  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Geraldine Jones   
+Captain Kangaroo   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+Buffalo Bob  
 </summary>
 
 :x: *Wrong...*
