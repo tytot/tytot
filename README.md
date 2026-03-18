@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/17/2026 at 12:00 AM*
-### By what name is Bob Keeshan better known?
+*Updated 3/18/2026 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-Bozo the Clown    
+sportswear    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pee Wee Herman  
+dishwashers  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Captain Kangaroo   
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Buffalo Bob  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
