@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/18/2026 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 3/19/2026 at 12:00 AM*
+### Which of these is not a Hindu deity?
 <details>
 <summary>
-sportswear    
+Shiva    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dishwashers  
+Vishnu  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cigarettes   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-bicycles  
+Sanskrit   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Brahma  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
