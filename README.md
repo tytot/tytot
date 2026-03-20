@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/19/2026 at 12:00 AM*
-### Which of these is not a Hindu deity?
+*Updated 3/20/2026 at 12:00 AM*
+### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
 <details>
 <summary>
-Shiva    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vishnu  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sanskrit   
+a cow    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Brahma  
+a hat  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a harp   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a goose  
 </summary>
 
 :x: *Wrong...*
