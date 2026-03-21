@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/20/2026 at 12:00 AM*
-### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
+*Updated 3/21/2026 at 12:00 AM*
+### How many periods are there in an ice hockey game?
 <details>
 <summary>
-a cow    
+One    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Three   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a hat  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a harp   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a goose  
+Four  
 </summary>
 
 :x: *Wrong...*
