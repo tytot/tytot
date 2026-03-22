@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/21/2026 at 12:00 AM*
-### How many periods are there in an ice hockey game?
+*Updated 3/22/2026 at 12:00 AM*
+### Whose profile can you see on the front of dimes that are currently in circulation?
 <details>
 <summary>
-One    
+George Washington    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Two  
+Thomas Jefferson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three   
+Benjamin Franklin   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Franklin Roosevelt  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Four  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
