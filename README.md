@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/22/2026 at 12:00 AM*
-### Whose profile can you see on the front of dimes that are currently in circulation?
+*Updated 3/23/2026 at 12:00 AM*
+### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
 <details>
 <summary>
-George Washington    
+a lime    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Thomas Jefferson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Benjamin Franklin   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Franklin Roosevelt  
+a shaker of salt  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+his car keys   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the bartender  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
