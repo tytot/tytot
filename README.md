@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/23/2026 at 12:00 AM*
-### In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?
+*Updated 3/24/2026 at 12:00 AM*
+### Including the bottom, how many sides are on a square-based pyramid?
 <details>
 <summary>
-a lime    
+three    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a shaker of salt  
+four  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+five   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-his car keys   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the bartender  
+six  
 </summary>
 
 :x: *Wrong...*
