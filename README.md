@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/24/2026 at 12:00 AM*
-### Including the bottom, how many sides are on a square-based pyramid?
+*Updated 3/26/2026 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-three    
+chirp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+bark  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five   
+growl   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-six  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
