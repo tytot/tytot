@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/26/2026 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 3/27/2026 at 12:00 AM*
+### What does it mean to work 'pro bono'?
 <details>
 <summary>
-chirp    
+work overtime    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+work without pay  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+work as your own boss   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+not work at all  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
