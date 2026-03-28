@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/27/2026 at 12:00 AM*
-### What does it mean to work 'pro bono'?
+*Updated 3/28/2026 at 12:00 AM*
+### On what body part should you wear a babushka?
 <details>
 <summary>
-work overtime    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-work without pay  
+head    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-work as your own boss   
+hands  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-not work at all  
+foot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+legs  
 </summary>
 
 :x: *Wrong...*
