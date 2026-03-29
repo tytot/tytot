@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/28/2026 at 12:00 AM*
-### On what body part should you wear a babushka?
+*Updated 3/29/2026 at 12:00 AM*
+### In what decade was the Hula-Hoop invented?
 <details>
 <summary>
-head    
+1890s    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1920s  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+1950s   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-hands  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-foot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-legs  
+1970s  
 </summary>
 
 :x: *Wrong...*
