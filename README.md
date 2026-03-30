@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/29/2026 at 12:00 AM*
-### In what decade was the Hula-Hoop invented?
+*Updated 3/30/2026 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-1890s    
+Michael    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-1920s  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-1950s   
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-1970s  
+Mortimer   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Matthew  
 </summary>
 
 :x: *Wrong...*
