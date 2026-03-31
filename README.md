@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/30/2026 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 3/31/2026 at 12:00 AM*
+### What important food crop is grown in fields called paddies?
 <details>
 <summary>
-Michael    
+wheat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Milhous  
+rye  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rice  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Mortimer   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Matthew  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
