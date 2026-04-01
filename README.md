@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 3/31/2026 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 4/1/2026 at 12:00 AM*
+### Which one of these world leaders was assassinated?
 <details>
 <summary>
-wheat    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rye  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+Indira Gandhi    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Ferdinand Marcos  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Golda Meir   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Neville Chamberlain  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
