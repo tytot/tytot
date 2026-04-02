@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/1/2026 at 12:00 AM*
-### Which one of these world leaders was assassinated?
+*Updated 4/2/2026 at 12:00 AM*
+### On which part of a car would you find the 'caliper'?
 <details>
 <summary>
-Indira Gandhi    
+battery    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+engine  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+radiator   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+brakes  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ferdinand Marcos  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Golda Meir   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Neville Chamberlain  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
