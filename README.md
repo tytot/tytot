@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/2/2026 at 12:00 AM*
-### On which part of a car would you find the 'caliper'?
+*Updated 4/3/2026 at 12:00 AM*
+### When driving, which of the following gestures means 'left turn'?
 <details>
 <summary>
-battery    
+arm bent upwards    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-engine  
+thumbs up  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-radiator   
+closed fist   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-brakes  
+arm straight out  
 </summary>
 
 :heavy_check_mark: *Correct!*
