@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/3/2026 at 12:00 AM*
-### When driving, which of the following gestures means 'left turn'?
+*Updated 4/4/2026 at 12:00 AM*
+### If you are watching a Shavian play, who is the author?
 <details>
 <summary>
-arm bent upwards    
+Shakespeare    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-thumbs up  
+Aeschylus  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-closed fist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-arm straight out  
+George Bernard Shaw   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Anton Chekhov  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
