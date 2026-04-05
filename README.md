@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/4/2026 at 12:00 AM*
-### If you are watching a Shavian play, who is the author?
+*Updated 4/5/2026 at 12:00 AM*
+### When it first appeared on the Internet, amazon.com sold only what?
 <details>
 <summary>
-Shakespeare    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aeschylus  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-George Bernard Shaw   
+books    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Anton Chekhov  
+compact discs  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cars   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+clothes  
 </summary>
 
 :x: *Wrong...*
