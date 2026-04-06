@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/5/2026 at 12:00 AM*
-### When it first appeared on the Internet, amazon.com sold only what?
+*Updated 4/6/2026 at 12:00 AM*
+### Huffy, Schwinn and Raleigh are all brands of what?
 <details>
 <summary>
-books    
+sportswear    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dishwashers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cigarettes   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bicycles  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-compact discs  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cars   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-clothes  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
