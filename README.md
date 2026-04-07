@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/6/2026 at 12:00 AM*
-### Huffy, Schwinn and Raleigh are all brands of what?
+*Updated 4/7/2026 at 12:00 AM*
+### What important food crop is grown in fields called paddies?
 <details>
 <summary>
-sportswear    
+wheat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dishwashers  
+rye  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cigarettes   
+corn   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bicycles  
+rice  
 </summary>
 
 :heavy_check_mark: *Correct!*
