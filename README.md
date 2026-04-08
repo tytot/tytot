@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/7/2026 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 4/8/2026 at 12:00 AM*
+### What are the names of Donald Duck's three nephews?
 <details>
 <summary>
-wheat    
+Quick, Quack, Quock    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rye  
+Alvin, Simon, Theodore  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-corn   
+Robbie, Chip, Ernie   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rice  
+Huey, Dewey, Louie  
 </summary>
 
 :heavy_check_mark: *Correct!*
