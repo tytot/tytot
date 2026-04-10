@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/9/2026 at 12:00 AM*
-### According to Greek mythology, who was Apollo's twin sister?
+*Updated 4/10/2026 at 12:00 AM*
+### What important food crop is grown in fields called paddies?
 <details>
 <summary>
-Aphrodite    
+wheat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Artemis  
+rye  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+corn   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+rice  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Venus   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Athena  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
