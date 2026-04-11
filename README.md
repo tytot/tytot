@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/10/2026 at 12:00 AM*
-### What important food crop is grown in fields called paddies?
+*Updated 4/11/2026 at 12:00 AM*
+### What is the last letter of the Greek alphabet?
 <details>
 <summary>
-wheat    
+omicron    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-rye  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-corn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-rice  
+omega  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+upsilon   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+zeta  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
