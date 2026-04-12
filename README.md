@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/11/2026 at 12:00 AM*
-### What is the last letter of the Greek alphabet?
+*Updated 4/12/2026 at 12:00 AM*
+### To make an international telephone call from within the US, what are the first numbers you should dial?
 <details>
 <summary>
-omicron    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-omega  
+011    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-upsilon   
+101  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-zeta  
+888   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+911  
 </summary>
 
 :x: *Wrong...*
