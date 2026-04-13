@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/12/2026 at 12:00 AM*
-### To make an international telephone call from within the US, what are the first numbers you should dial?
+*Updated 4/13/2026 at 12:00 AM*
+### What is the name of Raggedy Ann's doll brother?
 <details>
 <summary>
-011    
+Red    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Freckles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Randy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Andy  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-101  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-888   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-911  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
