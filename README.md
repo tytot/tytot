@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/13/2026 at 12:00 AM*
-### What is the name of Raggedy Ann's doll brother?
+*Updated 4/14/2026 at 12:00 AM*
+### Excluding wisdom teeth, how many adult teeth do humans have?
 <details>
 <summary>
-Red    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Freckles  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Randy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Andy  
+28    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+32  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+35   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+40  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
