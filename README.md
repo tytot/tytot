@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/14/2026 at 12:00 AM*
-### Excluding wisdom teeth, how many adult teeth do humans have?
+*Updated 4/15/2026 at 12:00 AM*
+### Cheddar cheese got its name from a village in what country?
 <details>
 <summary>
-28    
+England    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-32  
+France  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-35   
+Switzerland   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-40  
+Denmark  
 </summary>
 
 :x: *Wrong...*
