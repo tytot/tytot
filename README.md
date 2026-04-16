@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/15/2026 at 12:00 AM*
-### Cheddar cheese got its name from a village in what country?
+*Updated 4/16/2026 at 12:00 AM*
+### Which of these magazines does not focus on natural science?
 <details>
 <summary>
-England    
+Tiger Beat    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+Outside  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Switzerland   
+National Geographic   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Denmark  
+Smithsonian  
 </summary>
 
 :x: *Wrong...*
