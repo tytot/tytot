@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/16/2026 at 12:00 AM*
-### Which of these magazines does not focus on natural science?
+*Updated 4/17/2026 at 12:00 AM*
+### If you have a 'sawbuck' how much money do you have?
 <details>
 <summary>
-Tiger Beat    
+$1    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$5  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$10   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Outside  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-National Geographic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Smithsonian  
+$20  
 </summary>
 
 :x: *Wrong...*
