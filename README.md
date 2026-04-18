@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/17/2026 at 12:00 AM*
-### If you have a 'sawbuck' how much money do you have?
+*Updated 4/18/2026 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-$1    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$5  
+Bovinity Divinity  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-$10   
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-$20  
+Chubby Hubby  
 </summary>
 
 :x: *Wrong...*
