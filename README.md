@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/18/2026 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 4/19/2026 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-Wavy Gravy    
+in French    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cutie Patootie   
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+in braille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+in gibberish  
 </summary>
 
 :x: *Wrong...*
