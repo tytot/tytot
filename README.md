@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/20/2026 at 12:00 AM*
-### Which of these college football programs has produced the most Heisman Trophy winners?
+*Updated 4/21/2026 at 12:00 AM*
+### What was the name of the first nuclear-powered submarine?
 <details>
 <summary>
-Notre Dame    
+Nautilus    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-USC  
+Neptune  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Oklahoma   
+Nordenfelt III   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Michigan  
+Nicholas  
 </summary>
 
 :x: *Wrong...*
