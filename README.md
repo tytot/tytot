@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/21/2026 at 12:00 AM*
-### What was the name of the first nuclear-powered submarine?
+*Updated 4/22/2026 at 12:00 AM*
+### Who was the first First Lady to run for political office?
 <details>
 <summary>
-Nautilus    
+Hillary Clinton    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Neptune  
+Rosalynn Carter  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nordenfelt III   
+Bess Truman   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nicholas  
+Eleanor Roosevelt  
 </summary>
 
 :x: *Wrong...*
