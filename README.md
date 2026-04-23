@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/22/2026 at 12:00 AM*
-### Who was the first First Lady to run for political office?
+*Updated 4/23/2026 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-Hillary Clinton    
+America Over Lines    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Rosalynn Carter  
+Americans On Links   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bess Truman   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Eleanor Roosevelt  
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
