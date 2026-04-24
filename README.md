@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/23/2026 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 4/24/2026 at 12:00 AM*
+### What animated character has a crush on the Little Red Haired Girl?
 <details>
 <summary>
-America Over Lines    
+Richie Rich    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+Charlie Brown  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
+Bugs Bunny   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Americans On LOR  
+Jonny Quest  
 </summary>
 
 :x: *Wrong...*
