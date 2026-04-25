@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/24/2026 at 12:00 AM*
-### What animated character has a crush on the Little Red Haired Girl?
+*Updated 4/25/2026 at 12:00 AM*
+### What's unique about a skeleton key?
 <details>
 <summary>
-Richie Rich    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Charlie Brown  
+It opens many locks.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Bugs Bunny   
+It's made of bone.  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jonny Quest  
+It's extremely old.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+It hangs in a closet.  
 </summary>
 
 :x: *Wrong...*
