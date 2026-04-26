@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/25/2026 at 12:00 AM*
-### What's unique about a skeleton key?
+*Updated 4/26/2026 at 12:00 AM*
+### On what continent can you find tigers in the wild?
 <details>
 <summary>
-It opens many locks.    
+Africa    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Asia  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-It's made of bone.  
+Europe   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-It's extremely old.   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-It hangs in a closet.  
+South America  
 </summary>
 
 :x: *Wrong...*
