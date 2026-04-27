@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/26/2026 at 12:00 AM*
-### On what continent can you find tigers in the wild?
+*Updated 4/27/2026 at 12:00 AM*
+### What actress starred on 'Charlie's Angels' for the show's entire run?
 <details>
 <summary>
-Africa    
+Cheryl Ladd    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Asia  
+Farrah Fawcett  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jaclyn Smith   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Europe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-South America  
+Kate Jackson  
 </summary>
 
 :x: *Wrong...*
