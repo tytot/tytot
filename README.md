@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/27/2026 at 12:00 AM*
-### What actress starred on 'Charlie's Angels' for the show's entire run?
+*Updated 4/28/2026 at 12:00 AM*
+### Which of these words means 'yes' in French?
 <details>
 <summary>
-Cheryl Ladd    
+qui    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Farrah Fawcett  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jaclyn Smith   
+oui  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Kate Jackson  
+ja   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+okey-dokey  
 </summary>
 
 :x: *Wrong...*
