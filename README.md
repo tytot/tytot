@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/28/2026 at 12:00 AM*
-### Which of these words means 'yes' in French?
+*Updated 4/29/2026 at 12:00 AM*
+### What disease does a carcinogen cause?
 <details>
 <summary>
-qui    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-oui  
+cancer    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ja   
+influenza  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-okey-dokey  
+emphysema   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+heart disease  
 </summary>
 
 :x: *Wrong...*
