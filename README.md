@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/29/2026 at 12:00 AM*
-### What disease does a carcinogen cause?
+*Updated 4/30/2026 at 12:00 AM*
+### Which of the boys on the TV show 'My Three Sons' is adopted?
 <details>
 <summary>
-cancer    
+Mike    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ernie  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-influenza  
+Chip   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-emphysema   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-heart disease  
+Robbie  
 </summary>
 
 :x: *Wrong...*
