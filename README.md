@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 4/30/2026 at 12:00 AM*
-### Which of the boys on the TV show 'My Three Sons' is adopted?
+*Updated 5/1/2026 at 12:00 AM*
+### Which of the following is most commonly kept in a terrarium?
 <details>
 <summary>
-Mike    
+money    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ernie  
+books  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ice   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+plants  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Chip   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robbie  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
