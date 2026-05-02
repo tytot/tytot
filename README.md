@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/1/2026 at 12:00 AM*
-### Which of the following is most commonly kept in a terrarium?
+*Updated 5/2/2026 at 12:00 AM*
+### In the Arthurian legend, who is married to Guinevere?
 <details>
 <summary>
-money    
+Merlin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-books  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ice   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-plants  
+King Arthur  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Lancelot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Camelot  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
