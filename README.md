@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/2/2026 at 12:00 AM*
-### In the Arthurian legend, who is married to Guinevere?
+*Updated 5/3/2026 at 12:00 AM*
+### What country was once ruled by shoguns?
 <details>
 <summary>
-Merlin    
+China    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-King Arthur  
+Japan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Lancelot   
+North Korea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Camelot  
+Taiwan  
 </summary>
 
 :x: *Wrong...*
