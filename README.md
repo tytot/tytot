@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/3/2026 at 12:00 AM*
-### What country was once ruled by shoguns?
+*Updated 5/4/2026 at 12:00 AM*
+### What rank entitles a general in the US Army to wear three stars?
 <details>
 <summary>
-China    
+brigadier general    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Japan  
+corporal general  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+lieutenant general   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-North Korea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Taiwan  
+major general  
 </summary>
 
 :x: *Wrong...*
