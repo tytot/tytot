@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/5/2026 at 12:00 AM*
-### What was the name of the 1999 art exhibit that sparked a national debate about censorship?
+*Updated 5/6/2026 at 12:00 AM*
+### What is the colored part of the eye called?
 <details>
 <summary>
-'Sticks & Stones'    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Pulsation'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Black & White'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Sensation'  
+iris    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+pupil  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+retina   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cochlea  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
