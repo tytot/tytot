@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/6/2026 at 12:00 AM*
-### What is the colored part of the eye called?
+*Updated 5/7/2026 at 12:00 AM*
+### What company makes perfumes called 'Beautiful' and 'Pleasures'?
 <details>
 <summary>
-iris    
+Estee Lauder    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-pupil  
+Ralph Lauren  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-retina   
+Elizabeth Arden   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cochlea  
+Calvin Klein  
 </summary>
 
 :x: *Wrong...*
