@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/7/2026 at 12:00 AM*
-### What company makes perfumes called 'Beautiful' and 'Pleasures'?
+*Updated 5/8/2026 at 12:00 AM*
+### What cartoon character traveled in a time machine with Mr. Peabody?
 <details>
 <summary>
-Estee Lauder    
+Rocky    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jonny Quest  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Underdog   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sherman  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Ralph Lauren  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Elizabeth Arden   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Calvin Klein  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
