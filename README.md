@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/8/2026 at 12:00 AM*
-### What cartoon character traveled in a time machine with Mr. Peabody?
+*Updated 5/9/2026 at 12:00 AM*
+### According to the proverb, necessity is the mother of what?
 <details>
 <summary>
-Rocky    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jonny Quest  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Underdog   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sherman  
+Invention    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Luck  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Problems   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Procrastination  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
