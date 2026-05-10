@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/9/2026 at 12:00 AM*
-### According to the proverb, necessity is the mother of what?
+*Updated 5/10/2026 at 12:00 AM*
+### Which of these dishes is made from pig intestines?
 <details>
 <summary>
-Invention    
+haggis    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chitlins  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Luck  
+grits   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Problems   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Procrastination  
+chop suey  
 </summary>
 
 :x: *Wrong...*
