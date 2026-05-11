@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/10/2026 at 12:00 AM*
-### Which of these dishes is made from pig intestines?
+*Updated 5/11/2026 at 12:00 AM*
+### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
 <details>
 <summary>
-haggis    
+Pueblo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chitlins  
+Aztec  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inca   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-grits   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-chop suey  
+Apache  
 </summary>
 
 :x: *Wrong...*
