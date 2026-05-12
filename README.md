@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/11/2026 at 12:00 AM*
-### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
+*Updated 5/12/2026 at 12:00 AM*
+### What internet company goes by the acronym AOL?
 <details>
 <summary>
-Pueblo    
+America Over Lines    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aztec  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Inca   
+America Online  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Apache  
+Americans On Links   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Americans On LOR  
 </summary>
 
 :x: *Wrong...*
