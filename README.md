@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/12/2026 at 12:00 AM*
-### What internet company goes by the acronym AOL?
+*Updated 5/13/2026 at 12:00 AM*
+### Which of these is a member of the cucumber family?
 <details>
 <summary>
-America Over Lines    
+green pepper    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-America Online  
+watermelon  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Americans On Links   
+potato   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Americans On LOR  
+green bean  
 </summary>
 
 :x: *Wrong...*
