@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/13/2026 at 12:00 AM*
-### Which of these is a member of the cucumber family?
+*Updated 5/14/2026 at 12:00 AM*
+### What does the Latin phrase 'e pluribus unum' mean?
 <details>
 <summary>
-green pepper    
+What a crazy life.    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-watermelon  
+In God we trust.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+from many, one   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-potato   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-green bean  
+for the greater good  
 </summary>
 
 :x: *Wrong...*
