@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/14/2026 at 12:00 AM*
-### What does the Latin phrase 'e pluribus unum' mean?
+*Updated 5/15/2026 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-What a crazy life.    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-In God we trust.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-from many, one   
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-for the greater good  
+giant squid  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+woolly mammoth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
