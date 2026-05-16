@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/15/2026 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 5/16/2026 at 12:00 AM*
+### What force causes an ice cream cone to fly off of a spinning merry-go-round?
 <details>
 <summary>
-blue whale    
+centrifugal    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
+vehicular  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-woolly mammoth   
+gravitational   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tyrannosaurus  
+torsal  
 </summary>
 
 :x: *Wrong...*
