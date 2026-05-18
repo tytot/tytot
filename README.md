@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/17/2026 at 12:00 AM*
-### What city is known as 'the rubber capital of the world'?
+*Updated 5/18/2026 at 12:00 AM*
+### Which of these words is spelled correctly?
 <details>
 <summary>
-Omaha, Nebraska    
+decieve    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rockford, Illinois  
+foriegn  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Grand Rapids, Michigan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Akron, Ohio  
+hygiene   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+wierd  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
