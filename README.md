@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/18/2026 at 12:00 AM*
-### Which of these words is spelled correctly?
+*Updated 5/19/2026 at 12:00 AM*
+### Which of these sentences is written in the subjunctive?
 <details>
 <summary>
-decieve    
+I am not your man    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foriegn  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hygiene   
+I wish I were your man  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-wierd  
+Wherefore art your man?   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Your man is where?  
 </summary>
 
 :x: *Wrong...*
