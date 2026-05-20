@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/19/2026 at 12:00 AM*
-### Which of these sentences is written in the subjunctive?
+*Updated 5/20/2026 at 12:00 AM*
+### How long is the time on an NBA shot clock?
 <details>
 <summary>
-I am not your man    
+18 seconds    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-I wish I were your man  
+24 seconds  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Wherefore art your man?   
+30 seconds   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Your man is where?  
+35 seconds  
 </summary>
 
 :x: *Wrong...*
