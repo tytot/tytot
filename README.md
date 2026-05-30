@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/29/2026 at 12:00 AM*
-### Which of these is a fish?
+*Updated 5/30/2026 at 12:00 AM*
+### Which of these measurements is equal to one square foot?
 <details>
 <summary>
-sea horse    
+50 square inches    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+77 square inches  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+100 square inches   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+144 square inches  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-sea cow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sea snake   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sea lion  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
