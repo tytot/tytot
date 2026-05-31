@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/30/2026 at 12:00 AM*
-### Which of these measurements is equal to one square foot?
+*Updated 5/31/2026 at 12:00 AM*
+### According to a Yale University study, what smell is the most recognizable to American adults?
 <details>
 <summary>
-50 square inches    
+tuna    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-77 square inches  
+laundry  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-100 square inches   
+popcorn   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-144 square inches  
+coffee  
 </summary>
 
 :heavy_check_mark: *Correct!*
