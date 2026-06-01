@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 5/31/2026 at 12:00 AM*
-### According to a Yale University study, what smell is the most recognizable to American adults?
+*Updated 6/1/2026 at 12:00 AM*
+### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
 <details>
 <summary>
-tuna    
+Wavy Gravy    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-laundry  
+Bovinity Divinity  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-popcorn   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-coffee  
+Cutie Patootie   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Chubby Hubby  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
