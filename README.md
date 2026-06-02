@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/1/2026 at 12:00 AM*
-### Which of the following is not a flavor of Ben & Jerry's Ice Cream?
+*Updated 6/2/2026 at 12:00 AM*
+### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
 <details>
 <summary>
-Wavy Gravy    
+ducks in a pond    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Bovinity Divinity  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Cutie Patootie   
+pigs in a blanket  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Chubby Hubby  
+cows in a pasture   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dogs in the oven  
 </summary>
 
 :x: *Wrong...*
