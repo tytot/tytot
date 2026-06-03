@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/2/2026 at 12:00 AM*
-### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
+*Updated 6/3/2026 at 12:00 AM*
+### If a ring has the number 925 stamped into it, it is most likely made of what material?
 <details>
 <summary>
-ducks in a pond    
+platinum    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pigs in a blanket  
+gold  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+steel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+silver  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-cows in a pasture   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dogs in the oven  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
