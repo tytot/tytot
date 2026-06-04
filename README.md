@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/3/2026 at 12:00 AM*
-### If a ring has the number 925 stamped into it, it is most likely made of what material?
+*Updated 6/4/2026 at 12:00 AM*
+### Who or what was Big Bertha?
 <details>
 <summary>
-platinum    
+a comet    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gold  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-steel   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-silver  
+a World War I gun  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+a pro wrestling champion   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a giant Muppet  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
