@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/4/2026 at 12:00 AM*
-### Who or what was Big Bertha?
+*Updated 6/5/2026 at 12:00 AM*
+### Which of these is typically not used as a spice?
 <details>
 <summary>
-a comet    
+dill    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a World War I gun  
+thyme  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hemlock   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a pro wrestling champion   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a giant Muppet  
+marjoram  
 </summary>
 
 :x: *Wrong...*
