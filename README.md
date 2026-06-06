@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/5/2026 at 12:00 AM*
-### Which of these is typically not used as a spice?
+*Updated 6/6/2026 at 12:00 AM*
+### What was the name of Huey Lewis' band?
 <details>
 <summary>
-dill    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-thyme  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hemlock   
+The News    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-marjoram  
+The Attractions  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+The Silver Bullet Band   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Louie and Dewey  
 </summary>
 
 :x: *Wrong...*
