@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/6/2026 at 12:00 AM*
-### What was the name of Huey Lewis' band?
+*Updated 6/7/2026 at 12:00 AM*
+### On what body part should you wear a babushka?
 <details>
 <summary>
-The News    
+head    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-The Attractions  
+hands  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Silver Bullet Band   
+foot   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Louie and Dewey  
+legs  
 </summary>
 
 :x: *Wrong...*
