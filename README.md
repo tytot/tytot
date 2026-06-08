@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/7/2026 at 12:00 AM*
-### On what body part should you wear a babushka?
+*Updated 6/8/2026 at 12:00 AM*
+### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
 <details>
 <summary>
-head    
+'Humpty Dumpty'    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+'Mary Had a Little Lamb'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-hands  
+'Jack Be Nimble'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-foot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-legs  
+'Home, Sweet Home'  
 </summary>
 
 :x: *Wrong...*
