@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/8/2026 at 12:00 AM*
-### The first sound recording to be made and reproduced was a recitation of what nursery rhyme?
+*Updated 6/9/2026 at 12:00 AM*
+### Who was the English king at the time of the American Revolution?
 <details>
 <summary>
-'Humpty Dumpty'    
+Charles I    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Mary Had a Little Lamb'  
+James I  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Edward III   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+George III  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-'Jack Be Nimble'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Home, Sweet Home'  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
