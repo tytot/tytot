@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/9/2026 at 12:00 AM*
-### Who was the English king at the time of the American Revolution?
+*Updated 6/10/2026 at 12:00 AM*
+### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
 <details>
 <summary>
-Charles I    
+through outer space    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-James I  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Edward III   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-George III  
+through a human body  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+to the ocean floor   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+to the center of the earth  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
