@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/10/2026 at 12:00 AM*
-### In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?
+*Updated 6/11/2026 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-through outer space    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-through a human body  
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-to the ocean floor   
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-to the center of the earth  
+Grinnell College   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Antioch College  
 </summary>
 
 :x: *Wrong...*
