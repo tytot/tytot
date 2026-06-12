@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/11/2026 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 6/12/2026 at 12:00 AM*
+### According to legend, in what country are you most likely to meet a leprechaun?
 <details>
 <summary>
-Oberlin College    
+Ireland    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
+Poland  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Grinnell College   
+Greenland   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Antioch College  
+Scotland  
 </summary>
 
 :x: *Wrong...*
