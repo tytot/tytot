@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/12/2026 at 12:00 AM*
-### According to legend, in what country are you most likely to meet a leprechaun?
+*Updated 6/13/2026 at 12:00 AM*
+### What was Richard Nixon's middle name?
 <details>
 <summary>
-Ireland    
+Michael    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Milhous  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Poland  
+Mortimer   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greenland   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Scotland  
+Matthew  
 </summary>
 
 :x: *Wrong...*
