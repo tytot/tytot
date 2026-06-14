@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/13/2026 at 12:00 AM*
-### What was Richard Nixon's middle name?
+*Updated 6/14/2026 at 12:00 AM*
+### What country was once ruled by shoguns?
 <details>
 <summary>
-Michael    
+China    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Milhous  
+Japan  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mortimer   
+North Korea   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Matthew  
+Taiwan  
 </summary>
 
 :x: *Wrong...*
