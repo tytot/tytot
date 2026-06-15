@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/14/2026 at 12:00 AM*
-### What country was once ruled by shoguns?
+*Updated 6/15/2026 at 12:00 AM*
+### What is the last book of the New Testament?
 <details>
 <summary>
-China    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Japan  
+Revelation    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-North Korea   
+Judges  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Taiwan  
+Ruth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John  
 </summary>
 
 :x: *Wrong...*
