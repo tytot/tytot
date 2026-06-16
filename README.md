@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/15/2026 at 12:00 AM*
-### What is the last book of the New Testament?
+*Updated 6/16/2026 at 12:00 AM*
+### According to the USDA, which food group should you eat the most servings of per day?
 <details>
 <summary>
-Revelation    
+vegetables    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+dairy  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meats   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+breads  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Judges  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ruth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
