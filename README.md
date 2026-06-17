@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/16/2026 at 12:00 AM*
-### According to the USDA, which food group should you eat the most servings of per day?
+*Updated 6/17/2026 at 12:00 AM*
+### Who were the Know-Nothings?
 <details>
 <summary>
-vegetables    
+a '60's comedy troupe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dairy  
+computer designers  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-meats   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-breads  
+a political party   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+a spy ring  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
