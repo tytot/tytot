@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/17/2026 at 12:00 AM*
-### Who were the Know-Nothings?
+*Updated 6/18/2026 at 12:00 AM*
+### Which of these is another name for a golf course?
 <details>
 <summary>
-a '60's comedy troupe    
+Pitch    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-computer designers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a political party   
+Links  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a spy ring  
+Steps   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Suite  
 </summary>
 
 :x: *Wrong...*
