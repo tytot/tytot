@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/18/2026 at 12:00 AM*
-### Which of these is another name for a golf course?
+*Updated 6/19/2026 at 12:00 AM*
+### How many ships did Columbus set sail with on his initial voyage to the New World?
 <details>
 <summary>
-Pitch    
+Two    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Links  
+Three  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Steps   
+Five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Suite  
+Ten  
 </summary>
 
 :x: *Wrong...*
