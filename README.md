@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/19/2026 at 12:00 AM*
-### How many ships did Columbus set sail with on his initial voyage to the New World?
+*Updated 6/20/2026 at 12:00 AM*
+### What is an alternate name for the food dish 'Beijing duck'?
 <details>
 <summary>
-Two    
+Shanghai duck    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Three  
+Peking duck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Five   
+Hong Kong duck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ten  
+Brooklyn duck  
 </summary>
 
 :x: *Wrong...*
