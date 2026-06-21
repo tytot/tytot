@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/20/2026 at 12:00 AM*
-### What is an alternate name for the food dish 'Beijing duck'?
+*Updated 6/21/2026 at 12:00 AM*
+### Which of the following articles of clothing has a hood?
 <details>
 <summary>
-Shanghai duck    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Peking duck  
+parka    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hong Kong duck   
+kilt  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Brooklyn duck  
+lederhosen   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sarong  
 </summary>
 
 :x: *Wrong...*
