@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/21/2026 at 12:00 AM*
-### Which of the following articles of clothing has a hood?
+*Updated 6/22/2026 at 12:00 AM*
+### If a piece of music is in 'common time' how many quarter notes are there per measure?
 <details>
 <summary>
-parka    
+one    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kilt  
+five   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-lederhosen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sarong  
+ten  
 </summary>
 
 :x: *Wrong...*
