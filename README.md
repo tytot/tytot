@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/22/2026 at 12:00 AM*
-### If a piece of music is in 'common time' how many quarter notes are there per measure?
+*Updated 6/23/2026 at 12:00 AM*
+### The first commercial radio station was located in what city?
 <details>
 <summary>
-one    
+Chicago    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-four  
+Austin  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pittsburgh   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-five   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ten  
+Cleveland  
 </summary>
 
 :x: *Wrong...*
