@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/23/2026 at 12:00 AM*
-### The first commercial radio station was located in what city?
+*Updated 6/24/2026 at 12:00 AM*
+### How is the Arabic numeral for '2' written?
 <details>
 <summary>
-Chicago    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Austin  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pittsburgh   
+2    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Cleveland  
+II  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+I   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+ii  
 </summary>
 
 :x: *Wrong...*
