@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/24/2026 at 12:00 AM*
-### How is the Arabic numeral for '2' written?
+*Updated 6/25/2026 at 12:00 AM*
+### If someone has cataracts, what part of their body might need an operation?
 <details>
 <summary>
-2    
+ear    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hand  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+eye   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-II  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-I   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-ii  
+knee  
 </summary>
 
 :x: *Wrong...*
