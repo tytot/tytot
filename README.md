@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/25/2026 at 12:00 AM*
-### If someone has cataracts, what part of their body might need an operation?
+*Updated 6/26/2026 at 12:00 AM*
+### What team has won the most World Series?
 <details>
 <summary>
-ear    
+Chicago Cubs    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hand  
+Los Angeles Dodgers  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-eye   
+New York Yankees   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-knee  
+San Francisco Giants  
 </summary>
 
 :x: *Wrong...*
