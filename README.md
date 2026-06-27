@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/26/2026 at 12:00 AM*
-### What team has won the most World Series?
+*Updated 6/27/2026 at 12:00 AM*
+### What is the name of the South African political party that was headed by Nelson Mandela?
 <details>
 <summary>
-Chicago Cubs    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Los Angeles Dodgers  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York Yankees   
+African National Congress    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-San Francisco Giants  
+South African Democrats  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inkatha Freedom Party   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aryan National Assembly  
 </summary>
 
 :x: *Wrong...*
