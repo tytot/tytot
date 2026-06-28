@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/27/2026 at 12:00 AM*
-### What is the name of the South African political party that was headed by Nelson Mandela?
+*Updated 6/28/2026 at 12:00 AM*
+### In America, what is the main ingredient in pepperoni?
 <details>
 <summary>
-African National Congress    
+fish    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pepper  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+wheat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+meat  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-South African Democrats  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Inkatha Freedom Party   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aryan National Assembly  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
