@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/29/2026 at 12:00 AM*
-### What letters are on the '3' button of a touch-tone telephone?
+*Updated 6/30/2026 at 12:00 AM*
+### What sport is known as 'The Sport of Kings'?
 <details>
 <summary>
-ABC    
+polo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-DEF  
+archery  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+yachting   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+horse racing  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-GHI   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-WXY  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
