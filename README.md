@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 6/30/2026 at 12:00 AM*
-### What sport is known as 'The Sport of Kings'?
+*Updated 7/1/2026 at 12:00 AM*
+### Who is the star of the movie 'Casablanca'?
 <details>
 <summary>
-polo    
+Errol Flynn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-archery  
+Clark Gable  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-yachting   
+Cary Grant   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-horse racing  
+Humphrey Bogart  
 </summary>
 
 :heavy_check_mark: *Correct!*
