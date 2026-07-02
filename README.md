@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/1/2026 at 12:00 AM*
-### Who is the star of the movie 'Casablanca'?
+*Updated 7/2/2026 at 12:00 AM*
+### Which of these is not one of the four basic forces in nature?
 <details>
 <summary>
-Errol Flynn    
+electromagnetic    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Clark Gable  
+gravitational  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cary Grant   
+nuclear   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Humphrey Bogart  
+centrifugal  
 </summary>
 
 :heavy_check_mark: *Correct!*
