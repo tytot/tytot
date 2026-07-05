@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/3/2026 at 12:00 AM*
-### Which of these is not a type of chili pepper?
+*Updated 7/5/2026 at 12:00 AM*
+### If you are truly afraid of the dark, what do you suffer from?
 <details>
 <summary>
-habanero    
+hypnophobia    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cheyenne  
+cryptophobia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hadephobia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+nyctophobia  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-jalapeno   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-guajillo  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
