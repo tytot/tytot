@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/5/2026 at 12:00 AM*
-### If you are truly afraid of the dark, what do you suffer from?
+*Updated 7/6/2026 at 12:00 AM*
+### From 1971 to 1997, the Democratic Republic of Congo was known as what?
 <details>
 <summary>
-hypnophobia    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-cryptophobia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hadephobia   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-nyctophobia  
+Zaire    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Angola  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Rhodesia   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Belgian Congo  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
