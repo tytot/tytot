@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/6/2026 at 12:00 AM*
-### From 1971 to 1997, the Democratic Republic of Congo was known as what?
+*Updated 7/7/2026 at 12:00 AM*
+### What is the name of the POW camp where 'Hogan's Heroes' are held?
 <details>
 <summary>
-Zaire    
+Stalag 13    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Angola  
+Alcatraz 17  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rhodesia   
+Devil's Island   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Belgian Congo  
+Leavenworth  
 </summary>
 
 :x: *Wrong...*
