@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/7/2026 at 12:00 AM*
-### What is the name of the POW camp where 'Hogan's Heroes' are held?
+*Updated 7/8/2026 at 12:00 AM*
+### Which of these sounds is commonly associated with owls?
 <details>
 <summary>
-Stalag 13    
+chirp    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bark  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+growl   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hoot  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Alcatraz 17  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Devil's Island   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leavenworth  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
