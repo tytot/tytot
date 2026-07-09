@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/8/2026 at 12:00 AM*
-### Which of these sounds is commonly associated with owls?
+*Updated 7/9/2026 at 12:00 AM*
+### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
 <details>
 <summary>
-chirp    
+Whoopi Goldberg    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bark  
+Jennifer Grey  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-growl   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hoot  
+Kirstie Alley   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Helen Hunt  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
