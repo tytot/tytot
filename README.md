@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/9/2026 at 12:00 AM*
-### Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?
+*Updated 7/10/2026 at 12:00 AM*
+### What is Delta Burke's character's job on the sitcom 'Designing Women'?
 <details>
 <summary>
-Whoopi Goldberg    
+fashion designer    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jennifer Grey  
+graphic designer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kirstie Alley   
+interior designer   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Helen Hunt  
+website designer  
 </summary>
 
 :x: *Wrong...*
