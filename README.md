@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/10/2026 at 12:00 AM*
-### What is Delta Burke's character's job on the sitcom 'Designing Women'?
+*Updated 7/11/2026 at 12:00 AM*
+### How many states were in the Confederate States of America?
 <details>
 <summary>
-fashion designer    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-graphic designer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-interior designer   
+11    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-website designer  
+13  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+16   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+22  
 </summary>
 
 :x: *Wrong...*
