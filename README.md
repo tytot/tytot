@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/11/2026 at 12:00 AM*
-### How many states were in the Confederate States of America?
+*Updated 7/12/2026 at 12:00 AM*
+### What disease is sometimes referred to as the 'royal disease'?
 <details>
 <summary>
-11    
+rickets    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+measles  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hemophilia   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-13  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-16   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-22  
+tuberculosis  
 </summary>
 
 :x: *Wrong...*
