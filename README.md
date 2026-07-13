@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/12/2026 at 12:00 AM*
-### What disease is sometimes referred to as the 'royal disease'?
+*Updated 7/13/2026 at 12:00 AM*
+### What is the technical term for the offspring of a female donkey and a male horse?
 <details>
 <summary>
-rickets    
+burro    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-measles  
+dorse  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hemophilia   
+hinny   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-tuberculosis  
+honker  
 </summary>
 
 :x: *Wrong...*
