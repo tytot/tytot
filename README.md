@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/13/2026 at 12:00 AM*
-### What is the technical term for the offspring of a female donkey and a male horse?
+*Updated 7/14/2026 at 12:00 AM*
+### The American patriot Paul Revere was named for his father, whose original name was what?
 <details>
 <summary>
-burro    
+John Paul Revere    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dorse  
+Paul Silver  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hinny   
+Apollos Rivoire   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-honker  
+Paolo Reverini  
 </summary>
 
 :x: *Wrong...*
