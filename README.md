@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/14/2026 at 12:00 AM*
-### The American patriot Paul Revere was named for his father, whose original name was what?
+*Updated 7/15/2026 at 12:00 AM*
+### What is the baseball term for a batter who substitutes for another batter?
 <details>
 <summary>
-John Paul Revere    
+switchhitter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Paul Silver  
+shadow hitter  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Apollos Rivoire   
+clip hitter    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pinch hitter  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Paolo Reverini  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
