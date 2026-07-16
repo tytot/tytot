@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/15/2026 at 12:00 AM*
-### What is the baseball term for a batter who substitutes for another batter?
+*Updated 7/16/2026 at 12:00 AM*
+### What famous folksinger founded the Institute for the Study of Non-Violence in 1965?
 <details>
 <summary>
-switchhitter    
+Bob Dylan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shadow hitter  
+Woody Guthrie  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-clip hitter    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pinch hitter  
+Joan Baez   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Peter Yarrow  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
