@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/17/2026 at 12:00 AM*
-### How is the word 'ambulance' normally written on the front of American ambulances?
+*Updated 7/18/2026 at 12:00 AM*
+### Which of the following articles of clothing has a hood?
 <details>
 <summary>
-in French    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-in reverse  
+parka    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in braille   
+kilt  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in gibberish  
+lederhosen   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sarong  
 </summary>
 
 :x: *Wrong...*
