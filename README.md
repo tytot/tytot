@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/18/2026 at 12:00 AM*
-### Which of the following articles of clothing has a hood?
+*Updated 7/19/2026 at 12:00 AM*
+### What kind of animal is a peregrine?
 <details>
 <summary>
-parka    
+moose    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cat  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+bird   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kilt  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-lederhosen   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sarong  
+fish  
 </summary>
 
 :x: *Wrong...*
