@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/19/2026 at 12:00 AM*
-### What kind of animal is a peregrine?
+*Updated 7/22/2026 at 12:00 AM*
+### In the card game blackjack, how much are a queen and a king worth-together?
 <details>
 <summary>
-moose    
+11    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cat  
+15  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bird   
+20   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-fish  
+21  
 </summary>
 
 :x: *Wrong...*
