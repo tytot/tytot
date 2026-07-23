@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/22/2026 at 12:00 AM*
-### In the card game blackjack, how much are a queen and a king worth-together?
+*Updated 7/23/2026 at 12:00 AM*
+### Into what body of water does the Rhone River flow?
 <details>
 <summary>
-11    
+Atlantic Ocean    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-15  
+Caspian Sea  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-20   
+North Sea   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Mediterranean Sea  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-21  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
