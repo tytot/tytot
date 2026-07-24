@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/23/2026 at 12:00 AM*
-### Into what body of water does the Rhone River flow?
+*Updated 7/24/2026 at 12:00 AM*
+### What is New Mexico's nickname?
 <details>
 <summary>
-Atlantic Ocean    
+'The Desert State'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Caspian Sea  
+'Gateway to Paradise'  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-North Sea   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Mediterranean Sea  
+'Land of Enchantment'   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+'The Garden State'  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
