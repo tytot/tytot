@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/24/2026 at 12:00 AM*
-### What is New Mexico's nickname?
+*Updated 7/25/2026 at 12:00 AM*
+### A pita is a type of what?
 <details>
 <summary>
-'The Desert State'    
+fresh fruit    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Gateway to Paradise'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Land of Enchantment'   
+flat bread  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-'The Garden State'  
+French tart   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+friend bean dip  
 </summary>
 
 :x: *Wrong...*
