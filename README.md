@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/25/2026 at 12:00 AM*
-### A pita is a type of what?
+*Updated 7/26/2026 at 12:00 AM*
+### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
 <details>
 <summary>
-fresh fruit    
+ducks in a pond    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-flat bread  
+pigs in a blanket  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-French tart   
+cows in a pasture   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-friend bean dip  
+dogs in the oven  
 </summary>
 
 :x: *Wrong...*
