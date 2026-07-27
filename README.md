@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/26/2026 at 12:00 AM*
-### What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?
+*Updated 7/27/2026 at 12:00 AM*
+### According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?
 <details>
 <summary>
-ducks in a pond    
+calm    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pigs in a blanket  
+blue  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cows in a pasture   
+windy   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-dogs in the oven  
+really big  
 </summary>
 
 :x: *Wrong...*
