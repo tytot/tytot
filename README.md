@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/27/2026 at 12:00 AM*
-### According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?
+*Updated 7/28/2026 at 12:00 AM*
+### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
 <details>
 <summary>
-calm    
+Boston Celtics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-blue  
+Los Angeles Lakers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York Knicks   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-windy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-really big  
+Philadelphia 76ers  
 </summary>
 
 :x: *Wrong...*
