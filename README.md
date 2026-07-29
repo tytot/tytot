@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/28/2026 at 12:00 AM*
-### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
+*Updated 7/29/2026 at 12:00 AM*
+### What is your hallux?
 <details>
 <summary>
-Boston Celtics    
+earlobe    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Los Angeles Lakers  
+tongue  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York Knicks   
+eyelid   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+big toe  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Philadelphia 76ers  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
