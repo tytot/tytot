@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/29/2026 at 12:00 AM*
-### What is your hallux?
+*Updated 7/30/2026 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-earlobe    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-tongue  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-eyelid   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-big toe  
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+giant squid  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+woolly mammoth   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tyrannosaurus  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
