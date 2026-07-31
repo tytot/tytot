@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/30/2026 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 7/31/2026 at 12:00 AM*
+### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
 <details>
 <summary>
-blue whale    
+Dr. Evil    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Q  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Little Jimmy Bond   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
+M  
 </summary>
 
 :x: *Wrong...*
