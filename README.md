@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 7/31/2026 at 12:00 AM*
-### What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?
+*Updated 8/1/2026 at 12:00 AM*
+### When it's noon in New York during daylight-saving time, what time is it in Honolulu?
 <details>
 <summary>
-Dr. Evil    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Q  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Little Jimmy Bond   
+6:00 a.m.    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-M  
+6:30 a.m.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+7:00 a.m.   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+8:00 a.m.  
 </summary>
 
 :x: *Wrong...*
