@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/1/2026 at 12:00 AM*
-### When it's noon in New York during daylight-saving time, what time is it in Honolulu?
+*Updated 8/2/2026 at 12:00 AM*
+### What was the first American college to become coeducational?
 <details>
 <summary>
-6:00 a.m.    
+Oberlin College    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-6:30 a.m.  
+Dartmouth College  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-7:00 a.m.   
+Grinnell College   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-8:00 a.m.  
+Antioch College  
 </summary>
 
 :x: *Wrong...*
