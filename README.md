@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/2/2026 at 12:00 AM*
-### What was the first American college to become coeducational?
+*Updated 8/3/2026 at 12:00 AM*
+### What is an alternate name for the food dish 'Beijing duck'?
 <details>
 <summary>
-Oberlin College    
+Shanghai duck    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Peking duck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dartmouth College  
+Hong Kong duck   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Grinnell College   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Antioch College  
+Brooklyn duck  
 </summary>
 
 :x: *Wrong...*
