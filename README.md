@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/3/2026 at 12:00 AM*
-### What is an alternate name for the food dish 'Beijing duck'?
+*Updated 8/4/2026 at 12:00 AM*
+### Which of these places is known for art auctions?
 <details>
 <summary>
-Shanghai duck    
+Shelby's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Peking duck  
+Nickleby's  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Gatsby's   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sotheby's  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Hong Kong duck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Brooklyn duck  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
