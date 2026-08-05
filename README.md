@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/4/2026 at 12:00 AM*
-### Which of these places is known for art auctions?
+*Updated 8/5/2026 at 12:00 AM*
+### What is called a 'lorry' in Britain?
 <details>
 <summary>
-Shelby's    
+a toaster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nickleby's  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Gatsby's   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Sotheby's  
+a truck  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+a babysitter   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+an elevator  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
