@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/5/2026 at 12:00 AM*
-### What is called a 'lorry' in Britain?
+*Updated 8/6/2026 at 12:00 AM*
+### According to the proverb, necessity is the mother of what?
 <details>
 <summary>
-a toaster    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-a truck  
+Invention    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a babysitter   
+Luck  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-an elevator  
+Problems   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Procrastination  
 </summary>
 
 :x: *Wrong...*
