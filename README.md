@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/6/2026 at 12:00 AM*
-### According to the proverb, necessity is the mother of what?
+*Updated 8/7/2026 at 12:00 AM*
+### What is the medical term for a doctor's identification of a disease?
 <details>
 <summary>
-Invention    
+Hypnosis    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Prognosis  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Trichinosis   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Diagnosis  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Luck  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Problems   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Procrastination  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
