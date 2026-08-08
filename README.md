@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/7/2026 at 12:00 AM*
-### What is the medical term for a doctor's identification of a disease?
+*Updated 8/8/2026 at 12:00 AM*
+### If you are watching a Shavian play, who is the author?
 <details>
 <summary>
-Hypnosis    
+Shakespeare    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Prognosis  
+Aeschylus  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Trichinosis   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Diagnosis  
+George Bernard Shaw   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Anton Chekhov  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
