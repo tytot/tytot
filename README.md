@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/8/2026 at 12:00 AM*
-### If you are watching a Shavian play, who is the author?
+*Updated 8/9/2026 at 12:00 AM*
+### In what country did Magic Johnson play professional basketball during the 1999 season?
 <details>
 <summary>
-Shakespeare    
+United States    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aeschylus  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-George Bernard Shaw   
+Sweden  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Anton Chekhov  
+Israel   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Turkey  
 </summary>
 
 :x: *Wrong...*
