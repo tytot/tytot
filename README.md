@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/9/2026 at 12:00 AM*
-### In what country did Magic Johnson play professional basketball during the 1999 season?
+*Updated 8/10/2026 at 12:00 AM*
+### What's the third letter of the Greek alphabet?
 <details>
 <summary>
-United States    
+delta    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sweden  
+gamma  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Israel   
+phi   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Turkey  
+theta  
 </summary>
 
 :x: *Wrong...*
