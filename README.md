@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/10/2026 at 12:00 AM*
-### What's the third letter of the Greek alphabet?
+*Updated 8/11/2026 at 12:00 AM*
+### What is the name of the mountain where the mythological Greek gods live?
 <details>
 <summary>
-delta    
+Jupiter    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gamma  
+Olympus  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-phi   
+Vesuvius   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-theta  
+Valhalla  
 </summary>
 
 :x: *Wrong...*
