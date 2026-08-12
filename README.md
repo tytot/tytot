@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/11/2026 at 12:00 AM*
-### What is the name of the mountain where the mythological Greek gods live?
+*Updated 8/12/2026 at 12:00 AM*
+### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
 <details>
 <summary>
-Jupiter    
+Jerry Bailey    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Olympus  
+Steve Cauthen  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Vesuvius   
+Willie Shoemaker   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Valhalla  
+Pasquale Devito  
 </summary>
 
 :x: *Wrong...*
