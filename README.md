@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/12/2026 at 12:00 AM*
-### In 1978, who became the youngest jockey ever to win horse racing's triple crown?
+*Updated 8/13/2026 at 12:00 AM*
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-Jerry Bailey    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Steve Cauthen  
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Willie Shoemaker   
+Civil War   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pasquale Devito  
+World War I  
 </summary>
 
 :x: *Wrong...*
