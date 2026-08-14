@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/13/2026 at 12:00 AM*
-### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
+*Updated 8/14/2026 at 12:00 AM*
+### In baseball, how many balls make a walk?
 <details>
 <summary>
-American Revolution    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-War of 1812  
+two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Civil War   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-World War I  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
