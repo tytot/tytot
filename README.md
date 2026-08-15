@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/14/2026 at 12:00 AM*
-### In baseball, how many balls make a walk?
+*Updated 8/15/2026 at 12:00 AM*
+### According to a famous line from the existentialist play 'No Exit' what is hell?
 <details>
 <summary>
-one    
+oneself    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+other people  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+little made large   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hued in green and blue  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
