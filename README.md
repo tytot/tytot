@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/15/2026 at 12:00 AM*
-### According to a famous line from the existentialist play 'No Exit' what is hell?
+*Updated 8/16/2026 at 12:00 AM*
+### A second-year college student is usually called a what?
 <details>
 <summary>
-oneself    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-other people  
+sophomore    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-little made large   
+senior  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-hued in green and blue  
+freshman    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+junior   
 </summary>
 
 :x: *Wrong...*
