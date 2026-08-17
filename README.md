@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/16/2026 at 12:00 AM*
-### A second-year college student is usually called a what?
+*Updated 8/17/2026 at 12:00 AM*
+### Which of these is not a position on an American football team?
 <details>
 <summary>
-sophomore    
+quarterback    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+tight end  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+striker   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-senior  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-freshman    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-junior   
+free safety  
 </summary>
 
 :x: *Wrong...*
