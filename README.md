@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/17/2026 at 12:00 AM*
-### Which of these is not a position on an American football team?
+*Updated 8/18/2026 at 12:00 AM*
+### Which of these is a fish?
 <details>
 <summary>
-quarterback    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-tight end  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-striker   
+sea horse    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-free safety  
+sea cow  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sea snake   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+sea lion  
 </summary>
 
 :x: *Wrong...*
