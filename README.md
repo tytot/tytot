@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/18/2026 at 12:00 AM*
-### Which of these is a fish?
+*Updated 8/19/2026 at 12:00 AM*
+### In the card game blackjack, how much are a queen and a king worth-together?
 <details>
 <summary>
-sea horse    
+11    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+15  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+20   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-sea cow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sea snake   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-sea lion  
+21  
 </summary>
 
 :x: *Wrong...*
