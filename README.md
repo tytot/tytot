@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/19/2026 at 12:00 AM*
-### In the card game blackjack, how much are a queen and a king worth-together?
+*Updated 8/20/2026 at 12:00 AM*
+### Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?
 <details>
 <summary>
-11    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-15  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-20   
+Paul McCartney    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-21  
+John Lennon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+George Harrison   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ringo Starr  
 </summary>
 
 :x: *Wrong...*
