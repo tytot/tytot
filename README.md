@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/20/2026 at 12:00 AM*
-### Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?
+*Updated 8/21/2026 at 12:00 AM*
+### What day of the week is sometimes called 'hump day'?
 <details>
 <summary>
-Paul McCartney    
+Wednesday    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-John Lennon  
+Thursday  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-George Harrison   
+Friday   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ringo Starr  
+Saturday  
 </summary>
 
 :x: *Wrong...*
