@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/21/2026 at 12:00 AM*
-### What day of the week is sometimes called 'hump day'?
+*Updated 8/22/2026 at 12:00 AM*
+### What does it mean to work 'pro bono'?
 <details>
 <summary>
-Wednesday    
+work overtime    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+work without pay  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Thursday  
+work as your own boss   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Friday   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturday  
+not work at all  
 </summary>
 
 :x: *Wrong...*
