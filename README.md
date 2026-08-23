@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/22/2026 at 12:00 AM*
-### What does it mean to work 'pro bono'?
+*Updated 8/23/2026 at 12:00 AM*
+### According to the popular saying, what should you do 'when in Rome'?
 <details>
 <summary>
-work overtime    
+watch your wallet    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-work without pay  
+see the Coliseum  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+as the Romans do   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-work as your own boss   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-not work at all  
+don't drink the water  
 </summary>
 
 :x: *Wrong...*
