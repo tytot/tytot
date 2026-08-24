@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/23/2026 at 12:00 AM*
-### According to the popular saying, what should you do 'when in Rome'?
+*Updated 8/24/2026 at 12:00 AM*
+### Who was the first US president to resign from that office?
 <details>
 <summary>
-watch your wallet    
+Martin Van Buren    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-see the Coliseum  
+Andrew Jackson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-as the Romans do   
+Andrew Johnson   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Richard Nixon  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-don't drink the water  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
