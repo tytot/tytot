@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/24/2026 at 12:00 AM*
-### Who was the first US president to resign from that office?
+*Updated 8/25/2026 at 12:00 AM*
+### Which Pope immediately preceded John Paul II?
 <details>
 <summary>
-Martin Van Buren    
+John XXIII     
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
+Paul VI  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Johnson   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Richard Nixon  
+John Paul I   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Hank II  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
