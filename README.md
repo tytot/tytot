@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/25/2026 at 12:00 AM*
-### Which Pope immediately preceded John Paul II?
+*Updated 8/26/2026 at 12:00 AM*
+### What does a pH level measure?
 <details>
 <summary>
-John XXIII     
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Paul VI  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John Paul I   
+acidity    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hank II  
+density  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+wavelength   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+humidity  
 </summary>
 
 :x: *Wrong...*
