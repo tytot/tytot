@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/26/2026 at 12:00 AM*
-### What does a pH level measure?
+*Updated 8/27/2026 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-acidity    
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-density  
+giant squid  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wavelength   
+woolly mammoth   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-humidity  
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
