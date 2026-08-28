@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/27/2026 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 8/28/2026 at 12:00 AM*
+### What is varicella?
 <details>
 <summary>
-blue whale    
+a fancy pasta    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a type of opera  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the chicken pox virus   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
+ancient Roman poetry  
 </summary>
 
 :x: *Wrong...*
