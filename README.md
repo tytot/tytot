@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/28/2026 at 12:00 AM*
-### What is varicella?
+*Updated 8/29/2026 at 12:00 AM*
+### What is another name for the camelopard?
 <details>
 <summary>
-a fancy pasta    
+circus    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a type of opera  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the chicken pox virus   
+giraffe  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ancient Roman poetry  
+cantaloupe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+oasis  
 </summary>
 
 :x: *Wrong...*
