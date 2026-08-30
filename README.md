@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/29/2026 at 12:00 AM*
-### What is another name for the camelopard?
+*Updated 8/30/2026 at 12:00 AM*
+### Who is the creator of the comic strip 'The Far Side'?
 <details>
 <summary>
-circus    
+Jim Davis    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-giraffe  
+Gary Larson  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-cantaloupe   
+Garry Trudeau   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-oasis  
+Charles Schulz  
 </summary>
 
 :x: *Wrong...*
