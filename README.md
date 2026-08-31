@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 8/30/2026 at 12:00 AM*
-### Who is the creator of the comic strip 'The Far Side'?
+*Updated 8/31/2026 at 12:00 AM*
+### Which of these is made from cacao seeds?
 <details>
 <summary>
-Jim Davis    
+marzipan    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gary Larson  
+soy sauce  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chocolate   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Garry Trudeau   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Charles Schulz  
+anchovies  
 </summary>
 
 :x: *Wrong...*
