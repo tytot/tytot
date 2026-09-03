@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/2/2026 at 12:00 AM*
-### What professional sports team plays its home games in the Alamodome?
+*Updated 9/3/2026 at 12:00 AM*
+### In what country are police officers referred to as 'bobbies'?
 <details>
 <summary>
-New York Jets    
+Israel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Detroit Tigers  
+Greece  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Boston Bruins   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-San Antonio Spurs  
+England   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+France  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
