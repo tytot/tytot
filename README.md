@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/3/2026 at 12:00 AM*
-### In what country are police officers referred to as 'bobbies'?
+*Updated 9/4/2026 at 12:00 AM*
+### Which of these household pets should be vaccinated for parvovirus?
 <details>
 <summary>
-Israel    
+hamster    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Greece  
+cat  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-England   
+dog   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-France  
+bird  
 </summary>
 
 :x: *Wrong...*
