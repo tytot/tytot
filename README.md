@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/4/2026 at 12:00 AM*
-### Which of these household pets should be vaccinated for parvovirus?
+*Updated 9/5/2026 at 12:00 AM*
+### The common term for someone who has difficulty seeing objects in the distance is what?
 <details>
 <summary>
-hamster    
+farsighted    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cat  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-dog   
+nearsighted  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bird  
+hindsighted   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+hypermetropic  
 </summary>
 
 :x: *Wrong...*
