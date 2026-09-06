@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/5/2026 at 12:00 AM*
-### The common term for someone who has difficulty seeing objects in the distance is what?
+*Updated 9/6/2026 at 12:00 AM*
+### Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?
 <details>
 <summary>
-farsighted    
+Jimmy Connors    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nearsighted  
+Pete Sampras  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+John McEnroe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Bobby Riggs  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-hindsighted   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-hypermetropic  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
