@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/6/2026 at 12:00 AM*
-### Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?
+*Updated 9/7/2026 at 12:00 AM*
+### How much does Peanuts character Lucy charge for her psychiatric advice?
 <details>
 <summary>
-Jimmy Connors    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Pete Sampras  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-John McEnroe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Bobby Riggs  
+5 cents    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+10 cents  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+75 cents   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+$125  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
