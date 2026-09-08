@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/7/2026 at 12:00 AM*
-### How much does Peanuts character Lucy charge for her psychiatric advice?
+*Updated 9/8/2026 at 12:00 AM*
+### Who sang lead vocals for the band Big Brother and the Holding Company?
 <details>
 <summary>
-5 cents    
+Grace Slick    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Janis Joplin  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-10 cents  
+Mama Cass   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-75 cents   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-$125  
+Karen Carpenter  
 </summary>
 
 :x: *Wrong...*
