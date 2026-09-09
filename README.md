@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/8/2026 at 12:00 AM*
-### Who sang lead vocals for the band Big Brother and the Holding Company?
+*Updated 9/9/2026 at 12:00 AM*
+### How many quarts are there in a gallon?
 <details>
 <summary>
-Grace Slick    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Janis Joplin  
+two  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+three   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Mama Cass   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Karen Carpenter  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
