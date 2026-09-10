@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/9/2026 at 12:00 AM*
-### How many quarts are there in a gallon?
+*Updated 9/10/2026 at 12:00 AM*
+### How are actors Charlie Sheen and Emilio Estevez related?
 <details>
 <summary>
-one    
+they're cousins    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+they're brothers  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+they're father and son   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+they're uncle and nephew  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
