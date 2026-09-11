@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/10/2026 at 12:00 AM*
-### How are actors Charlie Sheen and Emilio Estevez related?
+*Updated 9/11/2026 at 12:00 AM*
+### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
 <details>
 <summary>
-they're cousins    
+Polly Finn    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-they're brothers  
+Becky Thatcher  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-they're father and son   
+Nancy Drew   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-they're uncle and nephew  
+Emma Bovary  
 </summary>
 
 :x: *Wrong...*
