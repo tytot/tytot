@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/11/2026 at 12:00 AM*
-### In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
+*Updated 9/12/2026 at 12:00 AM*
+### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
 <details>
 <summary>
-Polly Finn    
+Martha Stewart    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Becky Thatcher  
+Dr Ruth Westheimer  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ann Landers   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Nancy Drew   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Emma Bovary  
+Miss Manners  
 </summary>
 
 :x: *Wrong...*
