@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/12/2026 at 12:00 AM*
-### Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?
+*Updated 9/13/2026 at 12:00 AM*
+### Which of these is a commonly-known investment account?
 <details>
 <summary>
-Martha Stewart    
+CNN    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Dr Ruth Westheimer  
+EMC  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ann Landers   
+IRA   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Miss Manners  
+IRS  
 </summary>
 
 :x: *Wrong...*
