@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/13/2026 at 12:00 AM*
-### Which of these is a commonly-known investment account?
+*Updated 9/14/2026 at 12:00 AM*
+### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
 <details>
 <summary>
-CNN    
+Brazil    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-EMC  
+East Germany  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-IRA   
+Argentina   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-IRS  
+Paraguay  
 </summary>
 
 :x: *Wrong...*
