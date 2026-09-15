@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/14/2026 at 12:00 AM*
-### In 1960, Nazi official Adolph Eichmann was finally captured in what country?
+*Updated 9/15/2026 at 12:00 AM*
+### Which of these fashion designers was born in the United States?
 <details>
 <summary>
-Brazil    
+Laura Ashley    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-East Germany  
+Helmut Lang  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Argentina   
+Donna Karan   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Paraguay  
+Christian Dior  
 </summary>
 
 :x: *Wrong...*
