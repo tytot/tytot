@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/15/2026 at 12:00 AM*
-### Which of these fashion designers was born in the United States?
+*Updated 9/16/2026 at 12:00 AM*
+### How is the word 'ambulance' normally written on the front of American ambulances?
 <details>
 <summary>
-Laura Ashley    
+in French    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Helmut Lang  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Donna Karan   
+in reverse  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Christian Dior  
+in braille   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+in gibberish  
 </summary>
 
 :x: *Wrong...*
