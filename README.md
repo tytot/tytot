@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/16/2026 at 12:00 AM*
-### How is the word 'ambulance' normally written on the front of American ambulances?
+*Updated 9/17/2026 at 12:00 AM*
+### Which 'Rocky' film features Mr. T?
 <details>
 <summary>
-in French    
+'Rocky II'    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in reverse  
+'Rocky III'  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-in braille   
+'Rocky IV'   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-in gibberish  
+'Rocky '  
 </summary>
 
 :x: *Wrong...*
