@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/18/2026 at 12:00 AM*
-### Which of the following is a natural sugar found in most fruits?
+*Updated 9/19/2026 at 12:00 AM*
+### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
 <details>
 <summary>
-necrose    
+Russell Westbrook    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-fructose  
+Kevin Love  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bellicose   
+O.J. Mayo   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-pantiose  
+Ricky Rubio  
 </summary>
 
 :x: *Wrong...*
