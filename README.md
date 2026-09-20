@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/19/2026 at 12:00 AM*
-### With the 5th pick in the 2008 NBA Draft, the Memphis Grizzlies select...
+*Updated 9/20/2026 at 12:00 AM*
+### Which of these is not found in a Snickers candy bar?
 <details>
 <summary>
-Russell Westbrook    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Kevin Love  
+almonds    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-O.J. Mayo   
+chocolate  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Ricky Rubio  
+nougat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+caramel  
 </summary>
 
 :x: *Wrong...*
