@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/20/2026 at 12:00 AM*
-### Which of these is not found in a Snickers candy bar?
+*Updated 9/21/2026 at 12:00 AM*
+### Girls of what religious community traditionally wear bonnets?
 <details>
 <summary>
-almonds    
+Amish    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-chocolate  
+Sikh  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-nougat   
+Roman Catholic   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-caramel  
+Christian  
 </summary>
 
 :x: *Wrong...*
