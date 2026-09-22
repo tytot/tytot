@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/21/2026 at 12:00 AM*
-### Girls of what religious community traditionally wear bonnets?
+*Updated 9/22/2026 at 12:00 AM*
+### Where is the Frank Lloyd Wright-designed house known as Falling Water?
 <details>
 <summary>
-Amish    
+Connecticut    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Pennsylvania  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Sikh  
+Illinois   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Roman Catholic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Christian  
+New York  
 </summary>
 
 :x: *Wrong...*
