@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/22/2026 at 12:00 AM*
-### Where is the Frank Lloyd Wright-designed house known as Falling Water?
+*Updated 9/23/2026 at 12:00 AM*
+### What does an animal produce when it lactates?
 <details>
 <summary>
-Connecticut    
+sweat    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pennsylvania  
+wool  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+milk   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Illinois   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York  
+methane  
 </summary>
 
 :x: *Wrong...*
