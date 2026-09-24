@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/23/2026 at 12:00 AM*
-### What does an animal produce when it lactates?
+*Updated 9/24/2026 at 12:00 AM*
+### What are the Smothers Brothers' first names?
 <details>
 <summary>
-sweat    
+Frank and Bill    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-wool  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-milk   
+Tom and Dick  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-methane  
+Dave and George   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Ed and Pete  
 </summary>
 
 :x: *Wrong...*
