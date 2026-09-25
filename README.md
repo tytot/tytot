@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/24/2026 at 12:00 AM*
-### What are the Smothers Brothers' first names?
+*Updated 9/25/2026 at 12:00 AM*
+### What city is known as 'the rubber capital of the world'?
 <details>
 <summary>
-Frank and Bill    
+Omaha, Nebraska    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tom and Dick  
+Rockford, Illinois  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Grand Rapids, Michigan   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Akron, Ohio  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Dave and George   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ed and Pete  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
