@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/25/2026 at 12:00 AM*
-### What city is known as 'the rubber capital of the world'?
+*Updated 9/26/2026 at 12:00 AM*
+### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
 <details>
 <summary>
-Omaha, Nebraska    
+Fancy Feast    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Rockford, Illinois  
+Cat Chow  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Grand Rapids, Michigan   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Akron, Ohio  
+Meow Mix   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+9-Lives  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
