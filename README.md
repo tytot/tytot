@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/26/2026 at 12:00 AM*
-### Which brand of cat food claims it's so tasty that 'cats ask for it by name'?
+*Updated 9/27/2026 at 12:00 AM*
+### If you ask for 'gai' at a Thai restaurant, what will you get?
 <details>
 <summary>
-Fancy Feast    
+shrimp    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Cat Chow  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Meow Mix   
+chicken  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-9-Lives  
+beef   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+pork  
 </summary>
 
 :x: *Wrong...*
