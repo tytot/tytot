@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/27/2026 at 12:00 AM*
-### If you ask for 'gai' at a Thai restaurant, what will you get?
+*Updated 9/28/2026 at 12:00 AM*
+### Gerry Adams is the president of what organization?
 <details>
 <summary>
-shrimp    
+Greenpeace    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken  
+NASCAR  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sinn Fein   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-beef   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-pork  
+PLO  
 </summary>
 
 :x: *Wrong...*
