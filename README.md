@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/28/2026 at 12:00 AM*
-### Gerry Adams is the president of what organization?
+*Updated 9/29/2026 at 12:00 AM*
+### Which of these places is known for art auctions?
 <details>
 <summary>
-Greenpeace    
+Shelby's    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-NASCAR  
+Nickleby's  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sinn Fein   
+Gatsby's   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Sotheby's  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-PLO  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
