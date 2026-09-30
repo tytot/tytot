@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/29/2026 at 12:00 AM*
-### Which of these places is known for art auctions?
+*Updated 9/30/2026 at 12:00 AM*
+### Who was on the $500 bill?
 <details>
 <summary>
-Shelby's    
+Calvin Coolidge    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Nickleby's  
+Andrew Jackson  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Gatsby's   
+Aaron Burr   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sotheby's  
+William McKinley  
 </summary>
 
 :heavy_check_mark: *Correct!*
