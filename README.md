@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 9/30/2026 at 12:00 AM*
-### Who was on the $500 bill?
+*Updated 10/1/2026 at 12:00 AM*
+### Which of these is not a type of chili pepper?
 <details>
 <summary>
-Calvin Coolidge    
+habanero    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Andrew Jackson  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aaron Burr   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-William McKinley  
+cheyenne  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+jalapeno   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+guajillo  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
