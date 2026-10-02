@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/1/2026 at 12:00 AM*
-### Which of these is not a type of chili pepper?
+*Updated 10/2/2026 at 12:00 AM*
+### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
 <details>
 <summary>
-habanero    
+Boston Celtics    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cheyenne  
+Los Angeles Lakers  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York Knicks   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-jalapeno   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-guajillo  
+Philadelphia 76ers  
 </summary>
 
 :x: *Wrong...*
