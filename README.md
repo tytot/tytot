@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/2/2026 at 12:00 AM*
-### Before he went into coaching, Phil Jackson played for which of the following NBA teams?
+*Updated 10/3/2026 at 12:00 AM*
+### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
 <details>
 <summary>
-Boston Celtics    
+talking car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Los Angeles Lakers  
+winged horse  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-New York Knicks   
+magic carpet   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Philadelphia 76ers  
+hot air balloon  
 </summary>
 
 :x: *Wrong...*
