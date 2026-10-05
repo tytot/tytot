@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/3/2026 at 12:00 AM*
-### In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?
+*Updated 10/5/2026 at 12:00 AM*
+### Each year in pro baseball, the player voted as the best fielder at his position wins what?
 <details>
 <summary>
-talking car    
+a brand new car    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-winged horse  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-magic carpet   
+the Gold Glove  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-hot air balloon  
+the Silver Bat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+the Brass Baseball  
 </summary>
 
 :x: *Wrong...*
