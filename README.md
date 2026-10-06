@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/5/2026 at 12:00 AM*
-### Each year in pro baseball, the player voted as the best fielder at his position wins what?
+*Updated 10/6/2026 at 12:00 AM*
+### What children's storybook character believes that the sky is falling?
 <details>
 <summary>
-a brand new car    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-the Gold Glove  
+Chicken Little    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-the Silver Bat   
+Curious George  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-the Brass Baseball  
+Jack Sprat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tom Thumb  
 </summary>
 
 :x: *Wrong...*
