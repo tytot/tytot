@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/6/2026 at 12:00 AM*
-### What children's storybook character believes that the sky is falling?
+*Updated 10/7/2026 at 12:00 AM*
+### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
 <details>
 <summary>
-Chicken Little    
+Billy Graham    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Oral Roberts  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jerry Falwell   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Jimmy Swaggart  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Curious George  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jack Sprat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tom Thumb  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
