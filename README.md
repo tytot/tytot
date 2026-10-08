@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/7/2026 at 12:00 AM*
-### Which of these evangelists is a cousin of rocker Jerry Lee Lewis?
+*Updated 10/8/2026 at 12:00 AM*
+### Where is the Louvre museum?
 <details>
 <summary>
-Billy Graham    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Oral Roberts  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jerry Falwell   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Jimmy Swaggart  
+Paris    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Lyon  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Geneva   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Vichy  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
