@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/8/2026 at 12:00 AM*
-### Where is the Louvre museum?
+*Updated 10/9/2026 at 12:00 AM*
+### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
 <details>
 <summary>
-Paris    
+ophthalmologist    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+cardiologist  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+neurologist   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+proctologist  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Lyon  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Geneva   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Vichy  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
