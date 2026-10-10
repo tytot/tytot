@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/9/2026 at 12:00 AM*
-### On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?
+*Updated 10/10/2026 at 12:00 AM*
+### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
 <details>
 <summary>
-ophthalmologist    
+Miss Jackie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-cardiologist  
+Elizabeth Sanford  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-neurologist   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-proctologist  
+Geraldine Jones   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Gladys Knight  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
