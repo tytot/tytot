@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/10/2026 at 12:00 AM*
-### What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?
+*Updated 10/11/2026 at 12:00 AM*
+### Which of these is not a Hindu deity?
 <details>
 <summary>
-Miss Jackie    
+Shiva    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Elizabeth Sanford  
+Vishnu  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Geraldine Jones   
+Sanskrit   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Gladys Knight  
+Brahma  
 </summary>
 
 :x: *Wrong...*
