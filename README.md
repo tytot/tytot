@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/11/2026 at 12:00 AM*
-### Which of these is not a Hindu deity?
+*Updated 10/12/2026 at 12:00 AM*
+### Which company holds an annual self-named 'Bake-Off'?
 <details>
 <summary>
-Shiva    
+Betty Crocker    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Vishnu  
+Duncan Hines  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sanskrit   
+Pillsbury   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Brahma  
+Keebler  
 </summary>
 
 :x: *Wrong...*
