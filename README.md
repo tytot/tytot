@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/12/2026 at 12:00 AM*
-### Which company holds an annual self-named 'Bake-Off'?
+*Updated 10/13/2026 at 12:00 AM*
+### What is the name of Howard Stern's female on-air sidekick?
 <details>
 <summary>
-Betty Crocker    
+Allison Norris    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Duncan Hines  
+Jackie Reeses  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Pillsbury   
+Jackie Martling   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Robin Quivers  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Keebler  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
