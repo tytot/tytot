@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/13/2026 at 12:00 AM*
-### What is the name of Howard Stern's female on-air sidekick?
+*Updated 10/14/2026 at 12:00 AM*
+### What is the name of the fruit that is half tangerine and half grapefruit?
 <details>
 <summary>
-Allison Norris    
+graperine    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Reeses  
+tangefruit  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jackie Martling   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Robin Quivers  
+tangelo   
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+kumquat  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
