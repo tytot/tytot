@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/14/2026 at 12:00 AM*
-### What is the name of the fruit that is half tangerine and half grapefruit?
+*Updated 10/15/2026 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-graperine    
+yahtzee    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tangefruit  
+mulligan  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-tangelo   
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-kumquat  
+ace  
 </summary>
 
 :x: *Wrong...*
