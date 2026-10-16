@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/15/2026 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 10/16/2026 at 12:00 AM*
+### What is an alternate name for the food dish 'Beijing duck'?
 <details>
 <summary>
-yahtzee    
+Shanghai duck    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mulligan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-turkey   
+Peking duck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+Hong Kong duck   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Brooklyn duck  
 </summary>
 
 :x: *Wrong...*
