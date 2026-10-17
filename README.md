@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/16/2026 at 12:00 AM*
-### What is an alternate name for the food dish 'Beijing duck'?
+*Updated 10/17/2026 at 12:00 AM*
+### What does the Latin phrase 'e pluribus unum' mean?
 <details>
 <summary>
-Shanghai duck    
+What a crazy life.    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Peking duck  
+In God we trust.  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+from many, one   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Hong Kong duck   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Brooklyn duck  
+for the greater good  
 </summary>
 
 :x: *Wrong...*
