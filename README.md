@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/17/2026 at 12:00 AM*
-### What does the Latin phrase 'e pluribus unum' mean?
+*Updated 10/18/2026 at 12:00 AM*
+### During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?
 <details>
 <summary>
-What a crazy life.    
+American Revolution    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-In God we trust.  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-from many, one   
+War of 1812  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-for the greater good  
+Civil War   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+World War I  
 </summary>
 
 :x: *Wrong...*
