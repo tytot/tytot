@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/19/2026 at 12:00 AM*
-### What city's residents are known as 'Knickerbockers'?
+*Updated 10/20/2026 at 12:00 AM*
+### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
 <details>
 <summary>
-Boston    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York City   
+a cow    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-London  
+a hat  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a harp   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a goose  
 </summary>
 
 :x: *Wrong...*
