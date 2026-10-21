@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/20/2026 at 12:00 AM*
-### In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?
+*Updated 10/21/2026 at 12:00 AM*
+### What is the largest animal ever to live on Earth?
 <details>
 <summary>
-a cow    
+blue whale    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a hat  
+giant squid  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a harp   
+woolly mammoth   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a goose  
+Tyrannosaurus  
 </summary>
 
 :x: *Wrong...*
