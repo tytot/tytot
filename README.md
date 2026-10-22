@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/21/2026 at 12:00 AM*
-### What is the largest animal ever to live on Earth?
+*Updated 10/22/2026 at 12:00 AM*
+### What popular toy is featured in the film 'The Hudsucker Proxy'?
 <details>
 <summary>
-blue whale    
+Beanie Babies    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Hula Hoop  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-giant squid  
+Lincoln Logs   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-woolly mammoth   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tyrannosaurus  
+Lite Brite  
 </summary>
 
 :x: *Wrong...*
