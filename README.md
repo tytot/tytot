@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/23/2026 at 12:00 AM*
-### Which of these horror films spawned the most sequels?
+*Updated 10/24/2026 at 12:00 AM*
+### In golf, what is one stroke over par called?
 <details>
 <summary>
-'Scream'    
+eagle    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-'Jaws'  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Halloween'   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-'Friday the 13th'  
+bogey  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+dormy   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+birdie  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
