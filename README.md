@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/24/2026 at 12:00 AM*
-### In golf, what is one stroke over par called?
+*Updated 10/25/2026 at 12:00 AM*
+### In the phrase 'Y2K' what does 'K' stand for?
 <details>
 <summary>
-eagle    
+millennium    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bogey  
+computer code  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+catastrophe   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+thousand  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-dormy   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-birdie  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
