@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/25/2026 at 12:00 AM*
-### In the phrase 'Y2K' what does 'K' stand for?
+*Updated 10/26/2026 at 12:00 AM*
+### Excluding wisdom teeth, how many adult teeth do humans have?
 <details>
 <summary>
-millennium    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-computer code  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-catastrophe   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-thousand  
+28    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+32  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+35   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+40  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
