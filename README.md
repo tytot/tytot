@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/26/2026 at 12:00 AM*
-### Excluding wisdom teeth, how many adult teeth do humans have?
+*Updated 10/27/2026 at 12:00 AM*
+### Paper will burn at approximately what temperature, in Fahrenheit?
 <details>
 <summary>
-28    
+98.6 degrees    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+212.5 degrees  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+398.5 degrees   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+451 degrees  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-32  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-35   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-40  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
