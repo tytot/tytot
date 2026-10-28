@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/27/2026 at 12:00 AM*
-### Paper will burn at approximately what temperature, in Fahrenheit?
+*Updated 10/28/2026 at 12:00 AM*
+### How many quarts are there in a gallon?
 <details>
 <summary>
-98.6 degrees    
+one    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-212.5 degrees  
+two  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-398.5 degrees   
+three   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-451 degrees  
+four  
 </summary>
 
 :heavy_check_mark: *Correct!*
