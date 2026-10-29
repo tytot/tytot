@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/28/2026 at 12:00 AM*
-### How many quarts are there in a gallon?
+*Updated 10/29/2026 at 12:00 AM*
+### On what body part should you wear a babushka?
 <details>
 <summary>
-one    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-two  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-three   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-four  
+head    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+hands  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+foot   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+legs  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
