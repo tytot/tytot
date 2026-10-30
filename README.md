@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/29/2026 at 12:00 AM*
-### On what body part should you wear a babushka?
+*Updated 10/30/2026 at 12:00 AM*
+### What city's residents are known as 'Knickerbockers'?
 <details>
 <summary>
-head    
+Boston    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Philadelphia  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+New York City   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-hands  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-foot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-legs  
+London  
 </summary>
 
 :x: *Wrong...*
