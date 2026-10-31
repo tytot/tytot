@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/30/2026 at 12:00 AM*
-### What city's residents are known as 'Knickerbockers'?
+*Updated 10/31/2026 at 12:00 AM*
+### What kind of worker uses a 'paddy wagon'?
 <details>
 <summary>
-Boston    
+limo driver    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Philadelphia  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-New York City   
+police officer  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-London  
+rice farmer   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+paramedic  
 </summary>
 
 :x: *Wrong...*
