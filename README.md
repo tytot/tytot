@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 10/31/2026 at 12:00 AM*
-### What kind of worker uses a 'paddy wagon'?
+*Updated 11/1/2026 at 12:00 AM*
+### Who was the WNBA's Most Valuable Player of 1999?
 <details>
 <summary>
-limo driver    
+Rebecca Lobo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-police officer  
+Sheryl Swoopes  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Lisa Leslie   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Yolanda Griffith  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-rice farmer   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-paramedic  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
