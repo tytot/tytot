@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/1/2026 at 12:00 AM*
-### Who was the WNBA's Most Valuable Player of 1999?
+*Updated 11/2/2026 at 12:00 AM*
+### What's the third letter of the Greek alphabet?
 <details>
 <summary>
-Rebecca Lobo    
+delta    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Sheryl Swoopes  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Lisa Leslie   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Yolanda Griffith  
+gamma  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+phi   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+theta  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
