@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/2/2026 at 12:00 AM*
-### What's the third letter of the Greek alphabet?
+*Updated 11/3/2026 at 12:00 AM*
+### A portrait that comically exaggerates a person's physical traits is called a what?
 <details>
 <summary>
-delta    
+landscape    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gamma  
+caricature  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-phi   
+still life   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-theta  
+Impressionism  
 </summary>
 
 :x: *Wrong...*
