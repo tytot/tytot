@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/3/2026 at 12:00 AM*
-### A portrait that comically exaggerates a person's physical traits is called a what?
+*Updated 11/4/2026 at 12:00 AM*
+### In the movie 'Star Wars' what kind of creature is Chewbacca?
 <details>
 <summary>
-landscape    
+Woolie    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-caricature  
+Boobie  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Wookie   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-still life   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Impressionism  
+Klingon  
 </summary>
 
 :x: *Wrong...*
