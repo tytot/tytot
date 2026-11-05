@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/4/2026 at 12:00 AM*
-### In the movie 'Star Wars' what kind of creature is Chewbacca?
+*Updated 11/5/2026 at 12:00 AM*
+### Backgammon is a how many player game?
 <details>
 <summary>
-Woolie    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Boobie  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Wookie   
+Two    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Klingon  
+Three  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Four   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Six  
 </summary>
 
 :x: *Wrong...*
