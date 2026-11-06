@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/5/2026 at 12:00 AM*
-### Backgammon is a how many player game?
+*Updated 11/6/2026 at 12:00 AM*
+### Which of these animals lays eggs?
 <details>
 <summary>
-Two    
+cow    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+gerbil  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+frog   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Three  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Four   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Six  
+elephant  
 </summary>
 
 :x: *Wrong...*
