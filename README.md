@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/6/2026 at 12:00 AM*
-### Which of these animals lays eggs?
+*Updated 11/7/2026 at 12:00 AM*
+### The film 'Stand By Me' is based on a novel by what author?
 <details>
 <summary>
-cow    
+Anne Proulx    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gerbil  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-frog   
+Stephen King  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-elephant  
+Dean Koontz   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Frank McCourt  
 </summary>
 
 :x: *Wrong...*
