@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/7/2026 at 12:00 AM*
-### The film 'Stand By Me' is based on a novel by what author?
+*Updated 11/8/2026 at 12:00 AM*
+### What children's storybook character believes that the sky is falling?
 <details>
 <summary>
-Anne Proulx    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Stephen King  
+Chicken Little    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Dean Koontz   
+Curious George  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Frank McCourt  
+Jack Sprat   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tom Thumb  
 </summary>
 
 :x: *Wrong...*
