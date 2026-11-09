@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/8/2026 at 12:00 AM*
-### What children's storybook character believes that the sky is falling?
+*Updated 11/9/2026 at 12:00 AM*
+### In the Arthurian legend, who is married to Guinevere?
 <details>
 <summary>
-Chicken Little    
+Merlin    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+King Arthur  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Curious George  
+Lancelot   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Jack Sprat   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Tom Thumb  
+Camelot  
 </summary>
 
 :x: *Wrong...*
