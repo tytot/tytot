@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/9/2026 at 12:00 AM*
-### In the Arthurian legend, who is married to Guinevere?
+*Updated 11/10/2026 at 12:00 AM*
+### Which of these foods is not traditionally considered kosher?
 <details>
 <summary>
-Merlin    
+citrus fruits    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-King Arthur  
+barley  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+chicken   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+shellfish  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Lancelot   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Camelot  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
