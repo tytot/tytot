@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/10/2026 at 12:00 AM*
-### Which of these foods is not traditionally considered kosher?
+*Updated 11/11/2026 at 12:00 AM*
+### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
 <details>
 <summary>
-citrus fruits    
+Pun'kin    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-barley  
+Lamikins  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-chicken   
+Suga'baby   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-shellfish  
+Swee'pea  
 </summary>
 
 :heavy_check_mark: *Correct!*
