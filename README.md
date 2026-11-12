@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/11/2026 at 12:00 AM*
-### What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?
+*Updated 11/12/2026 at 12:00 AM*
+### In soccer, which player is allowed to use his or her hands in the field of play?
 <details>
 <summary>
-Pun'kin    
+midfielder    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Lamikins  
+center  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Suga'baby   
+sweeper   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Swee'pea  
+goalkeeper  
 </summary>
 
 :heavy_check_mark: *Correct!*
