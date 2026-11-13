@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/12/2026 at 12:00 AM*
-### In soccer, which player is allowed to use his or her hands in the field of play?
+*Updated 11/13/2026 at 12:00 AM*
+### In the 1960s 'Batman' TV series, who was not a guest villain?
 <details>
 <summary>
-midfielder    
+The Minstrel    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-center  
+The Archer  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-sweeper   
+The Bookworm   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-goalkeeper  
+The Squeegee Guy  
 </summary>
 
 :heavy_check_mark: *Correct!*
