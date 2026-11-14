@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/13/2026 at 12:00 AM*
-### In the 1960s 'Batman' TV series, who was not a guest villain?
+*Updated 11/14/2026 at 12:00 AM*
+### What children's TV character is known as 'Da Niao' in China?
 <details>
 <summary>
-The Minstrel    
+Barney    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-The Archer  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Bookworm   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-The Squeegee Guy  
+Big Bird  
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+Mickey Mouse   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Tinky Winky  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
