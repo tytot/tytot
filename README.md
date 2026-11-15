@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/14/2026 at 12:00 AM*
-### What children's TV character is known as 'Da Niao' in China?
+*Updated 11/15/2026 at 12:00 AM*
+### What's the third letter of the Greek alphabet?
 <details>
 <summary>
-Barney    
+delta    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Big Bird  
+gamma  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Mickey Mouse   
+phi   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Tinky Winky  
+theta  
 </summary>
 
 :x: *Wrong...*
