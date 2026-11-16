@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/15/2026 at 12:00 AM*
-### What's the third letter of the Greek alphabet?
+*Updated 11/16/2026 at 12:00 AM*
+### What company makes Oreo cookies?
 <details>
 <summary>
-delta    
+General Mills    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-gamma  
+Nabisco  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-phi   
+Keebler   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-theta  
+Kraft  
 </summary>
 
 :x: *Wrong...*
