@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/16/2026 at 12:00 AM*
-### What company makes Oreo cookies?
+*Updated 11/17/2026 at 12:00 AM*
+### Who were the Chicago Seven?
 <details>
 <summary>
-General Mills    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Nabisco  
+war protesters    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Keebler   
+bluegrass musicians  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Kraft  
+bank robbers   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+mobsters  
 </summary>
 
 :x: *Wrong...*
