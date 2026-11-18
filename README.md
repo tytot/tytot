@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/17/2026 at 12:00 AM*
-### Who were the Chicago Seven?
+*Updated 11/18/2026 at 12:00 AM*
+### Which of these magazines does not focus on natural science?
 <details>
 <summary>
-war protesters    
+Tiger Beat    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-bluegrass musicians  
+Outside  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-bank robbers   
+National Geographic   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-mobsters  
+Smithsonian  
 </summary>
 
 :x: *Wrong...*
