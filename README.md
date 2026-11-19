@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/18/2026 at 12:00 AM*
-### Which of these magazines does not focus on natural science?
+*Updated 11/19/2026 at 12:00 AM*
+### In an adult human, how long is the large intestine?
 <details>
 <summary>
-Tiger Beat    
+one foot    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+five feet  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Outside  
+twelve feet   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-National Geographic   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Smithsonian  
+twenty feet  
 </summary>
 
 :x: *Wrong...*
