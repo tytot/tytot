@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/19/2026 at 12:00 AM*
-### In an adult human, how long is the large intestine?
+*Updated 11/20/2026 at 12:00 AM*
+### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
 <details>
 <summary>
-one foot    
+Pueblo    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-five feet  
+Aztec  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inca   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-twelve feet   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-twenty feet  
+Apache  
 </summary>
 
 :x: *Wrong...*
