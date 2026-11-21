@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/20/2026 at 12:00 AM*
-### What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
+*Updated 11/21/2026 at 12:00 AM*
+### According to the Bible, Moses and Aaron had a sister named what?
 <details>
 <summary>
-Pueblo    
+Jochebed    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Aztec  
+Ruth  
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Inca   
+Leah   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Miriam  
 </summary>
 
 :heavy_check_mark: *Correct!*
-</details>
-<details>
-<summary>
-Apache  
-</summary>
-
-:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
