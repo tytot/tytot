@@ -3,35 +3,35 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/21/2026 at 12:00 AM*
-### According to the Bible, Moses and Aaron had a sister named what?
+*Updated 11/22/2026 at 12:00 AM*
+### What is the name of the South African political party that was headed by Nelson Mandela?
 <details>
 <summary>
-Jochebed    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Ruth  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Leah   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Miriam  
+African National Congress    
 </summary>
 
 :heavy_check_mark: *Correct!*
+</details>
+<details>
+<summary>
+South African Democrats  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Inkatha Freedom Party   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Aryan National Assembly  
+</summary>
+
+:x: *Wrong...*
 </details>
 
 <!-- ## :bar_chart: My Stats
