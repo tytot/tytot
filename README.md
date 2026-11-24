@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/22/2026 at 12:00 AM*
-### What is the name of the South African political party that was headed by Nelson Mandela?
+*Updated 11/24/2026 at 12:00 AM*
+### According to the Mother Goose nursery rhyme, which child is full of woe?
 <details>
 <summary>
-African National Congress    
+Monday's child    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+Wednesday's child  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-South African Democrats  
+Thursday's child   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Inkatha Freedom Party   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Aryan National Assembly  
+Saturday's child  
 </summary>
 
 :x: *Wrong...*
