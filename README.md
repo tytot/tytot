@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/24/2026 at 12:00 AM*
-### According to the Mother Goose nursery rhyme, which child is full of woe?
+*Updated 11/25/2026 at 12:00 AM*
+### What do you call three consecutive strikes in bowling?
 <details>
 <summary>
-Monday's child    
+yahtzee    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-Wednesday's child  
+mulligan  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+turkey   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Thursday's child   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-Saturday's child  
+ace  
 </summary>
 
 :x: *Wrong...*
