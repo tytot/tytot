@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/25/2026 at 12:00 AM*
-### What do you call three consecutive strikes in bowling?
+*Updated 11/26/2026 at 12:00 AM*
+### In what war did Joan of Arc fight?
 <details>
 <summary>
-yahtzee    
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-mulligan  
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-turkey   
+Hundred Years' War    
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-ace  
+Franco-Prussian War  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French Revolution   
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+French and Indian War  
 </summary>
 
 :x: *Wrong...*
