@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/26/2026 at 12:00 AM*
-### In what war did Joan of Arc fight?
+*Updated 11/27/2026 at 12:00 AM*
+### What is called a 'lorry' in Britain?
 <details>
 <summary>
-Hundred Years' War    
+a toaster    
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+a truck  
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-Franco-Prussian War  
+a babysitter   
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-French Revolution   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-French and Indian War  
+an elevator  
 </summary>
 
 :x: *Wrong...*
