@@ -3,32 +3,32 @@
 </div>
 
 ## :mortar_board: Daily Trivia!
-*Updated 11/27/2026 at 12:00 AM*
-### What is called a 'lorry' in Britain?
+*Updated 11/28/2026 at 12:00 AM*
+### In the children's game, what color is 'Rover'?
 <details>
 <summary>
-a toaster    
+green    
 </summary>
 
 :x: *Wrong...*
 </details>
 <details>
 <summary>
-a truck  
+black  
+</summary>
+
+:x: *Wrong...*
+</details>
+<details>
+<summary>
+red   
 </summary>
 
 :heavy_check_mark: *Correct!*
 </details>
 <details>
 <summary>
-a babysitter   
-</summary>
-
-:x: *Wrong...*
-</details>
-<details>
-<summary>
-an elevator  
+blue  
 </summary>
 
 :x: *Wrong...*
